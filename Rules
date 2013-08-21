@@ -1,0 +1,60 @@
+#!/usr/bin/env ruby
+
+#compile %r{/_} do
+#  nil
+#end
+
+compile '/styles/*' do
+  if item[:extension]=="scss" && !item.identifier.split("/")[-1].start_with?("_")
+    filter :sass, {
+      :load_paths => ["#{Dir.pwd}/content/styles", "#{Dir.pwd}/bootstrap-sass/vendor/assets/stylesheets", "#{Dir.pwd}/Font-Awesome/scss"],
+      :syntax => :scss,
+      :style => :compact
+      #:style => :compressed
+    }
+  end
+end
+
+compile '*' do
+  item_name = if item.identifier=="/"
+                ""
+              else
+                item.identifier.split("/")[-1]
+              end
+  if item.binary?
+    # don’t filter binary items
+  else
+    case item[:extension]
+    when 'md','markdown' then
+      filter :rdiscount, { :extensions => [ :smart ] }
+    end
+    filter :erb
+    if item_name.start_with?("_")
+      nil
+    else
+      layout 'default'
+    end
+  end
+end
+
+route %r{/_} do
+  nil
+end
+
+route '/static/*' do
+  item.identifier[7..-2]
+end
+
+route '/styles/*' do
+  item.identifier.chop + '.css'
+end
+
+route '*' do
+  if item.binary?
+    item.identifier.chop + '.' + item[:extension]
+  else
+    item.identifier.chop + '/index.html'
+  end
+end
+
+layout '*', :erb
