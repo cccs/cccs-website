@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
 
-#compile %r{/_} do
-#  nil
-#end
+compile %r{/_} do
+  nil
+end
 
 compile '/styles/*' do
   if item[:extension]=="scss" && !item.identifier.split("/")[-1].start_with?("_")

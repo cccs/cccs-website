@@ -1,0 +1,47 @@
+body {
+  background-image: url(/img/bg.png);
+  background-repeat: both;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+}
+
+.container {
+  background-color: $white;
+  @include box-shadow(0 5px 10px rgba(0,0,0,.2));
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar-static-top .navbar-inner {
+  box-shadow: 0 0 0 0;
+  border-width: 0;
+  background-color: transparent;
+  background-image: none;
+  border: 0;
+}
+
+.nav-collapse {
+  margin-top: 65px;
+}
+
+.nav {
+  border-bottom: 3px;
+  border-bottom-color: $grayLighter;
+  border-bottom-style: solid;
+}
+
+.navbar .nav > li > a {
+  padding-bottom: 5px;
+}
+
+.navbar .nav > li > a.active,
+.navbar .nav > li > a:hover,
+.navbar .nav > li > a:focus {
+  border-bottom: 3px;
+  border-bottom-color: $cccsGreen;
+  border-bottom-style: solid;
+  margin-bottom: -3px;
+}
+
