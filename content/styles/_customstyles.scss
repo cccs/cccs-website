@@ -1,3 +1,5 @@
+$mainPadding: 15px;
+
 body {
   background-image: url(/img/bg.png);
   background-repeat: both;
@@ -7,11 +9,30 @@ a:hover, a:focus {
   text-decoration: none;
 }
 
+#footer {
+  #footerimage {
+    text-align: right;
+    border-bottom: 3px;
+    border-bottom-color: $cccsGreen;
+    border-bottom-style: solid;
+  }
+  footer {
+    margin-left: -$mainPadding;
+    margin-right: -$mainPadding;
+    padding-left: $mainPadding;
+    padding-right: $mainPadding;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: $grayLight;
+    background-color: $cccsBlue;
+  }
+}
+
 .container {
   background-color: $white;
   @include box-shadow(0 5px 10px rgba(0,0,0,.2));
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: $mainPadding;
+  padding-right: $mainPadding;
 }
 
 .navbar-static-top .navbar-inner {

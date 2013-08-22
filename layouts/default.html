@@ -51,6 +51,11 @@
     </div>
     <div class="container">
       <% render("#{@item[:kind]}_body") do %><%= yield %><% end %>
+    </div>
+    <div class="container" id="footer">
+      <div id="footerimage">
+        <img src="/img/silhouette.png">
+      </div>
       <footer>
         <a href="#">Impressum</a>
       </footer>
