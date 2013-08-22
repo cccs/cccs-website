@@ -32,12 +32,12 @@ $purple:                #7a43b6 !default;
 // Scaffolding
 // -------------------------
 $bodyBackground:        $white !default;
-$textColor:             $grayDark !default;
+$textColor:             $black !default;
 
 
 // Links
 // -------------------------
-$linkColor:             #08c !default;
+$linkColor:             $cccsGreen !default;
 $linkColorHover:        darken($linkColor, 15%) !default;
 
 
@@ -54,7 +54,7 @@ $altFontFamily:         $serifFontFamily !default;
 
 $headingsFontFamily:    inherit !default; // empty to use BS default, $baseFontFamily
 $headingsFontWeight:    bold !default;    // instead of browser default, bold
-$headingsColor:         inherit !default; // empty to use BS default, $textColor
+$headingsColor:         $cccsBlue !default;
 
 
 // Component sizing
@@ -185,8 +185,8 @@ $navbarBackground:                darken($navbarBackgroundHighlight, 5%) !defaul
 $navbarBorder:                    darken($navbarBackground, 12%) !default;
 
 $navbarText:                      #777 !default;
-$navbarLinkColor:                 #777 !default;
-$navbarLinkColorHover:            $grayDark !default;
+$navbarLinkColor:                 $cccsBlue !default;
+$navbarLinkColorHover:            darken($navbarLinkColor, 15%) !default;
 $navbarLinkColorActive:           $gray !default;
 $navbarLinkBackgroundHover:       transparent !default;
 $navbarLinkBackgroundActive:      darken($navbarBackground, 5%) !default;

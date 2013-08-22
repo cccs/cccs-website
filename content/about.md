@@ -1,11 +1,8 @@
 -----
-title: Titel
+title: Wir über uns
 kind: page
 -----
-# Willkommen!
-
-<i class="icon-flag icon-4x pull-left icon-border"></i> Font Awesome is
-working!
+# Wir über uns
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
 eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
