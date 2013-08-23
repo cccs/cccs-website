@@ -1,5 +1,5 @@
 -----
-title: Titel
+title: CCC Stuttgart - Startseite
 kind: empty
 -----
 <div class="row">
@@ -132,6 +132,10 @@ kind: empty
   </div>
   <div class="span4">
     <h1>Letzte Tweets</h1>
+    <p>
+    <%= render 'twitter_list', :items => twitter_by_date().first(5) %>
+    <p>
+    <a href="/archives/twitter/<%= twitter_grouped_by_month.keys.sort.last %>">Twitter-Archiv</a>
   </div>
 </div>
 

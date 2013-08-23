@@ -1,0 +1,8 @@
+<div class="pager">
+<% if @linkprev %>
+  <a href="<%= @linkprev.link %>" class="pull-left icon-circle-arrow-left">&nbsp;<%= @linkprev.title %></a>
+<% end %>
+<% if @linknext %>
+  <a href="<%= @linknext.link %>" class="pull-right icon-circle-arrow-right">&nbsp;<%= @linknext.title %></a>
+<% end %>
+</div>
