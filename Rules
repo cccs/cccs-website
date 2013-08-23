@@ -32,7 +32,10 @@ compile '*' do
     if item_name.start_with?("_")
       nil
     else
-      layout 'default'
+      if item[:style]!='none'
+        #layout 'default'
+        layout item[:style] || 'default'
+      end
     end
   end
 end
