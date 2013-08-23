@@ -1,0 +1,15 @@
+<article>
+  <header><% if !@h then @h='h1' end %>
+    <<%= @h %>><a href="<%= @article.path() %>"><%= @article[:title]%></a>
+		<% if @article.attributes.has_key?(:subtitle) then %>
+      <br/><small><%= @article[:subtitle] %></small>
+    <% end %></<%= @h %>>
+    <div class="clearfix"></div>
+	</header>
+	<section>
+		<% if @extended then %>
+      <%= article_summary(@article) %>
+		<% end %>
+	</section>
+</article>
+
