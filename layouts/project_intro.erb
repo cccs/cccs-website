@@ -1,0 +1,21 @@
+-----
+filter: erb
+-----
+<%
+  prjname = @project.identifier.split('/')[2]
+%>
+<article id="p_<%= prjname %>">
+	<header>
+		<h1><a href="/projects/<%= prjname %>"><%= @project[:title]%></a></h1>
+		<% if @project.attributes.has_key?(:subtitle) then %>
+    <h2><%= @project[:subtitle] %></h2>
+    <% end %>
+    <div class="clearfix"></div>
+	</header>
+	<section class="<%= @classes %>">
+		<% if @extended then %>
+      <%= article_summary(@project) %>
+		<% end %>
+	</section>
+</article>
+

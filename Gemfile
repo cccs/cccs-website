@@ -8,4 +8,5 @@ gem 'adsf'
 gem 'sass'
 gem 'rdiscount'
 gem 't'
+gem 'nokogiri'
 

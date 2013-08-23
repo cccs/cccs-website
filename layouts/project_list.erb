@@ -1,0 +1,3 @@
+<% @projects.each do |prj| %>
+  <%= render 'project_intro', :project => prj, :classes => "hyphenate", :extended => @extended %>
+<% end %>
