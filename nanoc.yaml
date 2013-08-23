@@ -87,5 +87,5 @@ watcher:
 deploy:
   default:
     kind: rsync
-    dst: "stefanskiste:/var/www/grafikers.ploing.de/htdocs"
-    options: [ '-aP', '--delete-after' ]
+    dst: "wau.cccs.de:/var/www/html"
+    options: [ '-rlP', '--delete-after' ]
