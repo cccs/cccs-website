@@ -21,13 +21,13 @@
           <div class="navbar-inner">
             <div class="nav-collapse collapse">
               <ul class="nav span11">
-                <li><a class="active" href="/about/">Wir über uns</a>
-                <li><a href="#">Veranstaltungen</a>
-                <li><a href="#">Aktivitäten</a>
-                <li><a href="/projects/">Projekte</a>
-                <li><a href="/members/">Members</a>
-                <li><a href="/planet-cccs/">Planet CCCS</a>
-                <li><a href="#">Archiv</a>
+                <li><a<%= menu_active_if("about")%> href="/about/">Wir über uns</a>
+                <li><a<%= menu_active_if("events")%> href="#">Veranstaltungen</a>
+                <li><a<%= menu_active_if("activities")%> href="#">Aktivitäten</a>
+                <li><a<%= menu_active_if("projects")%> href="/projects/">Projekte</a>
+                <li><a<%= menu_active_if("members")%> href="/members/">Members</a>
+                <li><a<%= menu_active_if("planet-cccs")%> href="/planet-cccs/">Planet CCCS</a>
+                <li><a<%= menu_active_if("archive")%> href="#">Archiv</a>
               </ul>
               <ul class="nav span11">
                 <li><a href="#">Aktuell</a>
