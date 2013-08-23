@@ -101,3 +101,16 @@ h4 small { font-size: $baseFontSize; }
   margin-bottom: -3px;
 }
 
+ul.horizontal {
+  color: $cccsGreen;
+  list-style: none outside none;
+  li {
+    padding-right: 2em;
+  }
+  li:before {
+    font-size: 150%;
+    margin-right: 0.3em;
+  }
+}
+
+
