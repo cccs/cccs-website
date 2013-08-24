@@ -1,0 +1,4 @@
+ErrorDocument 404 /404/index.html
+
+Redirect 301 /archives/twitter/ /archives/twitter/<%= twitter_grouped_by_month.keys.sort.last %>/
+
