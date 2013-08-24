@@ -113,11 +113,16 @@ ul.horizontal {
   }
 }
 
-.commaseparated {
+div.commaseparated {
+  clear: both;
+}
+
+ul.commaseparated {
   display: inline;
-  list-style: none;
+  list-style-type: none;
+  margin: 0;
   li {
-    isplay: inline;
+    display: inline;
   }
   li:after {
     content: ", ";

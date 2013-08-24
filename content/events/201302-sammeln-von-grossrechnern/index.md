@@ -7,6 +7,8 @@ speakers:
   -
     name: Wolfgang Stief
     affiliation: GUUG München
+  -
+    name: Hugo Hansel
 location:
   location: bib
   details: Max-Bense-Forum (UG)
