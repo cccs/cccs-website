@@ -4,8 +4,8 @@
 		<% if @article.attributes.has_key?(:subtitle) then %>
       <br/><small><%= @article[:subtitle] %></small>
     <% end %></<%= @h %>>
-    <div class="clearfix"></div>
 	</header>
+  <div class="clearfix"></div>
 	<section>
 		<% if @extended then %>
       <%= article_summary(@article) %>
