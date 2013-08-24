@@ -25,7 +25,7 @@ compile "/htaccess" do
   filter :erb
 end
 
-compile /(rss|atom)/ do
+compile "atom" do
   filter :erb
 end
 
@@ -70,7 +70,7 @@ route "/htaccess" do
   "/.htaccess"
 end
 
-route '/(atom|rss)/' do
+route "/atom" do
   item.identifier.chop + '.xml'
 end
 
