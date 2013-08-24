@@ -113,4 +113,17 @@ ul.horizontal {
   }
 }
 
+.commaseparated {
+  display: inline;
+  list-style: none;
+  li {
+    isplay: inline;
+  }
+  li:after {
+    content: ", ";
+  }
+  li:last-child:after {
+    content: "";
+  }
+}
 

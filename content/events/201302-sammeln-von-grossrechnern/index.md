@@ -1,12 +1,12 @@
 ---
 kind: event
-startdate: 2003-02-14 19:30
+startdate: 2003-02-14T19:30:00
 duration: 2h
 title: "Über die besonderen Anforderungen beim Sammeln von historischen Großrechnern"
 speakers:
   -
     name: Wolfgang Stief
-    affiliaton: GUUG München
+    affiliation: GUUG München
 location:
   location: bib
   details: Max-Bense-Forum (UG)

@@ -5,6 +5,26 @@
               <article itemscope itemtype="http://schema.org/EducationEvent">
                 <header>
                   <h1 itemprop="name"><%= item[:title] %></h1>
+                  <p>
+                    <strong>Termin:</strong>
+                    <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%d") %>T19:30"><%= @item[:startdate].strftime("%d.%m.%Y") %>, 19:30 Uhr</span>
+                  </p>
+                  <p>
+                    <strong>Referent:</strong>
+                    <ul class="commaseparated">
+                      <% @item[:speakers].each do |speaker|  %>
+                      <li itemprop="performer" itemscope itemtype="http://schema.org/Person">
+                        <span itemprop="name"><%= speaker[:name] %></span><% if speaker[:affiliation]%> (<%= speaker[:affiliation] %>)<% end %>
+                      </li>
+                      <% end %>
+                    </ul>
+                  </p>
+                  <p>
+                    <strong>Ort:</strong>
+                    <span itemprop="location" itemscope itemtype="http://schema.org/Location">
+                      <span itemprop="name">Stadtbibliothek am Mailänder Platz</span>, Max-Bense-Forum (UG)
+                    </span>
+                  </p>
                 </header>
                 <section itemprop="description">
                   <%= yield %>
