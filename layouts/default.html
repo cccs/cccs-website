@@ -27,12 +27,15 @@
                 <li><a<%= menu_active_if("projects")%> href="/projects/">Projekte</a>
                 <li><a<%= menu_active_if("members")%> href="/members/">Members</a>
                 <li><a<%= menu_active_if("planet-cccs")%> href="/planet-cccs/">Planet CCCS</a>
-                <li><a<%= menu_active_if("archive")%> href="#">Archiv</a>
+                <li><a<%= menu_active_if("archives")%> href="/archives/articles/">Archiv</a>
               </ul>
+              <% if (path_section(item,1)=="archives") %>
               <ul class="nav span11">
-                <li><a href="#">Aktuell</a>
-                <li><a href="#">Vergangenes</a>
+                <li><a<%= menu_active_if("articles",2)%> href="/archives/articles/">Artikel</a>
+                <li><a<%= menu_active_if("twitter",2)%> href="/archives/twitter/">Twitter</a>
+                <li><a<%= menu_active_if("oldsite",2)%> href="/archives/oldsite/">Alte Webseite</a>
               </ul>
+              <% end %>
             </div>
           </div>
           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
