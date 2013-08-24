@@ -45,6 +45,6 @@ def latest_articles_referred_to(refers_to, max=nil)
     p.attributes[:kind]=='article' && p.attributes[:refers_to] && sanitize_path(p.attributes[:refers_to])==refers_to
   end.sort do |a, b|
     a.attributes[:created_at] <=> b.attributes[:created_at]
-  end.reverse[0..(max ? max-1 : @cache_latest_art.length-1)]
+  end.reverse[0..(max ? max-1 : -1)]
 end
 
