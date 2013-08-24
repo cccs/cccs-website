@@ -93,6 +93,6 @@ twitter_file: content/_data/twitter.csv
 deploy:
   default:
     kind: rsync
-    dst: "wau.cccs.de:/var/www/html"
+    dst: "wau.cccs.de:/var/www/wau.cccs.de/htdocs"
     options: [ '-rlP', '--delete-after' ]
 
