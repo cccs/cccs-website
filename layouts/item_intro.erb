@@ -11,6 +11,7 @@
       <% if @item[:author] %><li><i class="icon-pencil"></i> @item[:author]</li><% end %>
       <% if @item[:refers_to] %><li><i class="icon-cogs"></i> <a href="<%= @items[sanitize_path(@item[:refers_to])].path() %>"><%= @items[sanitize_path(@item[:refers_to])][:title] %></a></li><% end %>
       <li><i class="icon-bookmark"></i> <a itemprop="url" href="<%= item.path() %>">Permalink</a></li>
+    </ul>
     <% end %>
 	</header>
   <div class="clearfix"></div>
