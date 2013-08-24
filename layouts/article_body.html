@@ -1,15 +1,3 @@
-<%
-def sanitize_path(path)
-  result = path
-  if (!path.start_with?('/'))
-    result = '/' + result
-  end
-  if (!path.end_with?('/'))
-    result = result + '/'
-  end
-  result
-end
-%>
       <div class="row">
         <div class="span8">
           <article itemscope itemtype="http://schema.org/BlogPosting">

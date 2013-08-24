@@ -2,15 +2,16 @@
         <div class="span8">
           <div class="row">
             <div class="span8">
-              <h1><%= item[:title] %></h1>
-              <%= yield %>
-            </div>
-            <div class="span8">
-              <h1>Ein Projektartikel</h1>
-            </div>
-            <div class="span8">
-              <h1>Noch ein Projektartikel</h1>
-            </div>
+             <h1><%= item[:title] %></h1>
+             <%= yield %>
+           </div>
+           <% latest_articles_referred_to(item.identifier,5).each do |item| %>
+           <div class="span8">
+           <%= render 'article_intro', :article => item, :extended => true %>
+             <p>
+             <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
+           </div>
+           <% end %>
           </div>
         </div>
         <div class="span4">
