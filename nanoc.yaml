@@ -88,6 +88,10 @@ watcher:
   notify_on_compilation_failure: true
 
 
+base_url: http://www.cccs.de
+author_name: CCCS
+author_email: webmaster@cccs.de
+author_uri: http://www.cccs.de/
 twitter_file: content/_data/twitter.csv
 
 deploy:

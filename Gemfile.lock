@@ -5,6 +5,7 @@ GEM
     addressable (2.3.3)
     adsf (1.0.1)
       rack (>= 1.0.0)
+    builder (3.2.2)
     coderay (1.0.9)
     colored (1.2)
     cookiejar (0.3.0)
@@ -106,6 +107,7 @@ PLATFORMS
 
 DEPENDENCIES
   adsf
+  builder
   guard-nanoc
   nanoc3
   nokogiri

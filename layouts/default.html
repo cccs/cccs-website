@@ -4,6 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><%= @item[:title] %></title>
+		<% if @item[:feed] then
+         item[:feed].each do |f| %>
+		<link rel="alternate" type="application/atom+xml" title="<%= f[:title]%>" href="<%= f[:url]%>" />
+    <%   end
+       end %>
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="stylesheet" href="/styles/main.css" />

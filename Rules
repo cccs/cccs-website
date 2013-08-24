@@ -25,6 +25,10 @@ compile "/htaccess" do
   filter :erb
 end
 
+compile /(rss|atom)/ do
+  filter :erb
+end
+
 compile '*' do
   item_name = if item.identifier=="/"
                 ""
@@ -64,6 +68,10 @@ end
 
 route "/htaccess" do
   "/.htaccess"
+end
+
+route '/(atom|rss)/' do
+  item.identifier.chop + '.xml'
 end
 
 route '/articles/*' do

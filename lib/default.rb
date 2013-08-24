@@ -3,4 +3,5 @@
 
 include Nanoc3::Helpers::Rendering
 include Nanoc::Helpers::HTMLEscape
+include Nanoc3::Helpers::Blogging
 
