@@ -84,7 +84,7 @@ kind: empty
       <% latest_articles(5).each do |item| %>
       <div class="row">
         <div class="span8">
-        <%= render 'article_intro', :article => item, :extended => true %>
+        <%= render 'item_intro', :item => item, :extended => true %>
           <p>
           <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
         </div>
