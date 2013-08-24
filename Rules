@@ -1,8 +1,7 @@
 #!/usr/bin/env ruby
 
 preprocess do
-  #generate_archive_pages
-  #generate_tag_pages
+  generate_archive_pages
   generate_twitter_archive_pages
 end
 

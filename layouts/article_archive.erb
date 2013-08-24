@@ -1,0 +1,11 @@
+<%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
+<div class="row">
+  <% latest_articles.select { |a| a[:created_at].year == @year }.each do |item| %>
+  <div class="span8">
+  <%= render 'article_intro', :article => item, :extended => true %>
+   <p>
+   <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
+  </div>
+  <% end %>
+</div>
+<%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
