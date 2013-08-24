@@ -67,6 +67,24 @@ route "/htaccess" do
   "/.htaccess"
 end
 
+route '/articles/*' do
+  # Find corresponding article (for getting metadata)
+  articleitem = article_base_item(item)
+  if articleitem
+    # Create directory basename
+    url = '/' + pathname_of_article(articleitem)
+    # Main article goes to index.html, don't touch other filenames
+    if item.equal? articleitem then
+      url + '/index.html'
+    else
+      idparts = item.identifier.split('/')
+      url + "/#{idparts.last}.#{item[:extension]}"
+    end
+  else
+    nil
+  end
+end
+
 route '*' do
   if item.binary?
     item.identifier.chop + '.' + item[:extension]
