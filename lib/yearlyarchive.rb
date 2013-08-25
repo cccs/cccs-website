@@ -2,15 +2,16 @@ require 'ostruct'
 
 def generate_yearly_archive(articles, basepath, title, templatename = 'article_archive')
   yearmap = articles.group_by { |item| item[:created_at].year }
-  yearmap.keys.each { |year|
-    # Simplified assumption: At least one blog post each year
-    linkprev = if (year>yearmap.keys.min)
-      ", :linkprev => OpenStruct.new(:title => #{year-1}, :link => '#{basepath}/#{year-1}/')"
+  yearlist = yearmap.keys.sort
+  yearlist.each_index { |i|
+    year = yearlist[i]
+    linkprev = if (i>0)
+      ", :linkprev => OpenStruct.new(:title => '#{yearlist[i-1]}', :link => '#{basepath}/#{yearlist[i-1]}/')"
     else
       ""
     end
-    linknext = if (year<yearmap.keys.max)
-      ", :linknext => OpenStruct.new(:title => #{year+1}, :link => '#{basepath}/#{year+1}/')"
+    linknext = if (i<yearlist.size-1)
+      ", :linknext => OpenStruct.new(:title => '#{yearlist[i+1]}', :link => '#{basepath}/#{yearlist[i+1]}/')"
     else
       ""
     end
