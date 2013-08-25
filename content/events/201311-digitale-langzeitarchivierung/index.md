@@ -8,8 +8,9 @@ speakers:
     name: Heinz Werner Kramski-Grote
 location:
   location: bib
+public: true
 ---
-"Information digitaler Art verdrängt und ersetzt bekanntlich zunehmend
+Information digitaler Art verdrängt und ersetzt bekanntlich zunehmend
 traditionelle analoge Medien. Mit einer gewissen Verzögerung erreicht dieser
 Trend auch Gedächtnisorganisationen wie das Deutsche Literaturarchiv
 Marbach, die ihre traditionellen Aufgaben der Bewahrung, Erschließung
@@ -25,10 +26,10 @@ Der Vortrag gibt einen kleinen Einblick in die Arbeit des DLA und versucht
 dann, digitale Archivobjekte zu klassifizieren und abzugrenzen: Unikal,
 privat vs. mehrfach vorhanden, publiziert analog, digitalisierbar
 vs.  genuin digital (born digital) trägergebunden, on-site,
-abgeschlossen vs.  trägerlos, online, verzweigt  statisch vs. interaktiv. 
-Daraus werden typische Gefährdungen und Risikofaktoren abgeleitet und 
-insbesondere für trägergebundene Objekte dargestellt: Die Degradation und 
-Obsoleszenz der Datenträger, die Obsoleszenz von Lesegeräten und insbesondere 
+abgeschlossen vs.  trägerlos, online, verzweigt  statisch vs. interaktiv.
+Daraus werden typische Gefährdungen und Risikofaktoren abgeleitet und
+insbesondere für trägergebundene Objekte dargestellt: Die Degradation und
+Obsoleszenz der Datenträger, die Obsoleszenz von Lesegeräten und insbesondere
 die Obsoleszenz von Dateiformaten.
 
 Es werden abschließend Erhaltungsstrategien dargestellt und verglichen, die
@@ -39,10 +40,10 @@ Archivobjekte verändert werden müssen, wenn man sie dauerhaft erhalten will.
 Da es keinen prinzipiellen Unterschied macht, ob es sich um den digitalen
 Nachlass einer berühmten Schriftstellerin handelt, oder einfach um den
 eigenen digitalen "Kram", der für Kinder und Enkel interessant sein könnte,
-fallen vielleicht auch praktische Tipps für die Zuhörer ab."
+fallen vielleicht auch praktische Tipps für die Zuhörer ab.
 
 
-Zur Person:
+# Zur Person
 
 Heinz Werner Kramski hat 1990 ein Lehramtsstudium (Geschichte und
 Germanistik) an der Westfälischen Wilhelmsuniversität Münster abgeschlossen

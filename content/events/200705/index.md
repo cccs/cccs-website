@@ -8,8 +8,9 @@ speakers:
     name: Nicholas Stallard
 location:
   location: wand5
+public: true
 ---
-"Einführung in das Domain Name System,
+Einführung in das Domain Name System,
 einer der grundlegensten Technologien im Internet, sowie
 Einführung in die (Wunder-)Welt der Domains, was ist eine Domain,
-wofür kann man eine Domain benutzen und welche gibt es überhaupt?"
+wofür kann man eine Domain benutzen und welche gibt es überhaupt?

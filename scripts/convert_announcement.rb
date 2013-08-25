@@ -95,6 +95,7 @@ elsif (header['ort'].downcase.start_with?('filmhaus'))
   puts "location:"
   puts "  location: wand5"
 end
+puts "public: true"
 puts "---"
 puts body
 

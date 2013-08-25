@@ -8,14 +8,15 @@ speakers:
     name: Framstag
 location:
   location: bib
+public: true
 ---
-"Seit einigen Jahren ist LED-Fahrradbeleuchtung auf dem Markt, die deutlich 
-heller und langlebiger ist, als die traditionelle Gluehlampentechnik.           
-Allerdings schraenkt die deutsche Strassenverkehrszulassungsordnung die         
-Fahrradbeleuchtung stark ein. In diesem Vortrag wird gezeigt, was mit relativ   
-einfachen Mitteln haeckermaessig an GUTEM Fahrradlicht machbar ist - wenn       
-man den Gueltigkeitsbereich der StVZO verlaesst :-)" 
-                                                                                
+Seit einigen Jahren ist LED-Fahrradbeleuchtung auf dem Markt, die deutlich
+heller und langlebiger ist, als die traditionelle Gluehlampentechnik.
+Allerdings schraenkt die deutsche Strassenverkehrszulassungsordnung die
+Fahrradbeleuchtung stark ein. In diesem Vortrag wird gezeigt, was mit relativ
+einfachen Mitteln haeckermaessig an GUTEM Fahrradlicht machbar ist - wenn
+man den Gueltigkeitsbereich der StVZO verlaesst :-)
+
 Stichworte:
-Fernlicht, Lichthupe, Blinker, Standlicht, Unterbodenlicht, LED, Elektrolumineszenz, 
-Dynamo+Akku    
+Fernlicht, Lichthupe, Blinker, Standlicht, Unterbodenlicht, LED, Elektrolumineszenz,
+Dynamo+Akku

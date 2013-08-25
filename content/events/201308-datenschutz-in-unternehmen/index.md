@@ -8,16 +8,17 @@ speakers:
     name: Claus Schönleber
 location:
   location: bib
+public: true
 ---
-"Obwohl Datenschutz durchaus umfaenglich gesetzlich ist, bestehen in
-Unternehmen und Organiastionen unterschiedliche Auffassungen ueber die 
-Signifikanz  des Themas.                                                                     
-Darueberhinaus ist es den Beteiligten oftmals gar nicht bewusst, dass
-Datenschutzaspekte im Kontext von Abhaengikeitsverhaeltnissen
-voellig anders zu interpretieren sind als im privaten Umfeld.
-Was im privaten Umfeld erwuenscht ist, kann im organisationellen Umfeld
-ploetzlich zum Ueberwachungswerkzeug werden.
+Obwohl Datenschutz durchaus umfänglich gesetzlich ist, bestehen in
+Unternehmen und Organisationen unterschiedliche Auffassungen über die
+Signifikanz des Themas.
+Darüberhinaus ist es den Beteiligten oftmals gar nicht bewusst, dass
+Datenschutzaspekte im Kontext von Abhängikeitsverhältnissen
+völlig anders zu interpretieren sind als im privaten Umfeld.
+Was im privaten Umfeld erwünscht ist, kann im organisationellen Umfeld
+plötzlich zum Überwachungswerkzeug werden.
 
 Der Vortrag betrachtet datenschuetzerische Aspekte in Unternehmen,
-kirchlichen Organisationen und Vereinen."
+kirchlichen Organisationen und Vereinen.
 

@@ -12,6 +12,7 @@ speakers:
 location:
   location: bib
   details: Max-Bense-Forum (UG)
+public: true
 ---
 An zahlreichen Beispielen des Projekts [Cray-Cyber.org](http://cray-cyber.org) und der
 datArena zeige ich die besonderen Herausforderungen beim Sammeln von
