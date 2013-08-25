@@ -17,7 +17,7 @@ def generate_yearly_archive(articles, date_attribute, basepath, title, templaten
     end
     @items << Nanoc::Item.new(
       "<%= render '#{templatename}' #{linkprev} #{linknext} %>",
-      { :title => "#{title} #{year}", :kind => "fullpage", :archiveitems => yearmap[year] },
+      { :title => "#{title} #{year}", :kind => "page", :archiveitems => yearmap[year] },
       "#{basepath}/#{year}/")
   }
 end
