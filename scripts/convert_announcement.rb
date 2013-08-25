@@ -89,9 +89,11 @@ puts "speakers:"
 puts "  -"
 puts "    name: #{header['referent']}"
 if (header['ort'].downcase.start_with?('stadtbibliothek'))
-  puts "location: bib"
+  puts "location:"
+  puts "  location: bib"
 elsif (header['ort'].downcase.start_with?('filmhaus'))
-  puts "location: wand5"
+  puts "location:"
+  puts "  location: wand5"
 end
 puts "---"
 puts body
