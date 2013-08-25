@@ -22,3 +22,10 @@ shack:
   ort: Stuttgart
   lat: 48.777219
   lon: 9.235507
+wand5:
+  name: Filmhaus
+  strasse: Friedrichstr. 23a
+  plz: 70174
+  ort: Stuttgart
+  lat: 48.781349
+  lon: 9.177422
