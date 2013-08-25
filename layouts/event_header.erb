@@ -1,5 +1,11 @@
                 <header>
-                  <% if heading %><h1 itemprop="name"><%= item[:title] %></h1><% end %>
+                  <% if heading %>
+                  <% if link %>
+                  <h1 itemprop="name"><a itemProp="url" href="<%= item.path() %>"><%= item[:title] %></a></h1>
+                  <% else %>
+                  <h1 itemprop="name"><%= item[:title] %></h1>
+                  <% end %>
+                  <% end %>
                   <strong>Termin:</strong>
                   <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%d") %>T19:30"><%= @item[:startdate].strftime("%d.%m.%Y") %>, 19:30 Uhr</span>
                   <br />

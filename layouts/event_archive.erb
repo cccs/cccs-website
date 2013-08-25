@@ -2,7 +2,9 @@
 <div class="row">
   <% @item[:archiveitems].each do |item| %>
   <div class="span8">
-    <%= render 'item_intro', :item => item, :extended => true %>
+    <article itemscope itemtype="http://schema.org/EducationEvent">
+      <%= render 'event_header', :item => item, :heading => true, :link => true %>
+    </article>
     <p>
     <a href="<%= item.path() %>">Zum Artikel</a>
   </div>
