@@ -1,5 +1,6 @@
 ErrorDocument 404 /404/index.html
 
+RedirectMatch 301 ^/events/$ /events/<%= Time.now.year %>/
 RedirectMatch 301 ^/archives/articles/$ /archives/articles/<%= latest_articles(1)[0][:created_at].year %>/
 RedirectMatch 301 ^/archives/twitter/$ /archives/twitter/<%= twitter_grouped_by_month.keys.sort.last %>/
 
