@@ -3,41 +3,7 @@
           <div class="row">
             <div class="span8">
               <article itemscope itemtype="http://schema.org/EducationEvent">
-                <header>
-                  <h1 itemprop="name"><%= item[:title] %></h1>
-                  <strong>Termin:</strong>
-                  <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%d") %>T19:30"><%= @item[:startdate].strftime("%d.%m.%Y") %>, 19:30 Uhr</span>
-                  <br />
-                  <div class="commaseparated">
-                    <strong>Referent:</strong>
-                    <ul>
-                      <% @item[:speakers].each do |speaker|  %>
-                      <li itemprop="performer" itemscope itemtype="http://schema.org/Person">
-                        <span itemprop="name"><%= speaker[:name] %></span><% if speaker[:affiliation]%> (<%= speaker[:affiliation] %>)<% end %>
-                      </li>
-                      <% end %>
-                    </ul>
-                  </div>
-                  <div class="commaseparated">
-                    <strong>Ort:</strong>
-                    <ul itemprop="location" itemscope itemtype="http://schema.org/Location">
-                      <li itemprop="name"><% if item[:location][:url] %><a itemprop="url" href="<%= item[:location][:url] %>"><%= item[:location][:name] %></a><% else %><%= item[:location][:name] %><% end %>
-                      <% if item[:location][:details] %><li><%= item[:location][:details] %><% end %>
-                      <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                        <% if item[:location][:strasse] %><li itemprop="streetAddress"><%= item[:location][:strasse] %><% end %>
-                        <% if item[:location][:ort] %><li><span itemprop="postalCode"><%= item[:location][:plz] %></span> <span itemProp="addressLocality"><%= item[:location][:ort] %></span><% end %>
-                      </span>
-                      <% if item[:location][:lon] %>
-                      <li>
-                        <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
-                          N<span itemprop="latitude"><%= item[:location][:lat] %></span>
-                          E<span itemprop="longitude"><%= item[:location][:lon] %></span>
-                        </span>
-                        (<a itemprop="map" href="http://www.openstreetmap.org/?mlat=<%= item[:location][:lat] %>&mlon=<%= item[:location][:lon] %>&zoom=18#map=16/<%= item[:location][:lat] %>/<%= item[:location][:lon] %>">Karte</a>)
-                      <% end %>
-                    </ul>
-                  </div>
-                </header>
+                <%= render 'event_header', :item => item %>
                 <hr>
                 <section itemprop="description">
                   <%= yield %>
