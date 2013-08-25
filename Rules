@@ -3,6 +3,7 @@
 preprocess do
   generate_archive_pages
   generate_twitter_archive_pages
+  merge_location_data()
 end
 
 
