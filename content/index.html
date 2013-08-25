@@ -29,38 +29,24 @@ feed:
   </div>
 </div>
 <div class="row">
+  <% upcomingEvents = get_events().select { |e| e[:startdate] > Time.now }
+  if (upcomingEvents.size>0)
+    upcomingEvents.sort! { |a,b| a[:startdate] <=> b[:startdate] }
+  %>
   <div class="span6">
     <div class="well well-large">
       <article itemscope itemtype="http://schema.org/EducationEvent">
         <h1><a href="#">Nächster Vortrag</a></h1>
+        <%= render 'event_header', :item => upcomingEvents[0], :heading => false %>
         <p>
-          <strong>Termin:</strong>
-          <span itemprop="startDate" content="2013-02-14T19:30">Donnerstag, 14. Februar 2013, 19:30 Uhr</span>
-        </p>
-        <p>
-          <strong>Thema:</strong>
-          <span itemprop="name">Über die besonderen Anforderungen beim Sammeln von historischen Großrechnern</span>
-        </p>
-        <p>
-          <strong>Referent:</strong>
-          <span itemprop="performer" itemscope itemtype="http://schema.org/Person">
-            <span itemprop="name">Wolfgang Stief</span>, GUUG München
-          </span>
-        </p>
-        <p>
-          <strong>Ort:</strong>
-          <span itemprop="location" itemscope itemtype="http://schema.org/Location">
-            <span itemprop="name">Stadtbibliothek am Mailänder Platz</span>, Max-Bense-Forum (UG)
-          </span>
-        </p>
-        <p>
-          <a itemprop="url" href="#">Weitere Informationen</a> -
+        <a itemprop="url" href="<%= upcomingEvents[0].path() %>">Weitere Informationen</a> -
           <a href="#">Flyer (PDF)</a> -
           <a href="#">Aushang (PDF)</a>
         </p>
       </article>
     </div>
   </div>
+  <% end %>
   <div class="span6">
     <div class="well well-large">
       <article itemscope itemtype="http://schema.org/SocialEvent">
