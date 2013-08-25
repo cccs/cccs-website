@@ -1,0 +1,11 @@
+<%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
+<div class="row">
+  <% @item[:archiveitems].each do |item| %>
+  <div class="span8">
+    <%= render 'item_intro', :item => item, :extended => true %>
+    <p>
+    <a href="<%= item.path() %>">Zum Artikel</a>
+  </div>
+  <% end %>
+</div>
+<%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>

@@ -1,9 +1,10 @@
 #!/usr/bin/env ruby
 
 preprocess do
+  merge_location_data
+  generate_event_pages
   generate_archive_pages
   generate_twitter_archive_pages
-  merge_location_data()
 end
 
 
