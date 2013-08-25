@@ -1,6 +1,6 @@
 <%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
 <div class="row">
-  <% latest_articles.select { |a| a[:created_at].year == @year }.each do |item| %>
+  <% @item[:archiveitems].each do |item| %>
   <div class="span8">
   <%= render 'item_intro', :item => item, :extended => true %>
    <p>

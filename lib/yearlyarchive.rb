@@ -1,7 +1,7 @@
 require 'ostruct'
 
-def generate_yearly_archive(articles, basepath, title, templatename = 'article_archive')
-  yearmap = articles.group_by { |item| item[:created_at].year }
+def generate_yearly_archive(articles, date_attribute, basepath, title, templatename = 'article_archive')
+  yearmap = articles.group_by { |item| item[date_attribute].year }
   yearlist = yearmap.keys.sort
   yearlist.each_index { |i|
     year = yearlist[i]
@@ -16,8 +16,8 @@ def generate_yearly_archive(articles, basepath, title, templatename = 'article_a
       ""
     end
     @items << Nanoc::Item.new(
-      "<%= render '#{templatename}', :year => #{year} #{linkprev} #{linknext} %>",
-      { :title => "#{title} #{year}", :kind => "fullpage" },
+      "<%= render '#{templatename}' #{linkprev} #{linknext} %>",
+      { :title => "#{title} #{year}", :kind => "fullpage", :archiveitems => yearmap[year] },
       "#{basepath}/#{year}/")
   }
 end
