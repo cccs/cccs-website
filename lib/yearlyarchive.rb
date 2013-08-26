@@ -1,7 +1,11 @@
 require 'ostruct'
 
 def generate_yearly_archive(articles, date_attribute, basepath, title, templatename = 'article_archive')
+  currentyear = Time.now.year
   yearmap = articles.group_by { |item| item[date_attribute].year }
+  if !yearmap.has_key?(currentyear)
+    yearmap[currentyear] = []
+  end
   yearlist = yearmap.keys.sort
   yearlist.each_index { |i|
     year = yearlist[i]

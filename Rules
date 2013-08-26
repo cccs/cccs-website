@@ -3,6 +3,7 @@
 preprocess do
   merge_location_data
   generate_event_pages
+  generate_activity_pages
   generate_archive_pages
   generate_twitter_archive_pages
 end
