@@ -8,8 +8,10 @@
                   <% end %>
                   <strong>Termin:</strong>
                   <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%d") %>T19:30"><%= @item[:startdate].strftime("%d.%m.%Y") %>, 19:30 Uhr</span>
+                  <% if !@item[:public] %>(nicht öffentlich)<% end %>
                   <br />
                   <% if !heading %><strong>Thema:</strong> <span itemprop="name"><%= item[:title] %></span><br /><% end %>
+                  <% if @item[:speakers] %>
                   <div class="commaseparated">
                     <strong>Referent:</strong>
                     <ul>
@@ -20,6 +22,17 @@
                       <% end %>
                     </ul>
                   </div>
+                  <% end %>
+                  <% if @item[:superevent] %>
+                  <div itemprop="superEvent" itemscope itemtype="http://schema.org/Event">
+                  <strong>Veranstaltung:</strong>
+                  <% if @item[:superevent][:url] %>
+                  <a itemprop="url" href="<%= @item[:superevent][:url] %>"><span itemprop="name"><%= @item[:superevent][:title] %></span></a>
+                  <% else %>
+                  <span itemprop="name"><%= @item[:superevent][:title] %></span>
+                  <% end %>
+                  <% end %>
+                  <% if @item[:location] %>
                   <div class="commaseparated">
                     <strong>Ort:</strong>
                     <ul itemprop="location" itemscope itemtype="http://schema.org/Location">
@@ -39,5 +52,6 @@
                       <% end %>
                     </ul>
                   </div>
+                  <% end %>
                 </header>
 
