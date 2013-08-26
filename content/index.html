@@ -36,7 +36,7 @@ feed:
   <div class="span6">
     <div class="well well-large">
       <article itemscope itemtype="http://schema.org/EducationEvent">
-        <h1><a href="#">Nächster Vortrag</a></h1>
+        <h1><a href="<%= upcomingEvents[0].path() %>">Nächster Vortrag</a></h1>
         <%= render 'event_header', :item => upcomingEvents[0], :heading => false, :link => false %>
         <p>
         <a itemprop="url" href="<%= upcomingEvents[0].path() %>">Weitere Informationen</a> -
