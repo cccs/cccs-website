@@ -9,7 +9,7 @@
                   <strong>Termin:</strong>
                   <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%d") %>T19:30"><%= @item[:startdate].strftime("%d.%m.%Y") %>, 19:30 Uhr</span>
                   <br />
-                  <% if !heading %><strong>Thema:</strong><span itemprop="name"><%= item[:title] %></span><br /><% end %>
+                  <% if !heading %><strong>Thema:</strong> <span itemprop="name"><%= item[:title] %></span><br /><% end %>
                   <div class="commaseparated">
                     <strong>Referent:</strong>
                     <ul>
