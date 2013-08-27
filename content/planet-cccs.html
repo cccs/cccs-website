@@ -1,9 +1,15 @@
-<% @item[:blogposts].each do |post| %>
-<h2><a href="<%= post[:url] %>"><%= post[:title] %></a></h2>
-<ul class="unstyled inline">
-  <li><i class="icon-calendar"></i> <time itemprop="dateCreated" datetime="<%= post[:date].strftime("%Y-%m-%d") %>"><%= post[:date].strftime("%d.%m.%Y") %></time></li>
-  <li><i class="icon-pencil"></i> <%= post[:user] %></li>
-</ul>
 <p>
+Unsere Mitglieder bloggen! Einiges davon sind „chaosrelevante“ Inhalte, ein
+Blick auf die einzelnen Seiten lohnt sicher. Hier die letzten Postings, die
+verfaßt wurden (die Links führen direkt auf die jeweiligen Seiten):
+<p>
+<% @item[:blogposts].each do |post| %>
+<div class="planetpost" itemscope itemtype="http://schema.org/BlogPosting">
+  <h2 itemprop="name"><a itemprop="url" href="<%= post[:url] %>"><%= post[:title] %></a></h2>
+  <ul class="unstyled inline">
+    <li><i class="icon-calendar"></i> <time itemprop="dateCreated" datetime="<%= post[:date].strftime("%Y-%m-%d") %>"><%= post[:date].strftime("%d.%m.%Y") %></time></li>
+    <li><i class="icon-pencil"></i> <%= post[:user] %></li>
+  </ul>
+</div>
 <% end %>
 

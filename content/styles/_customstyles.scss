@@ -131,3 +131,11 @@ div.commaseparated {
   }
 }
 
+div.planetpost {
+  h2 {
+    font-size: $baseFontSize * 1.25;
+    line-height: $baseLineHeight;
+    margin-bottom: 5px;
+  }
+}
+
