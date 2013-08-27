@@ -113,7 +113,7 @@ ul.horizontal {
   }
 }
 
-div.commaseparated {
+div.commaseparated, li.commaseparated {
   clear: both;
   ul {
     display: inline;
@@ -128,6 +128,21 @@ div.commaseparated {
     li:last-child:after {
       content: "";
     }
+  }
+}
+
+ul.iconlist {
+  margin: 0;
+  > li {
+    display: block;
+    padding-left: 20px;
+    font-family: $baseFontFamily;
+  }
+  > li:before {
+    width: 17px;
+    display: inline-block;
+    margin-left: -20px;
+    font-family: FontAwesome;
   }
 }
 
