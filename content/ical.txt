@@ -20,7 +20,7 @@ cal = RiCal.Calendar do |cal|
       if e[:url]
         event.url = e[:url]
       elsif e.identifier.start_with?('/events')
-        event.url = e.path
+        event.url = "#{@config[:base_url]}#{e.path}"
       end
     end
   end
