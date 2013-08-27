@@ -18,7 +18,13 @@ if (upcomingEvents.size>0)
     <% else %>
     <%= e[:startdate].strftime("%d.%m., %H:%M") %>:
     <% end %>
-    <% if e[:url] %><a href="<%= e[:url] %>"><%= e[:title] %></a><% else %><%= e[:title] %><% end %>
+    <% if e[:url] %>
+    <a href="<%= e[:url] %>"><%= e[:title] %></a>
+    <% elsif e.identifier.start_with?("/events") %>
+    <a href="<%= e.path %>"><%= e[:title] %></a>
+    <% else %>
+    <%= e[:title] %>
+    <% end %>
     </li>
   <% end %>
 </ul>
