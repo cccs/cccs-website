@@ -20,4 +20,7 @@ def get_regulars_tables()
   items.select { |i| (i[:kind]=='event') && i.identifier.start_with?('/_data/stammtisch/') }
 end
 
+def get_public_events()
+  items.select { |i| (i[:kind]=='event') && i[:public] }
+end
 

@@ -1,8 +1,20 @@
 -----
 style: none
 -----
+<% upcomingEvents = get_public_events().select { |e| e[:startdate].to_datetime > DateTime.now }
+if (upcomingEvents.size>0)
+  upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+%>
 <h1>Kalender</h1>
-
+<ul>
+  <% upcomingEvents[0..9].each do |e| %>
+  <li>
+    <%= e[:startdate].strftime("%d.%m.") %>
+    <% if e[:url] %><a href="<%= e[:url] %>"><%= e[:title] %></a><% else %><%= e[:title] %><% end %>
+    </li>
+  <% end %>
+</ul>
+<% end %>
 <h1>Letzte Tweets</h1>
 <p>
 <%= render 'twitter_list', :items => twitter_by_date().first(5) %>
