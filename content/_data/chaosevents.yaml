@@ -3,7 +3,7 @@ events:
   -
     #kind: event
     startdate: 2013-09-06
-    duration: 2d
+    duration: 3d
     title: "MRMCD2013 - Security Advice"
     url: http://mrmcd.net/
     location:
@@ -15,7 +15,7 @@ events:
     #public: true
   -
     startdate: 2013-12-27
-    duration: 3d
+    duration: 4d
     title: "30C3"
     url: https://events.ccc.de/
     location:

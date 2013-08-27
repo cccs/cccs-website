@@ -24,3 +24,20 @@ def get_public_events()
   items.select { |i| (i[:kind]=='event') && i[:public] }
 end
 
+def calculate_to_dates()
+  items.select { |i| (i[:kind]=='event') && i[:duration] }.each do |e|
+    if e[:startdate].instance_of?(Date)
+      if e[:duration] =~ /(\d+)d/
+        e[:enddate] = e[:startdate] + ($1.to_i - 1)
+      end
+    else
+      if e[:duration] =~ /(\d+)h/
+        e[:enddate] = e[:startdate] + 60*60*$1.to_i
+      end
+      if e[:duration] =~ /(\d+)m/
+        e[:enddate] = e[:startdate] + 60*$1.to_i
+      end
+    end
+  end
+end
+
