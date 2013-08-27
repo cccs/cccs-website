@@ -41,3 +41,16 @@ def calculate_to_dates()
   end
 end
 
+def fix_timezones()
+  items.each do |e|
+    if e[:created_at] && e[:created_at].instance_of?(Time)
+      e[:created_at] = e[:created_at].utc
+    end
+    if e[:startdate] && e[:startdate].instance_of?(Time)
+      e[:startdate] = e[:startdate].utc
+    end
+    if e[:enddate] && e[:enddate].instance_of?(Time)
+      e[:enddate] = e[:enddate].utc
+    end
+  end
+end

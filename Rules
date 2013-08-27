@@ -4,6 +4,7 @@ preprocess do
   expand_event_list("/_data/chaosevents/")
   expand_event_list("/_data/stammtisch/", "CCCS Stammtisch")
   calculate_to_dates
+  fix_timezones
   merge_location_data
   generate_event_pages
   generate_activity_pages
