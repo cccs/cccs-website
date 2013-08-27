@@ -10,4 +10,5 @@ gem 'sass'
 gem 'rdiscount'
 gem 't'
 gem 'nokogiri'
+gem 'feedzirra'
 

@@ -1,11 +1,11 @@
 blogroll:
   -
-    user: skyr
-    atomfeed: https://stefan.ploing.de/atom.xml
+    user: Skyr
+    feed: https://stefan.ploing.de/atom.xml
   -
     user: princess
-    atomfeed: http://blog.querulantin.de/serendipity/index.php?/feeds/index.atom
+    feed: http://blog.querulantin.de/serendipity/index.php?/feeds/index.atom
   -
     user: Rince
-    atomfeed: http://blog.rince.de/feeds/index.atom
+    feed: http://blog.rince.de/feeds/index.rss2
 
