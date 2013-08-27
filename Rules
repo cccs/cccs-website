@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 
 preprocess do
+  expand_event_list("/_data/chaosevents/")
+  expand_event_list("/_data/stammtisch/", "CCCS Stammtisch")
   merge_location_data
   generate_event_pages
   generate_activity_pages

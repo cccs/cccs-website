@@ -1,0 +1,56 @@
+---
+events:
+  -
+    #kind: event
+    startdate: 2013-08-06T18:00:00
+    duration: 4h
+    #title:
+    location:
+      location: zadu
+    #public: true
+  -
+    startdate: 2013-08-21T18:00:00
+    duration: 4h
+    location:
+      location: shack
+  -
+    startdate: 2013-09-03T18:00:00
+    duration: 4h
+    location:
+      location: zadu
+  -
+    startdate: 2013-09-18T18:00:00
+    duration: 4h
+    location:
+      location: shack
+  -
+    startdate: 2013-10-01T18:00:00
+    duration: 4h
+    location:
+      location: zadu
+  -
+    startdate: 2013-10-16T18:00:00
+    duration: 4h
+    location:
+      location: shack
+  -
+    startdate: 2013-11-05T18:00:00
+    duration: 4h
+    location:
+      location: zadu
+  -
+    startdate: 2013-11-20T18:00:00
+    duration: 4h
+    location:
+      location: shack
+  -
+    startdate: 2013-12-03T18:00:00
+    duration: 4h
+    location:
+      location: zadu
+  -
+    startdate: 2013-12-18T18:00:00
+    duration: 4h
+    location:
+      location: shack
+

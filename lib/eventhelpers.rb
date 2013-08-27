@@ -16,3 +16,8 @@ def generate_activity_pages()
   generate_yearly_archive(articles, :startdate, '/activities', 'Aktionen und Aktivitäten', 'event_archive')
 end
 
+def get_regulars_tables()
+  items.select { |i| (i[:kind]=='event') && i.identifier.start_with?('/_data/stammtisch/') }
+end
+
+

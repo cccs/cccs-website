@@ -1,0 +1,34 @@
+---
+events:
+  -
+    #kind: event
+    startdate: 2013-09-06
+    duration: 2d
+    title: "MRMCD2013 - Security Advice"
+    url: http://mrmcd.net/
+    location:
+      name: Hochschule Darmstadt
+      url: https://www.fbi.h-da.de/fbi.html
+      strasse: Schöfferstr. 8b
+      plz: 64295
+      ort: Darmstadt
+    #public: true
+  -
+    startdate: 2013-12-27
+    duration: 3d
+    title: "30C3"
+    url: https://events.ccc.de/
+    location:
+      name: CCH
+      ort: Hamburg
+  -
+    startdate: 2014-04-17
+    duration: 4d
+    title: "Easterhegg 14 - Codename kEHrwoche"
+    url: https://eh14.easterhegg.eu/
+    location:
+      name: Kulturhaus-Arena Wangen
+      ort: Stuttgart
+      lon: 48.777764
+      lat: 9.235627
+

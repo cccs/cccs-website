@@ -47,26 +47,22 @@ feed:
     </div>
   </div>
   <% end %>
+  <% upcomingRegularsTable = get_regulars_tables().select { |e| e[:startdate] > Time.now }
+  if (upcomingRegularsTable.size>0)
+    upcomingRegularsTable.sort! { |a,b| a[:startdate] <=> b[:startdate] }
+  %>
   <div class="span6">
     <div class="well well-large">
       <article itemscope itemtype="http://schema.org/SocialEvent">
         <h1><a href="#">Nächster <span itemprop="name">CCCS Stammtisch</span></a></h1>
-        <p>
-          <strong>Termin:</strong>
-          <span itemprop="startDate" content="2013-02-05T18:00">Dienstag, 5. Februar 2013, ab 18:00 Uhr</span>
-        </p>
-        <p>
-          <strong>Ort:</strong>
-          <span itemprop="location" itemscope itemtype="http://schema.org/Location">
-            <span itemprop="name">Zadu-Bar</span>
-          </span>
-        </p>
+        <%= render 'event_header', :item => upcomingRegularsTable[0], :heading => false, :link => false %>
         <p>
           <a itemprop="url" href="#">Unsere Stammtische</a>
         </p>
       </article>
     </div>
   </div>
+  <% end %>
 </div>
 <div class="row">
   <div class="span8">
