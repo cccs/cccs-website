@@ -1,0 +1,28 @@
+<% require 'ri_cal'
+
+upcomingEvents = get_public_events().select { |e| e[:startdate].to_datetime > DateTime.now }
+upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+
+cal = RiCal.Calendar do |cal|
+  upcomingEvents.each do |e|
+    cal.event do |event|
+      event.summary = e[:title]
+      event.description = ""
+      event.dtstart = e[:startdate]
+      event.dtend = e[:enddate]
+      if e[:location]
+        if e[:location][:details]
+          event.location = "#{e[:location][:name]}, #{e[:location][:details]}"
+        else
+          event.location = e[:location][:name]
+        end
+      end
+      if e[:url]
+        event.url = e[:url]
+      elsif e.identifier.start_with?('/events')
+        event.url = e.path
+      end
+    end
+  end
+end
+%><%= cal.to_s %>

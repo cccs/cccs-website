@@ -28,6 +28,10 @@ compile '/styles/*' do
   end
 end
 
+compile "/ical" do
+  filter :erb
+end
+
 compile "/htaccess" do
   filter :erb
 end
@@ -71,6 +75,10 @@ end
 
 route '/styles/*' do
   item.identifier.chop + '.css'
+end
+
+route "/ical" do
+  "/cccs.ical"
 end
 
 route "/htaccess" do
