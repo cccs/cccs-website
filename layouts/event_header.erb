@@ -8,7 +8,7 @@
                   <% end %>
                   <ul class="iconlist">
                     <li class="icon-calendar" title="Datum">
-                    <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%d") %>T19:30"><%= @item[:startdate].strftime("%d.%m.%Y") %>, 19:30 Uhr</span>
+                    <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%dT%H:%M") %>"><%= @item[:startdate].strftime("%d.%m.%Y, %H:%M") %> Uhr</span>
                     <% if !@item[:public] %>(nicht öffentlich)<% end %>
                     </li>
                     <% if !heading %>
