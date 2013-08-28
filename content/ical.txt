@@ -8,8 +8,13 @@ cal = RiCal.Calendar do |cal|
     cal.event do |event|
       event.summary = e[:title]
       event.description = ""
-      event.dtstart = e[:startdate]
-      event.dtend = (e[:enddate]+1)  # Unclear RFC definition, see http://www.bedework.org/trac/bedework/wiki/Bedework/DevDocs/DtstartEndNotes
+      if e[:startdate].instance_of?(Date)
+        event.dtstart = e[:startdate]
+        event.dtend = (e[:enddate]+1)  # Unclear RFC definition, see http://www.bedework.org/trac/bedework/wiki/Bedework/DevDocs/DtstartEndNotes
+      else
+        event.dtstart = e[:startdate].getutc
+        event.dtend = e[:enddate].getutc
+      end
       if e[:location]
         if e[:location][:details]
           event.location = "#{e[:location][:name]}, #{e[:location][:details]}"
