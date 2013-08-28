@@ -41,16 +41,24 @@ def calculate_to_dates()
   end
 end
 
+def conv_tz(t)
+  if (t.utc?)
+    Time.local(t.year, t.month, t.day, t.hour, t.min, t.sec)
+  else
+    t
+  end
+end
+
 def fix_timezones()
   items.each do |e|
     if e[:created_at] && e[:created_at].instance_of?(Time)
-      e[:created_at] = e[:created_at].utc
+      e[:created_at] = conv_tz(e[:created_at])
     end
     if e[:startdate] && e[:startdate].instance_of?(Time)
-      e[:startdate] = e[:startdate].utc
+      e[:startdate] = conv_tz(e[:startdate])
     end
     if e[:enddate] && e[:enddate].instance_of?(Time)
-      e[:enddate] = e[:enddate].utc
+      e[:enddate] = conv_tz(e[:enddate])
     end
   end
 end

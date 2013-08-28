@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-04-11T19:30:00
+startdate: 2013-04-11T19:30:00Z
 duration: 2h
 title: "Bericht aus der Internet-Enquête-Kommision"
 speakers:

@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-08-15T19:30:00
+startdate: 2013-08-15T19:30:00Z
 duration: 2h
 title: "Datenschutz in Unternehmen und Organisationen - Bewertung in unterschiedlichen Kontexten"
 speakers:

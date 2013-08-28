@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-03-14T19:30:00
+startdate: 2013-03-14T19:30:00Z
 duration: 2h
 title: "Pretty Easy Privacy - Chat"
 speakers:

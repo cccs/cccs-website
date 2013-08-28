@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-09-12T19:30:00
+startdate: 2013-09-12T19:30:00Z
 duration: 2h
 title: "Prism, Tempora und Co. - Wie wir überwacht werden und wie wir uns verteidigen können"
 speakers:

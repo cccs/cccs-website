@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-05-16T19:30:00
+startdate: 2013-05-16T19:30:00Z
 duration: 2h
 title: "Frauen in der Informatik und ihre Arbeitsbedingungen"
 speakers:

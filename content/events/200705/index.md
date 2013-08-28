@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2007-05-10T19:30:00
+startdate: 2007-05-10T19:30:00Z
 duration: 2h
 title: "DNS & Domainvergabe - wie geht das eigentlich"
 speakers:

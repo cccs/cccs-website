@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-11-14T19:30:00
+startdate: 2013-11-14T19:30:00Z
 duration: 2h
 title: "Wenn Schiller die Räuber mit Wordstar geschrieben hätte - digitale Langzeitarchivierung am Deutschen Literaturarchiv Marbach"
 speakers:

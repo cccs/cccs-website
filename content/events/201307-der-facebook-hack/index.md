@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-07-11T19:30:00
+startdate: 2013-07-11T19:30:00Z
 duration: 2h
 title: "Der Facebook-Hack - Erlebnisse bei strafrechtliche Ermittlungen in Sozialen Netzwerken oder Festplatten zu beschlagnahmen"
 speakers:

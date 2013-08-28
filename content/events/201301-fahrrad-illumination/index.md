@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-01-10T19:30:00
+startdate: 2013-01-10T19:30:00Z
 duration: 2h
 title: "Fahrrad-Illumination: heller als die Polizei erlaubt"
 speakers:

@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2013-02-14T19:30:00
+startdate: 2013-02-14T19:30:00Z
 duration: 2h
 title: "Über die besonderen Anforderungen beim Sammeln von historischen Großrechnern"
 speakers:
