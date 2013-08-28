@@ -1,5 +1,5 @@
 -----
-title: Wir über uns
+title: Impressum
 kind: page
 -----
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -16,16 +16,18 @@ aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
 dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
 est Lorem ipsum dolor sit amet.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum
-dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+<a rel="license"
+href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de"><img
+alt="Creative Commons Lizenzvertrag" style="border-width:0"
+src="/img/cc-by-nc-sa.png" /></a><br
+/>
+Soweit nicht anders angegeben, stehen die <span xmlns:dct="http://purl.org/dc/terms/"
+href="http://purl.org/dc/dcmitype/Text" rel="dct:type">
+Inhalte</span> von <a xmlns:cc="http://creativecommons.org/ns#"
+href="http://www.cccs.de/" property="cc:attributionName"
+rel="cc:attributionURL">http://www.cccs.de/</a> unter einer <a
+rel="license"
+href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de">Creative
+Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen
+Bedingungen 3.0 Unported Lizenz</a>.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
-suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem
-vel eum iriure dolor in hendrerit in vulputate velit esse molestie
-consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et
-accumsan et iusto odio dignissim qui blandit praesent luptatum zzril
-delenit augue duis dolore te feugait nulla facilisi.
