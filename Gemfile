@@ -12,4 +12,6 @@ gem 't'
 gem 'nokogiri'
 gem 'feedzirra'
 gem 'ri_cal'
+gem 'tzinfo'
+gem 'tzinfo-data'
 

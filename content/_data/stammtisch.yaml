@@ -1,26 +1,26 @@
 ---
 events:
-- startdate: 2013-01-01 18:00:00.000000000 +02:00
+- startdate: 2013-01-01 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-01-16 18:00:00.000000000 +02:00
+- startdate: 2013-01-16 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-02-05 18:00:00.000000000 +02:00
+- startdate: 2013-02-05 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-02-20 18:00:00.000000000 +02:00
+- startdate: 2013-02-20 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-03-05 18:00:00.000000000 +02:00
+- startdate: 2013-03-05 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-03-20 18:00:00.000000000 +02:00
+- startdate: 2013-03-20 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
@@ -80,19 +80,19 @@ events:
   duration: 4h
   location:
     location: shack
-- startdate: 2013-11-05 18:00:00.000000000 +02:00
+- startdate: 2013-11-05 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-11-20 18:00:00.000000000 +02:00
+- startdate: 2013-11-20 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-12-03 18:00:00.000000000 +02:00
+- startdate: 2013-12-03 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-12-18 18:00:00.000000000 +02:00
+- startdate: 2013-12-18 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack

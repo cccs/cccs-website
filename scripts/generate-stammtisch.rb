@@ -2,11 +2,15 @@
 # encoding: utf-8
 
 require 'date'
+require 'tzinfo'
 require 'yaml'
 
 
 def event(day, dayoffset, location)
-  startDate = Time.new(day.year, day.month, day.day + dayoffset, 18, 0, 0, "+02:00")
+  #startDate = Time.new(day.year, day.month, day.day + dayoffset, 18, 0, 0, "+02:00")
+  #tz = TZInfo::Timezone.get('Europe/Berlin')
+  #startDate = tz.local_to_utc(Time.local(day.year, day.month, day.day + dayoffset, 18, 0, 0))
+  startDate = Time.local(day.year, day.month, day.day + dayoffset, 18, 0, 0)
   {
     'startdate' => startDate,
     'duration' => '4h',
