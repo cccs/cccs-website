@@ -39,19 +39,22 @@
                     <% if @item[:location] %>
                     <li class="icon-compass commaseparated" title="Ort">
                       <ul itemprop="location" itemscope itemtype="http://schema.org/Location">
-                        <li itemprop="name"><% if item[:location][:url] %><a itemprop="url" href="<%= item[:location][:url] %>"><%= item[:location][:name] %></a><% else %><%= item[:location][:name] %><% end %>
-                        <% if item[:location][:details] %><li><%= item[:location][:details] %><% end %>
-                        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                          <% if item[:location][:strasse] %><li itemprop="streetAddress"><%= item[:location][:strasse] %><% end %>
-                          <% if item[:location][:ort] %><li><span itemprop="postalCode"><%= item[:location][:plz] %></span> <span itemProp="addressLocality"><%= item[:location][:ort] %></span><% end %>
-                        </span>
+                        <li itemprop="name"><% if item[:location][:url] %><a itemprop="url" href="<%= item[:location][:url] %>"><%= item[:location][:name] %></a><% else %><%= item[:location][:name] %><% end %></li>
+                        <% if item[:location][:details] %><li><%= item[:location][:details] %></li><% end %>
+                        <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                          <ul class="commaseparated">
+                            <% if item[:location][:strasse] %><li itemprop="streetAddress"><%= item[:location][:strasse] %></li><% end %>
+                            <% if item[:location][:ort] %><li><span itemprop="postalCode"><%= item[:location][:plz] %></span> <span itemProp="addressLocality"><%= item[:location][:ort] %></span></li><% end %>
+                          </ul>
+                        </li>
                         <% if item[:location][:lon] %>
                         <li>
                           <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
                             N<span itemprop="latitude"><%= item[:location][:lat] %></span>
                             E<span itemprop="longitude"><%= item[:location][:lon] %></span>
                           </span>
-                          (<a itemprop="map" href="http://www.openstreetmap.org/?mlat=<%= item[:location][:lat] %>&mlon=<%= item[:location][:lon] %>&zoom=18#map=16/<%= item[:location][:lat] %>/<%= item[:location][:lon] %>">Karte</a>)
+                          (<a itemprop="map" href="http://www.openstreetmap.org/?mlat=<%= item[:location][:lat] %>&amp;mlon=<%= item[:location][:lon] %>&amp;zoom=18#map=16/<%= item[:location][:lat] %>/<%= item[:location][:lon] %>">Karte</a>)
+                        </li>
                         <% end %>
                       </ul>
                     </li>
