@@ -1,7 +1,7 @@
 <%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
 <div class="row">
   <section itemscope itemtype="http://schema.org/Blog">
-    <% @item[:archiveitems].each do |item| %>
+    <% (@item[:futureitems] + @item[:pastitems]).each do |item| %>
     <div class="span8">
     <%= render 'item_intro', :item => item, :extended => true %>
      <p>

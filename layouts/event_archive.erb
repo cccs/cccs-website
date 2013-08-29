@@ -1,6 +1,6 @@
 <%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
 <div class="row">
-  <% @item[:archiveitems].each do |item| %>
+  <% (@item[:futureitems] + @item[:pastitems]).each do |item| %>
   <div class="span8">
     <article itemscope itemtype="http://schema.org/EducationEvent">
       <%= render 'event_header', :item => item, :heading => true, :link => true %>
