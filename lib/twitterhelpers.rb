@@ -21,7 +21,7 @@ def tweet_to_html(tweet)
   end
   result = html_escape(result)
   links.each_with_index do |link,n|
-    result.gsub!("{{{link#{n}}}}", "<a href=\"#{link}\">(Link)</a>")
+    result.gsub!("{{{link#{n}}}}", "<a href=\"#{html_escape(link)}\">(Link)</a>")
   end
   return result
 end

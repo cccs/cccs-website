@@ -1,12 +1,14 @@
 <%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
 <div class="row">
-  <% @item[:archiveitems].each do |item| %>
-  <div class="span8">
-  <%= render 'item_intro', :item => item, :extended => true %>
-   <p>
-   <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
-   <hr>
-  </div>
-  <% end %>
+  <section itemscope itemtype="http://schema.org/Blog">
+    <% @item[:archiveitems].each do |item| %>
+    <div class="span8">
+    <%= render 'item_intro', :item => item, :extended => true %>
+     <p>
+     <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
+     <hr>
+    </div>
+    <% end %>
+  </section>
 </div>
 <%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>

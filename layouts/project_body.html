@@ -2,16 +2,18 @@
         <div class="span8">
           <div class="row">
             <div class="span8">
-             <h1><%= item[:title] %></h1>
-             <%= yield %>
-           </div>
-           <% latest_articles_referred_to(item.identifier,5).each do |item| %>
-           <div class="span8">
-           <%= render 'item_intro', :item => item, :extended => true %>
-             <p>
-             <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
-           </div>
-           <% end %>
+              <h1><%= item[:title] %></h1>
+              <%= yield %>
+            </div>
+            <section itemscope itemtype="http://schema.org/Blog">
+              <% latest_articles_referred_to(item.identifier,5).each do |item| %>
+              <div class="span8">
+              <%= render 'item_intro', :item => item, :extended => true %>
+                <p>
+                <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
+              </div>
+              <% end %>
+            </section>
           </div>
         </div>
         <div class="span4">
