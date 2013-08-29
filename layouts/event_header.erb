@@ -1,9 +1,9 @@
                 <header class="event">
                   <% if heading %>
                   <% if link %>
-                  <h1 itemprop="name"><a itemProp="url" href="<%= item.path() %>"><%= item[:title] %></a></h1>
+                  <<%= heading %> itemprop="name"><a itemProp="url" href="<%= item.path() %>"><%= item[:title] %></a></<%= heading %>>
                   <% else %>
-                  <h1 itemprop="name"><%= item[:title] %></h1>
+                  <<%= heading %> itemprop="name"><%= item[:title] %></<%= heading %>>
                   <% end %>
                   <% end %>
                   <ul class="iconlist">

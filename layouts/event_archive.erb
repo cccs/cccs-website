@@ -1,14 +1,47 @@
 <%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
-<div class="row">
-  <% (@item[:futureitems] + @item[:pastitems]).each do |item| %>
-  <div class="span8">
-    <article itemscope itemtype="http://schema.org/EducationEvent">
-      <%= render 'event_header', :item => item, :heading => true, :link => true %>
-    </article>
-    <p>
-    <a href="<%= item.path() %>">Zum Artikel</a>
-    <hr>
+<% if (@item[:futureitems].size>0 && @item[:pastitems].size>0) %>
+  <div class="row">
+    <div class="span8">
+      <h1><%= @item[:comingtitle] %></h1>
+    </div>
+    <% @item[:futureitems].reverse.each do |item| %>
+    <div class="span8">
+      <article itemscope itemtype="http://schema.org/EducationEvent">
+        <%= render 'event_header', :item => item, :heading => 'h2', :link => true %>
+      </article>
+      <p>
+      <a href="<%= item.path() %>">Zum Artikel</a>
+      <hr>
   </div>
-  <% end %>
-</div>
+    <% end %>
+  </div>
+  <div class="row">
+    <div class="span8">
+      <h1><%= @item[:pasttitle] %></h1>
+    </div>
+    <% @item[:pastitems].each do |item| %>
+    <div class="span8">
+      <article itemscope itemtype="http://schema.org/EducationEvent">
+        <%= render 'event_header', :item => item, :heading => 'h2', :link => true %>
+      </article>
+      <p>
+      <a href="<%= item.path() %>">Zum Artikel</a>
+      <hr>
+    </div>
+    <% end %>
+  </div>
+<% else %>
+  <div class="row">
+    <% (@item[:futureitems] + @item[:pastitems]).each do |item| %>
+    <div class="span8">
+      <article itemscope itemtype="http://schema.org/EducationEvent">
+        <%= render 'event_header', :item => item, :heading => 'h1', :link => true %>
+      </article>
+      <p>
+      <a href="<%= item.path() %>">Zum Artikel</a>
+      <hr>
+    </div>
+    <% end %>
+  </div>
+<% end %>
 <%= render 'pager', :linkprev => @linkprev, :linknext => @linknext %>
