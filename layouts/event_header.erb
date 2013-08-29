@@ -41,12 +41,14 @@
                       <ul itemprop="location" itemscope itemtype="http://schema.org/Location">
                         <li itemprop="name"><% if item[:location][:url] %><a itemprop="url" href="<%= item[:location][:url] %>"><%= item[:location][:name] %></a><% else %><%= item[:location][:name] %><% end %></li>
                         <% if item[:location][:details] %><li><%= item[:location][:details] %></li><% end %>
+                        <% if item[:location][:strasse] || item[:location][:ort] %>
                         <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
                           <ul class="commaseparated">
                             <% if item[:location][:strasse] %><li itemprop="streetAddress"><%= item[:location][:strasse] %></li><% end %>
                             <% if item[:location][:ort] %><li><span itemprop="postalCode"><%= item[:location][:plz] %></span> <span itemProp="addressLocality"><%= item[:location][:ort] %></span></li><% end %>
                           </ul>
                         </li>
+                        <% end %>
                         <% if item[:location][:lon] %>
                         <li>
                           <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
