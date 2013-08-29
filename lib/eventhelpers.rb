@@ -4,7 +4,8 @@ end
 
 def generate_event_pages()
   articles = get_events()
-  generate_yearly_archive(articles, :startdate, '/events', 'Veranstaltungen des CCC Stuttgart', 'event_archive')
+  generate_yearly_archive(articles, :startdate, '/events', 'Veranstaltungen des CCC Stuttgart',
+                          'event_archive', { :comingtitle => 'Kommende Veranstaltungen', :pasttitle => 'Vergangene Veranstaltungen' })
 end
 
 def get_activities()
@@ -13,7 +14,8 @@ end
 
 def generate_activity_pages()
   articles = get_activities()
-  generate_yearly_archive(articles, :startdate, '/activities', 'Aktionen und Aktivitäten', 'event_archive')
+  generate_yearly_archive(articles, :startdate, '/activities', 'Aktionen und Aktivitäten',
+                          'event_archive', { :comingtitle => 'Kommende Aktionen', :pasttitle => 'Vergangene Aktionen' })
 end
 
 def get_regulars_tables()

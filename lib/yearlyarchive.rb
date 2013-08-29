@@ -1,6 +1,6 @@
 require 'ostruct'
 
-def generate_yearly_archive(articles, date_attribute, basepath, title, templatename = 'article_archive')
+def generate_yearly_archive(articles, date_attribute, basepath, title, templatename = 'article_archive', attributes = {})
   currentyear = Time.now.year
   yearmap = articles.group_by { |item| item[date_attribute].year }
   if !yearmap.has_key?(currentyear)
@@ -22,7 +22,7 @@ def generate_yearly_archive(articles, date_attribute, basepath, title, templaten
     end
     @items << Nanoc::Item.new(
       "<%= render '#{templatename}' #{linkprev} #{linknext} %>",
-      { :title => "#{title} #{year}", :kind => "page", :archiveitems => yearmap[year] },
+      attributes.merge({ :title => "#{title} #{year}", :kind => "page", :archiveitems => yearmap[year] }),
       "#{basepath}/#{year}/")
   }
 end
