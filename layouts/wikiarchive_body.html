@@ -1,0 +1,16 @@
+      <div class="row">
+        <div class="span8">
+          <h1><%= item[:title] %> <small>(Import aus dem alten Wiki)</small></h1>
+          <p>
+          Diese Seite ist ein Import aus dem alten Wiki des CCCS. Sie dient als
+          Archiv und wird nicht weiter gepflegt oder überarbeitet. Die Informationen
+          sind dementsprechend möglicherweise veraltet.
+          </p>
+          <hr />
+          <%= yield %>
+        </div>
+        <div class="span4">
+          <div id="sidebar"></div>
+          <script type="text/javascript">$("#sidebar").load("/sidebar/index.html");</script>
+        </div>
+      </div>

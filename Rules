@@ -36,6 +36,10 @@ compile "/htaccess" do
   filter :erb
 end
 
+compile "/robots" do
+  nil
+end
+
 compile "atom" do
   filter :erb
 end
@@ -83,6 +87,10 @@ end
 
 route "/htaccess" do
   "/.htaccess"
+end
+
+route "/robots" do
+  item.identifier.chop + '.txt'
 end
 
 route "/atom" do

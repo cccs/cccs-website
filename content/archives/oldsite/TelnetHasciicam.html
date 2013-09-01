@@ -1,0 +1,119 @@
+---
+title: TelnetHasciicam
+kind: wikiarchive
+---
+
+<h2>
+<a name="Hasciicam_via_Telnet"> </a> Hasciicam via Telnet </h2>
+<p></p>
+Mit der Software Hasciicam lassen sich Videoaufnahmen in ASCII-Art (live) darstellen.
+<p></p>
+Hier ein kurzer Abriss, wie einfach man unter Linux mit wenigen Befehlen eine Live-Ascii-Cam für Telnet-Clients anbieten kann.
+<p></p>
+Benötigte Software:<br>
+Hasciicam, netcat
+<p></p>
+<h3>
+<a name="1_Schritt"> </a><a name="1_Schritt_"> </a> 1. Schritt: </h3>
+<p></p>
+Hasciicam mit den richtigen Optionen starten.<br>
+&gt; <cite>  hasciicam -d /dev/video0 -i 1 -n pal -m text -s 79x24 -r 1 </cite><br>
+<p></p>
+-d /dev/video0 # Das Video-Device angegeben
+<p></p>
+-i 1 # Der zu verwendente Input-Channel der Videokarte
+<p></p>
+-n pal # Die Videonorm (pal, ntsc, ...)
+<p></p>
+-m text # Den Textmode aktivieren (speichert ASCII-Art in Datei hasciicam.asc)
+<p></p>
+-s 79x24 # Die Ausgabegröße (Breite x Höhe) angeben. 79x24 ist geeignet für die Ausgabe auf Telnet-Clients.
+<p></p>
+-r 1 # Der Refresh-Intervall in Sekunden
+<p></p>
+(optional ausserdem: -f <a href="mailto:user@ftpserver.de">user@ftpserver.de</a>:/directory Die ASCII-Ausgabedatei wird auf einen Ftp-Server hochgeschoben)
+<p></p>
+<p></p>
+Anmerkung: Um hasciicam überhaupt erst mal zum laufen zu bringen, sollte man vorher das richtige Video Device und andere Optionen im "live"-Modus testen und die benötigten Optionen auf obiges Beispiel übertragen:<br>
+&gt; <cite>  hasciicam -d /dev/video0 -m live -i 1 -n pal  </cite><br>
+<p></p>
+<h3>
+<a name="2_Schritt"> </a> 2. Schritt </h3>
+<p></p>
+Ein kleines Perl-Script (cam.pl) stellt einen ASCII-Feed für die Darstellung in Telnet Clients bereit. (Könnte man genauso gut als Shell-Script schreiben.)
+<p></p>
+Dieses Script als cam.pl speichern:
+<pre>
+#!/usr/bin/perl
+
+### Einige Telnet vt100 Steuerkommandos definieren
+# "ESC [2J" ist vt100 Formfeed und löscht den Telnet-Bildschirm
+my $formfeed = chr(27)."[2J";
+# "ESC [H" bringt Cursor auf Position (1:1)
+my $cursor_pos = chr(27)."[H";
+# Hintergrund schwarz, Text grün
+my $colors = chr(27)."[40m".chr(27)."[32m"; 
+
+# Alles was wir auf STDOUT ausgeben, wird an den Telnet-Client geschickt werden...
+
+# Das Farbkommando schicken
+print "$colors";
+
+#Endlosschleife (Abbruch mit &lt;CTRL&gt;-c)
+while(1) {
+        #Telnet-Bildschirm löschen und Cursor auf 1:1 repositionieren
+        print "$formfeed$cursor_pos";
+
+        #Die ASCII-Art ausgeben
+        system("cat",  "hasciicam.asc");
+
+        #Kurz warten
+        sleep 1;
+}
+
+exit 1;
+</pre>
+<p></p>
+<h3>
+<a name="3_Schritt"> </a> 3. Schritt </h3>
+<p></p>
+Den mit cam.pl generierten ASCII-Feed als Livefeed für Telnet Clients anbieten. 
+Dazu bieten wir mit dem Programm netcat die Ausgabe von cam.pl auf einem TCP-Socket an:
+<p></p>
+&gt; <cite>  nc -l -p 9999 -e cam.pl </cite><br>
+<p></p>
+-l # Sorgt dafür das netcat im Server-Modus auf eingehende Verbindungen "listened"
+<p></p>
+-p 9999 # Gibt den Port an, auf dem nach Verbindungsanfragen gelauscht wird. (beliebig aber &gt; 1024)
+<p></p>
+-e cam.pl # Startet cam.pl und leitet dessen Ausgabe auf einen verbundenen Telnet-Client um.
+<p></p>
+<h3>
+<a name="4_Schritt"> </a> 4. Schritt </h3>
+<p></p>
+Zuerst den Telnet-Client mit der Umgebungsvariablen TERM in den vt100-Kompatibilitätsmodus schicken.
+<p></p>
+&gt; <cite>  TERM=vt100; export TERM </cite><br>
+<p></p>
+Und nun Telnet starten
+<p></p>
+&gt; <cite>  telnet 127.0.0.1 9999 </cite><br>
+<p></p>
+127.0.0.1 # Die IP-Adresse des Cam-Servers.
+<p></p>
+9999 # Der Port des Cam-Servers
+<p></p>
+(Anmerkung: Das Fenster des Telnet-Clients sollte für eine korrekte Darstellung des Videofeeds auf eine Größe von 79x24 Zeichen gebracht werden.)
+<p></p>
+<h3>
+<a name="5_Schritt"> </a> 5. Schritt </h3>
+<p></p>
+Sich an der Spielerei erfreuen.
+<p></p>
+(Wenn man den Videofeed für Freunde bereitstellen will, muss gegebenenfalls natürlich die Firewall auf dem entsprechenden Port geöffnet werden.)
+<p></p>
+<p></p>
+-- <a class="twikiLink" href="/wiki/bin/view/Main/DanielWimpff">DanielWimpff</a> - 27 Sep 2004
+<br class="twikiClear">
+<a name="TopicEnd"></a>
+

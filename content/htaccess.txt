@@ -5,3 +5,5 @@ RedirectMatch 303 ^/activities/$ /activities/<%= Time.now.year %>/
 RedirectMatch 303 ^/archives/articles/$ /archives/articles/<%= latest_articles(1)[0][:created_at].year %>/
 RedirectMatch 303 ^/archives/twitter/$ /archives/twitter/<%= twitter_grouped_by_month.keys.sort.last %>/
 
+Redirect 301 /wiki/bin/view/Main/ /archives/oldsite/
+
