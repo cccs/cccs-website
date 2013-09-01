@@ -1,5 +1,8 @@
 <% @projects.each do |prj| %>
   <div class="span8">
     <%= render 'item_intro', :item => prj, :h => 'h2', :extended => @extended %>
+    <p>
+    <a href="<%= prj.path() %>">Zur Projektseite</a>
+    <hr>
   </div>
 <% end %>
