@@ -10,13 +10,7 @@
                 </section>
               </article>
             </div>
-            <% latest_articles_referred_to(item.identifier).each do |item| %>
-            <div class="span8">
-            <%= render 'item_intro', :item => item, :extended => true %>
-              <p>
-              <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
-            </div>
-            <% end %>
+            <%= render 'referred_article_list', :refitem => item, :count => 5 %>
           </div>
         </div>
         <div class="span4">

@@ -5,15 +5,7 @@
               <h1><%= item[:title] %></h1>
               <%= yield %>
             </div>
-            <section itemscope itemtype="http://schema.org/Blog">
-              <% latest_articles_referred_to(item.identifier,5).each do |item| %>
-              <div class="span8">
-              <%= render 'item_intro', :item => item, :extended => true %>
-                <p>
-                <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
-              </div>
-              <% end %>
-            </section>
+            <%= render 'referred_article_list', :refitem => item, :count => 5 %>
           </div>
         </div>
         <div class="span4">
