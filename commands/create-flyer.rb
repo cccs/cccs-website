@@ -30,31 +30,34 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     speakers = event[:speakers].map { |s| if s[:affiliation] then "#{s[:name]} (#{s[:affiliation]})" else s[:name] end }
     text = Nokogiri::HTML(event.compiled_content)
     text = text.content.gsub(/\n+/,"\n")
-    location_infos = [event[:location][:name]]
+    location_name = [event[:location][:name]]
     if (event[:location][:details])
-      location_infos << event[:location][:details]
+      location_name << event[:location][:details]
     end
+    location_address = []
     if (event[:location][:strasse])
-      location_infos << event[:location][:strasse]
+      location_address << event[:location][:strasse]
     end
     if (event[:location][:ort])
       if (event[:location][:plz])
-        location_infos << "#{event[:location][:plz]} #{event[:location][:ort]}"
+        location_address << "#{event[:location][:plz]} #{event[:location][:ort]}"
       else
-        location_infos << event[:location][:ort]
+        location_address << event[:location][:ort]
       end
     end
-    if (event[:location][:lon])
-      location_infos << "N #{event[:location][:lon]} E #{event[:location][:lat]}"
-    end
+    location_geo = if (event[:location][:lon])
+                     "N #{event[:location][:lon]} E #{event[:location][:lat]}"
+                   else
+                     ""
+                   end
     calendar_items = self.site.items.select do |i|
       (i[:kind]=='event') && (i[:startdate].to_datetime>event[:startdate].to_datetime) && !i.identifier.start_with?('/_data/stammtisch/')
     end.sort { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
     calendar = calendar_items[0..5].map do |i|
       if i[:startdate].instance_of?(Date)
-        "#{i[:startdate].strftime("%d.%m.%Y")} #{i[:title]}"
+        "#{i[:startdate].strftime("%d.%m.%Y")}: #{i[:title]}"
       else
-        "#{i[:startdate].strftime("%d.%m.%Y, %H:%M")} #{i[:title]}"
+        "#{i[:startdate].strftime("%d.%m.%Y, %H:%M")}h: #{i[:title]}"
       end
     end
     # Read template
@@ -65,8 +68,12 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     template.gsub!('${title}', title)
     template.gsub!('${date}', date.strftime("%d.%m.%Y, %H:%M"))
     template.gsub!('${speakers}', speakers.join(', '))
-    template.gsub!('${location}', location_infos.join(", "))
-    template.gsub!('${calendar}', calendar.join(" \n"))
+    template.gsub!('${location.name}', location_name.join(", "))
+    template.gsub!('${location.address}', location_address.join(", "))
+    template.gsub!('${location.geo}', location_geo)
+    for i in 0..5 do
+      template.gsub!("${calendar.#{i}}", calendar[i] || "")
+    end
     # Output
     File.open("#{arguments[1]}/aushang.svg", 'w:UTF-8') {|f| f.write(template) }
   end
