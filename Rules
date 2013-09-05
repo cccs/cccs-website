@@ -1,8 +1,21 @@
 #!/usr/bin/env ruby
 
-#compile %r{/_} do
-#  nil
-#end
+preprocess do
+  expand_event_list("/_data/chaosevents/")
+  expand_event_list("/_data/stammtisch/", "CCCS Stammtisch")
+  calculate_to_dates
+  fix_timezones
+  merge_location_data
+  generate_event_pages
+  generate_activity_pages
+  generate_archive_pages
+  generate_twitter_archive_pages
+end
+
+
+compile %r{/_} do
+  nil
+end
 
 compile '/styles/*' do
   if item[:extension]=="scss" && !item.identifier.split("/")[-1].start_with?("_")
@@ -13,6 +26,22 @@ compile '/styles/*' do
       #:style => :compressed
     }
   end
+end
+
+compile "/ical" do
+  filter :erb
+end
+
+compile "/htaccess" do
+  filter :erb
+end
+
+compile "/robots" do
+  nil
+end
+
+compile "atom" do
+  filter :erb
 end
 
 compile '*' do
@@ -32,7 +61,10 @@ compile '*' do
     if item_name.start_with?("_")
       nil
     else
-      layout 'default'
+      if item[:style]!='none'
+        #layout 'default'
+        layout item[:style] || 'default'
+      end
     end
   end
 end
@@ -47,6 +79,40 @@ end
 
 route '/styles/*' do
   item.identifier.chop + '.css'
+end
+
+route "/ical" do
+  "/cccs.ical"
+end
+
+route "/htaccess" do
+  "/.htaccess"
+end
+
+route "/robots" do
+  item.identifier.chop + '.txt'
+end
+
+route "/atom" do
+  item.identifier.chop + '.xml'
+end
+
+route '/articles/*' do
+  # Find corresponding article (for getting metadata)
+  articleitem = article_base_item(item)
+  if articleitem
+    # Create directory basename
+    url = '/' + pathname_of_article(articleitem)
+    # Main article goes to index.html, don't touch other filenames
+    if item.equal? articleitem then
+      url + '/index.html'
+    else
+      idparts = item.identifier.split('/')
+      url + "/#{idparts.last}.#{item[:extension]}"
+    end
+  else
+    nil
+  end
 end
 
 route '*' do

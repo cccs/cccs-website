@@ -1,0 +1,23 @@
+---
+title: Archiv der alten Webseite
+kind: emptyrow
+---
+<%
+archive = @items.select { |i| (i[:kind]=='wikiarchive') && i.identifier.start_with?(item.identifier) }.sort { |a,b| a[:title] <=> b[:title] }
+%>
+<div class="span12">
+  <h1>Archiv der alten Webseite</h1>
+  <p>
+  Dies sind Links auf Archivkopien des alten Wikis. Die Inhalte werden nicht
+  weiter gepflegt und sind möglicherweise veraltet.
+  </p>
+</div>
+<% archive.each_slice(archive.size/3+1) do |slice| %>
+<div class="span4">
+  <ul>
+  <% slice.each do |i| %>
+    <li><a href="<%= i.path() %>"><%= i[:title] %></a></li>
+  <% end %>
+  </ul>
+</div>
+<% end %>

@@ -66,6 +66,9 @@ data_sources:
     type: static
     items_root: /static/
 
+  -
+    type: twitter_file
+
 # Configuration for the “watch” command, which watches a site for changes and
 # recompiles if necessary.
 watcher:
@@ -84,8 +87,16 @@ watcher:
   notify_on_compilation_success: true
   notify_on_compilation_failure: true
 
+
+base_url: http://www.cccs.de
+author_name: CCCS
+author_email: webmaster@cccs.de
+author_uri: http://www.cccs.de/
+twitter_file: content/_data/twitter.csv
+
 deploy:
   default:
     kind: rsync
-    dst: "stefanskiste:/var/www/grafikers.ploing.de/htdocs"
-    options: [ '-aP', '--delete-after' ]
+    dst: "wau.cccs.de:/var/www/wau.cccs.de/htdocs"
+    options: [ '-rlP', '--delete-after' ]
+

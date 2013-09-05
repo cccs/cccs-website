@@ -1,0 +1,37 @@
+---
+title: GnusAlsImapMailreader
+kind: wikiarchive
+---
+
+Lange genug habe ich nach einem vernünftigen, einfach konfigurierbaren, aber trotzdem sofort einsatzfähigen Mail-Programm gesucht. Und weil ich es jetzt gefunden habe, bin ich so glücklich, dass ich es mit Euch teilen will. Das Tool heisst Gnus, ist Teil von aktuellen Emacsen und eigentlich ein News-Reader, und weil es Emails auch als News ansieht, bietet es viele machtvolle Möglichkeiten, mit Ihnen umzugehen.
+<p></p>
+Da ich als <a class="twikiLink" href="/wiki/bin/view/Main/BaWue">BaWue</a>-Benutzern einen IMAP-Server benutzen muss, also meine Mail nicht auf meinen Shell-Rechner bekomme, sieht meine .gnus wie folgt aus, wenn diese Situation auf Dich ebenfalls zutrifft, kannst Du sie wahrscheinlich einfach mitbenutzen: (Falls die Mails auf dem lokalen Rechner liegen, wirst Du bestimmt hunderte Beispieldateien im Internet finden, die Du direkt benutzen kannst!)
+<p></p>
+<pre>
+;; -*- emacs-lisp -*-
+
+(setq user-mail-address "adalipu@bawue.de") (setq user-full-name "Simon Kowalewski")
+
+(setq gnus-select-method '(nntp "news.bawue.de"))
+
+(setq imap-ssl-program "/usr/bin/openssl s_client -ssl3 -connect %s:%p") (setq gnus-secondary-select-methods
+
+'((nnml "")
+
+(nnimap "mail.bawue.de"
+
+(nnimap-address "mail.bawue.de") (nnimap-stream ssl) (nnimap-list-pattern ("INBOX")) )))
+
+(defun my-message-mode-setup ()
+
+(setq fill-column 72) (turn-on-auto-fill))
+
+(add-hook 'message-mode-hook 'my-message-mode-setup)
+</pre>
+Dann einfach den Emacs starten und "M-x gnus" eingeben. Es wird eine Liste von abonnierten Gruppen angezeigt. Um das Mailverzeichnis hier hinzuzufügen, mit "^" auf die Serveransicht wechseln, in der Zeile, die mit nnimap anfängt, "RET" drücken und die INBOX mit "u" abonnieren. So einfach ist das!
+<p></p>
+<p></p>
+-- <a class="twikiLink" href="/wiki/bin/view/Main/IxS">IxS</a> - 04 May 2003
+<br class="twikiClear">
+<a name="TopicEnd"></a>
+

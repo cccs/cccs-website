@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /archives/oldsite/
+Disallow: /wiki/bin/view/
+

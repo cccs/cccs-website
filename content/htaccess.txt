@@ -1,0 +1,28 @@
+ErrorDocument 404 /404/index.html
+
+RedirectMatch 303 ^/events/$ /events/<%= Time.now.year %>/
+RedirectMatch 303 ^/activities/$ /activities/<%= Time.now.year %>/
+RedirectMatch 303 ^/archives/articles/$ /archives/articles/<%= latest_articles(1)[0][:created_at].year %>/
+RedirectMatch 303 ^/archives/twitter/$ /archives/twitter/<%= twitter_grouped_by_month.keys.sort.last %>/
+
+RedirectMatch 301 ^/wiki/bin/view$ /
+RedirectMatch 301 ^/wiki/bin/view/$ /
+Redirect 301 /wiki/bin/view/Main/MailingListe /about/
+Redirect 301 /wiki/bin/view/Main/IrcChannel /about/
+Redirect 301 /wiki/bin/view/Main/TreFFen /about/
+Redirect 301 /wiki/bin/view/Main/DerVerein /about/
+Redirect 301 /wiki/bin/view/Main/VorTraege /events/
+Redirect 301 /wiki/bin/view/Main/VorTraege2012 /events/2012/
+Redirect 301 /wiki/bin/view/Main/VorTraege2011 /events/2011/
+Redirect 301 /wiki/bin/view/Main/VorTraege2010 /events/2010/
+Redirect 301 /wiki/bin/view/Main/VorTraege2009 /events/2009/
+Redirect 301 /wiki/bin/view/Main/VorTraege2008 /events/2008/
+Redirect 301 /wiki/bin/view/Main/VorTraege2007 /events/2007/
+Redirect 301 /wiki/bin/view/Main/VorTraege2006 /events/2006/
+Redirect 301 /wiki/bin/view/Main/VorTraegeBis2005 /events/2005/
+Redirect 301 /wiki/bin/view/Main/VeranStaltungen /activities/
+Redirect 301 /wiki/bin/view/Main/ProJekte /projects/
+Redirect 301 /wiki/bin/view/Main/ImPressum /imprint/
+
+Redirect 301 /wiki/bin/view/Main/ /archives/oldsite/
+

@@ -1,0 +1,31 @@
+bib:
+  name: Bibliothek am Mailänder Platz
+  url: http://www1.stuttgart.de/stadtbibliothek/bvs/actions/profile/view.php?id=23
+  strasse: Mailänder Platz 1
+  plz: 70173
+  ort: Stuttgart
+  lat: 48.790324
+  lon: 9.183079
+zadu:
+  name: Zadu-Bar
+  url: http://www.zadu.de/
+  strasse: Reuchlinstr. 4b
+  plz: 70178
+  ort: Stuttgart
+  lat: 48.769322
+  lon: 9.161022
+shack:
+  name: shackspace
+  url: http://www.shackspace.de/
+  strasse: Ulmer Str. 255
+  plz: 70327
+  ort: Stuttgart
+  lat: 48.777219
+  lon: 9.235507
+wand5:
+  name: Filmhaus
+  strasse: Friedrichstr. 23a
+  plz: 70174
+  ort: Stuttgart
+  lat: 48.781349
+  lon: 9.177422

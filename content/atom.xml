@@ -1,0 +1,12 @@
+---
+type: 'feed'
+title: 'CCCS - Chaos Computer Club Stuttgart (Atom Feed)'
+---
+<%
+excerptproc = Proc.new do |article|
+  article_summary(article)
+end
+%><%= atom_feed :limit => 10,
+  :excerpt_proc => excerptproc,
+  :icon => "#{site.config[:base_url]}/img/atom-icon.png",
+  :logo => "#{site.config[:base_url]}/img/atom-logo.png" %>

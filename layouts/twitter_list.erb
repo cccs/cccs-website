@@ -1,0 +1,6 @@
+-----
+filter: erb
+-----
+<ul class="no-bullets"><% @items.each do |item| %>
+  <li><a href="<%= item[:url] %>"><%= item[:date].strftime('%d.%m., %H:%M') %></a>: <%= tweet_to_html(item.raw_content) %></li>
+<% end %></ul>

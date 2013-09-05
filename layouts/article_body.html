@@ -1,0 +1,27 @@
+      <div class="row">
+        <div class="span8">
+          <article itemscope itemtype="http://schema.org/BlogPosting">
+            <header>
+              <h1 itemprop="name"><%= item[:title]%>
+              <% if item.attributes.has_key?(:subtitle) then %>
+                <br/><small><%= item[:subtitle] %></small>
+              <% end %></h1>
+              <p>
+              <ul class="unstyled inline">
+                <li><i class="icon-calendar" title="Datum"></i> <time itemprop="dateCreated" datetime="<%= @item[:created_at].strftime("%Y-%m-%d") %>"><%= @item[:created_at].strftime("%d.%m.%Y") %></time></li>
+                <% if @item[:author] %><li><i class="icon-pencil" title="Autor"></i> <%= @item[:author] %></li><% end %>
+                <% if @item[:refers_to] %><li><i class="icon-cogs" title="Zugehöriges Projekt"></i> <a href="<%= @items[sanitize_path(@item[:refers_to])].path() %>"><%= @items[sanitize_path(@item[:refers_to])][:title] %></a></li><% end %>
+                <li><i class="icon-bookmark" title="Permalink"></i> <a itemprop="url" href="<%= item.path() %>">Permalink</a></li>
+              </ul>
+            </header>
+            <hr>
+            <section>
+              <%= yield %>
+            </section>
+          </article>
+        </div>
+        <div class="span4">
+          <div id="sidebar"></div>
+          <script type="text/javascript">$("#sidebar").load("/sidebar/index.html");</script>
+        </div>
+      </div>

@@ -1,0 +1,47 @@
+---
+title: KeySigning
+kind: wikiarchive
+---
+
+<h1>
+<a name="PGP_Keysigning_Event"> </a> PGP Keysigning Event </h1>
+<p></p>
+<h2>
+<a name="Wozu"> </a><a name="Wozu_"> </a> Wozu? </h2>
+Ein Keysigning Event (oder Keysigning Party) dient dazu, das Web of Trust der PGP-Schlüssel dichter zu knüpfen.
+Grundlegendes Problem beim Herunterladen eines Schlüssels z.B. von einem Keyserver ist, daß man sich nicht sicher sein kann, daß dieser auch wirklich zur darin genannten Person gehört. Ausweg hieraus ist eine persönliche Übergabe des Schlüssels (bzw. des Fingerprints) sowie eine Überprüfung der Identität, also der Vergleich eines Ausweisdokuments mit der Namensinformation des Keys. Diesen Vorgang bestätigt man anschließend dadurch, daß man den überprüften Schlüssel signiert. Dies entspricht der Aussage "Ich habe mich davon überzeugt, daß mir die genannte Person diesen Schlüssel als seinen Public Key gegeben hat; die im Schlüssel vermerkte Identität stimmt mit der Person überein".
+<p></p>
+Eine solche direkte Überprüfung ist jedoch nicht immer möglich; das Web of Trust von PGP fußt auf dem "Small-World-Phänomen": Möglicherweise hat man bereits den Schlüssel von jemandem überprüft, der den Schlüssel des gewünschten Kommunikationspartners signiert hat. Wenn man nun überzeugt ist, daß die Person bei der Signatur ausreichende Sorgfalt walten läßt, kann man den Zielschlüssel ebenfalls als verifiziert betrachten. Das funktioniert beispielsweise besonders gut in irgendwelchen Cliquen: Angenommen, man möchte einer Person eines Vereins eine verschlüsselte Mail schreiben; die Mitglieder der Gruppe haben ihre Schlüssel gegenseitig signiert. Nun genügt es, den Schlüssel <em>einer</em> Person zu überprüfen (und ihr das Vertrauen für die Sorgfalt beim Signieren auszusprechen), um <em>alle</em> Schlüssel der Vereinsmitglieder als authentisch zu betrachten.
+<p></p>
+<h2>
+<a name="Was_mu%C3%9F_ich_im_Vorfeld_tun"> </a><a name="Was_mu%C3%9F_ich_im_Vorfeld_tun_"> </a> Was muß ich im Vorfeld tun? </h2>
+In kleinen Gruppen genügt es, Zettel mit Schlüssel-ID und Fingerprint des eigenen Schlüssels vorzubereiten. Diese übergibt man allen Interessenten und weist sich diesen gegenüber mit einem Ausweisdokument aus.
+<p></p>
+Um das gegenseitige Überprüfen der Schlüssel bei größeren Gruppen zu rationalisieren, ist etwas mehr Vorbereitung erforderlich. Ein Organisator sammelt im Vorfeld alle Schlüssel der Teilnehmer. Jeder Teilnehmer schickt also seinen Schlüssel (per E-Mail) an den Organisator.
+<p></p>
+Der Organisator erstellt nun eine Liste mit allen Schlüssel-IDs und den zugehörigen Fingerprints und vervielfältigt sie für alle Teilnehmer.
+<p></p>
+<h2>
+<a name="Was_mu%C3%9F_ich_mitbringen"> </a><a name="Was_mu%C3%9F_ich_mitbringen_"> </a> Was muß ich mitbringen? </h2>
+Zum Keysigning sind drei Dinge mitzubringen:
+<ul>
+<li> Der eigene Fingerprint (um ihn den anderen korrekt mitteilen zu können - der auf der Liste könnte ja falsch sein)
+</li>
+<li> Ein (besser zwei) Ausweisdokument
+</li>
+<li> Einen Stift
+</li>
+</ul>
+<p></p>
+<h2>
+<a name="Ablauf_vor_Ort"> </a> Ablauf vor Ort </h2>
+Ohne persönliche Anwesenheit geht es nicht, da ja die Identität der Teilnehmer auf Übereinstimmung mit der Information aus den Schlüsseln überprüft werden soll.
+<p></p>
+Die Teilnehmer stellen sich in zwei Reihen einander gegenüber auf. Jeder überprüft nun die Identität seines Gegenübers und vergleicht dessen Fingerprint mit dem auf der Liste. Sind alle Angaben korrekt, vermerkt er auf seinem Exemplar des Zettels, daß er einen Schlüssel erfolgreich überprüft hat. Nun wandert jeder einen Partner nach rechts, wer am Ende der Reihe keinen Partner mehr hat, wechselt auf die gegenüberliegende Seite; das klingt in Textform schwieriger als es ist - denkt einfach an die Glieder auf einer Fahrradkette :-)  So wird schließlich jeder jeden treffen.
+<p></p>
+<h2>
+<a name="Wie_geht_es_danach_weiter"> </a><a name="Wie_geht_es_danach_weiter_"> </a> Wie geht es danach weiter? </h2>
+Zu Hause läd man sich die Schlüssel der erfolgreich überprüften Leute vom Keyserver herunter (sofern der Organisator sie nicht freundlicherweise per Mail verteilt hat), signiert diese und läd sie anschließend wieder auf den Schlüsselserver hoch. So sammeln sich alle Signaturen auf den Keyserver - also dort, wo sie für das Web of Trust am ehesten gebraucht werden.
+<br class="twikiClear">
+<a name="TopicEnd"></a>
+

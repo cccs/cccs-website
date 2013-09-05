@@ -1,0 +1,38 @@
+-----
+style: none
+-----
+<% upcomingEvents = get_public_events().select { |e| e[:startdate].to_datetime > DateTime.now }
+if (upcomingEvents.size>0)
+  upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+%>
+<h1>Kalender</h1>
+<ul>
+  <% upcomingEvents[0..9].each do |e| %>
+  <li>
+    <% if e[:startdate].instance_of?(Date) %>
+    <% if e[:startdate]<e[:enddate] %>
+    <%= e[:startdate].strftime("%d.%m.") %> - <%= e[:enddate].strftime("%d.%m.") %>:
+    <% else %>
+    <%= e[:startdate].strftime("%d.%m.") %>:
+    <% end %>
+    <% else %>
+    <%= e[:startdate].strftime("%d.%m., %H:%M") %>:
+    <% end %>
+    <% if e[:url] %>
+    <a href="<%= e[:url] %>"><%= e[:title] %></a>
+    <% elsif e.identifier.start_with?("/events") %>
+    <a href="<%= e.path %>"><%= e[:title] %></a>
+    <% else %>
+    <%= e[:title] %>
+    <% end %>
+    </li>
+  <% end %>
+</ul>
+<% end %>
+<h1>Letzte Tweets</h1>
+<p>
+<%= render 'twitter_list', :items => twitter_by_date().first(5) %>
+<p>
+<a href="/archives/twitter/<%= twitter_grouped_by_month.keys.sort.last %>">Lokales Twitter-Archiv</a> -
+<a href="https://twitter.com/cccs_de/">@cccs_de bei Twitter</a>
+

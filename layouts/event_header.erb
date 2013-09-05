@@ -1,0 +1,74 @@
+                <header class="event">
+                  <% if heading %>
+                  <% if link %>
+                  <<%= heading %> itemprop="name"><a itemProp="url" href="<%= item.path() %>"><%= item[:title] %></a></<%= heading %>>
+                  <% else %>
+                  <<%= heading %> itemprop="name"><%= item[:title] %></<%= heading %>>
+                  <% end %>
+                  <% end %>
+                  <ul class="iconlist">
+                    <li class="icon-calendar" title="Datum">
+                    <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%dT%H:%M") %>"><%= @item[:startdate].strftime("%d.%m.%Y, %H:%M") %> Uhr</span>
+                    <% if !@item[:public] %>(nicht öffentlich)<% end %>
+                    </li>
+                    <% if !heading %>
+                    <li class="icon-comment" title="Thema">
+                      <span itemprop="name"><%= item[:title] %></span>
+                    </li>
+                    <% end %>
+                    <% if @item[:speakers] %>
+                    <li class="icon-male commaseparated" title="Referent">
+                      <ul>
+                        <% @item[:speakers].each do |speaker|  %>
+                        <li itemprop="performer" itemscope itemtype="http://schema.org/Person">
+                          <span itemprop="name"><%= speaker[:name] %></span><% if speaker[:affiliation]%> (<%= speaker[:affiliation] %>)<% end %>
+                        </li>
+                        <% end %>
+                      </ul>
+                    </li>
+                    <% end %>
+                    <% if @item[:superevent] %>
+                    <li class="icon-comments-alt" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" title="Veranstaltung">
+                    <% if @item[:superevent][:url] %>
+                      <a itemprop="url" href="<%= @item[:superevent][:url] %>"><span itemprop="name"><%= @item[:superevent][:title] %></span></a>
+                    <% else %>
+                      <span itemprop="name"><%= @item[:superevent][:title] %></span>
+                    <% end %>
+                    </li>
+                    <% end %>
+                    <% if @item[:location] %>
+                    <li class="icon-compass commaseparated" title="Ort">
+                      <ul itemprop="location" itemscope itemtype="http://schema.org/Location">
+                        <li itemprop="name"><% if item[:location][:url] %><a itemprop="url" href="<%= item[:location][:url] %>"><%= item[:location][:name] %></a><% else %><%= item[:location][:name] %><% end %></li>
+                        <% if item[:location][:details] %><li><%= item[:location][:details] %></li><% end %>
+                        <% if item[:location][:strasse] || item[:location][:ort] %>
+                        <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                          <ul class="commaseparated">
+                            <% if item[:location][:strasse] %><li itemprop="streetAddress"><%= item[:location][:strasse] %></li><% end %>
+                            <% if item[:location][:ort] %><li><span itemprop="postalCode"><%= item[:location][:plz] %></span> <span itemProp="addressLocality"><%= item[:location][:ort] %></span></li><% end %>
+                          </ul>
+                        </li>
+                        <% end %>
+                        <% if item[:location][:lon] %>
+                        <li>
+                          <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+                            N<span itemprop="latitude"><%= item[:location][:lat] %></span>
+                            E<span itemprop="longitude"><%= item[:location][:lon] %></span>
+                          </span>
+                          (<a itemprop="map" href="http://www.openstreetmap.org/?mlat=<%= item[:location][:lat] %>&amp;mlon=<%= item[:location][:lon] %>&amp;zoom=18#map=16/<%= item[:location][:lat] %>/<%= item[:location][:lon] %>">Karte</a>)
+                        </li>
+                        <% end %>
+                      </ul>
+                    </li>
+                    <% end %>
+                    <% if @items["#{@item.identifier}aushang/"] || @items["#{@item.identifier}flyer/"] %>
+                    <li class="icon-bullhorn commaseparated" title="Aushang, Flyer, etc.">
+                      <ul>
+                        <% if @items["#{@item.identifier}aushang/"] %><li><a href="<%= @items["#{@item.identifier}aushang/"].path %>">Aushang (PDF)</a></li><%end%>
+                        <% if @items["#{@item.identifier}flyer/"] %><li><a href="<%= @items["#{@item.identifier}flyer/"].path %>">Flyer (PDF)</a></li><%end%>
+                      </ul>
+                    </li>
+                    <% end %>
+                  </ul>
+                </header>
+

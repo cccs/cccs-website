@@ -1,0 +1,502 @@
+---
+title: MailMitMutt
+kind: wikiarchive
+---
+
+<h2>
+<a name="Konfiguration_von_mutt_f%C3%BCr_Einst"> </a> Konfiguration von mutt für Einsteiger und Fortgeschrittene </h2>
+<p></p>
+Nach unserer Diskussion auf der <a class="twikiLink" href="/wiki/bin/view/Main/MailingListe">Mailingliste</a> möchte ich Euch hier ein paar Tips geben wie ich mutt zum Mailen benutze. Ergänzungen von anderen sind gern gesehen, da ich auch nicht alles weiß und nutze.
+<p></p>
+<strong>Wir sollten uns langsam überlegen, die Seite aufzusplitten, sie wird unübersichtlich</strong>
+<p></p>
+-- <a class="twikiLink" href="/wiki/bin/view/Main/JoergHoh">JoergHoh</a> - 12 Aug 2005
+<p></p>
+<p></p>
+<p></p>
+<div class="twikiToc">
+<ul>
+<li> <a href="#Konfiguration_von_mutt_f%C3%BCr_Einst">Konfiguration von mutt für Einsteiger und Fortgeschrittene</a>
+<ul>
+<li> <a href="#Grundlegendes">Grundlegendes</a>
+</li>
+<li> <a href="#Mails_versenden_Bedienung">Mails versenden/Bedienung</a>
+</li>
+<li> <a href="#Geschicktes_bei_der_Mailverarbei">Geschicktes bei der Mailverarbeitung</a>
+</li>
+<li> <a href="#N%C3%BCtzliches_im_muttrc">Nützliches im .muttrc</a>
+</li>
+<li> <a href="#Kleine_Gemeinheiten">Kleine Gemeinheiten</a>
+</li>
+<li> <a href="#Aufsplitten_der_Konfigurationsda">Aufsplitten der Konfigurationsdatei</a>
+</li>
+<li> <a href="#Aliase_Adressbuch_sonst_wird_man">Aliase/Adressbuch (sonst wird man ja verrückt! ;-))</a>
+</li>
+<li> <a href="#Verschiedene_Folder">Verschiedene Folder</a>
+<ul>
+<li> <a href="#Folder_Liste">Folder Liste</a>
+</li>
+</ul>
+</li>
+<li> <a href="#List_reply">List reply</a>
+</li>
+<li> <a href="#procmail_xmultibiff_wie_kommen_d">procmail/xmultibiff (wie kommen die Mails in die Folder)</a>
+<ul>
+<li> <a href="#Generelles">Generelles</a>
+</li>
+<li> <a href="#SpamAssassin">SpamAssassin</a>
+</li>
+<li> <a href="#Einsortieren_von_Mails_in_versch">Einsortieren von Mails in verschiedene Folder</a>
+</li>
+<li> <a href="#Weiterleiten_von_speziellen_Mail">Weiterleiten von speziellen Mails</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+-- <a class="twikiLink" href="/wiki/bin/view/Main/PrinCess">PrinCess</a> - 25 Jul 2005
+<p></p>
+<a name="Grundlegendes">
+<h3>
+<a name="Grundlegendes"> </a> Grundlegendes </h3>
+<p></p>
+Nach der Installation auf dem Unix/Linux Deines Geschmacks findet man /etc/Muttrc mit den Default-Einstellungen,
+die gar nicht so dumm sind. Also nicht gleich dran rumschrauben ;-) Und wenn, dann nur in $HOME/.muttrc, außer man will alle User seines Rechners gleich mit beglücken.
+<p></p>
+Fast alles, was nun kommt gehört ins <strong>$HOME/.muttrc</strong> oder Files, die von diesem eingelesen werden. 
+<p></p>
+<ul>
+<li> <b>Absenderadresse einstellen</b><br>
+      Im Normalfall wird ein ordentlich eingestellter MTA auf einer Unix/Linuxkiste einen vernünftigen Absender für
+      jeden User generieren. Wer sich darauf lieber nicht verlassen will, stellt seine Absenderadresse selber ein:<br>
+     *my_hdr From: Andrea Wardzichowski &lt;andrea+nase@shuttle.de&gt;*<br><br>
+      Laut Doku wird mittlerweile<br>
+      <b>set realname="Joerg Hoh"</b><br>
+      <b>set from="blafasel@irgendwas.invalid"</b><br>
+      präferiert. Damit muss man nicht mehr explizit den Header überschreiben.<br>
+      -- <a class="twikiLink" href="/wiki/bin/view/Main/JoergHoh">JoergHoh</a> - 25 Jul 2005
+</li>
+</ul>
+<p></p>
+<p></p>
+<ul>
+<li> <b>Absenderadresse auch im Envelope</b><br>
+      Damit die oben eingestellte Adresse auch im Envelope erscheint, wählt man<br>
+      <strong>set envelope_from=yes</strong>
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <b>Signature</b><br>
+      Man erstelle ein Signaturfile (max. vier Zeilen, vollständiger Name sollte enthalten sein) und binde es ein<br>
+      <strong>set signature="~/meine.hauptsig"</strong>
+</li>
+</ul>
+<p></p>
+</a><a name="Bedienung">
+<h3>
+<a name="Mails_versenden_Bedienung"> </a> Mails versenden/Bedienung </h3>
+<p></p>
+<ul>
+<li> <strong>mutt aufrufen</strong> <br>
+      Standard ist, daß mutt in /var/spool/mail/username nach Mails guckt. Da liegen sie heutzutage aber gar nicht mehr, das macht aber nix. In dem Fall ruft man <br>
+      <strong>mutt -f /da/wo/die/mails/liegen</strong>
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Mailversenden: m</strong> <br>
+      Man wird nach dem Adressaten gefragt. Einfacher gehts nicht.
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Mail Editieren</strong> <br>
+      Lieblingseditor einstellen (s.u.) wenn was komisches hochkommt ;-))
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Abspeichern im Editor</strong> <br>
+      sodann gelangt man zum abschließenden Menü, daß einem erlaubt<br>
+      c) CCs einzugeben<br>
+      b) Bccs einzugeben <br>
+      f)  im Feld Fcc ein file anzugeben, wo die Mail hingespeichert werden soll<br>
+      r) Reply-to: zu setzen (listen!)<br>
+      a) Attachments anzufügen<br>
+      q) quit/Abbruch<br>
+      e) doch lieber nochmal zu editieren<br>
+      y) Mail versenden.
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+Ich denke ab dieser Stelle sollte man Mails versenden können, nun zu den Specials im .muttrc, die das Leben
+einfacher machen.
+<p></p>
+<p></p>
+</a><a name="geschickt">
+<h3>
+<a name="Geschicktes_bei_der_Mailverarbei"> </a> Geschicktes bei der Mailverarbeitung </h3>
+<p></p>
+<ul>
+<li> Mit <strong>t wie tag</strong> kann man Nachrichten, die man zusammen verarbeiten will, markieren. Es erscheint ein * (Stern) 
+     im Index.
+</li>
+</ul>
+<p></p>
+<ul>
+<li> Mit T (Groß-T) kann man zum markieren ein Textmuster angeben (Autor, Subject)
+</li>
+</ul>
+<p></p>
+<ul>
+<li> Taggen nach Datum, z.B. alte Logmeldungen:<br>
+      T (Groß-T)<br>
+      <strong>~d &gt;30d</strong> # ~d bezieht sich aufs Datum, &gt;30d heißt älter als 30 Tage
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Getaggte Nachrichten verarbeiten: ; (semikolon)</strong> <br>
+      Tippt man im index ; (Semikolon) bezieht sich das darauffolgende Kommando auf die getaggten Nachrichten,
+      z.B.<br>
+      s) speichern<br>
+      C) kopieren, aber auch <br>
+      r) reply<br>
+      f) forward <br>
+      b) bounce!
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Sortierung der Mails in der Anzeige</strong> <br>
+   Nicht zu verwechseln damit, wie die Mails gespeichert werden!<br>
+   Neueste Mails zuoberst anzeigen: <strong>set sort=reverse-date-received</strong> (nehme ich gern für den Privatfolder)<br>
+   Mails in Threads anzeigen: <strong>set sort=threads</strong> (für Listen unerläßlich!)<br>
+   Umschalten der Sortierung im laufenden Betrieb: o für Options.
+</li>
+</ul>
+<p></p>
+-- </a><a class="twikiLink" href="/wiki/bin/view/Main/PrinCess">PrinCess</a> - 26 Jul 2005
+<p></p>
+<a name="muttrc">
+<h3>
+<a name="N%C3%BCtzliches_im_muttrc"> </a> Nützliches im .muttrc </h3>
+<p></p>
+<ul>
+<li> <b>Umlautkodierung</b><br>
+       <strong>set send_charset=us-ascii:iso-8859-1:iso-8859-15:utf-8</strong> <br>
+       <strong>set charset=iso-8859-15</strong> <br>
+       <strong>set allow_8bit</strong> 
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Einleitung des Quotings:</strong> "On Mon, Jul 25, 2005 at 03:41:23PM +0200, Name wrote:"<br>
+      <strong>set attribution="On %d, %n wrote:"</strong>
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Lieblingseditor einstellen (sehr wichtig!)</strong> <br>
+      <strong>set editor="vi"</strong>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>  <strong>Alle herausgehenden Mails sichern</strong> <br>
+       <strong>set record=/pfad/zum/gigantischen/mailfile</strong> <br>
+       Wenn man seine herausgehenden Mails nicht im gleichen Folder sichert (kommt weiter unten), dann kann es
+       sinnvoll sein, sie wenigstens alle in ein File zu schreiben, dann muß man zwar wenn man etwas sucht, einen
+       großen Folder durchsuchen, aber es geht wenigstens nichts verloren.
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Forwards kennzeichnen</strong> <br>
+       <strong>set forw_format="%s (fwd)"</strong>
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>postpone/nicht abgeschickte Mails sichern</strong> <br>
+       <strong>set postpone=yes</strong> <br>
+       <strong>set postponed=/pfad/zum/postpone/file</strong>
+       Manchmal tippt man eine Mail und dann ist doch noch etwas unklar. Damit nicht alles verlorengeht, 
+       geht man im Absendemenü auf "q", dann wird die Mail mit den o.g. Einstellungen in den passenden Folder
+       geschrieben. Wiederholen mit Ctrl-R.
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Header anzeigen</strong> <br>
+      Im normalen Betrieb möchte man nicht immer alle Mailheader (inkl. Received-Header) sehen. Man 
+      beschränkt sich also, kann sich aber mit "h" alle Header zu jeder Zeit ansehen:<br>
+      ignore * # erstmal alles ignorieren, dann einzelnes herausgreifen<br>
+      unignore Subject: <br>
+      unignore From<br>
+      unignore Date:<br>
+      unignore To:<br>
+      unignore CC:<br>
+      unignore Reply-To:<br>
+      (ist natürlich auch Geschmackssache)
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Bouncen und back</strong> <br>
+      ... fängt dummerweise beides mit B an. Um in der Mailübersicht (index) eine Mail mit b zu bouncen und 
+      innerhalb einer Mail (pager) mit b wie back eine Seite zurückzublättern, stellt man ein:<br>
+      <strong>bind pager B bounce-message</strong> # groß B bounct <br>
+      <strong>bind pager b previous-page</strong>    # klein b blättert innerhalb der Mail<br>
+      <strong>bind index B bounce-message</strong> # im index soll B bouncen
+</li>
+</ul>
+<p></p>
+<ul>
+<li>  <strong>mutt und pop3</strong> <br>
+      Auch ziemlich einfach, POP3-Server und Username angeben:<br>
+      <strong>set pop_host="mein.pop.server.bla"</strong> <br>
+      <strong>set pop_user="lusername"</strong> <br>
+      Mail abholen dann mit G (Groß-G), dann wird das PW abgefragt.
+</li>
+</ul>
+<p></p>
+<ul>
+<li> Es gibt noch eine ganze Menge mehr, was man alles einstellen kann, das ist auch Geschmackssache.
+       Am besten an  dieser Stelle dann wirklich einmal googeln, viele Leute haben ihr .muttrc ins Netz gestellt.
+</li>
+</ul>
+<p></p>
+</a><a name="gemein">
+<h3>
+<a name="Kleine_Gemeinheiten"> </a> Kleine Gemeinheiten </h3>
+<p></p>
+<ul>
+<li> <strong>Doofe HTML-Mails</strong> <br>
+       Wer sich schon immer darüber geärgert hat, daß Leute HTML versenden statt Plain ASCII, kann zumindest
+       OE-User ärgern indem er folgende Zeile in den Header einfügt, der dann von OE angezeigt wird:<br>
+       <strong>my_hdr X-message-flag: Please send plain text messages only. Thank you.</strong> <br>
+        (auch wenn einen sowas als mutt-User gar nicht mehr so juckt, weil mutt es vernünftig verarbeitet)<br>
+       Gefunden in d.a.s.r
+</li>
+</ul>
+<p></p>
+<ul>
+<li> <strong>Re: AW: Re: Re: AW: AW:</strong> <br>
+      (gah!)<br>
+      Eine vernünftige Antwort lautet "Re: Subject". Nix anderes. Korrigieren kann man das leicht und automagisch
+      durch<br>
+      set reply_regexp="^((re([\[^-][0-9]+\]?)*|aw|antwort|antw|wg):[ \t]*)+" <br>
+      Gefunden bei delta. Danke!
+</li>
+</ul>
+<p></p>
+</a><a name="Konfigdateien">
+<h3>
+<a name="Aufsplitten_der_Konfigurationsda"> </a> Aufsplitten der Konfigurationsdatei </h3>
+Mutt kann seine Konfigurationsdatei auch unter <strong>$HOME/.mutt/muttrc</strong> finden, so daß man weitere notwendigen Daten, die zu mutt gehören, ebenfalls unter <strong>$HOME/.mutt</strong> ablegen kann. So ist es möglich, in der muttrc weitere Dateien mittels <strong>source $HOME/.mutt/mailboxes</strong> nachzuladen (das hat Sinn, wenn man beispielsweise die Liste der Mailboxen in einer extra Datei pflegen will).
+<p></p>
+-- </a><a class="twikiLink" href="/wiki/bin/view/Main/JoergHoh">JoergHoh</a> 
+<p></p>
+<p></p>
+<a name="Aliase">
+<h3>
+<a name="Aliase_Adressbuch_sonst_wird_man"> </a> Aliase/Adressbuch (sonst wird man ja verrückt! ;-)) </h3>
+<p></p>
+Die einfachste Art, eine Adresse als Alias abzuspichern ist Cursor im Index auf die Mail bewegen, a drücken. 
+Im Folgenden fragt mutt nach dem Aliasnamen (ich nehm da gerne Nicks), Mailadresse und Realname und schlägt vor, was er in der Mail findet. Zum Schluß wird gefragt, wo hingespeichert werden soll, da ist
+<strong>$HOME/.mutt/aliases</strong> eine gute Wahl.
+<p></p>
+-- </a><a class="twikiLink" href="/wiki/bin/view/Main/PrinCess">PrinCess</a> - 26 Jul 2005
+<p></p>
+<p></p>
+<a name="Folder">
+<h3>
+<a name="Verschiedene_Folder"> </a> Verschiedene Folder </h3>
+<p></p>
+Um hier nochmals die Vorteile verschiedener Folder/Mailboxen zu erwähnen: man kann Systemmeldungen von
+verschiedenen Mailinglisten separieren und je nach Folder Absender und Signature, Reply-To und wohin eine 
+gesendete Mail gespeichert werden soll, detailliert einstellen.
+<p></p>
+Ganz wichtig: passendes From. Auf diese Weise sendet man an Listen immer mit der Mailadresse,
+<strong>mit der man auch subscribed ist</strong> und erspart dem Listenadmin Arbeit. Beruflich kann es auch nützlich sein,
+einen <strong>Role-Account</strong> zu verwenden, z.B. hostmaster@... oder hotline@...  So kommt der Kunde/Mailpartner
+nicht auf die Idee, an private Adressen zu senden (und man selber ist dann auf Dienstreise oder im Urlaub oder
+krank).
+<p></p>
+Nehmen wir also an, die Mails würden mit procmail in ein Verzeichnis geschrieben, dort jeweils in einen Folder
+(eine Datei). Für den Mailempfang mit Maildir (Verzeichnis statt Folder und eine Datei pro Mail) müsste es aber ähnlich gehen.
+<p></p>
+Wir binden die Folder-Konfigurationsdatei in die .muttrc ein:<br>
+<strong>source /home/andrea/.mutt/folder_hooks</strong>
+<p></p>
+Die folder-hooks für den Folder "nase" sehen dann so oder ähnlich aus:
+<p></p>
+folder-hook nase my_hdr From: Andrea Wardzichowski <nase> <br>
+folder-hook nase set envelope_from=yes <br>
+folder-hook nase set sort=threads <br>
+folder-hook nase my_hdr Reply-To: <a href="mailto:nase@.....de">nase@.....de</a> # doppelt hält besser <br>
+folder-hook nase set signature=/home/andrea/signature.nase <br>
+folder-hook nase set record=/home/andrea/.procmail/nase # Kopie von ges. Mails in den gleichen Folder <br>
+<p></p>
+<p></p>
+-- <a class="twikiLink" href="/wiki/bin/view/Main/PrinCess">PrinCess</a> - 26 Jul 2005
+<p></p>
+<h4>
+<a name="Folder_Liste"> </a> Folder Liste </h4>
+Auf der Suche nach einer Mögichkeit eine Folder-Liste anzuzeigen, hab ich diesen Patch gefunden:<br>
+<a href="http://thomer.com/mutt/" target="_top">http://thomer.com/mutt/</a> <br>
+Zwei kleine "Bugs":
+<ul>
+<li> die automatische Anzeige der Anzahl neuer/ungelesener Mails pro Folder funktioniert nur bei lokalen Mailboxen...<br>
+     (Hat jemand lust (und Zeit) einen Patch dafür zu schreiben, damit das auch mit IMAP klappt? ;-) )
+</li>
+</ul>
+<p></p>
+<ul>
+<li> das Debian-Packet für das gepatchte mutt hat den gleichen Namen und die gleiche Version, wie das original mutt-Packet...<br>
+     das führt dazu, dass die gepatchte Version bei jedem dist-upgrade wieder duch die originale ersetzt wird...
+</li>
+</ul>
+<p></p>
+<p></p>
+-- <a class="twikiLink" href="/wiki/bin/view/Main/SebastianRies">SebastianRies</a> - 12 Aug 2005
+<p></p>
+Es gibt das Projekt mutt-ng, in dem die Funktionalität des mutt massiv aufgebohrt wird. Es ist allerdings die Frage, ob mutt am Ende noch ein Mailreader ist oder eine eierlegende Wollmilchsau wie gnus. Der Maintainer des Debian-Packages von mutt hat eine Reihe von sinnvollen Features und Patches aus mutt-ng übernommen und eingebaut (insbesondere ein paar Patches, die einen positiven Einfluss auf die Geschwindigkeit haben).
+<p></p>
+-- <a class="twikiLink" href="/wiki/bin/view/Main/JoergHoh">JoergHoh</a> - 12 Aug 2005
+<p></p>
+<p></p>
+<a name="listreply">
+<h3>
+<a name="List_reply"> </a> List reply </h3>
+<p></p>
+Um <strong>list reply</strong> einzustellen, konfiguriert man im .muttrc oder im geeigneten folder-hook:<br>
+<strong>subscribe public@cccs.de</strong>. Mit L (Groß-L) kann man dann ganz leicht ein reply auf die Liste machen.
+<p></p>
+Nachteil: in der Standardkonfiguration zeigt der mutt dann im Index nur "To Listenname" an, statt den
+Adressen/Namen der Absender. Fand ich nicht so prickelnd, aber ich such mal wo man das umstellt.
+Hängt mit der Default-Darstellung des From zusammen, er nimmt die Listenadresse, so ein passenden subscribe-Statement vorhanden ist.
+<p></p>
+-- </a><a class="twikiLink" href="/wiki/bin/view/Main/PrinCess">PrinCess</a> - 01 Aug 2005
+<p></p>
+<p></p>
+<h3>
+<a name="procmail_xmultibiff_wie_kommen_d"> </a> procmail/xmultibiff (wie kommen die Mails in die Folder) </h3>
+<p></p>
+Bei den meisten Linuxdistributionen ist procmail bereits als LDA (<span class="twikiNewLink" style="background : #FFFFCE;"><font color="#0000FF">LocalDeliveryAgent</font><a href="/wiki/bin/edit/Main/LocalDeliveryAgent?topicparent=Main.MailMitMutt"><sup>?</sup></a></span>) eingetragen, so dass man auf der Systemseite nix mehr einstellen muss, und es reicht einfach im <span class="twikiNewLink" style="background : #FFFFCE;"><font color="#0000FF">HomeDir</font><a href="/wiki/bin/edit/Main/HomeDir?topicparent=Main.MailMitMutt"><sup>?</sup></a></span> eine .procmailrc Datei anzulegen und die Befehle direkt einzugeben.
+<p></p>
+Mal eine leicht kommentierte .procmailrc:
+<p></p>
+<h4>
+<a name="Generelles"> </a> Generelles </h4>
+<pre>
+PATH=$HOME/bin:/usr/bin:/bin:/usr/local/bin:.
+MAILDIR=$HOME/mail      # You'd better make sure it exists
+DEFAULT=$MAILDIR/mbox
+LOGFILE=$MAILDIR/from
+LOCKFILE=$HOME/.lockmail
+</pre>
+<p></p>
+<h4>
+<a name="SpamAssassin"> </a> <span class="twikiNewLink" style="background : #FFFFCE;"><font color="#0000FF">SpamAssassin</font><a href="/wiki/bin/edit/Main/SpamAssassin?topicparent=Main.MailMitMutt"><sup>?</sup></a></span> </h4>
+<em>Startet für jede eingehende Mail einen <span class="twikiNewLink" style="background : #FFFFCE;"><font color="#0000FF">SpamAssassin</font><a href="/wiki/bin/edit/Main/SpamAssassin?topicparent=Main.MailMitMutt"><sup>?</sup></a></span> und prüft die Mail auf Spam.</em>
+<pre>
+:0fw
+| spamassassin
+</pre>
+<p></p>
+<em>Oder noch besser, wenn der spamd auf dem System laeuft, einfach den spamc aufrufen, das ist besser für die Systemlast.</em>
+<pre>
+:0fw
+| spamc -f
+</pre>
+<p></p>
+_Mehr zu <span class="twikiNewLink" style="background : #FFFFCE;"><font color="#0000FF">SpamAssassin</font><a href="/wiki/bin/edit/Main/SpamAssassin?topicparent=Main.MailMitMutt"><sup>?</sup></a></span> auf <a href="http://svn.apache.org/repos/asf/spamassassin/branches/3.0/INSTALL" target="_top">http://svn.apache.org/repos/asf/spamassassin/branches/3.0/INSTALL</a> _
+<p></p>
+<em>Wegfiltern der als Spam erkannten Mails</em>
+<pre>
+:0:
+* ^X-Spam-Status: Yes
+$MAILDIR/caughtspam
+</pre>
+<p></p>
+<h4>
+<a name="Einsortieren_von_Mails_in_versch"> </a> Einsortieren von Mails in verschiedene Folder </h4>
+<em>Mails der <a class="twikiLink" href="/wiki/bin/view/Main/CCCS">CCCS</a> Mailingliste nach cccs-public</em>
+<pre>
+:0:
+* ^From.public-admin@cccs.invalid
+$MAILDIR/cccs-public
+</pre>
+<p></p>
+<em>CCC Intern Mails nach ccc-intern</em>
+<em>Wichtig ist hier der Regexp [0-9]* da der Envelope Sender bei jeder Mail unterschiedlich ist.</em>
+<p></p>
+<pre>
+:0:
+* ^From.intern-return-[0-9]*-andreas=bawue.net@lists.ccc.invalid
+$MAILDIR/ccc-intern
+</pre>
+<p></p>
+<em>Man kann das ganze erweitern in <verbatim>From.intern-return-.*@lists.ccc.invalid</verbatim>. Damit sollte das ganze von der Empfängeradresse unabhängig sein.</em>
+<p></p>
+<em>Noch besser ist es, anhand fester Headerzeilen in einer Mail die einzelnen Mailingliste in separate Folder einzuordnen</em>
+<pre>
+:0: 
+* 1^0 List-Id:.*&lt;public.cccs.de&gt;
+* 1^0 (To|CC):.*ccc-s@bawue.de.*
+* 1^0 (To|CC):.*ccc-s-admin@bawue.de.*
+$MDIR/.lists.ccc.cccs-public/
+</pre>
+<p></p>
+<em>Im gewählten Beispiel sieht man gleichzeitig noch, wie eine "Oder"-Verknüpfung zwischen den einzelnen Bedingungen hergestellt werden kann.</em> -- <a class="twikiLink" href="/wiki/bin/view/Main/JoergHoh">JoergHoh</a> - 26 Jul 2005
+<p></p>
+<h4>
+<a name="Weiterleiten_von_speziellen_Mail"> </a> Weiterleiten von speziellen Mails </h4>
+<em>Alle mails die nicht in irgendwelche Ordner wegsortiert wurden, werden zusätzlich als Kopie an mein Mobiltelefon geschickt.</em>
+<p></p>
+<pre>
+:0c
+! 01701234567@mobilfunkprovider.invalid
+</pre>
+<p></p>
+Das ganze kombiniert sähe dann so aus:
+<p></p>
+<pre>
+PATH=$HOME/bin:/usr/bin:/bin:/usr/local/bin:.
+MAILDIR=$HOME/mail      # You'd better make sure it exists
+DEFAULT=$MAILDIR/mbox
+LOGFILE=$MAILDIR/from
+LOCKFILE=$HOME/.lockmail
+
+:0fw
+| spamc -f
+
+:0:
+* ^X-Spam-Status: Yes
+$MAILDIR/caughtspam
+
+:0:
+* ^From.public-admin@cccs.invalid
+$MAILDIR/cccs-public
+
+:0:
+* ^From.intern-return-[0-9]*-andreas=bawue.net@lists.ccc.invalid
+$MAILDIR/ccc-intern
+
+:0c
+! 01701234567@mobilfunkprovider.invalid
+</pre>
+<p></p>
+-- <a class="twikiLink" href="/wiki/bin/view/Main/IxS">IxS</a> - 26 Jul 2005
+<br class="twikiClear">
+<a name="TopicEnd"></a>
+
+</nase></a>
