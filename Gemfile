@@ -12,4 +12,5 @@ gem 't'
 gem 'nokogiri'
 gem 'feedzirra'
 gem 'ri_cal'
+gem 'rqrcode_png'
 

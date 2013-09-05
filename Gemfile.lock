@@ -8,6 +8,7 @@ GEM
     adsf (1.0.1)
       rack (>= 1.0.0)
     builder (3.2.2)
+    chunky_png (1.2.8)
     coderay (1.0.9)
     colored (1.2)
     cookiejar (0.3.0)
@@ -95,6 +96,10 @@ GEM
       json (~> 1.4)
     retryable (1.3.2)
     ri_cal (0.8.8)
+    rqrcode (0.4.2)
+    rqrcode_png (0.1.1)
+      chunky_png
+      rqrcode
     sass (3.2.10)
     sax-machine (0.1.0)
       nokogiri (> 0.0.0)
@@ -137,6 +142,7 @@ DEPENDENCIES
   nokogiri
   rdiscount
   ri_cal
+  rqrcode_png
   sass
   systemu
   t

@@ -3,7 +3,34 @@ aliases     :cf
 summary     'creates svg for flyer'
 description 'Create SVG file with content of given event'
 
+
 class CreateFlyer < ::Nanoc::CLI::CommandRunner
+  require 'rqrcode_png'
+
+  # Monkey-patch qr generator
+  module RQRCodePNG
+    class Sequence
+      def border_width()
+        # No boundary around image
+        0
+      end
+    end
+  end
+
+  def getQR(data)
+    qr = nil
+    size = 7
+    while (!qr)
+      begin
+        qr = RQRCode::QRCode.new(data, :size => size, :level => :l)
+      rescue RQRCode::QRCodeRunTimeError
+        qr = nil
+        size = size + 1
+      end
+    end
+    qr
+  end
+
   def run
     # Check arguments
     if arguments.length!=2
@@ -24,6 +51,7 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     end
     # Collect data
     merge_item_location_data(event[:location], self.site.items['/_data/locations/'].attributes)
+    calculate_to_date(event)
     self.site.compile
     title = event[:title]
     date = event[:startdate]
@@ -60,6 +88,16 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
         "#{i[:startdate].strftime("%d.%m.%Y, %H:%M")}h: #{i[:title]}"
       end
     end
+    vevent = []
+    vevent << "BEGIN:VEVENT"
+    vevent << "SUMMARY:#{event[:title]}"
+    vevent << "DTSTART:#{event[:startdate].getutc.strftime("%Y%m%dT%H%M%SZ")}"
+    vevent << "DTEND:#{event[:enddate].getutc.strftime("%Y%m%dT%H%M%SZ")}"
+    vevent << "LOCATION:#{location_name.join(", ")}"
+    vevent << "DESCRIPTION:Weitere Infos: #{site.config[:base_url]}#{event.path()}"
+    vevent << "END:VEVENT"
+    # Generate qr code
+    qr_img = getQR(vevent.join("\n")).to_img
     # Read template
     file = File.open(self.site.items['/_data/aushang/'].raw_filename(), "r:UTF-8")
     template = file.read
@@ -71,6 +109,7 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     template.gsub!('${location.name}', location_name.join(", "))
     template.gsub!('${location.address}', location_address.join(", "))
     template.gsub!('${location.geo}', location_geo)
+    template.gsub!('${qrcode}', "#{qr_img.to_data_url}")
     for i in 0..5 do
       template.gsub!("${calendar.#{i}}", calendar[i] || "")
     end
