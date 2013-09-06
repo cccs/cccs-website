@@ -2,19 +2,46 @@
 title: Impressum
 kind: page
 -----
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
-elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-est Lorem ipsum dolor sit amet.
+Verantwortlich für den Inhalt dieser Seiten ist der Chaos Computer Club Stuttgart e. V.
+
+Hinweise zur allgemeinen Kontaktaufnahme gibt es im [Kontakt-Bereich](/about/).
+Eine Möglichkeit, uns persönlich kennenzulernen, bieten wir im Rahmen
+der [Stammtische](/about/) und bei unserer [Vortragsreihe](/events/).
+
+Postanschrift:
+
+Chaos Computer Club Stuttgart e. V.<br/>
+c/o Hanno Wagner<br/>
+Neckarstraße 168b<br/>
+70190 Stuttgart<br/>
+Germany
+
+E-Mail: vorstand@cccs.de
+
+Der Chaos Computer Club Stuttgart e. V. ist eingetragen im
+Vereinsregister des Amtsgerichts Stuttgart unter der
+Vereinsregisternummer 720455.
+
+## Erklärung zum Datenschutz für www.cccs.de
+
+Von allen Besuchern werden gespeichert und auf unbestimmte Zeit
+aufbewahrt:
+
+* Datum/Uhrzeit,
+* die abgerufene Seite,
+* Statuscode des Webservers,
+* Browser/Betriebssystem,
+* der Referer.
+
+Die IP-Adresse, von der aus die Seite abgerufen wurde, speichern wir
+nicht. Somit läßt sich anhand unserer Logdaten kaum ein Zusammenhang zu
+einzelnen Besuchern herstellen. Wir verwenden auch keine Cookies, um
+Benutzer zu identifizieren. Wir geben die geloggten Daten nicht an
+Dritte weiter. Wir versuchen, im Rahmen der üblichen Vorsichtsmaßnahmen
+zur Sicherung unseres Servers zu verhindern, daß Dritte von diesen Daten
+Kenntnis erlangen.
+
+## Lizenz der Inhalte
 
 <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de"><img
