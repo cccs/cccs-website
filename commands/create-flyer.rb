@@ -1,4 +1,4 @@
-usage       'create-flyer eventnode outputdir'
+usage       'create-flyer eventnode [outputdir]'
 aliases     :cf
 summary     'creates svg for flyer'
 description 'Create SVG file with content of given event'
@@ -6,6 +6,7 @@ description 'Create SVG file with content of given event'
 
 class CreateFlyer < ::Nanoc::CLI::CommandRunner
   require 'rqrcode_png'
+  require 'pathname'
 
   def get_qr(data)
     qr = nil
@@ -45,9 +46,18 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     system("inkscape -A #{pdf_name} #{svg_name}")
   end
 
+  def allow_creation(filename)
+    if File.exist?(filename)
+      puts "Skipping creation of #{filename} (file already exists)"
+      false
+    else
+      true
+    end
+  end
+
   def run
     # Check arguments
-    if arguments.length!=2
+    if arguments.length<1
       puts command.help
       exit 1
     end
@@ -63,6 +73,12 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
       puts "Node #{nodename} is not an event"
       exit 1
     end
+    # Get output dir
+    outputdir = if arguments.length>1
+                  Pathname.new(arguments[1])
+                else
+                  Pathname.new(event.attributes[:filename]).dirname
+                end
     # Collect data
     merge_item_location_data(event[:location], self.site.items['/_data/locations/'].attributes)
     calculate_to_date(event)
@@ -113,12 +129,25 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     vevent << "DESCRIPTION:Weitere Infos: #{site.config[:base_url]}#{event.path()}"
     vevent << "END:VEVENT"
     data[:qr_img] = get_qr(vevent.join("\n")).to_img
+    # Filenames
+    aushang_svg = (outputdir + '_aushang.svg').to_s
+    flyer_svg = (outputdir + '_flyer.svg').to_s
+    aushang_pdf = (outputdir + 'aushang.pdf').to_s
+    flyer_pdf = (outputdir + 'flyer.pdf').to_s
     # Write svgs
-    create_svg(self.site.items['/_data/aushang/'].raw_filename(), "#{arguments[1]}/aushang.svg", data)
-    create_svg(self.site.items['/_data/flyer/'].raw_filename(), "#{arguments[1]}/flyer.svg", data)
+    if allow_creation(aushang_svg)
+      create_svg(self.site.items['/_data/aushang/'].raw_filename(), aushang_svg, data)
+    end
+    if allow_creation(flyer_svg)
+      create_svg(self.site.items['/_data/flyer/'].raw_filename(), flyer_svg, data)
+    end
     # Create pdfs
-    svg_to_pdf("#{arguments[1]}/aushang.svg", "#{arguments[1]}/aushang.pdf")
-    svg_to_pdf("#{arguments[1]}/flyer.svg", "#{arguments[1]}/flyer.pdf")
+    if allow_creation(aushang_pdf)
+      svg_to_pdf(aushang_svg, aushang_pdf)
+    end
+    if allow_creation(flyer_pdf)
+      svg_to_pdf(flyer_svg, flyer_pdf)
+    end
   end
 end
 
