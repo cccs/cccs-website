@@ -41,6 +41,10 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     File.open(output_name, 'w:UTF-8') {|f| f.write(template) }
   end
 
+  def svg_to_pdf(svg_name, pdf_name)
+    system("inkscape -A #{pdf_name} #{svg_name}")
+  end
+
   def run
     # Check arguments
     if arguments.length!=2
@@ -112,6 +116,9 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     # Write svgs
     create_svg(self.site.items['/_data/aushang/'].raw_filename(), "#{arguments[1]}/aushang.svg", data)
     create_svg(self.site.items['/_data/flyer/'].raw_filename(), "#{arguments[1]}/flyer.svg", data)
+    # Create pdfs
+    svg_to_pdf("#{arguments[1]}/aushang.svg", "#{arguments[1]}/aushang.pdf")
+    svg_to_pdf("#{arguments[1]}/flyer.svg", "#{arguments[1]}/flyer.pdf")
   end
 end
 
