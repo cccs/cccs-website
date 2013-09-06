@@ -61,6 +61,14 @@
                       </ul>
                     </li>
                     <% end %>
+                    <% if @items["#{@item.identifier}aushang/"] || @items["#{@item.identifier}flyer/"] %>
+                    <li class="icon-bullhorn commaseparated" title="Aushang, Flyer, etc.">
+                      <ul>
+                        <% if @items["#{@item.identifier}aushang/"] %><li><a href="<%= @items["#{@item.identifier}aushang/"].path %>">Aushang (PDF)</a></li><%end%>
+                        <% if @items["#{@item.identifier}flyer/"] %><li><a href="<%= @items["#{@item.identifier}flyer/"].path %>">Flyer (PDF)</a></li><%end%>
+                      </ul>
+                    </li>
+                    <% end %>
                   </ul>
                 </header>
 
