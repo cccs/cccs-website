@@ -7,16 +7,6 @@ description 'Create SVG file with content of given event'
 class CreateFlyer < ::Nanoc::CLI::CommandRunner
   require 'rqrcode_png'
 
-  # Monkey-patch qr generator
-  module RQRCodePNG
-    class Sequence
-      def border_width()
-        # No boundary around image
-        0
-      end
-    end
-  end
-
   def get_qr(data)
     qr = nil
     size = 7
