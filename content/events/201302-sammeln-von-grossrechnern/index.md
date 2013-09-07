@@ -13,6 +13,14 @@ location:
   location: bib
   details: Max-Bense-Forum (UG)
 public: true
+material:
+  -
+    file: cray-cyber_slides.pdf
+    title: Folien (PDF)
+  -
+    file: cray-cyber_bilder.zip
+    title: "Bilder (Lizenz: cc-by)"
+audio: cccs-201302.mp3
 ---
 An zahlreichen Beispielen des Projekts [Cray-Cyber.org](http://cray-cyber.org) und der
 datArena zeige ich die besonderen Herausforderungen beim Sammeln von

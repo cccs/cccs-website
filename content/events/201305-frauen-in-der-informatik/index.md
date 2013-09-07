@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    file: 20130516_CCC_Gender.pdf
+    title: "Folien (PDF)"
 ---
 Seit Jahrzehnten arbeiten Frauen in der Informatik, aber ihre
 Arbeitsbedingungen sind nicht gleich. Die Gender-Forschung zeigt auf,

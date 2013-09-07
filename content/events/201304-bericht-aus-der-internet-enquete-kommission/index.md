@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: cccs-201304.mp3
 ---
 Alvar Freude berichtet über Kampfabstimmungen, Geschäftsordnungstricks,
 das Feilschen um einzelne Wörter und andere Tücken der Politik. Er ist
