@@ -44,6 +44,39 @@ angesehen werden. Bitte beachten: Der Webserver behandelt keine
 Redirect-Anweisungen, weshalb einige Links aus dem Menü nicht
 funktionieren.
 
+### Troubleshooting
+
+#### Probleme mit nokogiri
+
+Aus Gründen scheint das bundle von Nokogiri mitunter Schwierigkeiten zu
+machen:
+
+    LoadError: cannot load such file -- nokogiri/nokogiri
+
+Lösung: Zu Nokogiri gehört eine native Bibliothek, die im falschen
+Verzeichnis des gems landet. Zunächst mittels
+
+    gem environment
+
+das Installationsverzeichnis der gems herausfinden. Innerhalb dieses
+Verzeichnis gibt es ein Unterverzeichnis `gems/nokogiri-1.6.0/lib/nokogiri`.
+Hier hineinwechslen und einen Symlink auf die Bibliothek anlegen
+(alternativ hineinkopieren).
+
+    ln -s ../../ext/nokogiri/nokogiri.so .
+
+#### Fehlendes sass-Mixin
+
+Sollte beim Übersetzen von sass-Dateien das Fehlen von Dateien
+angenörgelt werden, z.B.:
+
+    Sass::SyntaxError: File to import not found or unreadable:
+    bootstrap/mixins
+
+so fehlen mit großer Wahrscheinlichkeit die abhängigen git-Submodule.
+Beim Klonen des Repositories mit `git clone --recursive ...` die
+Submodule automatisch mitholen.
+
 
 ## Allgemeine Hinweise für Webseiten-Inhalte
 
