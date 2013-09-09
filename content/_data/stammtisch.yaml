@@ -1,98 +1,122 @@
 ---
 events:
-- startdate: 2013-01-01 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-01-01 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-01-16 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-01-16 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-02-05 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-02-05 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-02-20 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-02-20 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-03-05 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-03-05 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-03-20 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-03-20 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-04-02 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-04-02 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-04-17 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-04-17 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-05-07 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-05-07 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-05-22 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-05-22 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-06-04 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-06-04 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-06-19 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-06-19 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-07-02 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-07-02 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-07-17 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-07-17 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-08-06 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-08-06 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-08-21 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-08-21 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-09-03 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-09-03 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-09-18 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-09-18 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-10-01 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-10-01 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-10-16 18:00:00.000000000 +02:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-10-16 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-11-05 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-11-05 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-11-20 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-11-20 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
-- startdate: 2013-12-03 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2013-12-03 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: zadu
-- startdate: 2013-12-18 18:00:00.000000000 +01:00
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2013-12-18 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack

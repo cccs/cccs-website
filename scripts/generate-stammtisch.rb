@@ -5,9 +5,10 @@ require 'date'
 require 'yaml'
 
 
-def event(day, dayoffset, location)
+def event(day, dayoffset, title, location)
   startDate = Time.local(day.year, day.month, day.day + dayoffset, 18, 0, 0)
   {
+    'title' => title,
     'startdate' => startDate,
     'duration' => '4h',
     'location' => {
@@ -27,8 +28,8 @@ for month in 1..12
                  else
                    date + (9-date.wday)
                  end
-  result['events'] << event(firsttuesday, 0, 'zadu')
-  result['events'] << event(firsttuesday, 15, 'shack')
+  result['events'] << event(firsttuesday, 0, 'CCCS-Stammtisch (Zadu-Bar)', 'zadu')
+  result['events'] << event(firsttuesday, 15, 'CCCS-Stammtisch (shackspace)', 'shack')
 end
 
 puts result.to_yaml
