@@ -17,7 +17,7 @@ Verzeichnisse `layout` und `lib`) stehen unter der Creative-Commons-Lizenz
 
 Design und Logos des CCCS bleiben von obigen Regeln unberührt, alle Rechte liegen
 hier beim [CCCS](http://www.cccs.de/). Vor einer Verwendung ist die
-schriftliche Erlaubnis des Vereinsvorstands.
+schriftliche Erlaubnis des Vereinsvorstands einzuholen.
 
 
 ## Übersetzen der Seite
