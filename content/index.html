@@ -7,7 +7,7 @@ feed:
   title: 'CCCS - Neueste Artikel'
 -----
 <div class="row">
-  <div class="span12">
+  <div class="span8">
     <img src="/img/logo-klein.png" alt="CCCS-Logo" class="pull-right" />
     <h1>Herzlich willkommen beim CCC Stuttgart</h1>
     <p>
@@ -27,38 +27,6 @@ feed:
     Artikel und Notizen. Wenn Du diese automatisch beziehen möchtest, kannst
     Du sie <a href="/atom.xml">per Atom-Feed</a> abonnieren.
   </div>
-</div>
-<div class="row">
-  <div class="span8">
-    <% upcomingEvents = get_events().select { |e| e[:startdate].to_datetime > DateTime.now }
-    if (upcomingEvents.size>0)
-      upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
-    %>
-    <div class="well well-large">
-      <article itemscope itemtype="http://schema.org/EducationEvent">
-        <h1><a href="<%= upcomingEvents[0].path() %>">Nächster Vortrag</a></h1>
-        <%= render 'event_header', :item => upcomingEvents[0], :heading => false, :link => false %>
-        <p>
-          <a itemprop="url" href="<%= upcomingEvents[0].path() %>">Weitere Informationen</a>
-        </p>
-      </article>
-    </div>
-    <% end %>
-    <% upcomingRegularsTable = get_regulars_tables().select { |e| e[:startdate].to_datetime > DateTime.now }
-    if (upcomingRegularsTable.size>0)
-      upcomingRegularsTable.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
-    %>
-    <div class="well well-large">
-      <article itemscope itemtype="http://schema.org/SocialEvent">
-        <h1><a href="#">Nächster <span itemprop="name">CCCS Stammtisch</span></a></h1>
-        <%= render 'event_header', :item => upcomingRegularsTable[0], :heading => false, :link => false %>
-        <p>
-          <a itemprop="url" href="/about/">Unsere Stammtische</a>
-        </p>
-      </article>
-    </div>
-    <% end %>
-  </div>
   <div class="span4">
     <h1>Kalender</h1>
     <p>
@@ -69,6 +37,40 @@ feed:
     <%= render 'calendar_list', :events => allUpcomingEvents.first(10) %>
     <% end %>
   </div>
+</div>
+<div class="row">
+  <% upcomingEvents = get_events().select { |e| e[:startdate].to_datetime > DateTime.now }
+  if (upcomingEvents.size>0)
+    upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+  %>
+  <div class="span6">
+    <div class="well well-large">
+      <article itemscope itemtype="http://schema.org/EducationEvent">
+        <h1><a href="<%= upcomingEvents[0].path() %>">Nächster Vortrag</a></h1>
+        <%= render 'event_header', :item => upcomingEvents[0], :heading => false, :link => false %>
+        <p>
+          <a itemprop="url" href="<%= upcomingEvents[0].path() %>">Weitere Informationen</a>
+        </p>
+      </article>
+    </div>
+  </div>
+  <% end %>
+  <% upcomingRegularsTable = get_regulars_tables().select { |e| e[:startdate].to_datetime > DateTime.now }
+  if (upcomingRegularsTable.size>0)
+    upcomingRegularsTable.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+  %>
+  <div class="span6">
+    <div class="well well-large">
+      <article itemscope itemtype="http://schema.org/SocialEvent">
+        <h1><a href="#">Nächster <span itemprop="name">CCCS Stammtisch</span></a></h1>
+        <%= render 'event_header', :item => upcomingRegularsTable[0], :heading => false, :link => false %>
+        <p>
+          <a itemprop="url" href="/about/">Unsere Stammtische</a>
+        </p>
+      </article>
+    </div>
+  </div>
+  <% end %>
 </div>
 <div class="row">
   <div class="span8">
