@@ -10,6 +10,14 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    link: http://cccs.github.com/PGP-Chat/
+    title: Präsentation
+  -
+    link: https://github.com/JanUlrich/PGP-Chat
+    title: Quelltext
+audio: cccs-201303.mp3
 ---
 Die Kommunikation über das Internet mittels Textnachrichten ist dank
 Facebook, WhattsApp und Co. kostenlos und kinderleicht. Eine sichere

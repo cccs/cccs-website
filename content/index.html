@@ -7,7 +7,7 @@ feed:
   title: 'CCCS - Neueste Artikel'
 -----
 <div class="row">
-  <div class="span12">
+  <div class="span8">
     <img src="/img/logo-klein.png" alt="CCCS-Logo" class="pull-right" />
     <h1>Herzlich willkommen beim CCC Stuttgart</h1>
     <p>
@@ -26,6 +26,16 @@ feed:
     <strong>Aktuelle Informationen?</strong> Unten auf der Seite stehen blog-artig
     Artikel und Notizen. Wenn Du diese automatisch beziehen möchtest, kannst
     Du sie <a href="/atom.xml">per Atom-Feed</a> abonnieren.
+  </div>
+  <div class="span4">
+    <h1>Kalender</h1>
+    <p>
+    <% allUpcomingEvents = get_public_events().select { |e| e[:startdate].to_datetime > DateTime.now }
+    if (allUpcomingEvents.size>0)
+      allUpcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+    %>
+    <%= render 'calendar_list', :events => allUpcomingEvents.first(10) %>
+    <% end %>
   </div>
 </div>
 <div class="row">
@@ -75,6 +85,7 @@ feed:
       </div>
       <% end %>
     </section>
+    <p><a href="/archives/articles/<%= latest_articles(1)[0][:created_at].year %>/"><strong>Weitere Artikel</strong></a></p>
   </div>
   <div class="span4">
     <h1>Letzte Tweets</h1>

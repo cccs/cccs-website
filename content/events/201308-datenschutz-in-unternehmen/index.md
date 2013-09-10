@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: cccs-201308.mp3
 ---
 Obwohl Datenschutz durchaus umfänglich gesetzlich ist, bestehen in
 Unternehmen und Organisationen unterschiedliche Auffassungen über die

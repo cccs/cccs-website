@@ -3,10 +3,19 @@ $mainPadding: 15px;
 body {
   background-image: url(/img/bg.png);
   background-repeat: both;
+  font-weight: normal;
 }
 
 p {
   margin-bottom: 5px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+a {
+  font-weight: 500;
 }
 
 a:hover, a:focus {
@@ -15,6 +24,7 @@ a:hover, a:focus {
 
 h1,h2,h3,h4,h5,h6 {
   a {
+    font-weight: bold;
     color: inherit;
   }
   a:hover, a:focus {
@@ -22,9 +32,9 @@ h1,h2,h3,h4,h5,h6 {
   }
 }
 
-h1,
-h2,
-h3 { line-height: $baseLineHeight * 1.5; }
+h1,h2,h3 {
+  line-height: $baseLineHeight * 1.5;
+}
 
 h1 { font-size: $baseFontSize * 2; }
 h2 { font-size: $baseFontSize * 1.5; }

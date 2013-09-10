@@ -1,0 +1,24 @@
+-----
+filter: erb
+-----
+<ul><% @events.each do |e| %>
+  <li>
+    <% if e[:startdate].instance_of?(Date) %>
+    <% if e[:startdate]<e[:enddate] %>
+    <%= e[:startdate].strftime("%d.%m.") %> - <%= e[:enddate].strftime("%d.%m.") %>:
+    <% else %>
+    <%= e[:startdate].strftime("%d.%m.") %>:
+    <% end %>
+    <% else %>
+    <%= e[:startdate].strftime("%d.%m., %H:%M") %>:
+    <% end %>
+    <% if e[:url] %>
+    <a href="<%= e[:url] %>"><%= e[:title] %></a>
+    <% elsif e.identifier.start_with?("/events") %>
+    <a href="<%= e.path %>"><%= e[:title] %></a>
+    <% else %>
+    <%= e[:title] %>
+    <% end %>
+    </li>
+<% end %></ul>
+
