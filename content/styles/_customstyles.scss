@@ -156,6 +156,12 @@ ul.iconlist {
   }
 }
 
+ul.no-bullets {
+  list-style: none outside none;
+  margin-left: 15px;
+  text-indent: -15px;
+}
+
 div.planetpost {
   h2 {
     font-size: $baseFontSize * 1.25;

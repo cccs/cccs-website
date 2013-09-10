@@ -1,7 +1,7 @@
 -----
 filter: erb
 -----
-<ul><% @events.each do |e| %>
+<ul class="no-bullets"><% @events.each do |e| %>
   <li>
     <% if e[:startdate].instance_of?(Date) %>
     <% if e[:startdate]<e[:enddate] %>
