@@ -5,7 +5,7 @@ duration: 15m
 title: "Fernsehinterview „Merkel-Phone“"
 superevent:
   title: "SWR Landesschau"
-  url: http://swrmediathek.de/tvshow.htm?show=b2f67190-9bdc-11df-b44d-00199916cf68
+  url: http://swrmediathek.de/player.htm?show=91b4edc0-3cf3-11e3-a222-0026b975f2e6
 speakers:
   -
     name: Stefan Leibfarth
