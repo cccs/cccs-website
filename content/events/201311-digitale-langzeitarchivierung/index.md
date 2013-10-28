@@ -8,6 +8,7 @@ speakers:
     name: Heinz Werner Kramski-Grote
 location:
   location: bib
+  details: Cafe LesBar (6. Stock)
 public: true
 ---
 Information digitaler Art verdrängt und ersetzt bekanntlich zunehmend
