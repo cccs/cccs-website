@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2006-01-12T19:00:00Z
-duration: 2h
+duration: 3h
 title: Podiumsdiskussion zum Thema Urheberrecht und Internet
 speakers:
   -
@@ -16,6 +16,7 @@ speakers:
     affiliation: Popbüro
 location:
   location: wand5
+  details: Kinosaal 2 (Kommunales Kino)
 material:
   -
     title: Folien zur Rechtslage (Thomas Hochstein)

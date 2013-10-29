@@ -1,11 +1,14 @@
 ---
 kind: event
 startdate: 2006-02-09T19:00:00Z
-duration: 2h
+duration: 3h
 title: OpenAccess - Freier Zugang zu wissenschaftlichem Wissen
 speakers:
   -
     name: Klaus Graf
+location:
+  location: wand5
+  details: Kinosaal 2 (Kommunales Kino)
 public: true
 # <ul>
 # <li> <strong>9.2.2006: Klaus Graf:</strong> OpenAccess<br>

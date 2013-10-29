@@ -1,8 +1,8 @@
 ---
 kind: event
-startdate: 2010-06-10T19:30:00
+startdate: 2010-06-10T19:30:00Z
 duration: 2h
-title: Lightning Talks - Kurzvorträge
+title: Lightning Talks - Kurzvorträge - Professionelles Backup
 speakers:
   -
     name: Helmut Springer

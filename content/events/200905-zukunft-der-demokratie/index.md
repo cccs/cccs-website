@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2009-05-14T19:30:00
+startdate: 2009-05-14T19:30:00Z
 duration: 2h
 title: Die Zukunft der Demokratie - Alles Bingo oder was?
 speakers:

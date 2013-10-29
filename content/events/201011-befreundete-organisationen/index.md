@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2010-11-11T19:30:00
+startdate: 2010-11-11T19:30:00Z
 duration: 2h
 title: Befreundete Organisationen stellen sich vor 2.0
 speakers:

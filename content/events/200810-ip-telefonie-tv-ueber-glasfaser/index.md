@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2008-10-09T19:15:00Z
-duration: 2h
+duration: 3h
 title: IP, Telefonie und TV ueber Glasfaser - Technik und Nicht-Technik
 speakers:
   -

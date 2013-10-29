@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2009-10-08T19:30:00
+startdate: 2009-10-08T19:30:00Z
 duration: 2h
 title: IPv6 - Was kommt da eigentlich auf uns zu?
 speakers:

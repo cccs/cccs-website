@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2008-06-12T19:00:00Z
-duration: 2h
+duration: 3h
 title: "Online-Banking"
 speakers:
   -

@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2009-12-10T19:30:00
+startdate: 2009-12-10T19:30:00Z
 duration: 2h
 title: Kryptographie
 speakers:

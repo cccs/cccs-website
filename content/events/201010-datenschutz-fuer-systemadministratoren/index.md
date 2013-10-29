@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2010-10-14T19:30:00
+startdate: 2010-10-14T19:30:00Z
 duration: 2h
 title: "Datenschutz für Systemadministratoren"
 speakers:

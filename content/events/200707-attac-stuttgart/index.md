@@ -1,8 +1,8 @@
 ---
 kind: event
 startdate: 2007-07-05T19:00:00Z
-duration: 2h
-title: ATTAC Stuttgart gibt einen Überblick
+duration: 3h
+title: ATTAC Stuttgart stellt sich vor
 speakers:
   -
     name: Klaus Hellmick

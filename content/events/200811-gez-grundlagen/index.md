@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2008-11-13T19:15:00Z
-duration: 2h
+duration: 3h
 title: "GEZ/Grundlagen des öffentlich-rechtlichen Systems"
 speakers:
   -

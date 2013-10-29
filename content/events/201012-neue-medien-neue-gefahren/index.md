@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2010-12-09T19:30:00
+startdate: 2010-12-09T19:30:00Z
 duration: 2h
 title: "Neue Medien, neue Gefahren"
 speakers:

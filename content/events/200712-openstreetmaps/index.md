@@ -1,13 +1,13 @@
 ---
 kind: event
 startdate: 2007-12-13T19:00:00Z
-duration: 2h
+duration: 3h
 title: Openstreetmaps
 speakers:
   -
     name: Fabian Fingerle
   -
-    name: Hanno Boeck
+    name: Hanno Böck
 material:
   -
     title: Vortragsfolien (odp)

@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2006-05-18T19:00:00Z
-duration: 2h
+duration: 3h
 title: Elektronische Gesundheitskarte und Gesundheitstelematik − 1984 reloaded?
 speakers:
   -

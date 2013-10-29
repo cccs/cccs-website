@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2010-05-06T19:30:00
+startdate: 2010-05-06T19:30:00Z
 duration: 2h
 title: "Die Leichtigkeit der Mail- und Datenverschlüsselung in der Praxis - GnuPG"
 speakers:

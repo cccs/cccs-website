@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2007-11-08T19:00:00Z
-duration: 2h
+duration: 3h
 title: "Was heißt hier eigentlich sicher? - Grundzüge von Sicherheitsmanagement in der IT"
 speakers:
   -

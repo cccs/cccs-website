@@ -1,13 +1,12 @@
 ---
 kind: event
 startdate: 2008-01-10T19:00:00Z
-duration: 2h
-title: "Websecurity"
+duration: 3h
+title: WebSecurity
 speakers:
   -
     name: Stefan Schlott
-  -
-    name: Frank Kargl
+    affiliation: CCC Ulm
 location:
   location: wand5
   details: Kinosaal 2 (Kommunales Kino)

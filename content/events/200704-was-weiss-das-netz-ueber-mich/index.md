@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2007-04-12T19:00:00Z
-duration: 2h
+duration: 3h
 title: "Was weiß das Netz über mich?"
 speakers:
   -

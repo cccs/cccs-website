@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2008-12-11T19:15:00Z
-duration: 2h
+duration: 2 h
 title: Gesetzgebung und Persönlichkeitsrechte - Stand der Dinge
 speakers:
   -

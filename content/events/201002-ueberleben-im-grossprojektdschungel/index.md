@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2010-02-11T19:30:00
+startdate: 2010-02-11T19:30:00Z
 duration: 2h
 title: "Überleben im Grossprojektdschungel"
 speakers:

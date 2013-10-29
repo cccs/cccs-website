@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2007-02-08T19:00:00Z
-duration: 2h
+duration: 3h
 title: Flames - Kommunikationszusammenbrüche im Netz
 speakers:
   -

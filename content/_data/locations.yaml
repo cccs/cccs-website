@@ -36,3 +36,17 @@ oldbib:
   ort: Stuttgart
   lat: 48.776083
   lon: 9.184167
+wagenhalle:
+  name: Wagenhalle
+  strasse: Innerer Nordbahnhof 1
+# url: http://www.wagenhalle.org/
+  ort: Stuttgart
+  lat: 48.799722
+  lon: 9.186666
+bund:
+  name: Umweltzentrum des BUND
+  strasse: Rotebühlstraße 86/1
+  plz: 70178
+  ort: Stuttgart
+  lat: 48.7715
+  lon: 9.16

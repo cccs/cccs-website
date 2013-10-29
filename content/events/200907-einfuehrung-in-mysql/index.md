@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2009-07-09T19:30:00
+startdate: 2009-07-09T19:30:00Z
 duration: 2h
 title: Einführung in MySQL
 speakers:

@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2010-07-08T19:30:00
+startdate: 2010-07-08T19:30:00Z
 duration: 2h
 title: "Wie verhindere ich, dass der Rechner meine Diplomarbeit frisst?"
 speakers:

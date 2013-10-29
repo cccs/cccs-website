@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2008-04-10T19:00:00Z
-duration: 2h
+duration: 3h
 title: "Filetransfer"
 speakers:
   -

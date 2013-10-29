@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2006-07-06T19:00:00Z
-duration: 2h
+duration: 3h
 title: Grundzüge der Linuxadministration
 speakers:
   -
@@ -10,6 +10,9 @@ material:
   -
     title: Vortragsfolien und angekündigte Links
     file: linux-administration.odp
+location:
+  location: wand5
+  details: Kinosaal 2 (Kommunales Kino)
 public: true
 # <li> <strong>ACHTUNG schon wieder verlegter Termin:</strong> <br>
 #      <strong>06.07.2006: Jörg Hoh: Grundzüge der Linuxadministration</strong> - <br>

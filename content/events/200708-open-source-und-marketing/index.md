@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2007-08-09T19:00:00Z
-duration: 2h
+duration: 3h
 title: Open Source & Marketing
 speakers:
   -

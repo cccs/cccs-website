@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2007-10-11T19:00:00Z
-duration: 2h
+duration: 3h
 title: "Verantwortlichkeit im Internet: Haftung und Auskunftspflichten von Anbietern"
 speakers:
   -

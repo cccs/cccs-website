@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2007-06-14T19:00:00Z
-duration: 2h
+duration: 3h
 title: Die Geschichte der Telefonie / 100 Jahre Telefonie in Bopfingen am Ipf
 speakers:
   -

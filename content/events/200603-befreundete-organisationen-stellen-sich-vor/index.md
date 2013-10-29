@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2006-03-16T19:00:00Z
-duration: 2h
+duration: 3h
 title: Befreundete Organisationen stellen sich vor
 speakers:
   -
@@ -12,6 +12,9 @@ speakers:
     name: Java User Group Stuttgart
   -
     name: Novell Stammtisch Stuttgart
+location:
+  location: wand5
+  details: Kinosaal 2 (Kommunales Kino)
 public: true
 # <li> <strong><em>16.03.2006 ACHTUNG verlegter Termin (3. Donnerstag):</em></strong> <br>
 #        <strong>Befreundete Organisationen stellen sich vor</strong> <br>

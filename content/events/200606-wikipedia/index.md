@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2006-06-08T19:00:00Z
-duration: 2h
+duration: 3h
 title: Wikipedia − Die wunderbare Welt der Kollaboration
 speakers:
   -

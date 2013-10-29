@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2009-08-13T19:30:00
+startdate: 2009-08-13T19:30:00Z
 duration: 2h
 title: CCCS Lightning Talks
 speakers:

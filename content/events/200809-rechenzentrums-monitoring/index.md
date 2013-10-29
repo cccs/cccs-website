@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2008-09-11T19:00:00Z
-duration: 2h
+duration: 3h
 title: "Rechenzentrums-Monitoring für Arme - wie man es machen könnte"
 speakers:
   -

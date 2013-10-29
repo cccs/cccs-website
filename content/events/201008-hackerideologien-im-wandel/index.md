@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2010-08-12T19:30:00
+startdate: 2010-08-12T19:30:00Z
 duration: 2h
 title: "Hackerideologie im Wandel"
 speakers:

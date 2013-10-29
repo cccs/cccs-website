@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2007-01-11T19:00:00Z
-duration: 2h
+duration: 3h
 title: Web 2.0 in Deutschland - Was ist das, wem nützt das etwas
 speakers:
   -
