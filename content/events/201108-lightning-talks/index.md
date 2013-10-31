@@ -13,7 +13,5 @@ material:
   -
     title: Audiomitschnitt Stadtbücherei
     link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#29
-audio:
-  CCCS11082011.mp3
 public: true
 ---

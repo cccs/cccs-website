@@ -39,6 +39,7 @@ public: true
 XING ist das mitgliederstärkste Business-Netzwerk in den
 deutschsprachigen Ländern und hat insgesamt über 10 Millionen
 Mitglieder.
+
 Oliver Gassner, einer der rund 15 lizensierten XING-Trainer in DACH
 und XING-Amabassador für die Region Stuttgart, gibt einen Überblick
 über die Themen "Social Networking im Businesskontext" und zeigt, wie

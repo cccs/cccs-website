@@ -40,18 +40,20 @@ public: true
 #
 ---
 Der Internet Relay Chat (IRC) ist neben HTTP und E-Mail eines der
-Ur-Gesteine des Internets. Er skaliert gut und erfreut sich auch heute 
-noch weiter Verbreitung. Mittlerweile beginnt Jabber/XMPP aber 
-damit, dieses Feld mit dem Multi-User-Chat (MUC, XEP-0045) für sich 
-zu beanspruchen und auch dem unbedarften Benutzer einen einfachen 
+Ur-Gesteine des Internets. Er skaliert gut und erfreut sich auch heute
+noch weiter Verbreitung. Mittlerweile beginnt Jabber/XMPP aber
+damit, dieses Feld mit dem Multi-User-Chat (MUC, XEP-0045) für sich
+zu beanspruchen und auch dem unbedarften Benutzer einen einfachen
 Zugang zu ermöglichen.
 
-Der Vortrag setzt sich mit den Unterschieden und Gemeinsamkeiten von 
+Der Vortrag setzt sich mit den Unterschieden und Gemeinsamkeiten von
 IRC und MUC auseinander und beleuchtet die Frage, ob die Neuentwicklung des
 MUC als Fort- oder als Rückschritt zu bewerten ist.
 
+## Zur Person
+
 Bernd Holzmüller beschäftigt sich seit seinem 14. Lebensjahr mit offenen
 Protokollen und dem Internet, seinen ersten IRC-Client und eigene
-Internet-Chat-Programme schrieb er zwei Jahre später. 
-Seit 2004 widmet er sich dem Thema Jabber/XMPP und entwickelt hier u.a. 
+Internet-Chat-Programme schrieb er zwei Jahre später.
+Seit 2004 widmet er sich dem Thema Jabber/XMPP und entwickelt hier u.a.
 eigene XMPP-Komponenten.

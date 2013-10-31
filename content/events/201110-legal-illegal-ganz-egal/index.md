@@ -14,3 +14,4 @@ material:
     title: Die Folien (PDF)
     file: Bibliothek-Urheberrecht.pdf
 public: true
+---

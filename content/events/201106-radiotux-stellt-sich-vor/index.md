@@ -26,9 +26,10 @@ aus dem deutschsprachigen Raum, die die Sendungen erstellen und die
 Technik betreiben.
 
 Wir beschäftigen uns hauptsächlich mit den Themen:
-- Linux- und andere Unix-basierte Computerbetriebssysteme
-- freie und Open-Source-Software
-- Open-Source-Kultur
+
+* Linux- und andere Unix-basierte Computerbetriebssysteme
+* freie und Open-Source-Software
+* Open-Source-Kultur
 
 Der Vortrag zeigt, wer hinter RadioTux steckt, wie eine Sendung
 entsteht, welche Technik und Software wir einsetzen und natürlich auch,

@@ -30,9 +30,10 @@ Bücher, häufig zusammen mit einem entsprechenden Lesegerät, welches auf
 ihren Internet-Shop abgestimmt ist. Aber welche Technik steckt hinter
 den eBooks? Wie schwierig ist es, sein eigenes eBook zu verfassen und zu
 verbreiten?
+
 Dieser Vortrag möchte einen knappen Überblick über die verschiedenen
 Techniken und Standards geben. Anschließend wird das eBook-Format ePUB
 näher betrachtet. Ein weiterer Punkt des Vortrags wird das Thema DRM
-(der "Kopierschutz") sein - und die Unterschiede, die sich damit
-gegenüber dem normalen Buch ergeben."
+(der „Kopierschutz“) sein - und die Unterschiede, die sich damit
+gegenüber dem normalen Buch ergeben.
 
