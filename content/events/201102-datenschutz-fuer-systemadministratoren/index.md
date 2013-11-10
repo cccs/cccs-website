@@ -15,9 +15,8 @@ material:
     file: Datenschutzfu776rSysadmins2.pdf
   -
     title: Audiomitschnitt Stadtbücherei
-    link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#24
-audio:
-  CCCS10022011.mp3
+    link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#21
+audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/14102010_CCCS.mp3
 public: true
 ---
 Dieser Vortrag ist eine Fortführung des entsprechenden ersten Vortrags. Er wiederholt kurz

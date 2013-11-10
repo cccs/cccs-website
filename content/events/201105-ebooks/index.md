@@ -19,8 +19,8 @@ material:
   -
     title: Stefans Blog
     link: http://stefan.ploing.de/2011-05-12-e-book-vortrag-gut-wars
-audio:
-  CCCS12052011.mp3
+audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/12052011_CCCS.mp3
+ 
 public: true
 ---
 Seit kurzer Zeit erleben E-Book-Reader - und damit auch digitale

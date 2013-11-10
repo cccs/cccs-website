@@ -16,8 +16,7 @@ material:
   -
     title: Audiomitschnitt Stadtbücherei
     link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#27
-audio:
-  CCCS09062011.mp3
+audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/09062011_CCCS.mp3
 public: true
 ---
 RadioTux ist das älteste und bekannteste freie Linux-Radio in

@@ -13,8 +13,7 @@ material:
   -
     title: Audiomitschnitt Stadtbücherei
     link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#25
-audio:
-  CCCS10032011.mp3
+audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/10032011_CCCS.mp3
 public: true
 #Datum:          Donnerstag, 10. MÃ¤rz 2011
 #Zeit:           19:00 Einlass, 19:30 Vortragsbeginn
