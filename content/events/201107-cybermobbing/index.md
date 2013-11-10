@@ -13,9 +13,6 @@ material:
   -
     title: Folien
     file: cybermobbing.201107.pdf
-  -
-    title: Audiomitschnitt Stadtbücherei
-    link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#28
 public: true
 ---
 Seit Bekanntwerden der Seite http://www.isharegossip.com/ und deren

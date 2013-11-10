@@ -10,8 +10,5 @@ location:
   location: oldbib
   details: Mörike-Kabinett, 2. Stock
 material:
-  -
-    title: Audiomitschnitt Stadtbücherei
-    link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#29
 public: true
 ---

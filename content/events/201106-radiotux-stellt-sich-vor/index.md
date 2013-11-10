@@ -15,7 +15,7 @@ material:
     file: 201106_RadioTux_Ebel.pdf
   -
     title: Audiomitschnitt Stadtbücherei
-    link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#27
+    link: http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php#27
 audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/09062011_CCCS.mp3
 public: true
 ---

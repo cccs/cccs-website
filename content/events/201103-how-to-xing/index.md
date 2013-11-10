@@ -12,7 +12,7 @@ location:
 material:
   -
     title: Audiomitschnitt Stadtbücherei
-    link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#25
+    link: http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php#25
 audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/10032011_CCCS.mp3
 public: true
 #Datum:          Donnerstag, 10. MÃ¤rz 2011

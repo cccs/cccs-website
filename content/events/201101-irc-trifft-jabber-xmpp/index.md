@@ -15,7 +15,7 @@ material:
     file: cccs_xmpp_irc_web.pdf
   -
     title: Audiomitschnitt Stadtbücherei
-    link: http://www1.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#23
+    link: http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php#23
 audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/13012011_CCCS.mp3
 public: true
 #Datum:          Donnerstag, 13. Januar 2011

@@ -15,7 +15,7 @@ material:
     file: EBooks.201105.pdf
   -
     title: Audiomitschnitt Stadtbücherei
-    link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#26
+    link: http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php#26
   -
     title: Stefans Blog
     link: http://stefan.ploing.de/2011-05-12-e-book-vortrag-gut-wars

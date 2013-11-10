@@ -12,9 +12,8 @@ location:
 material:
   -
     title: Audiomitschnitt Stadtbücherei
-    link: http://www5.stuttgart.de/stadtbuecherei/druck/audio/cccs/cccs_audio.htm#28
-audio:
-  CCCS08122011.mp3
+    link: http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php#28
+audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/08122011_CCCS.mp3
 public: true
 ---
 Facebook, Twitter, Xing sind für internetaffine Bürger
