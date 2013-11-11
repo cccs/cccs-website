@@ -16,7 +16,7 @@ material:
   -
     title: Audiomitschnitt Stadtbücherei
     link: http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php#24
-audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/14102010_CCCS.mp3
+audio: CCCS10022011.mp3
 public: true
 ---
 Dieser Vortrag ist eine Fortführung des entsprechenden ersten Vortrags. Er wiederholt kurz

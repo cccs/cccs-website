@@ -16,7 +16,7 @@ material:
   -
     title: Audiomitschnitt Stadtbücherei
     link: http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php#23
-audio: http://www.stadtbuecherei-stuttgart-audio.de/CCCS/13012011_CCCS.mp3
+audio: CCCS13012011.mp3
 public: true
 #Datum:          Donnerstag, 13. Januar 2011
 #Zeit:           19:00 Einlass, 19:30 Vortragsbeginn
