@@ -32,7 +32,7 @@
   </div>
 <% else %>
   <div class="row">
-    <% (@item[:futureitems] + @item[:pastitems]).each do |item| %>
+    <% (@item[:futureitems].reverse + @item[:pastitems]).each do |item| %>
     <div class="span8">
       <article itemscope itemtype="http://schema.org/EducationEvent">
         <%= render 'event_header', :item => item, :heading => 'h1', :link => true %>
