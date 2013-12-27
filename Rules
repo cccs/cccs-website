@@ -58,7 +58,7 @@ compile '*' do
       filter :rdiscount, { :extensions => [ :smart ] }
     end
     filter :erb
-    if item_name.start_with?("_")
+    if item_name.start_with?("_") or item[:kind]=='member'
       nil
     else
       if item[:style]!='none'
@@ -116,7 +116,9 @@ route '/articles/*' do
 end
 
 route '*' do
-  if item.binary?
+  if item[:kind]=='member'
+    nil
+  elsif item.binary?
     item.identifier.chop + '.' + item[:extension]
   else
     item.identifier.chop + '/index.html'
