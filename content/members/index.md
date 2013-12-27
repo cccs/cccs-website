@@ -2,30 +2,17 @@
 title: Mitglieder
 kind: page
 -----
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
-elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-est Lorem ipsum dolor sit amet.
+Hier finden sich ein paar Infos zu einigen unserer Mitglieder.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
-eros et accumsan et iusto odio dignissim qui blandit praesent luptatum
-zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum
-dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+## Princess
+* PGP-Key: 0x80CE19A7
+* Webseite: [http://blog.querulantin.de/](http://blog.querulantin.de/)
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
-suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem
-vel eum iriure dolor in hendrerit in vulputate velit esse molestie
-consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et
-accumsan et iusto odio dignissim qui blandit praesent luptatum zzril
-delenit augue duis dolore te feugait nulla facilisi.
+## Rince
+* PGP-Key: 0x9B7E8785
+* Webseite: [http://blog.rince.de/](http://blog.rince.de/)
+
+## Skyr
+* PGP-Key: 0x75FD7074
+* Webseite: [http://stefan.ploing.de/](http://stefan.ploing.de/)
+
