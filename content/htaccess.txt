@@ -23,7 +23,8 @@ Redirect 301 /wiki/bin/view/Main/VorTraegeBis2005 /events/2005/
 Redirect 301 /wiki/bin/view/Main/VeranStaltungen /activities/
 Redirect 301 /wiki/bin/view/Main/ProJekte /projects/
 Redirect 301 /wiki/bin/view/Main/ImPressum /imprint/
-Redirect 301 /wiki/bin/view/Main/WebRss atom.xml
+Redirect 301 /wiki/bin/view/Main/WebRss /atom.xml
 
+Redirect 301 /wiki/bin/view/Main/vdsdemo /archives/oldsite/VdsDemo/
 Redirect 301 /wiki/bin/view/Main/ /archives/oldsite/
 
