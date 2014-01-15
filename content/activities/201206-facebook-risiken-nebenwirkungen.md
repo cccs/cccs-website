@@ -15,5 +15,5 @@ public: false
 Skyr besuchte im Kontext des Projekts „Chaos macht Schule“ die
 Emil-von-Behring-Schule in Geislingen und erzählte vor der elften
 Klassenstufe über Risiken von Facebook & Co. Einen kurzen Bericht sowie
-die Vortragsfolien gibt es [https://stefan.ploing.de/2012-06-15-chaos-macht-schule-geislingen](auf seinem Blog).
+die Vortragsfolien gibt es [auf seinem Blog](http://stefan.ploing.de/2012-06-15-chaos-macht-schule-geislingen).
 
