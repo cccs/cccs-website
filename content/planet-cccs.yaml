@@ -2,98 +2,83 @@
 title: Planet CCCS
 kind: page
 blogposts:
-- user: princess
-  date: 2013-08-23 11:37:25.000000000 Z
-  title: !binary |-
-    TWFjaHQgZXVjaCBmcmVpLi4u
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/355-Macht-euch-frei....html
 - user: Skyr
-  date: 2013-08-18 15:39:52.000000000 Z
-  title: !binary |-
-    VGVsZWZvbmJhbmtpbmctRm5vcmQ=
-  url: http://stefan.ploing.de/2013-08-18-telefonbanking-fnord/
+  date: 2014-01-09 09:43:24.000000000 Z
+  title: Todo-Liste mit Taskwarrior und Mirakel
+  url: http://stefan.ploing.de/2014-01-09-todo-mit-taskwarrior-mirakel/
 - user: Skyr
-  date: 2013-08-12 08:49:35.000000000 Z
-  title: !binary |-
-    TWVpbiBQcm9tb3Rpb25zc3plbmFyaW8gLS0gamV0enQgaW4gTG9uZG9u
-  url: http://stefan.ploing.de/2013-08-12-mein-promotionsszenario-in-london/
-- user: princess
-  date: 2013-08-07 15:14:01.000000000 Z
-  title: Vom Tagesausflug zum Höllenritt
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/354-Vom-Tagesausflug-zum-Hoellenritt.html
-- user: princess
-  date: 2013-08-02 10:14:00.000000000 Z
-  title: !binary |-
-    MTMuIEluZm9ybWF0aWNhIEZlbWluYWxlIGFuIGRlciBIUyBGdXJ0d2FuZ2Vu
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/353-13.-Informatica-Feminale-an-der-HS-Furtwangen.html
+  date: 2014-01-07 16:23:22.000000000 Z
+  title: ! '30C3: Rückblick auf den Congress'
+  url: http://stefan.ploing.de/2014-01-07-30c3-congress-rueckblick/
 - user: Skyr
-  date: 2013-08-02 06:38:34.000000000 Z
-  title: Zwei git-Repositories zusammenführen
-  url: http://stefan.ploing.de/2013-08-02-zwei-git-repos-zusammenfuehren/
+  date: 2013-11-18 21:09:36.000000000 Z
+  title: Homeserver N54L mit OpenMediaVault
+  url: http://stefan.ploing.de/2013-11-18-homeserver-n54l-mit-openmediavault/
+- user: princess
+  date: 2013-11-18 18:01:00.000000000 Z
+  title: Freies WLAN in baden-württembergischen Städten
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/366-Freies-WLAN-in-baden-wuerttembergischen-Staedten.html
+- user: princess
+  date: 2013-10-30 22:55:00.000000000 Z
+  title: We're The 51st State Of America
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/365-Were-The-51st-State-Of-America.html
+- user: Rince
+  date: 2013-10-17 16:50:02.000000000 Z
+  title: ! 'Arbeiten am Häusle: Bohrhammer und Handschuhe'
+  url: http://blog.rince.de/archives/750-Arbeiten-am-Haeusle-Bohrhammer-und-Handschuhe.html
 - user: Skyr
-  date: 2013-08-01 11:15:07.000000000 Z
-  title: !binary |-
-    UmFudDogSGFsbG8sIEJsYWNraGF0IT8=
-  url: http://stefan.ploing.de/2013-08-01-rant-hallo-blackhat/
+  date: 2013-10-15 13:00:07.000000000 Z
+  title: Rückblick Herbstcampus 2013
+  url: http://stefan.ploing.de/2013-10-15-rueckblick-herbstcampus-2013/
+- user: princess
+  date: 2013-10-14 21:43:00.000000000 Z
+  title: Baladi-Workshop mit Yalia
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/364-Baladi-Workshop-mit-Yalia.html
+- user: princess
+  date: 2013-10-14 21:42:00.000000000 Z
+  title: Arbeitswillige Menschen ausweisen? Gehts noch?
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/363-Arbeitswillige-Menschen-ausweisen-Gehts-noch.html
 - user: Skyr
-  date: 2013-07-28 19:09:48.000000000 Z
-  title: Überwachungsstaat - was ist das?
-  url: http://stefan.ploing.de/2013-07-28-ueberwachungsstaat-was-ist-das/
+  date: 2013-10-10 08:57:28.000000000 Z
+  title: ! 'nPA: PIN ohne alte PIN ändern'
+  url: http://stefan.ploing.de/2013-10-10-nPA-PIN-ohne-alte-PIN-aendern/
+- user: princess
+  date: 2013-10-08 19:54:00.000000000 Z
+  title: Sinnfreie Radspuren und Ampelbilder
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/362-Sinnfreie-Radspuren-und-Ampelbilder.html
+- user: Rince
+  date: 2013-09-27 20:17:07.000000000 Z
+  title: ! 'Ein neues Projekt: Häuslesanierung'
+  url: http://blog.rince.de/archives/749-Ein-neues-Projekt-Haeuslesanierung.html
 - user: Skyr
-  date: 2013-07-25 07:48:35.000000000 Z
-  title: !binary |-
-    VG9kby1MaXN0ZSBtaXQgdG9kby50eHQ=
-  url: http://stefan.ploing.de/2013-07-25-todo-liste-mit-todotxt/
+  date: 2013-09-26 10:07:02.000000000 Z
+  title: Dotfiles mit fresh verwalten
+  url: http://stefan.ploing.de/2013-09-26-dotfiles-mit-fresh-verwalten/
 - user: princess
-  date: 2013-07-24 20:35:00.000000000 Z
-  title: !binary |-
-    QXN5bGJld2VyYmVyIHVuZCBBcmJlaXQ=
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/352-Asylbewerber-und-Arbeit.html
-- user: princess
-  date: 2013-07-24 20:26:00.000000000 Z
-  title: Kultusministerium BaWü untersagt dienstlichen Einsatz von sozialen Netzwerken
-    an Schulen
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/351-Kultusministerium-BaWue-untersagt-dienstlichen-Einsatz-von-sozialen-Netzwerken-an-Schulen.html
-- user: princess
-  date: 2013-07-24 20:25:00.000000000 Z
-  title: Bewässerung und Landwirtschaft in Äthiopien
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/350-Bewaesserung-und-Landwirtschaft-in-AEthiopien.html
+  date: 2013-09-24 17:45:00.000000000 Z
+  title: Kürbisausstellung 2013
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/360-Kuerbisausstellung-2013.html
 - user: Skyr
-  date: 2013-07-20 12:16:14.000000000 Z
-  title: !binary |-
-    RGllIFNwZWljaGVyLU1hdHJqb3NjaGth
-  url: http://stefan.ploing.de/2013-07-20-speicher-matrjoschka/
-- user: princess
-  date: 2013-07-16 21:29:00.000000000 Z
-  title: !binary |-
-    VG91ciBkdXJjaCBkaWUgUGZhbHo=
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/347-Tour-durch-die-Pfalz.html
-- user: princess
-  date: 2013-07-16 20:18:46.000000000 Z
-  title: !binary |-
-    RmFrdCBoZXV0ZSBhYmVuZA==
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/349-Fakt-heute-abend.html
-- user: princess
-  date: 2013-07-15 16:44:45.000000000 Z
-  title: !binary |-
-    TGllZGVyaGFsbGUgLSBiYWNrc3RhZ2UgdW5kIG9uc3RhZ2Ug
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/348-Liederhalle-backstage-und-onstage.html
+  date: 2013-09-20 15:51:13.000000000 Z
+  title: Packet Dump mit der FritzBox
+  url: http://stefan.ploing.de/2013-09-20-packet-dump-mit-fritzbox/
 - user: Skyr
-  date: 2013-07-12 07:32:35.000000000 Z
-  title: Interessante Keynote über Scala
-  url: http://stefan.ploing.de/2013-07-12-interessante-keynote-ueber-scala/
+  date: 2013-09-19 13:13:42.000000000 Z
+  title: Rückblick Javaforum 2013
+  url: http://stefan.ploing.de/2013-09-19-rueckblick-javaform-2013/
 - user: princess
-  date: 2013-06-17 16:24:09.000000000 Z
-  title: !binary |-
-    U2ViYXN0aWFuIEZpdHplazogIkRlciBOYWNodHdhbmRsZXIi
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/346-Sebastian-Fitzek-Der-Nachtwandler.html
+  date: 2013-09-18 15:30:00.000000000 Z
+  title: Gedanken zur Bundestagswahl
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/356-Gedanken-zur-Bundestagswahl.html
 - user: princess
-  date: 2013-06-17 16:21:17.000000000 Z
-  title: !binary |-
-    UC5DLiBDYXN0OiAiQXVzZXJzZWhlbiI=
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/345-P.C.-Cast-Ausersehen.html
+  date: 2013-09-18 15:23:31.000000000 Z
+  title: ! 'Robert Muchamore: Top Secret 1'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/358-Robert-Muchamore-Top-Secret-1.html
+- user: Skyr
+  date: 2013-09-18 15:15:04.000000000 Z
+  title: Newsletter für Entwickler
+  url: http://stefan.ploing.de/2013-09-18-newsletter-fuer-entwickler/
 - user: princess
-  date: 2013-06-11 19:40:00.000000000 Z
-  title: !binary |-
-    RWR3YXJkIFNub3dkZW4gaXN0IGVpbiBIZWxk
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/344-Edward-Snowden-ist-ein-Held.html
+  date: 2013-09-18 12:25:59.000000000 Z
+  title: ! 'Brandon Mull: Fabelheim (Band 1)'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/357-Brandon-Mull-Fabelheim-Band-1.html
