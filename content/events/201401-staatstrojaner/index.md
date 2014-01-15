@@ -9,5 +9,9 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    file: Staatstrojaner-Folien.pdf
 ---
 
