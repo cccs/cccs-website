@@ -1,7 +1,7 @@
 blogroll:
   -
     user: Skyr
-    feed: https://stefan.ploing.de/atom.xml
+    feed: http://stefan.ploing.de/atom.xml
   -
     user: princess
     feed: http://blog.querulantin.de/serendipity/index.php?/feeds/index.rss2
