@@ -101,4 +101,8 @@ deploy:
     kind: rsync
     dst: "wau.cccs.de:/var/www/www.cccs.de/htdocs"
     options: [ '-rlP', '--delete-after' ]
+  onserver:
+    kind: rsync
+    dst: "/var/www/www.cccs.de/htdocs"
+    options: [ '-rlPq', '--delete-after' ]
 
