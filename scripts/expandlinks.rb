@@ -1,3 +1,6 @@
+require 'rubygems'
+require 'bundler/setup'
+
 require 'csv'
 require 'net/http'
 require 'net/https'
