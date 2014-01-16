@@ -5,6 +5,11 @@ style: none
 if (upcomingEvents.size>0)
   upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
 %>
+<div class="well well-large" style="background-color:rgb(136,192,0)">
+  <a href="http://eh14.easterhegg.eu/">
+    <img src="/img/eh14logo-outline.svg" alt="Easterhegg-Logo" />
+  </a>
+</div>
 <h1>Kalender</h1>
 <p>
 <%= render 'calendar_list', :events => upcomingEvents.first(10) %>
