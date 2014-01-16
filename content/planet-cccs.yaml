@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2014-01-16 21:47:00.000000000 Z
+  title: The Return of the Haekelsaeckchen
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/367-The-Return-of-the-Haekelsaeckchen.html
 - user: Skyr
   date: 2014-01-09 09:43:24.000000000 Z
   title: Todo-Liste mit Taskwarrior und Mirakel
@@ -78,7 +82,3 @@ blogposts:
   date: 2013-09-18 15:15:04.000000000 Z
   title: Newsletter für Entwickler
   url: http://stefan.ploing.de/2013-09-18-newsletter-fuer-entwickler/
-- user: princess
-  date: 2013-09-18 12:25:59.000000000 Z
-  title: ! 'Brandon Mull: Fabelheim (Band 1)'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/357-Brandon-Mull-Fabelheim-Band-1.html
