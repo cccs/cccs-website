@@ -126,7 +126,7 @@ events:
   location:
     location: zadu
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-01-22 18:00:00.000000000 +01:00
+  startdate: 2014-01-15 18:00:00.000000000 +01:00
   duration: 4h
   location:
     location: shack
@@ -216,7 +216,7 @@ events:
   location:
     location: zadu
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-10-22 18:00:00.000000000 +02:00
+  startdate: 2014-10-15 18:00:00.000000000 +02:00
   duration: 4h
   location:
     location: shack
