@@ -31,8 +31,13 @@ for month in 1..12
                  else
                    date + (9-date.wday)
                  end
+  firstwednesday = if (date.wday<=3)
+                   date + (3-date.wday)
+                 else
+                   date + (10-date.wday)
+                 end
   result['events'] << event(firsttuesday, 0, 'CCCS-Stammtisch (Zadu-Bar)', 'zadu')
-  result['events'] << event(firsttuesday, 15, 'CCCS-Stammtisch (shackspace)', 'shack')
+  result['events'] << event(firstwednesday, 14, 'CCCS-Stammtisch (shackspace)', 'shack')
 end
 
 puts result.to_yaml
