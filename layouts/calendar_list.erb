@@ -14,7 +14,7 @@ filter: erb
     <% end %>
     <% if e[:url] %>
     <a href="<%= e[:url] %>"><%= e[:title] %></a>
-    <% elsif e.identifier.start_with?("/events") %>
+    <% elsif e.identifier.start_with?("/events") or e.identifier.start_with?("/activities") %>
     <a href="<%= e.path %>"><%= e[:title] %></a>
     <% else %>
     <%= e[:title] %>
