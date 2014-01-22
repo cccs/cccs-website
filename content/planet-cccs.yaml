@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Skyr
+  date: 2014-01-22 07:20:43.000000000 Z
+  title: SAN-Zertifikatsrequest mit openssl generieren
+  url: http://stefan.ploing.de/2014-01-22-san-zertifikat-mit-openssl/
 - user: princess
   date: 2014-01-16 21:47:00.000000000 Z
   title: The Return of the Haekelsaeckchen
@@ -78,7 +82,3 @@ blogposts:
   date: 2013-09-18 15:23:31.000000000 Z
   title: ! 'Robert Muchamore: Top Secret 1'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/358-Robert-Muchamore-Top-Secret-1.html
-- user: Skyr
-  date: 2013-09-18 15:15:04.000000000 Z
-  title: Newsletter für Entwickler
-  url: http://stefan.ploing.de/2013-09-18-newsletter-fuer-entwickler/
