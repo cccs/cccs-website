@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2014-02-11T19:00:00
+startdate: 2014-02-11T19:30:00Z
 duration: 90m
 title: "Vortrag: Anonym im Netz mit Tor"
 speakers:
