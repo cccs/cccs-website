@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: Skyr
+  date: 2014-01-23 20:40:48.000000000 Z
+  title: Verschlüsselte Partitionen mit LVM auf SSDs
+  url: http://stefan.ploing.de/2014-01-23-verschluesselte-partitionen-mit-lvm-auf-ssds/
+- user: Skyr
   date: 2014-01-22 07:20:43.000000000 Z
   title: SAN-Zertifikatsrequest mit openssl generieren
   url: http://stefan.ploing.de/2014-01-22-san-zertifikat-mit-openssl/
@@ -78,7 +82,3 @@ blogposts:
   date: 2013-09-18 15:30:00.000000000 Z
   title: Gedanken zur Bundestagswahl
   url: http://blog.querulantin.de/serendipity/index.php?/archives/356-Gedanken-zur-Bundestagswahl.html
-- user: princess
-  date: 2013-09-18 15:23:31.000000000 Z
-  title: ! 'Robert Muchamore: Top Secret 1'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/358-Robert-Muchamore-Top-Secret-1.html
