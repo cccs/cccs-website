@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2014-02-08T15:00:00
+startdate: 2014-02-08T15:00:00Z
 duration: 4h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
