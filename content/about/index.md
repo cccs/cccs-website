@@ -112,6 +112,9 @@ erdenkliche geplaudert werden. Ob des nerdigeren Ambientes und der
 vernünftigen Internet-Versorgung geht es hier tendentiell etwas
 technischer zu.
 
+Beide Male geht's ab 18 Uhr los. Je nach Verkehr, Wetter, Job, etc.
+kann es manchmal jedoch auch 19 Uhr werden, bis die ersten eintrudeln.
+
 Wer ein bestimmtes Thema besprechen oder eine spezielle Frage hat, kann
 dies auf der Mailingliste ankündigen. So kann man im Vorfeld abklären,
 dass die passenden Leute beim Stammtisch-Termin da sind.
