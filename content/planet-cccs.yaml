@@ -2,6 +2,14 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2014-02-03 18:25:00.000000000 Z
+  title: Gute Nachrichten zum Jahr 2014
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/369-Gute-Nachrichten-zum-Jahr-2014.html
+- user: princess
+  date: 2014-02-03 18:04:00.000000000 Z
+  title: Doch der Rant zum Jahresanfang
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/368-Doch-der-Rant-zum-Jahresanfang.html
 - user: Skyr
   date: 2014-01-23 20:40:48.000000000 Z
   title: Verschlüsselte Partitionen mit LVM auf SSDs
@@ -74,11 +82,3 @@ blogposts:
   date: 2013-09-20 15:51:13.000000000 Z
   title: Packet Dump mit der FritzBox
   url: http://stefan.ploing.de/2013-09-20-packet-dump-mit-fritzbox/
-- user: Skyr
-  date: 2013-09-19 13:13:42.000000000 Z
-  title: Rückblick Javaforum 2013
-  url: http://stefan.ploing.de/2013-09-19-rueckblick-javaform-2013/
-- user: princess
-  date: 2013-09-18 15:30:00.000000000 Z
-  title: Gedanken zur Bundestagswahl
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/356-Gedanken-zur-Bundestagswahl.html
