@@ -16,3 +16,4 @@ Verschlüsselung und sicheres Surfen -– auszutauschen. An mehreren
 Stationen können praktische Erfahrungen im Verschlüsseln gesammelt
 werden. Vorkenntnisse sind nicht erforderlich.
 
+Bitte bringt euren Laptop, euer Tablet oder euer Smartphone mit.
