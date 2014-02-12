@@ -27,12 +27,3 @@ Spuren zu verschleiern.
 Dieser Vortrag benötigt eine Anmeldung bei der Stadtbücherei und kostet
 Eintritt: 2.50€ für inhaber eines gültigen Bibliotheksausweises, 4,00€
 für alle Anderen.
-Dieser Vortrag benötigt eine Anmeldung bei der Stadtbücherei und kostet
-Eintritt: 2.50€ für inhaber eines gültigen Bibliotheksausweises, 4,00€
-für alle Anderen.
-Dieser Vortrag benötigt eine Anmeldung bei der Stadtbücherei und kostet
-Eintritt: 2.50€ für inhaber eines gültigen Bibliotheksausweises, 4,00€
-für alle Anderen.
-Dieser Vortrag benötigt eine Anmeldung bei der Stadtbücherei und kostet
-Eintritt: 2.50€ für inhaber eines gültigen Bibliotheksausweises, 4,00€
-für alle Anderen.
