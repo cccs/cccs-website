@@ -31,4 +31,19 @@ events:
       ort: Stuttgart
       lon: 48.777764
       lat: 9.235627
+  -
+    startdate: 2014-06-19
+    duration: 4d
+    title: "GulaschProgrammierNacht 14"
+    url: https://entropia.de/GPN14
+    location:
+      name: Hochschule für Gestaltung (HfG)
+      ort: Karlsruhe
+      lon: 49.002196
+      lat: 8.38411
+  -
+    startdate: 2014-09-05
+    duration: 3d
+    title: "MRMCD 2014"
+    url: http://mrmcd.net
 
