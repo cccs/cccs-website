@@ -3,6 +3,14 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: princess
+  date: 2014-02-16 19:43:04.000000000 Z
+  title: Die öffentliche Demütigung
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/373-Die-oeffentliche-Demuetigung.html
+- user: princess
+  date: 2014-02-16 19:42:00.000000000 Z
+  title: ! 'Krank? Zeug einwerfen und arbeiten gehen! '
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/372-Krank-Zeug-einwerfen-und-arbeiten-gehen!.html
+- user: princess
   date: 2014-02-16 18:13:00.000000000 Z
   title: Die Angst vor den Ausländern
   url: http://blog.querulantin.de/serendipity/index.php?/archives/371-Die-Angst-vor-den-Auslaendern.html
@@ -74,11 +82,3 @@ blogposts:
   date: 2013-10-08 19:54:00.000000000 Z
   title: Sinnfreie Radspuren und Ampelbilder
   url: http://blog.querulantin.de/serendipity/index.php?/archives/362-Sinnfreie-Radspuren-und-Ampelbilder.html
-- user: Rince
-  date: 2013-09-27 20:17:07.000000000 Z
-  title: ! 'Ein neues Projekt: Häuslesanierung'
-  url: http://blog.rince.de/archives/749-Ein-neues-Projekt-Haeuslesanierung.html
-- user: Skyr
-  date: 2013-09-26 10:07:02.000000000 Z
-  title: Dotfiles mit fresh verwalten
-  url: http://stefan.ploing.de/2013-09-26-dotfiles-mit-fresh-verwalten/
