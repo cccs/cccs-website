@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: princess
+  date: 2014-02-16 18:13:00.000000000 Z
+  title: Die Angst vor den Ausländern
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/371-Die-Angst-vor-den-Auslaendern.html
+- user: princess
   date: 2014-02-08 22:21:00.000000000 Z
   title: ! 'Wolfgang Schorlau: Am Zwölften Tag'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/370-Wolfgang-Schorlau-Am-Zwoelften-Tag.html
@@ -78,7 +82,3 @@ blogposts:
   date: 2013-09-26 10:07:02.000000000 Z
   title: Dotfiles mit fresh verwalten
   url: http://stefan.ploing.de/2013-09-26-dotfiles-mit-fresh-verwalten/
-- user: princess
-  date: 2013-09-24 17:45:00.000000000 Z
-  title: Kürbisausstellung 2013
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/360-Kuerbisausstellung-2013.html
