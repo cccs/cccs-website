@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201310-your-password-sucks.mp3
 ---
 Es geht um:
 

@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: CCCS12092013.mp3
 ---
 Geheimdienste überwachen die Kommunikation der gesamten Menschheit.
 Jeder ist in ihren Augen verdächtig. Rechststaatliche Regeln und
