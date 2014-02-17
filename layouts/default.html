@@ -41,6 +41,10 @@
                 <li><a<%= menu_active_if("contact",2)%> href="/about/contact/">Kontakt</a>
                 <li><a<%= menu_active_if("verein",2)%> href="/about/verein/">Verein</a>
               </ul>
+              <% elsif (path_section(item,1)=="events") %>
+              <ul class="nav span11">
+                <li><a<%= menu_active_if("stream",2)%> href="/events/stream/">Livestream</a>
+              </ul>
               <% elsif (path_section(item,1)=="archives") %>
               <ul class="nav span11">
                 <li><a<%= menu_active_if("articles",2)%> href="/archives/articles/">Artikel</a>
