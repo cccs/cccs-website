@@ -10,6 +10,7 @@ location:
   location: bib
   details: Cafe LesBar (6. Stock)
 public: true
+audio: 201311-digitale-langzeitarchivierung.mp3
 ---
 Information digitaler Art verdrängt und ersetzt bekanntlich zunehmend
 traditionelle analoge Medien. Mit einer gewissen Verzögerung erreicht dieser

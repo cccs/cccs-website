@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201312-internetzeitalter-freie-meinungsaeusserung.mp3
 ---
 Im Vortrag „(un)Recht auf freie Meinungsäußerung im Internetzeitalter“
 wird die Technologie des Internets, für IT interessierte verständlich
