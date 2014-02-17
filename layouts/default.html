@@ -35,7 +35,13 @@
                 <li><a<%= menu_active_if("planet-cccs")%> href="/planet-cccs/">Planet CCCS</a>
                 <li><a<%= menu_active_if("archives")%> href="/archives/articles/">Archiv</a>
               </ul>
-              <% if (path_section(item,1)=="archives") %>
+              <% if (path_section(item,1)=="about") %>
+              <ul class="nav span11">
+                <li><a<%= menu_active_if("stammtisch",2)%> href="/about/stammtisch/">Stammtische</a>
+                <li><a<%= menu_active_if("contact",2)%> href="/about/contact/">Kontakt</a>
+                <li><a<%= menu_active_if("verein",2)%> href="/about/verein/">Verein</a>
+              </ul>
+              <% elsif (path_section(item,1)=="archives") %>
               <ul class="nav span11">
                 <li><a<%= menu_active_if("articles",2)%> href="/archives/articles/">Artikel</a>
                 <li><a<%= menu_active_if("twitter",2)%> href="/archives/twitter/">Twitter</a>

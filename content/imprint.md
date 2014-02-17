@@ -6,7 +6,7 @@ Verantwortlich für den Inhalt dieser Seiten ist der Chaos Computer Club Stuttga
 
 Hinweise zur allgemeinen Kontaktaufnahme gibt es im [Kontakt-Bereich](/about/).
 Eine Möglichkeit, uns persönlich kennenzulernen, bieten wir im Rahmen
-der [Stammtische](/about/) und bei unserer [Vortragsreihe](/events/).
+der [Stammtische](/about/stammtisch/) und bei unserer [Vortragsreihe](/events/).
 
 Postanschrift:
 
@@ -17,6 +17,8 @@ Neckarstraße 168b<br/>
 Germany
 
 E-Mail: vorstand@cccs.de
+
+E-Mail für Vortragsanfragen, Presse, etc.: presse@cccs.de
 
 Der Chaos Computer Club Stuttgart e. V. ist eingetragen im
 Vereinsregister des Amtsgerichts Stuttgart unter der
