@@ -29,4 +29,6 @@ Hier gibt es die [Satzung des Vereins](CCCS-Satzung-20080417.pdf) sowie
     Inhaber: CCCS e.V. Chaos Computer Club Stuttgart
     Kontonummer: 0002027081
     BLZ: 60050101
+    IBAN: DE53600501010002027081
+    BIC: SOLADEST600
 
