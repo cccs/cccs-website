@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201402-social-hax.mp3
 ---
 Wie kann ich andere Manipulieren? Wie bringe ich jemanden dazu, sich in
 mich zu verlieben? Wie bringe ich Menschen dazu, zu tun und zu denken
