@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Skyr
+  date: 2014-02-23 19:55:32.000000000 Z
+  title: ! 'Gradle Plugin: Versionsnummer aus git'
+  url: http://stefan.ploing.de/2014-02-23-gradle-plugin-versionsnummer-aus-git/
 - user: princess
   date: 2014-02-17 22:54:00.000000000 Z
   title: Studiengang Homöopathie
@@ -78,7 +82,3 @@ blogposts:
   date: 2013-10-15 13:00:07.000000000 Z
   title: Rückblick Herbstcampus 2013
   url: http://stefan.ploing.de/2013-10-15-rueckblick-herbstcampus-2013/
-- user: princess
-  date: 2013-10-14 21:43:00.000000000 Z
-  title: Baladi-Workshop mit Yalia
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/364-Baladi-Workshop-mit-Yalia.html
