@@ -10,6 +10,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    file: SocialHax-Folien.pdf
 audio: 201402-social-hax.mp3
 ---
 Wie kann ich andere Manipulieren? Wie bringe ich jemanden dazu, sich in
