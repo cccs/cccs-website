@@ -7,7 +7,7 @@ Wir haben jeden Monat zwei fixe Stammtisch-Termine:
 
 Jeden 1. Dienstag im Monat in der [Zadu-Bar](http://www.zadu.de/)
 ([Reuchlinstraße 4b, Stuttgart](http://www.openstreetmap.org/way/28098272)).
-Hier kann man dem gediegenen Nerd-Talk fröhnen, während am sich mit
+Hier kann man dem gediegenen Nerd-Talk frönen, während am sich mit
 diversen Leckereien aus der Küche bekochen läßt. Die Location ist
 netztechnisch leider ungeschickt gelegen, weshalb wir dort keinen
 Internet-Zugriff haben. Dafür ist das sonstige Ambiente sehr nett und
