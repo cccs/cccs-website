@@ -2,6 +2,14 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2014-03-13 23:23:00.000000000 Z
+  title: 27 Millionen
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/380-27-Millionen.html
+- user: princess
+  date: 2014-03-13 23:17:00.000000000 Z
+  title: Unworte und Politpossen
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/377-Unworte-und-Politpossen.html
 - user: Skyr
   date: 2014-02-23 19:55:32.000000000 Z
   title: ! 'Gradle Plugin: Versionsnummer aus git'
@@ -74,11 +82,3 @@ blogposts:
   date: 2013-10-30 22:55:00.000000000 Z
   title: We're The 51st State Of America
   url: http://blog.querulantin.de/serendipity/index.php?/archives/365-Were-The-51st-State-Of-America.html
-- user: Rince
-  date: 2013-10-17 16:50:02.000000000 Z
-  title: ! 'Arbeiten am Häusle: Bohrhammer und Handschuhe'
-  url: http://blog.rince.de/archives/750-Arbeiten-am-Haeusle-Bohrhammer-und-Handschuhe.html
-- user: Skyr
-  date: 2013-10-15 13:00:07.000000000 Z
-  title: Rückblick Herbstcampus 2013
-  url: http://stefan.ploing.de/2013-10-15-rueckblick-herbstcampus-2013/
