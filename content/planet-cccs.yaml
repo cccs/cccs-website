@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Skyr
+  date: 2014-03-24 09:08:35.000000000 Z
+  title: Codesigning mit x509 sicherer als mit PGP
+  url: http://stefan.ploing.de/2014-03-24-bullshit-codesigning-mit-x509-sicherer-als-pgp/
 - user: princess
   date: 2014-03-13 23:23:00.000000000 Z
   title: 27 Millionen
@@ -78,7 +82,3 @@ blogposts:
   date: 2013-11-18 18:01:00.000000000 Z
   title: Freies WLAN in baden-württembergischen Städten
   url: http://blog.querulantin.de/serendipity/index.php?/archives/366-Freies-WLAN-in-baden-wuerttembergischen-Staedten.html
-- user: princess
-  date: 2013-10-30 22:55:00.000000000 Z
-  title: We're The 51st State Of America
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/365-Were-The-51st-State-Of-America.html
