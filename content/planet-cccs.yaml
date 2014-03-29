@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: Skyr
+  date: 2014-03-29 08:27:01.000000000 Z
+  title: Rückblick JavaLand
+  url: http://stefan.ploing.de/2014-03-29-rueckblick-javaland/
+- user: Skyr
   date: 2014-03-24 09:08:35.000000000 Z
   title: Codesigning mit x509 sicherer als mit PGP
   url: http://stefan.ploing.de/2014-03-24-bullshit-codesigning-mit-x509-sicherer-als-pgp/
@@ -78,7 +82,3 @@ blogposts:
   date: 2013-11-18 21:09:36.000000000 Z
   title: Homeserver N54L mit OpenMediaVault
   url: http://stefan.ploing.de/2013-11-18-homeserver-n54l-mit-openmediavault/
-- user: princess
-  date: 2013-11-18 18:01:00.000000000 Z
-  title: Freies WLAN in baden-württembergischen Städten
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/366-Freies-WLAN-in-baden-wuerttembergischen-Staedten.html
