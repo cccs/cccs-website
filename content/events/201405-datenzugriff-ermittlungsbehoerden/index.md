@@ -6,6 +6,7 @@ title: "Datenspeicherung und Datenzugriff durch Ermittlungsbehörden"
 speakers:
   -
     name: 'Thomas Hochstein'
+    affiliation: Staatsanwalt
 location:
   location: bib
 public: true
