@@ -14,8 +14,20 @@ Der aktuelle Vorstand (vorstand@cccs.de) besteht aus
 * Zweiter Vorsitzender: Adrien Beaucreux
 * Schatzmeister: Michael Erath
 
-Hier gibt es die [Satzung des Vereins](CCCS-Satzung-20080417.pdf) sowie
-[den Mitgliedsantrag](Mitgliedsantrag.pdf) als PDF zum Download.
+Hier gibt es die [Satzung des Vereins](CCCS-Satzung-20080417.pdf) als
+PDF zum Download.
+
+## Mitglied werden
+
+Mitglied werdden kannst Du durch Ausfüllen des [Mitgliedsantrag-PDFs](Mitgliedsantrag.pdf).
+Momentan erheben wir keinen eigenen Mitgliedsbeitrag, wir finanzieren
+uns durch Spenden und die sogenannte „Erfa-Rückerstattung“: Die lokalen
+CCC-Gruppen erhalten Unterstützung vom Bundes-CCC, sofern die Mitglieder
+sich dort einer Ortsgruppe zugehörig gemeldet haben. Aus Diesem Grund
+unsere Bitte: Unterstützt uns durch eine [Zweitmitgliedschaft beim
+Bundes-CCC](http://www.ccc.de/membership), gebt dort im Mitgliedsantrag
+den „Erfa Stuttgart“ an und tragt beim Mitgliedsantrag bei uns eure
+Chaosnummer (die Mitgliedsnummer des Bundes-CCC) ein.
 
 ## Adresse
 
