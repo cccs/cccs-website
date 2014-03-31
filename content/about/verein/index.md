@@ -23,7 +23,7 @@ Mitglied werdden kannst Du durch Ausfüllen des [Mitgliedsantrag-PDFs](Mitglieds
 Momentan erheben wir keinen eigenen Mitgliedsbeitrag, wir finanzieren
 uns durch Spenden und die sogenannte „Erfa-Rückerstattung“: Die lokalen
 CCC-Gruppen erhalten Unterstützung vom Bundes-CCC, sofern die Mitglieder
-sich dort einer Ortsgruppe zugehörig gemeldet haben. Aus Diesem Grund
+sich dort einer Ortsgruppe zugehörig gemeldet haben. Aus diesem Grund
 unsere Bitte: Unterstützt uns durch eine [Zweitmitgliedschaft beim
 Bundes-CCC](http://www.ccc.de/membership), gebt dort im Mitgliedsantrag
 den „Erfa Stuttgart“ an und tragt beim Mitgliedsantrag bei uns eure
