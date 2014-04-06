@@ -46,7 +46,7 @@ Die Veranstaltung richtet sich an jeden, der sich für das Thema
 interessiert. Besondere juristische oder technische Vorkenntnisse
 werden nicht vorausgesetzt.
 
-# Zur Person
+## Zur Person
 
 Thomas Hochstein ist Staatsanwalt in Stuttgart und interessiert
 sich sowohl für das Netz und seine Dienste als auch für
