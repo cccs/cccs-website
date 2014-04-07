@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2014-06-20T18:00:00
+startdate: 2014-06-20T18:00:00Z
 duration: 180m
 title: "Workshop: Codebreakers (Teil 3)"
 speakers:
