@@ -40,7 +40,7 @@ an die Grundrechte und durch eine demokratische Kontrolle gebunden. Es
 stellt sich die Frage, ob das staatliche Gewaltmonopol in Gefahr ist.
 
 
-# Zur Person
+## Zur Person
 
 Sierk Hamann, Jurist aus Tübingen.
 Die ersten Reisen im Cyberspace mit NCSA Mosaic,

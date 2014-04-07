@@ -45,7 +45,7 @@ eigenen digitalen "Kram", der für Kinder und Enkel interessant sein könnte,
 fallen vielleicht auch praktische Tipps für die Zuhörer ab.
 
 
-# Zur Person
+## Zur Person
 
 Heinz Werner Kramski hat 1990 ein Lehramtsstudium (Geschichte und
 Germanistik) an der Westfälischen Wilhelmsuniversität Münster abgeschlossen

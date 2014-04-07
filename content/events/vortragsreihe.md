@@ -17,7 +17,7 @@ Der **Eintritt** ist kostenlos; um **Spenden** wird gebeten.
 
 Eine Voranmeldung ist nicht erforderlich.
 
-# Danksagung
+## Danksagung
 
 Die Vortragsreihe des CCCS findet seit September 2008 in den Räumen
 der [Stadtbibliothek Stuttgart](http://www1.stuttgart.de/stadtbibliothek/)
@@ -28,7 +28,7 @@ Die Stadtbibliothek bietet uns freundlicherweise auch die Möglichkeit zur
 [Audioaufzeichnung](www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php),
 wofür wir uns herzlich bedanken.
 
-# Geschichte
+## Geschichte
 
 Anfangs fanden die Vorträge im eher rustikalen Ambiente der
 Wagenhallen im inneren Nordbahnhof statt; nach einem kurzen Gastspiel
