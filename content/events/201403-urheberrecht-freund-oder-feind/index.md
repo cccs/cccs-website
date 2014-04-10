@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201403-urheberrecht-freund-oder-feind.mp3
 ---
 Abmahnungen in Hinblick auf das Herunterladen von Musik oder Filmen sind
 in aller Munde.
