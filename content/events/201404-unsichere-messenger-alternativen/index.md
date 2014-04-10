@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    file: folien.pdf
+    title: Folien (PDF)
 ---
 Mit den Smartphones hat auch der Boom der mobilen Messenger begonnen.
 Für immer mehr Menschen sind sie mittlerweile das bevorzugte
