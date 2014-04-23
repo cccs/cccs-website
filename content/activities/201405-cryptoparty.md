@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2014-02-08T15:00:00Z
+startdate: 2014-05-10T15:00:00Z
 duration: 4h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
@@ -16,7 +16,7 @@ Kryptographie im Alltag -- wie E-Mail Verschlüsselung und sicheres Surfen -–
 auszutauschen. An mehreren Stationen können praktische Erfahrungen im
 Verschlüsseln gesammelt werden. Vorkenntnisse sind nicht erforderlich.
 
-Das Mitbringen des eigenen Laptop, Tablet oder Smartphone ist erwünscht.
+Das Mitbringen des eigenen Laptops, Tablets oder Smartphones ist erwünscht.
 
-Der Eintritt ist frei
+Der Eintritt ist frei.
 
