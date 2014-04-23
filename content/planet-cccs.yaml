@@ -2,6 +2,22 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2014-04-23 20:20:00.000000000 Z
+  title: Easterhegg Kehrwoche 2014 - so wars
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/384-Easterhegg-Kehrwoche-2014-so-wars.html
+- user: princess
+  date: 2014-04-23 20:18:00.000000000 Z
+  title: Impressionen vom Killesberg
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/383-Impressionen-vom-Killesberg.html
+- user: princess
+  date: 2014-04-23 20:10:00.000000000 Z
+  title: Beamte und der BMI
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/382-Beamte-und-der-BMI.html
+- user: princess
+  date: 2014-04-23 20:09:00.000000000 Z
+  title: ! 'Nu isses raus: die Daten waren wirklich geklaut.'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/381-Nu-isses-raus-die-Daten-waren-wirklich-geklaut..html
 - user: Skyr
   date: 2014-04-11 21:40:59.000000000 Z
   title: ! 'Heartbleed: Shit hits the fan'
@@ -66,19 +82,3 @@ blogposts:
   date: 2014-01-23 20:40:48.000000000 Z
   title: Verschlüsselte Partitionen mit LVM auf SSDs
   url: http://stefan.ploing.de/2014-01-23-verschluesselte-partitionen-mit-lvm-auf-ssds/
-- user: Skyr
-  date: 2014-01-22 07:20:43.000000000 Z
-  title: SAN-Zertifikatsrequest mit openssl generieren
-  url: http://stefan.ploing.de/2014-01-22-san-zertifikat-mit-openssl/
-- user: princess
-  date: 2014-01-16 21:47:00.000000000 Z
-  title: The Return of the Haekelsaeckchen
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/367-The-Return-of-the-Haekelsaeckchen.html
-- user: Skyr
-  date: 2014-01-09 09:43:24.000000000 Z
-  title: Todo-Liste mit Taskwarrior und Mirakel
-  url: http://stefan.ploing.de/2014-01-09-todo-mit-taskwarrior-mirakel/
-- user: Skyr
-  date: 2014-01-07 16:23:22.000000000 Z
-  title: ! '30C3: Rückblick auf den Congress'
-  url: http://stefan.ploing.de/2014-01-07-30c3-congress-rueckblick/
