@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2014-04-29T19:00:00
+startdate: 2014-04-29T19:30:00Z
 duration: 90m
 title: "Vortrag: Webtracking - Wie wir beim Surfen verfolgt werden"
 speakers:
