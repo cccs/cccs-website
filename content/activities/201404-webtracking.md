@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    file: Folien-Webtracking.pdf
 ---
 Es sind längst nicht nur die NSA und ihre Kollegen, die Interesse an den
 Daten der Websurfern haben. Auch Firmen gehen der Frage nach, wer sich
