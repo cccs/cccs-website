@@ -25,7 +25,7 @@ statt, seit Oktober 2011 in der neuen
 [Bibliothek am Mailänder Platz](http://www1.stuttgart.de/stadtbibliothek/bvs/actions/profile/view.php?id=23).
 
 Die Stadtbibliothek bietet uns freundlicherweise auch die Möglichkeit zur
-[Audioaufzeichnung](www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php),
+[Audioaufzeichnung](http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php),
 wofür wir uns herzlich bedanken.
 
 ## Geschichte
