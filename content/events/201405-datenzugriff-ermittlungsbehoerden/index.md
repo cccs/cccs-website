@@ -10,6 +10,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    file: 201405-datenzugriff-ermittlungsbehoerden.pdf
+    title: Folien (PDF)
 audio: 201405-datenzugriff-ermittlungsbehoerden.mp3
 ---
 Nicht erst seit den Enthüllungen über die Späh- und
