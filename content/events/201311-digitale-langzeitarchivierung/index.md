@@ -6,6 +6,10 @@ title: "Wenn Schiller die Räuber mit Wordstar geschrieben hätte - digitale Lan
 speakers:
   -
     name: Heinz Werner Kramski-Grote
+material:
+  - 
+    title: Folien
+    file: CCCS-20131114-Folien.pdf
 location:
   location: bib
   details: Cafe LesBar (6. Stock)
