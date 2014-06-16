@@ -29,8 +29,7 @@ Im Rahmen ihres interdisziplinären Lehrprojektes veranstalten Studierende des v
 
 Das Event beginnt ab 19 Uhr mit einer Ausstellung, die inhaltlich an die vorhergehende Produktion einer Geschichtenreihe für die Stiftung Zuhören aus München unter dem Motto „Grenzgeschichten – Crossing Borders“ durch die Journalistik-Studierenden anknüpft. Inhalte hierbei sind u.a. die Kameraüberwachung in Stuttgart, die Entwicklung der Überwachung in Deutschland sowie Verdachtsmomente der Polizei. 
 
-Ein interaktiver Workshop im World-Café-Format dient der Themenfindung durch das Publikum. Diese Ergebnisse werden in einer anschließenden Podiumsdiskussion ab 20 Uhr aufgegriffen. Podiumsdiskutanten sind u.a. Stefan Liebfarth vom Chaos Computer Club, der Rechtsanwalt Jochen Pfisterer
-sowie der Unternehmensberater Markus Blömeke. 
+Ein interaktiver Workshop im World-Café-Format dient der Themenfindung durch das Publikum. Diese Ergebnisse werden in einer anschließenden Podiumsdiskussion ab 20 Uhr aufgegriffen. Podiumsdiskutanten sind u.a. Stefan Leibfarth vom Chaos Computer Club, der Rechtsanwalt Jochen Pfisterer sowie der Unternehmensberater Markus Blömeke. 
 
 Allgemein klärt die Veranstaltung über alltägliche Grenzüberschreitungen im Bereich der Überwachung auf. „Wir wollen das Publikum in einem lockeren Rahmen an das politische Thema heranführen und darauf aufmerksam machen, dass Grenzüberschreitungen jeden betreffen“, erläutert die MHMK- PR-Studentin Tamira Bethke. 
 
