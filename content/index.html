@@ -34,7 +34,7 @@ feed:
   <div class="span4">
     <h1>Kalender</h1>
     <p>
-    <% allUpcomingEvents = get_public_events().select { |e| e[:startdate].to_datetime > DateTime.now }
+    <% allUpcomingEvents = get_public_events().select { |e| (e[:enddate]||e[:startdate]).to_datetime > DateTime.now }
     if (allUpcomingEvents.size>0)
       allUpcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
     %>
