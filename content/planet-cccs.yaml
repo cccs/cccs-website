@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Skyr
+  date: 2014-06-20 20:16:31.000000000 Z
+  title: Scaladays 2014 in Berlin
+  url: http://stefan.ploing.de/2014-06-20-scaladays-2014-berlin/
 - user: princess
   date: 2014-06-11 19:09:00.000000000 Z
   title: Nahverkehr in Istanbul (Istanbul Teil 3)
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-02-17 22:54:00.000000000 Z
   title: Studiengang Homöopathie
   url: http://blog.querulantin.de/serendipity/index.php?/archives/376-Studiengang-Homoeopathie.html
-- user: princess
-  date: 2014-02-17 22:52:00.000000000 Z
-  title: Quote - diesmal auf bayrisch
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/375-Quote-diesmal-auf-bayrisch.html
