@@ -13,6 +13,9 @@ speakers:
   -
         name: Markus L. Blömeke
         affiliation: Geschäftsführer, teleocon
+  -      
+        name: Rainer Wendt
+        affiliation: Bundesvorsitzender, DPolG
 location:
   name: CinemaxX Stuttgart Liederhalle
 public: true
