@@ -15,6 +15,10 @@ blogposts:
   title: Büyük Ada (Istanbul Teil 2)
   url: http://blog.querulantin.de/serendipity/index.php?/archives/390-Bueyuek-Ada-Istanbul-Teil-2.html
 - user: princess
+  date: 2014-06-11 13:55:30.000000000 Z
+  title: Istanbul Teil 4
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/391-Istanbul-Teil-4.html
+- user: princess
   date: 2014-06-05 11:04:00.000000000 Z
   title: Mit der U-Bahn von Europa nach Asien
   url: http://blog.querulantin.de/serendipity/index.php?/archives/388-Mit-der-U-Bahn-von-Europa-nach-Asien.html
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-02-23 19:55:32.000000000 Z
   title: ! 'Gradle Plugin: Versionsnummer aus git'
   url: http://stefan.ploing.de/2014-02-23-gradle-plugin-versionsnummer-aus-git/
-- user: princess
-  date: 2014-02-17 22:54:00.000000000 Z
-  title: Studiengang Homöopathie
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/376-Studiengang-Homoeopathie.html
