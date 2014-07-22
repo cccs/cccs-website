@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: Skyr
+  date: 2014-07-22 11:16:48.000000000 Z
+  title: Javaforum 2014
+  url: http://stefan.ploing.de/2014-07-22-javaforum-2014/
+- user: Skyr
   date: 2014-07-08 06:23:35.000000000 Z
   title: scm-version Plugin für Gradle 2.0 aktualisiert
   url: http://stefan.ploing.de/2014-07-08-scmversion-plugin-gradle-2/
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-03-13 23:23:00.000000000 Z
   title: 27 Millionen
   url: http://blog.querulantin.de/serendipity/index.php?/archives/380-27-Millionen.html
-- user: princess
-  date: 2014-03-13 23:17:00.000000000 Z
-  title: Unworte und Politpossen
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/377-Unworte-und-Politpossen.html
