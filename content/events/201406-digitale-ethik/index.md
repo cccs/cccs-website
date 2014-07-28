@@ -10,5 +10,6 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201406-digitale-ethik.mp3
 ---
 

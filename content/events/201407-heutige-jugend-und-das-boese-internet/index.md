@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201407-heutige-jugend-und-das-boese-internet.mp3
 ---
 „Unsere Jugend ist heruntergekommen und zuchtlos. Die jungen Leute hören
 nicht mehr auf ihre Eltern. Das Ende der Welt ist nahe… das Internet
