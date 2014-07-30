@@ -46,4 +46,12 @@ events:
     duration: 3d
     title: "MRMCD 2014"
     url: http://mrmcd.net
+  -
+    startdate: 2014-12-27
+    duration: 4d
+    title: "31C3"
+    url: https://events.ccc.de/
+    location:
+      name: CCH
+      ort: Hamburg
 
