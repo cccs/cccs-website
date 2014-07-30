@@ -4,10 +4,10 @@ startdate: 2014-11-13T19:30:00Z
 duration: 2h
 title: "ownCloud - Meine Daten gehören mir!"
 speakers:
- -
- name: 'Björn Schießle'
+  -
+    name: 'Björn Schießle'
 location:
- location: bib
+  location: bib
 public: true
 ---
 Heute hat man oft nicht mehr nur einen Computer sondern viele
