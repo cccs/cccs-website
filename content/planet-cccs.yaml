@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: Skyr
+  date: 2014-08-02 07:16:44.000000000 Z
+  title: BadUSB -- eine Vorab-Einordnung
+  url: http://stefan.ploing.de/2014-08-02-bad-usb-vorabeinordnung/
+- user: Skyr
   date: 2014-07-22 11:16:48.000000000 Z
   title: Javaforum 2014
   url: http://stefan.ploing.de/2014-07-22-javaforum-2014/
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-03-24 09:08:35.000000000 Z
   title: Codesigning mit x509 sicherer als mit PGP
   url: http://stefan.ploing.de/2014-03-24-bullshit-codesigning-mit-x509-sicherer-als-pgp/
-- user: princess
-  date: 2014-03-13 23:23:00.000000000 Z
-  title: 27 Millionen
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/380-27-Millionen.html
