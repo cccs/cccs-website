@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2014-08-05 19:45:44.000000000 Z
+  title: ! 'Jan Weiler: Das Pubertier'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/392-Jan-Weiler-Das-Pubertier.html
 - user: Skyr
   date: 2014-08-04 10:50:18.000000000 Z
   title: TLS Performance-Tuning
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-04-11 21:40:59.000000000 Z
   title: ! 'Heartbleed: Shit hits the fan'
   url: http://stefan.ploing.de/2014-04-11-heartbleed-shit-hits-the-fan/
-- user: Skyr
-  date: 2014-03-29 08:27:01.000000000 Z
-  title: Rückblick JavaLand
-  url: http://stefan.ploing.de/2014-03-29-rueckblick-javaland/
