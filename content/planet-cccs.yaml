@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Skyr
+  date: 2014-08-13 09:54:23.000000000 Z
+  title: BadUSB -- der Vortrag
+  url: http://stefan.ploing.de/2014-08-13-bad-usb/
 - user: princess
   date: 2014-08-12 12:09:28.000000000 Z
   title: ! 'Marissa Mayer: Wie Monde so silbern'
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-04-23 20:18:00.000000000 Z
   title: Impressionen vom Killesberg
   url: http://blog.querulantin.de/serendipity/index.php?/archives/383-Impressionen-vom-Killesberg.html
-- user: princess
-  date: 2014-04-23 20:10:00.000000000 Z
-  title: Beamte und der BMI
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/382-Beamte-und-der-BMI.html
