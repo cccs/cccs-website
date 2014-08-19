@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: Skyr
+  date: 2014-08-19 07:24:48.000000000 Z
+  title: Firewall-Logs mit Logstash und Kibana visualisieren
+  url: http://stefan.ploing.de/2014-08-19-firewall-logs-logstash-kibana-visualisieren/
+- user: Skyr
   date: 2014-08-13 09:54:23.000000000 Z
   title: BadUSB -- der Vortrag
   url: http://stefan.ploing.de/2014-08-13-bad-usb/
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-04-23 20:20:00.000000000 Z
   title: Easterhegg Kehrwoche 2014 - so wars
   url: http://blog.querulantin.de/serendipity/index.php?/archives/384-Easterhegg-Kehrwoche-2014-so-wars.html
-- user: princess
-  date: 2014-04-23 20:18:00.000000000 Z
-  title: Impressionen vom Killesberg
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/383-Impressionen-vom-Killesberg.html
