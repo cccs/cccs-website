@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2014-08-24 16:53:05.000000000 Z
+  title: ! 'Karen Perry: Bittere Luegen'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/395-Karen-Perry-Bittere-Luegen.html
 - user: Skyr
   date: 2014-08-19 07:24:48.000000000 Z
   title: Firewall-Logs mit Logstash und Kibana visualisieren
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-05-12 17:07:10.000000000 Z
   title: Wovor Russland Angst hat
   url: http://blog.querulantin.de/serendipity/index.php?/archives/385-Wovor-Russland-Angst-hat.html
-- user: princess
-  date: 2014-04-23 20:20:00.000000000 Z
-  title: Easterhegg Kehrwoche 2014 - so wars
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/384-Easterhegg-Kehrwoche-2014-so-wars.html
