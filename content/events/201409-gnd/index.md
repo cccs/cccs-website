@@ -2,7 +2,7 @@
 kind: event
 startdate: 2014-09-11T19:30:00Z
 duration: 2h
-title: "Die GND -– normierte Datensätze für Personen, Orte, Institutionen und Themen"
+title: "Die GND – normierte Datensätze für Personen, Orte, Institutionen und Themen"
 speakers:
   -
     name: 'Juliane Hochstein'
@@ -18,6 +18,3 @@ Warum ist die GND auch außerhalb der bibliothekarischen Welt interessant? Zum e
 ## Zur Person
 
 Juliane Hochstein studierte Bibliotheks- und Medienmanagement an der Hochschule der Medien in Stuttgart. In ihrer Diplomarbeit analysierte sie anhand von Logdateien die Suchanfragen an einen Bibliothekskatalog. Seit 2005 arbeitet sie in verschiedenen Bereichen der Universitätsbibliothek Heidelberg.
-
-
-
