@@ -3,6 +3,14 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: princess
+  date: 2014-09-09 17:44:00.000000000 Z
+  title: Briefkastenaufkleber für Dinge, die man verleiht
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/399-Briefkastenaufkleber-fuer-Dinge,-die-man-verleiht.html
+- user: princess
+  date: 2014-09-09 17:44:00.000000000 Z
+  title: Färbeexperimente 09/2014
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/398-Faerbeexperimente-092014.html
+- user: princess
   date: 2014-09-06 11:41:14.000000000 Z
   title: Gute Nachricht im Datenschutz beim Versandhandel
   url: http://blog.querulantin.de/serendipity/index.php?/archives/397-Gute-Nachricht-im-Datenschutz-beim-Versandhandel.html
@@ -74,11 +82,3 @@ blogposts:
   date: 2014-05-20 16:59:00.000000000 Z
   title: Selena's Show Tänze des Orients 2014
   url: http://blog.querulantin.de/serendipity/index.php?/archives/387-Selenas-Show-Taenze-des-Orients-2014.html
-- user: Skyr
-  date: 2014-05-15 18:55:34.000000000 Z
-  title: Datendarstellung mit D3.js und jQuery-DataTables
-  url: http://stefan.ploing.de/2014-05-15-daten-mit-d3js-jquerytable-darstellen/
-- user: Skyr
-  date: 2014-05-15 10:54:29.000000000 Z
-  title: Pitfalls beim Rooten des HTC Butterfly
-  url: http://stefan.ploing.de/2014-05-15-pitfalls-beim-rooten-des-htc-butterfly/
