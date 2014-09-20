@@ -10,7 +10,7 @@ gem 'sass'
 gem 'rdiscount'
 gem 't'
 gem 'nokogiri'
-gem 'feedzirra'
+gem 'feedjira'
 gem 'ri_cal'
 gem 'rqrcode_png'
 
