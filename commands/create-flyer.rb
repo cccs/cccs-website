@@ -22,7 +22,7 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     qr
   end
 
-  def create_svg(template_name, output_name, data)
+  def process_template(template_name, output_name, data)
     # Read template
     file = File.open(template_name, "r:UTF-8")
     template = file.read
@@ -38,6 +38,7 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     for i in 0..5 do
       template.gsub!("${calendar.#{i}}", data[:calendar][i] || "")
     end
+    template.gsub!('${abstract}', data[:abstract])
     # Output
     File.open(output_name, 'w:UTF-8') {|f| f.write(template) }
   end
@@ -109,6 +110,7 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
                    else
                      ""
                    end
+    data[:abstract] = text.text
     calendar_items = self.site.items.select do |i|
       (i[:kind]=='event') && (i[:startdate].to_datetime>event[:startdate].to_datetime) && !i.identifier.start_with?('/_data/stammtisch/')
     end.sort { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
@@ -130,16 +132,21 @@ class CreateFlyer < ::Nanoc::CLI::CommandRunner
     vevent << "END:VEVENT"
     data[:qr_img] = get_qr(vevent.join("\n")).to_img
     # Filenames
+    presse_txt = (outputdir + '_presse.txt').to_s
     aushang_svg = (outputdir + '_aushang.svg').to_s
     flyer_svg = (outputdir + '_flyer.svg').to_s
     aushang_pdf = (outputdir + 'aushang.pdf').to_s
     flyer_pdf = (outputdir + 'flyer.pdf').to_s
+    # Write press txt
+    if allow_creation(presse_txt)
+      process_template(self.site.items['/_data/presse/'].raw_filename(), presse_txt, data)
+    end
     # Write svgs
     if allow_creation(aushang_svg)
-      create_svg(self.site.items['/_data/aushang/'].raw_filename(), aushang_svg, data)
+      process_template(self.site.items['/_data/aushang/'].raw_filename(), aushang_svg, data)
     end
     if allow_creation(flyer_svg)
-      create_svg(self.site.items['/_data/flyer/'].raw_filename(), flyer_svg, data)
+      process_template(self.site.items['/_data/flyer/'].raw_filename(), flyer_svg, data)
     end
     # Create pdfs
     if allow_creation(aushang_pdf)

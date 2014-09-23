@@ -1,0 +1,17 @@
+Thema:          ${title}
+Referent:       ${speakers}
+
+Datum:          ${date}
+
+Ort:            ${location.name}
+                ${location.address}
+                ${location.geo}
+
+Veranstalter:   Chaos Computer Club Stuttgart (http://www.cccs.de/)
+Kooperation:    Dank an die Stadtbibliothek Stuttgart für die Räumlichkeiten!
+
+Eintritt:       Frei. Um Spenden wird gebeten.
+
+Kurzbeschreibung:
+
+${abstract}
