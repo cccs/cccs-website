@@ -54,4 +54,9 @@ events:
     location:
       name: CCH
       ort: Hamburg
+  -
+    startdate: 2015-08-13
+    duration: 5d
+    title: "Chaos Communication Camp"
+    url: https://events.ccc.de/
 
