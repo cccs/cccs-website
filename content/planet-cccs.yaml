@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: princess
+  date: 2014-11-27 13:39:01.000000000 Z
+  title: ! 'OpenVPN und Speedport Modem: tut nicht.'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/405-OpenVPN-und-Speedport-Modem-tut-nicht..html
+- user: princess
   date: 2014-11-02 13:51:16.000000000 Z
   title: Aloe Vera Pflanze (essbar) zu verschenken
   url: http://blog.querulantin.de/serendipity/index.php?/archives/404-Aloe-Vera-Pflanze-essbar-zu-verschenken.html
@@ -28,12 +32,12 @@ blogposts:
   url: http://blog.querulantin.de/serendipity/index.php?/archives/400-Den-Alltag-normieren-und-ein-besserer-Mensch-werden!.html
 - user: princess
   date: 2014-09-09 17:44:00.000000000 Z
-  title: Briefkastenaufkleber für Dinge, die man verleiht
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/399-Briefkastenaufkleber-fuer-Dinge,-die-man-verleiht.html
-- user: princess
-  date: 2014-09-09 17:44:00.000000000 Z
   title: Färbeexperimente 09/2014
   url: http://blog.querulantin.de/serendipity/index.php?/archives/398-Faerbeexperimente-092014.html
+- user: princess
+  date: 2014-09-09 17:44:00.000000000 Z
+  title: Briefkastenaufkleber für Dinge, die man verleiht
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/399-Briefkastenaufkleber-fuer-Dinge,-die-man-verleiht.html
 - user: princess
   date: 2014-09-06 11:41:14.000000000 Z
   title: Gute Nachricht im Datenschutz beim Versandhandel
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-07-22 11:16:48.000000000 Z
   title: Javaforum 2014
   url: http://stefan.ploing.de/2014-07-22-javaforum-2014/
-- user: Skyr
-  date: 2014-07-08 06:23:35.000000000 Z
-  title: scm-version Plugin für Gradle 2.0 aktualisiert
-  url: http://stefan.ploing.de/2014-07-08-scmversion-plugin-gradle-2/
