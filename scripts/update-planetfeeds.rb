@@ -33,7 +33,7 @@ blogroll = getBlogroll(blogroll_file)
 posturls = blogposts['blogposts'].map { |post| post['url'] }
 
 # Read feed
-feeds = Feedzirra::Feed.fetch_and_parse(blogroll.keys)
+feeds = Feedjira::Feed.fetch_and_parse(blogroll.keys)
 
 # Add feed data
 feeds.each do |feed,data|
