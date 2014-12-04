@@ -5,7 +5,7 @@ require 'rubygems'
 require 'bundler/setup'
 
 require 'yaml'
-require 'feedzirra'
+require 'feedjira'
 
 def getBlogroll(blogroll_file)
   blogroll_raw = YAML.load_file(blogroll_file)
