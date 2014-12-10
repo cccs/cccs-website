@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2014-12-10 09:13:18.000000000 Z
+  title: ! 'Tom Hillenbrand: Drohnenkrieg'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/406-Tom-Hillenbrand-Drohnenkrieg.html
 - user: Rince
   date: 2014-12-05 10:25:17.000000000 Z
   title: ! 'Wie ich Daten von einem Handy aufs andere bekomme: Threema und TextSecure'
@@ -36,12 +40,12 @@ blogposts:
   url: http://blog.querulantin.de/serendipity/index.php?/archives/400-Den-Alltag-normieren-und-ein-besserer-Mensch-werden!.html
 - user: princess
   date: 2014-09-09 17:44:00.000000000 Z
-  title: Briefkastenaufkleber für Dinge, die man verleiht
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/399-Briefkastenaufkleber-fuer-Dinge,-die-man-verleiht.html
-- user: princess
-  date: 2014-09-09 17:44:00.000000000 Z
   title: Färbeexperimente 09/2014
   url: http://blog.querulantin.de/serendipity/index.php?/archives/398-Faerbeexperimente-092014.html
+- user: princess
+  date: 2014-09-09 17:44:00.000000000 Z
+  title: Briefkastenaufkleber für Dinge, die man verleiht
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/399-Briefkastenaufkleber-fuer-Dinge,-die-man-verleiht.html
 - user: princess
   date: 2014-09-06 11:41:14.000000000 Z
   title: Gute Nachricht im Datenschutz beim Versandhandel
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-08-04 10:50:18.000000000 Z
   title: TLS Performance-Tuning
   url: http://stefan.ploing.de/2014-08-04-tls-performancetuning/
-- user: Skyr
-  date: 2014-08-02 07:16:44.000000000 Z
-  title: BadUSB -- eine Vorab-Einordnung
-  url: http://stefan.ploing.de/2014-08-02-bad-usb-vorabeinordnung/
