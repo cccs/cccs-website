@@ -30,4 +30,4 @@ cal = RiCal.Calendar do |cal|
     end
   end
 end
-%><%= cal.to_s %>
+%><%= cal.to_s.strip %>
