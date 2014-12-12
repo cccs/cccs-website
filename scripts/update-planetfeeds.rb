@@ -5,7 +5,7 @@ require 'rubygems'
 require 'bundler/setup'
 
 require 'yaml'
-require 'feedzirra'
+require 'feedjira'
 
 def getBlogroll(blogroll_file)
   blogroll_raw = YAML.load_file(blogroll_file)
@@ -33,7 +33,7 @@ blogroll = getBlogroll(blogroll_file)
 posturls = blogposts['blogposts'].map { |post| post['url'] }
 
 # Read feed
-feeds = Feedzirra::Feed.fetch_and_parse(blogroll.keys)
+feeds = Feedjira::Feed.fetch_and_parse(blogroll.keys)
 
 # Add feed data
 feeds.each do |feed,data|
