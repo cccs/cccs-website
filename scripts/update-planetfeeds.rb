@@ -50,7 +50,13 @@ feeds.each do |feed,data|
 end
 
 # Sort, limit list
-blogposts['blogposts'].sort! { |a,b| b['date'] <=> a['date'] }
+blogposts['blogposts'].sort! do |a,b|
+  if (b['date'] <=> a['date'])==0
+    b['url'] <=> a['url']
+  else
+    b['date'] <=> a['date']
+  end
+end
 blogposts['blogposts'] = blogposts['blogposts'][0..19]
 
 # Output
