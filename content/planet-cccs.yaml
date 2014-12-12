@@ -4,12 +4,12 @@ kind: page
 blogposts:
 - user: princess
   date: 2014-12-10 09:13:18.000000000 Z
-  title: ! 'Tom Hillenbrand: Drohnenkrieg'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/406-Tom-Hillenbrand-Drohnenkrieg.html
-- user: princess
-  date: 2014-12-10 09:13:18.000000000 Z
   title: ! 'Tom Hillenbrand: Drohnenland'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/406-Tom-Hillenbrand-Drohnenland.html
+- user: princess
+  date: 2014-12-10 09:13:18.000000000 Z
+  title: ! 'Tom Hillenbrand: Drohnenkrieg'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/406-Tom-Hillenbrand-Drohnenkrieg.html
 - user: Rince
   date: 2014-12-05 10:25:17.000000000 Z
   title: ! 'Wie ich Daten von einem Handy aufs andere bekomme: Threema und TextSecure'
