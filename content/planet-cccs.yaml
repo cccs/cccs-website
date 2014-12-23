@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Rince
+  date: 2014-12-23 18:28:30.000000000 Z
+  title: OpenPGP Key Transition Statement for Hanno 'Rince' Wagner
+  url: http://blog.rince.de/archives/752-OpenPGP-Key-Transition-Statement-for-Hanno-Rince-Wagner.html
 - user: princess
   date: 2014-12-10 09:13:18.000000000 Z
   title: ! 'Tom Hillenbrand: Drohnenland'
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-08-11 16:15:53.000000000 Z
   title: ! 'Bernhard Hennen: Drachenelfen'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/393-Bernhard-Hennen-Drachenelfen.html
-- user: princess
-  date: 2014-08-05 19:45:44.000000000 Z
-  title: ! 'Jan Weiler: Das Pubertier'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/392-Jan-Weiler-Das-Pubertier.html
