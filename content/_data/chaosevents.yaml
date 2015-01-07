@@ -55,8 +55,30 @@ events:
       name: CCH
       ort: Hamburg
   -
+    startdate: 2015-06-04
+    duration: 4d
+    title: "GPN15"
+    url: https://entropia.de/GPN15
+    location:
+      name: Hochschule für Gestaltung (HfG)
+      ort: Karlsruhe
+      lon: 49.002196
+      lat: 8.38411
+  -
+    startdate: 2015-06-12
+    duration: 3d
+    title: "CoSin 2015"
+    url: http://www.cosin.ch/de/
+    location:
+      name: Villa Ritter
+      ort: Biel
+  -
     startdate: 2015-08-13
     duration: 5d
     title: "Chaos Communication Camp"
     url: https://events.ccc.de/
+    location:
+      name: Ziegeleipark
+      ort: Mildenberg
+      url: http://www.ziegeleipark.de/
 
