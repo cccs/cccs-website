@@ -55,6 +55,23 @@ events:
       name: CCH
       ort: Hamburg
   -
+    startdate: 2015-04-03
+    duration: 4d
+    title: "EasterHegg 2015"
+    url: https://eh15.easterhegg.eu/
+    location:
+      name: Kinder- und Jugendzentrum Mühle
+      ort: Braunschweig
+      url: http://www.jugendzentrum-muehle.de/
+  -
+    startdate: 2015-04-10
+    duration: 3d
+    title: "Hack 'n' Play 3"
+    url: https://hacknplay.org/
+    location:
+      name: Kultur - und Jugendzentrum ArTik
+      ort: Freiburg
+  -
     startdate: 2015-06-04
     duration: 4d
     title: "GPN15"
