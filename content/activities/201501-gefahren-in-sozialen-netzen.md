@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2015-01-12T19:00:00Z
+startdate: 2015-01-13T19:00:00Z
 duration: 120m
 title: "Vortrag: Gefahren in sozialen Netzen am Beispiel von Facebook und Whatsapp"
 speakers:
