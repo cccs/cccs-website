@@ -6,6 +6,7 @@ title: X2Go - eine freie Remote-Desktop-/Remote-Application-Lösung im Praxisein
 speakers:
   -
     name: Stefan Baur
+    affiliaton: X2Go Lead Evangelist
 location:
   location: bib
 public: true
