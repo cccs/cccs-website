@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: Skyr
+  date: 2015-01-18 23:19:16.000000000 Z
+  title: Firmware-Update Sandisk-SSD mit Linux
+  url: http://stefan.ploing.de/2015-01-19-firmware-update-sandisk-ssd-linux/
+- user: Skyr
   date: 2014-12-30 13:31:20.000000000 Z
   title: Neuer PGP-Key
   url: http://stefan.ploing.de/2014-12-30-neuer-pgp-key/
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-08-13 09:54:23.000000000 Z
   title: BadUSB -- der Vortrag
   url: http://stefan.ploing.de/2014-08-13-bad-usb/
-- user: princess
-  date: 2014-08-12 12:09:28.000000000 Z
-  title: ! 'Marissa Mayer: Wie Monde so silbern'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/394-Marissa-Mayer-Wie-Monde-so-silbern.html
