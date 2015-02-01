@@ -10,7 +10,7 @@ location:
   location: bib
 public: true
 ---
-Drogen, Waffen und Bilder von Kindesmissbrauch, all dies gibts es im "Darknet", angeblich.
+Drogen, Waffen und Bilder von Kindesmissbrauch, all dies gibt es im "Darknet", angeblich.
 
 Die Ermittlungsbehörden sind machtlos und das Internet droht ein "rechtfreier Raum" zu werden, sagen Polizei und Politik.
 
