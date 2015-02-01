@@ -2,7 +2,7 @@
 kind: event
 startdate: 2015-03-12T19:30:00Z
 duration: 2h
-title: "Darknet - Die dunkele Ecke des Internets?"
+title: "Darknet - Die dunkle Ecke des Internets?"
 speakers:
   -
     name: 'Stefan "Leibi" Leibfarth'
