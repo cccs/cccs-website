@@ -12,7 +12,7 @@ public: true
 ---
 Drogen, Waffen und Bilder von Kindesmissbrauch, all dies gibt es im "Darknet", angeblich.
 
-Die Ermittlungsbehörden sind machtlos und das Internet droht ein "rechtfreier Raum" zu werden, sagen Polizei und Politik.
+Die Ermittlungsbehörden sind machtlos und das Internet droht ein "rechtsfreier Raum" zu werden, sagen Polizei und Politik.
 
 Referent Stefan Leibfarth vom CCC Stuttgart wird in seinem Vortrag einen Einblich in die Funktionsweise des bekanntesten "Darknets" geben, den so genannten "Hidden Services". Das sind die Dienste, die jeder über das Anonymisierungs-Netzerk "Tor" bereitstellen und erreichen kann.
 
