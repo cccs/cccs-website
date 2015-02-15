@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2015-02-15 18:55:44.000000000 Z
+  title: ! 'Martin Wehrle: "Herr Müller, Sie sind doch nicht etwa schwanger?"'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/407-Martin-Wehrle-Herr-Mueller,-Sie-sind-doch-nicht-etwa-schwanger.html
 - user: Skyr
   date: 2015-01-21 11:03:27.000000000 Z
   title: ! 'Benchmark: LUKS auf dem HP N54L'
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-08-24 16:53:05.000000000 Z
   title: ! 'Karen Perry: Bittere Luegen'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/395-Karen-Perry-Bittere-Luegen.html
-- user: Skyr
-  date: 2014-08-19 07:24:48.000000000 Z
-  title: Firewall-Logs mit Logstash und Kibana visualisieren
-  url: http://stefan.ploing.de/2014-08-19-firewall-logs-logstash-kibana-visualisieren/
