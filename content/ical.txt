@@ -1,4 +1,5 @@
 <% require 'ri_cal'
+require 'digest/sha1'
 
 upcomingEvents = get_public_events().select { |e| e[:startdate].to_datetime > DateTime.now }
 upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
@@ -22,10 +23,12 @@ cal = RiCal.Calendar do |cal|
           event.location = e[:location][:name]
         end
       end
+      event.uid = Digest::SHA1.base64digest("#{e[:startdate]}#{e[:title]}")
       if e[:url]
         event.url = e[:url]
       elsif e.identifier.start_with?('/events') or e.identifier.start_with?('/activities')
         event.url = "#{@config[:base_url]}#{e.path}"
+        event.uid = Digest::SHA1.base64digest("#{@config[:base_url]}#{e.path}")
       end
     end
   end
