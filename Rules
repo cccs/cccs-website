@@ -3,6 +3,7 @@
 preprocess do
   expand_event_list("/_data/chaosevents/")
   expand_event_list("/_data/stammtisch/", "CCCS Stammtisch")
+  expand_event_list("/_data/platzhalter/", nil, true)
   calculate_to_dates
   fix_timezones
   merge_location_data
