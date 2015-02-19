@@ -1,37 +1,62 @@
 ---
 events:
-- title: CCCS Vortragsabend (Thema noch offen)
-  startdate: 2015-01-08T19:30:00Z
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-01-08 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
-- title: CCCS Vortragsabend (Thema noch offen)
-  startdate: 2015-02-12T19:30:00Z
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-02-12 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
-- title: CCCS Vortragsabend (Thema noch offen)
-  startdate: 2015-02-12T19:30:00Z
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-03-12 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
-- title: CCCS Vortragsabend (Thema noch offen)
-  startdate: 2015-03-12T19:30:00Z
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-04-09 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
-- title: CCCS Vortragsabend (Thema noch offen)
-  startdate: 2015-04-09T19:30:00Z
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-05-14 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
-- title: CCCS Vortragsabend (Thema noch offen)
-  startdate: 2015-05-14T19:30:00Z
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-06-11 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
-- title: CCCS Vortragsabend (Thema noch offen)
-  startdate: 2015-06-11T19:30:00Z
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-07-09 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-08-13 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-09-10 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-10-08 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-11-12 19:30:00.000000000 +01:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2015-12-10 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
