@@ -50,7 +50,7 @@ def calculate_to_dates()
 end
 
 def conv_tz(t)
-  if (t.utc?)
+  if (t && t.class.method_defined?(:utc) && t.utc?)
     Time.local(t.year, t.month, t.day, t.hour, t.min, t.sec)
   else
     t
