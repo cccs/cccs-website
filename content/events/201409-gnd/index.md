@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201409-gnd.mp3
 ---
 Die **Gemeinsame Normdatei** (GND) der deutschsprachigen Bibliotheken entstand 2012 durch die Zusammenlegung mehrerer älterer Datenbanken. Sie beinhaltet ca. 10 Millionen Datensätze, die bei der Erschließung von Literatur verwendet werden. Darunter finden sich insbesondere Einträge für Personen, geographische Begriffe, Körperschaften und Sachbegriffe. Zusätzlich zur sogenannten *Vorzugsbenennung* (dem üblicherweise verwendeten „Namen“) finden sich in den Datensätzen oft auch weitere Benennungen und Verknüpfungen zu anderen Datensätzen.
 

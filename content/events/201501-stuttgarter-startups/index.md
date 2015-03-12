@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201501-stuttgarter-startups.mp3
 ---
 Weltfirmen wie Apple, Google oder Facebook sind Beispiele für kleine Firmen, die es weit gebracht haben. Die Erfolgsgeschichte solcher Startups sind oft mit dem Silicon Valley in den USA verknüpft. Doch auch in Baden-Würtemberg gibt es interessante und erfolgreiche Firmengründugen.
 

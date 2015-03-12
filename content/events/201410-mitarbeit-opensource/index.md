@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201410-mitarbeit-opensource.mp3
 ---
 Der Heartbleed Bug gilt als schwerste Sicherheitslücke in der Geschichte
 des Internets. Seit seinem Bekanntwerden haben viele namhafte Firmen

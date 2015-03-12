@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201502-x2go.mp3
 ---
 X2Go ist eine freie (Open-Source)
 Remote-Desktop-/Remote-Application-Lösung. Vor grob 10 Jahren von zwei
