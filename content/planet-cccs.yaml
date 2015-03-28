@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Skyr
+  date: 2015-03-28 14:25:22.000000000 Z
+  title: Rückblick JavaLand 2015
+  url: http://stefan.ploing.de/2015-03-28-rueckblick-javaland-2015/
 - user: princess
   date: 2015-03-22 19:21:40.000000000 Z
   title: ! 'Vortrag: Medienkompetenz und Datenschutz für Kinder und Jugendliche'
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-11-02 13:51:16.000000000 Z
   title: Aloe Vera Pflanze (essbar) zu verschenken
   url: http://blog.querulantin.de/serendipity/index.php?/archives/404-Aloe-Vera-Pflanze-essbar-zu-verschenken.html
-- user: princess
-  date: 2014-10-15 19:10:27.000000000 Z
-  title: ! 'Eine Linux-Distri für Studierende: tubIT live'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/403-Eine-Linux-Distri-fuer-Studierende-tubIT-live.html
