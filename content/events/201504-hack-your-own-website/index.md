@@ -8,6 +8,11 @@ speakers:
     name: Stefan Schlott
 location:
   location: bib
+material:
+  -
+    title: Folien (PDF)
+    file: HackYourOwnWebsite.pdf
+audio: 201504-hack-your-own-website.mp3
 public: true
 ---
 Grau ist alle Theorie! Interessierte haben zwar sicher schon von
