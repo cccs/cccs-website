@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: princess
+  date: 2015-04-22 18:06:00.000000000 Z
+  title: Schaffung neuer Bedürfnisse
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/418-Schaffung-neuer-Beduerfnisse.html
+- user: princess
   date: 2015-04-02 10:30:00.000000000 Z
   title: Bürgerinitiative gegen Windräder - wie man sich selber disqualifiziert.
   url: http://blog.querulantin.de/serendipity/index.php?/archives/416-Buergerinitiative-gegen-Windraeder-wie-man-sich-selber-disqualifiziert..html
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-12-05 10:25:17.000000000 Z
   title: ! 'Wie ich Daten von einem Handy aufs andere bekomme: Threema und TextSecure'
   url: http://blog.rince.de/archives/751-Wie-ich-Daten-von-einem-Handy-aufs-andere-bekomme-Threema-und-TextSecure.html
-- user: princess
-  date: 2014-11-27 13:39:01.000000000 Z
-  title: ! 'OpenVPN und Speedport Modem: tut nicht.'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/405-OpenVPN-und-Speedport-Modem-tut-nicht..html
