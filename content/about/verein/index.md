@@ -19,7 +19,7 @@ PDF zum Download.
 
 ## Mitglied werden
 
-Mitglied werdden kannst Du durch Ausfüllen des [Mitgliedsantrag-PDFs](Mitgliedsantrag.pdf).
+Mitglied werden kannst Du durch Ausfüllen des [Mitgliedsantrag-PDFs](Mitgliedsantrag.pdf).
 Momentan erheben wir keinen eigenen Mitgliedsbeitrag, wir finanzieren
 uns durch Spenden und die sogenannte „Erfa-Rückerstattung“: Die lokalen
 CCC-Gruppen erhalten Unterstützung vom Bundes-CCC, sofern die Mitglieder
