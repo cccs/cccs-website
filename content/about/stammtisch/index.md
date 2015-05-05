@@ -20,7 +20,7 @@ die Küche wirklich lecker.
     Beim gemütlichen Lümmeln auf den Sofas der Lounge (oder, falls es ein
 Thema erfordert, am Besprechungstisch des shacks) kann hier über alles
 erdenkliche geplaudert werden. Ob des nerdigeren Ambientes und der
-vernünftigen Internet-Versorgung geht es hier tendentiell etwas
+vernünftigen Internet-Versorgung geht es hier tendenziell etwas
 technischer zu.
 
 Beide Male geht's ab 18 Uhr los. Je nach Verkehr, Wetter, Job, etc.
