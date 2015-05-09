@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: princess
+  date: 2015-05-09 15:58:00.000000000 Z
+  title: ! 'Marc Elsberg: Zero'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/420-Marc-Elsberg-Zero.html
+- user: princess
   date: 2015-05-07 20:34:00.000000000 Z
   title: ! 'Sascha Lobo: heute ma echt geil!'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/422-Sascha-Lobo-heute-ma-echt-geil!.html
@@ -78,7 +82,3 @@ blogposts:
   date: 2014-12-30 13:31:20.000000000 Z
   title: Neuer PGP-Key
   url: http://stefan.ploing.de/2014-12-30-neuer-pgp-key/
-- user: Rince
-  date: 2014-12-23 18:28:30.000000000 Z
-  title: OpenPGP Key Transition Statement for Hanno 'Rince' Wagner
-  url: http://blog.rince.de/archives/752-OpenPGP-Key-Transition-Statement-for-Hanno-Rince-Wagner.html
