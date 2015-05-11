@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Skyr
+  date: 2015-05-11 10:54:48.000000000 Z
+  title: OSGi und die ClassNotFound-Exception
+  url: http://stefan.ploing.de/2015-05-11-osgi-classnotfound-exception/
 - user: princess
   date: 2015-05-09 15:58:00.000000000 Z
   title: ! 'Marc Elsberg: Zero'
@@ -78,7 +82,3 @@ blogposts:
   date: 2015-01-18 23:19:16.000000000 Z
   title: Firmware-Update Sandisk-SSD mit Linux
   url: http://stefan.ploing.de/2015-01-19-firmware-update-sandisk-ssd-linux/
-- user: Skyr
-  date: 2014-12-30 13:31:20.000000000 Z
-  title: Neuer PGP-Key
-  url: http://stefan.ploing.de/2014-12-30-neuer-pgp-key/
