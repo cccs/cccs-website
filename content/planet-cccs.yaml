@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2015-05-13 15:10:00.000000000 Z
+  title: Lange überfällig
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/425-Lange-ueberfaellig.html
 - user: Skyr
   date: 2015-05-11 10:54:48.000000000 Z
   title: OSGi und die ClassNotFound-Exception
@@ -78,7 +82,3 @@ blogposts:
   date: 2015-01-21 11:03:27.000000000 Z
   title: ! 'Benchmark: LUKS auf dem HP N54L'
   url: http://stefan.ploing.de/2015-01-21-benchmark-luks-n54l/
-- user: Skyr
-  date: 2015-01-18 23:19:16.000000000 Z
-  title: Firmware-Update Sandisk-SSD mit Linux
-  url: http://stefan.ploing.de/2015-01-19-firmware-update-sandisk-ssd-linux/
