@@ -8,6 +8,7 @@ speakers:
     name: Meinrad Rombach
 location:
   location: bib
+audio: 201505-wir-koennen-alles-ausser-informatik.mp3
 public: true
 ---
 Das Hightechmusterländle braucht mehr jugendliche Kompetenz beim Smartphone-Wischen und
