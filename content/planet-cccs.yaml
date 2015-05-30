@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: princess
+  date: 2015-05-30 12:33:00.000000000 Z
+  title: WGT 2015
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/430-WGT-2015.html
+- user: princess
   date: 2015-05-29 19:25:00.000000000 Z
   title: ! 'Zombies:  Vorratsdatenspeicherung'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/432-Zombies-Vorratsdatenspeicherung.html
@@ -78,7 +82,3 @@ blogposts:
   date: 2015-03-05 09:44:15.000000000 Z
   title: Packet Capture mit Windows-Bordmitteln
   url: http://stefan.ploing.de/2015-03-05-packet-capture-windows-bordmittel/
-- user: princess
-  date: 2015-02-24 21:34:00.000000000 Z
-  title: Mobilfunknummer wechseln - wie schnell, wie teuer?
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/410-Mobilfunknummer-wechseln-wie-schnell,-wie-teuer.html
