@@ -8,6 +8,7 @@ speakers:
     name: Princess
 location:
   location: bib
+audio: 201506-medienkompetenz-datenschutz-kinder-jugendliche.mp3
 public: true
 ---
 Kinder und Jugendliche gelangen in immer jüngeren Jahren in das
