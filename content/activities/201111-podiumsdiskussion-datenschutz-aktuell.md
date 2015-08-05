@@ -5,7 +5,7 @@ duration: 2h
 title: "Podiumsdiskussion „Datenschutz aktuell“ beim VHS Bürgerfoyer"
 speakers:
   -
-    name: Stefan Schlott
+    name: Skyr
 location:
   name: TREFFPUNKT Rotebühlplatz
   strasse: Rotebühlstraße 28

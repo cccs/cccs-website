@@ -7,7 +7,7 @@ superevent:
   title: "Eröffnungswoche der Stadtbibliothek am Mailänder Platz"
 speakers:
   -
-    name: Stefan Schlott
+    name: Skyr
 location:
   location: bib
 public: true
