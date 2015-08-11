@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Rince
+  date: 2015-08-11 15:34:59.000000000 Z
+  title: ! 'Wie man Katastrophen abwendet, heute: Löschen von LUKS-Schlüsseln'
+  url: http://blog.rince.de/archives/754-Wie-man-Katastrophen-abwendet,-heute-Loeschen-von-LUKS-Schluesseln.html
 - user: princess
   date: 2015-08-06 18:53:05.000000000 Z
   title: Lustiges Tierleben
@@ -79,7 +83,3 @@ blogposts:
   date: 2015-05-07 20:34:00.000000000 Z
   title: ! 'Sascha Lobo: heute ma echt geil!'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/422-Sascha-Lobo-heute-ma-echt-geil!.html
-- user: princess
-  date: 2015-05-07 20:33:00.000000000 Z
-  title: Arbeitsrecht in kirchlichen Betrieben verbessert
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/423-Arbeitsrecht-in-kirchlichen-Betrieben-verbessert.html
