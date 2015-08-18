@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    file: hallo-mobile-welt.pdf
+    title: Folien (PDF)
 ---
 Suchst Du vergeblich nach einer bestimmten App in den verschiedenen
 App-Shops? Statt darauf zu warten, bis sie jemand für dich entwickelt,
