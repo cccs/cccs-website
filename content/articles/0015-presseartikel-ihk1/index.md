@@ -2,7 +2,7 @@
 kind: article
 created_at: 2015-08-18
 title: Presseartikel zum Thema IT-Sicherheitsgesetz
-subtitle: Der CCCS wurde gebeten, einen Gastartikel in der IHK-Mitgliederzeitschrift zu schreiben
+subtitle: Rince wurde gebeten, einen Gastartikel in der IHK-Mitgliederzeitschrift zu schreiben
 author: Rince
 ---
 Die [IHK Stuttgart](https://www.stuttgart.ihk24.de/) hatte Rince
