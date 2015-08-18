@@ -8,7 +8,7 @@ author: Rince
 Die [IHK Stuttgart](https://www.stuttgart.ihk24.de/) hatte Rince
 gebeten, Gastartikel zu schreiben. Der Erste davon lautet wie folgt:
 <br>
-IT-Sicherheitgesetz: Freund oder Feind?<br>
+IT-Sicherheitgesetz: Freund oder Feind?<p>
 Seit einigen Monaten geistert der Begriff "IT-Sicherheitsgesetz" durch
 die Poltik- und Medienlandschaft. Die Rede ist von einer gesetzlichen
 Vorgabe für Unternehmen, ihre IT-Systeme (die nicht nur für Produktion
