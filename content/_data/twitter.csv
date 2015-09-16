@@ -1,3 +1,7 @@
+644083658740080640,2015-09-16 09:41:25 +0000,cccs_de,"Tweet ""Cryptome-PGP-Key kompromittiert"" gelöscht - das sieht noch alles zu unklar aus! Ein Hack der Webseite ist ja ebenso möglich…"
+644082076061442052,2015-09-16 09:35:08 +0000,cccs_de,"Zweiter getesteter Keyserver https://keyserver.ubuntu.com/pks/lookup?op=get&fingerprint=on&search=0xB650572B8B3BF75C #cryptome #lasttweet
+Findet jemand eine Revocation?"
+644081910176743424,2015-09-16 09:34:28 +0000,cccs_de,Der alte #cryptome Key bei https://archive.org https://web.archive.org/web/20150908004046/http://cryptome.org ist auf zwei Keyservern nicht revoked: https://pgp.mit.edu/pks/lookup?op=get&search=0xB650572B8B3BF75C
 644080679307882496,2015-09-16 09:29:35 +0000,cccs_de,Zu #cryptome: Wieso ist die Key Revocation nicht auf der Website? Wieso so kurze (unsichere) Key-IDs im Announcement?
 644075032478646272,2015-09-16 09:07:08 +0000,cccs_de,Der PGP-Schlüssel von cryptome wurde kompromittiert: https://cryptome.org/
 644044306882404353,2015-09-16 07:05:03 +0000,cccs_de,Heute: CCCS-Stammtisch (shackspace) https://www.cccs.de/about/stammtisch/
