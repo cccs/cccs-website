@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: Skyr
+  date: 2015-09-16 09:50:56.000000000 Z
+  title: Cryptome PGP-Key kompromittiert?
+  url: http://stefan.ploing.de/2015-09-16-cryptome-pgp-key/
 - user: Rince
   date: 2015-08-13 09:32:00.000000000 Z
   title: Warum Auto-Hacks absehbar sind
@@ -79,7 +83,3 @@ blogposts:
   date: 2015-05-13 15:10:00.000000000 Z
   title: Lange überfällig
   url: http://blog.querulantin.de/serendipity/index.php?/archives/425-Lange-ueberfaellig.html
-- user: Skyr
-  date: 2015-05-11 10:54:48.000000000 Z
-  title: OSGi und die ClassNotFound-Exception
-  url: http://stefan.ploing.de/2015-05-11-osgi-classnotfound-exception/
