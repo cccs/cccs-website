@@ -22,8 +22,7 @@ was ich möchte? Wie keine andere Disziplin umgibt die Rhetorik ein
 kalter, verlockender Hauch magischer Zauberkraft. Doch Geschichten aus
 allen Kulturen lehren uns, dass kein Zauberspruch ohne Opfer auskommt.
 Je wichtiger uns unsere Ziele werden, umso drastischer werden unsere
-Methoden. Benedikt Jockenhöfer, selbst Master der Rhetorik spricht in
+Methoden. Benedikt Jockenhöfer, selbst Meister der Rhetorik spricht in
 seinem Vortrag über die Tipps, Tricks und Techniken der Rhetorik, die
 wirklich funktionieren und über den oft versteckten Preis, den wir für
 diese Zaubersprüche zahlen.
-
