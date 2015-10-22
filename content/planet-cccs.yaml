@@ -2,6 +2,10 @@
 title: Planet CCCS
 kind: page
 blogposts:
+- user: princess
+  date: 2015-10-22 19:03:00.000000000 Z
+  title: ! 'Stefan Selke: Schamland'
+  url: http://blog.querulantin.de/serendipity/index.php?/archives/440-Stefan-Selke-Schamland.html
 - user: Skyr
   date: 2015-10-07 11:17:46.000000000 Z
   title: Debugging Hibernate
@@ -79,7 +83,3 @@ blogposts:
   date: 2015-05-19 17:31:00.000000000 Z
   title: ! 'Sophie Hart: "Unanständige Frauen lesen und trinken Kaffee"'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/427-Sophie-Hart-Unanstaendige-Frauen-lesen-und-trinken-Kaffee.html
-- user: princess
-  date: 2015-05-17 19:42:11.000000000 Z
-  title: ! 'Sarah Connor: Wie schön Du bist'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/426-Sarah-Connor-Wie-schoen-Du-bist.html
