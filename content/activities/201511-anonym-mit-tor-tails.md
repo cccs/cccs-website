@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2015-11-05T19:30:00Z
+startdate: 2015-11-05T19:00:00Z
 duration: 90m
 title: "Vortrag: Anonym im Netz mit Tor und Tails"
 speakers:
@@ -10,6 +10,8 @@ location:
   location: bib
 public: true
 ---
+*Achtung:* Geänderte Anfangszeit!
+
 Bei jeder Nutzung des Internets hinterlässt der Benutzer Datenspuren;
 aber auch auf dem lokalen Rechner bleiben Datenreste zurück, welche
 Rückschlüsse auf das Getane zulassen. Dieser Vortrag stellt zunächst Tor
