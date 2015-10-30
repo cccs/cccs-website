@@ -101,7 +101,7 @@ events:
       ort: Stuttgart
   -
     startdate: 2015-07-15T19:00:00Z
-    duration: 2h	
+    duration: 2h
     title: "Neue Stuttgarter Abendgespräche"
     url: http://www.abendgespraeche.de/talks.html
     location:
@@ -109,7 +109,7 @@ events:
       strasse: Breitscheidstraße 4
       plz: 70174
       ort: Stuttgart
-  - 
+  -
     startdate: 2015-08-13
     duration: 5d
     title: "Chaos Communication Camp"
@@ -118,4 +118,12 @@ events:
       name: Ziegeleipark
       ort: Mildenberg
       url: http://www.ziegeleipark.de/
+  -
+    startdate: 2015-12-27
+    duration: 4d
+    title: "32C3"
+    url: https://events.ccc.de/
+    location:
+      name: CCH
+      ort: Hamburg
 
