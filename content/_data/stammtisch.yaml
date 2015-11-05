@@ -1,127 +1,6 @@
 ---
 events:
 - title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-01-07 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-01-15 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-02-04 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-02-19 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-03-04 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-03-19 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-04-01 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-04-16 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-05-06 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-05-21 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-06-03 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-06-18 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-07-01 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-07-16 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-08-05 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-08-20 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-09-02 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-09-17 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-10-07 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-10-15 18:00:00.000000000 +02:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-11-04 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-11-19 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2014-12-02 18:00:00.000000000 +01:00
-  duration: 4h
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2014-12-17 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
   startdate: 2015-01-06 18:00:00.000000000 +01:00
   duration: 4h
   url: https://www.cccs.de/about/stammtisch/
@@ -261,6 +140,150 @@ events:
     location: zadu
 - title: CCCS-Stammtisch (shackspace)
   startdate: 2015-12-16 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-01-05 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-01-20 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-02-02 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-02-17 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-03-01 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-03-16 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-04-05 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-04-20 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-05-03 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-05-18 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-06-07 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-06-15 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-07-05 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-07-20 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-08-02 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-08-17 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-09-06 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-09-21 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-10-04 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-10-19 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-11-01 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-11-16 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2016-12-06 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2016-12-21 18:00:00.000000000 +01:00
   duration: 4h
   url: https://www.cccs.de/about/stammtisch/
   location:
