@@ -9,6 +9,13 @@ speakers:
 location:
   name: VHS Nagold
 public: true
+material:
+  -
+    title: Folien
+    file: big-data.pdf
+  -
+    title: Video
+    link: https://youtu.be/pamAhk48cZU
 ---
 Big Data ist eines der Megathemen in der Computertechnik.
 Dahinter steckt zunächst der Umgang mit extrem großen Datenmengen.
