@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    file: anonym-mit-tor-tails.pdf
 ---
 *Achtung:* Geänderte Anfangszeit!
 
