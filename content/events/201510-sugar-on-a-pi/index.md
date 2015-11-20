@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201510-sugar-on-a-pi.mp3
 ---
 Kinder sollen immer früher an Computer herangeführt werden. Aber wer
 macht sich Gedanken um den Weg in und durch diese IT-Welt? Die

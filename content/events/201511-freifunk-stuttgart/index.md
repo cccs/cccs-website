@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201511-freifunk-stuttgart.mp3
 ---
 Seit Mai 2014 gibt es einen Freifunk-Verein in Stuttgart, und das
 WLAN-Netz der Stuttgarter Freifunker ist in dieser Zeit auf fast 600

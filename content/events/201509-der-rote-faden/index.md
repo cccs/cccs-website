@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201509-der-rote-faden.mp3
 ---
 Textilfasern gehören zu den vielfältigsten und faszinierendsten
 kriminalistisch verwertbaren Spuren. Der Biologe Dr. Thomas Ritter ist
