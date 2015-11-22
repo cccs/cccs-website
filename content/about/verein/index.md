@@ -33,8 +33,8 @@ Chaosnummer (die Mitgliedsnummer des Bundes-CCC) ein.
 
     CCCS
     c/o Hanno Wagner
-    Neckarstraße 168b
-    70190 Stuttgart
+    Mittelfeldstraße 23
+    70806 Kornwestheim
 
 ## Bankverbindung
 

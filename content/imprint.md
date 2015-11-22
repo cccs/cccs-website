@@ -12,8 +12,8 @@ Postanschrift:
 
 Chaos Computer Club Stuttgart e. V.<br/>
 c/o Hanno Wagner<br/>
-Neckarstraße 168b<br/>
-70190 Stuttgart<br/>
+Mittelfeldstraße 23<br/>
+70806 Kornwestheim<br/>
 Germany
 
 E-Mail: vorstand@cccs.de
