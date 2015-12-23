@@ -8,4 +8,6 @@ blogroll:
   -
     user: Rince
     feed: http://blog.rince.de/feeds/index.rss2
-
+  -  
+    user: Leibi
+    feed: http://stefan.leibfarth.org/?feed=rss2
