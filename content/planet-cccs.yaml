@@ -3,6 +3,10 @@ title: Planet CCCS
 kind: page
 blogposts:
 - user: Leibi
+  date: 2016-01-02 18:09:27.000000000 Z
+  title: 
+  url: http://stefan.leibfarth.org/?p=198
+- user: Leibi
   date: 2016-01-01 21:15:17.000000000 Z
   title: ! 'Trevor Paglen: What lies beneath'
   url: http://stefan.leibfarth.org/?p=195
@@ -78,7 +82,3 @@ blogposts:
   date: 2015-10-07 11:17:46.000000000 Z
   title: Debugging Hibernate
   url: http://stefan.ploing.de/2015-10-07-debugging-hibernate/
-- user: Skyr
-  date: 2015-09-16 09:50:56.000000000 Z
-  title: Cryptome PGP-Key kompromittiert?
-  url: http://stefan.ploing.de/2015-09-16-cryptome-pgp-key/
