@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2015-06-27T17:00:00Z
+startdate: 2016-02-13T17:00:00Z
 duration: 4h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
