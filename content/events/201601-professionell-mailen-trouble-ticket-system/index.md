@@ -30,3 +30,5 @@ erklären, technisches Hintergrundwissen ist hier nicht vonnöten.
 Der Vortrag richtet sich gerade auch an Nicht-IT-Sachbearbeiter im ganz
 normalen Berufsleben, die IT nur als Werkzeug und nicht als Selbstzweck
 verstehen.
+
+Dieser Vortrag wird nicht gestreamt.
