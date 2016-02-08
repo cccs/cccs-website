@@ -26,3 +26,5 @@ Funktionsweise des Systems, anschließend geht es um Erfahrungen,
 Pitfalls und Workarounds, die sich im alltäglichen Einsatz mit dem
 „vermutlich sichersten Desktop-System der Welt“ ergeben haben.
 
+Der Vortrag findet nicht wie gewohnt im Max-Bense-Forum, sondern im Café
+Lesbar (8. Stock) statt.
