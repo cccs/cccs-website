@@ -14,6 +14,7 @@ material:
   -
     file: 201602-qubesos-laptop.pdf
     title: Folien (PDF)
+audio: 201602-qubesos-laptop.mp3
 ---
 QubesOS versucht, die Messlatte für die Sicherheit bei normalen
 Computerarbeitsplätzen deutlich höher zu legen, ohne dabei auf zu
