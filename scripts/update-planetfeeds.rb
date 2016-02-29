@@ -58,6 +58,7 @@ blogposts['blogposts'].sort! do |a,b|
   end
 end
 blogposts['blogposts'] = blogposts['blogposts'][0..19]
+blogposts['kind'] = 'page'
 
 # Output
 File.open(blogposts_file, 'w+') {|f| f.write(blogposts.to_yaml) }
