@@ -3,4 +3,5 @@
 .*.swp
 crash.log
 /.sass-cache
-
+.rvmrc
+/vendor/*
