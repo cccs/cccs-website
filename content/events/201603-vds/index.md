@@ -10,7 +10,7 @@ speakers:
 location:
   location: bib
 public: true
- material:
+material:
   -
     title: Präsentation
     link: https://stefan.leibfarth.org/slides/vds.cccs/ 
