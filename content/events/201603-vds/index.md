@@ -10,15 +10,15 @@ speakers:
 location:
   location: bib
 public: true
-# material:
-#  -
-#    file: 
-#    title: 
+material:
+  -
+    title: Präsentation
+    link: https://stefan.leibfarth.org/slides/vds.cccs/ 
 #audio: 
 ---
 Im Oktober 2015 wurde im Bundestag die Wiedereinführung der zuvor
 vom Verfassungsgericht gestoppten Vorratsdatenspeicherung beschlossen.
-Internet- und Telefonanbieter sind nun gezwungen, in großen Umfang Daten
+Internet- und Telefonanbieter sind nun gezwungen, in großem Umfang Daten
 über Ihre Kunden zu speichern und auf Verlangen den Ermittlungsbehörden
 und Geheimdiensten zur Verfügung zu stellen.
 
