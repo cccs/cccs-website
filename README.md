@@ -1,5 +1,7 @@
 # Webseitenquelltext [www.cccs.de](www.cccs.de)
 
+[![Build Status](https://travis-ci.org/cccs/cccs-website.svg?branch=master)](https://travis-ci.org/cccs/cccs-website)
+
 ## Lizenzen
 
 Der Inhalt der referenzierten git-Repos steht unter den dort vermerkten
