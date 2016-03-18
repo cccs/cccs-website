@@ -10,8 +10,6 @@ speakers:
 location:
   location: bib
 public: true
-material:
-  -
 ---
 Der EU US Privacy Shield und die EU Datenschutz-Grundverordnung
 
