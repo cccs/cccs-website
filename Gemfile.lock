@@ -1,5 +1,4 @@
 GEM
-  remote: http://gems.github.com/
   remote: http://rubygems.org/
   specs:
     addressable (2.4.0)
