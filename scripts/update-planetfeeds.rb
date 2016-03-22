@@ -7,6 +7,7 @@ require 'bundler/setup'
 require 'yaml'
 require 'feedjira'
 
+
 def getBlogroll(blogroll_file)
   blogroll_raw = YAML.load_file(blogroll_file)
   blogroll = { }
@@ -33,21 +34,27 @@ blogroll = getBlogroll(blogroll_file)
 posturls = blogposts['blogposts'].map { |post| post['url'] }
 
 # Read feed
-feeds = Feedjira::Feed.fetch_and_parse(blogroll.keys)
+#feeds = blogroll.keys.map { |url| Feedjira::Feed.fetch_and_parse(url) }
 
-# Add feed data
-feeds.each do |feed,data|
-  data.entries.each do |posting|
-    if !posturls.include?(posting.url)
-      postdata = { }
-      postdata['user'] = blogroll[feed]
-      postdata['date'] = posting.published
-      postdata['title'] = posting.title
-      postdata['url'] = posting.url
-      blogposts['blogposts'] << postdata
+# Read feeds, add feed data
+blogroll.keys.each do |url|
+  begin
+    f = Feedjira::Feed.fetch_and_parse(url)
+    f.entries.each do |posting|
+      if !posturls.include?(posting.url)
+        postdata = { }
+        postdata['user'] = blogroll[url]
+        postdata['date'] = posting.published
+        postdata['title'] = posting.title
+        postdata['url'] = posting.url
+        blogposts['blogposts'] << postdata
+      end
     end
+  rescue StandardError => err
+    puts "Unable to parse #{url}: #{err}"
   end
 end
+
 
 # Sort, limit list
 blogposts['blogposts'].sort! do |a,b|
