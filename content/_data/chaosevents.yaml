@@ -126,4 +126,23 @@ events:
     location:
       name: CCH
       ort: Hamburg
-
+ -
+    startdate: 2016-05-26
+    duration: 4d
+    title: "GPN15"
+    url: https://entropia.de/GPN16
+    location:
+      name: Hochschule für Gestaltung (HfG)
+      ort: Karlsruhe
+      lon: 49.002196
+      lat: 8.38411
+  -
+    startdate: 2016-06-16
+    duration: 3d
+    title: "5. No-Spy Konferenz"
+    url: https://no-spy.org/
+    location:
+      name: Literaturhaus Stuttgart
+      strasse: Breitscheidstraße 4
+      plz: 70174
+      ort: Stuttgart
