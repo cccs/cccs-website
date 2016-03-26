@@ -126,7 +126,7 @@ events:
     location:
       name: CCH
       ort: Hamburg
- -
+  -
     startdate: 2016-05-26
     duration: 4d
     title: "GPN15"
