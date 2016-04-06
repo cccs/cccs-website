@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Skyr
+  date: 2016-04-05 17:58:20.000000000 Z
+  title: iX-Artikel über Session-Security
+  url: http://stefan.ploing.de/2016-04-05-ix-artikel-ueber-session-security/
 - user: princess
   date: 2016-02-07 22:27:00.000000000 Z
   title: Der Zustand, in dem Flüchtlinge hier ankommen
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-08-11 15:34:00.000000000 Z
   title: ! 'Wie man Katastrophen abwendet, heute: Löschen von LUKS-Schlüsseln'
   url: http://blog.rince.de/archives/754-Wie-man-Katastrophen-abwendet,-heute-Loeschen-von-LUKS-Schluesseln.html
-- user: princess
-  date: 2015-08-06 18:53:05.000000000 Z
-  title: Lustiges Tierleben
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/438-Lustiges-Tierleben.html
 kind: page
