@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    file: 201604-anonym-mit-tor-tails.pdf
 ---
 Bei jeder Nutzung des Internets hinterlässt der Benutzer Datenspuren;
 aber auch auf dem lokalen Rechner bleiben Datenreste zurück, welche
