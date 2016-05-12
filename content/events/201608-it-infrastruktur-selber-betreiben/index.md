@@ -2,7 +2,7 @@
 kind: event
 startdate: 2016-08-11T19:30:00Z
 duration: 2h
-title: "T Infrastruktur selber betreiben - wie und warum"
+title: "IT Infrastruktur selber betreiben - wie und warum"
 speakers:
   -
     name: Andrea Widmann
