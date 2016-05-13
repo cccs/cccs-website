@@ -2,7 +2,7 @@
 kind: event
 startdate: 2016-02-10T19:30:00Z
 duration: 2h
-title: "DIe Wanze im Wohnzimmer - SmartTV, XBox One, Amazon Echo & Co"
+title: "Die Wanze im Wohnzimmer - SmartTV, XBox One, Amazon Echo & Co"
 speakers:
   -
     name: Rince
@@ -10,10 +10,6 @@ speakers:
 location:
   location: bib
 public: true
-material:
-  -
-    file: 201602-qubesos-laptop.pdf
-    title: Folien (PDF)
 ---
 SmartTV, XBox, Amazon und Co: Die Wanzen im Wohnzimmer.
 
