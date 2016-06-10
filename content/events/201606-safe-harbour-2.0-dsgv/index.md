@@ -10,6 +10,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    file: 201606-safe-harbour-20-dsgv.pdf
+    title: Folien (PDF)
 ---
 Der EU US Privacy Shield und die EU Datenschutz-Grundverordnung
 
