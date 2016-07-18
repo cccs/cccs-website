@@ -8,7 +8,7 @@ kind: page
 <h2><a id="<%= member[:title] %>"><%= member[:title] %></a></h2>
 <ul>
   <% if member[:pgp] %>
-  <li>PGP-Key: <a href="http://pool.sks-keyservers.net/pks/lookup?op=get&search=<%= member[:pgp] %>"><%= member[:pgp] %></a></li>
+  <li>PGP-Key: <a href="https://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&search=<%= member[:pgp] %>"><%= member[:pgp] %></a></li>
   <% end %>
   <% if member[:url] %>
   <li>Website: <a href="<%= member[:url] %>"><%= member[:url] %></a></li>
