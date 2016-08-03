@@ -1,6 +1,10 @@
 ---
 blogposts:
 - user: Rince
+  date: 2016-08-03 09:25:57.000000000 Z
+  title: ! 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
+  url: http://blog.rince.de/archives/758-Streaming-vs.-Besitzen-Der-Verlust-von-Filmen-und-Serien.html
+- user: Rince
   date: 2016-06-28 06:21:27.000000000 Z
   title: ! 'Internet of Things: Wie man Dinge nicht erleben möchte'
   url: http://blog.rince.de/archives/757-Internet-of-Things-Wie-man-Dinge-nicht-erleben-moechte.html
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-09-16 09:50:56.000000000 Z
   title: Cryptome PGP-Key kompromittiert?
   url: http://stefan.ploing.de/2015-09-16-cryptome-pgp-key/
-- user: Rince
-  date: 2015-08-13 09:32:00.000000000 Z
-  title: Warum Auto-Hacks absehbar sind
-  url: http://blog.rince.de/archives/756-Warum-Auto-Hacks-absehbar-sind.html
 kind: page
