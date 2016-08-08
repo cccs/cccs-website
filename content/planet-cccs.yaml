@@ -1,6 +1,10 @@
 ---
 blogposts:
 - user: Rince
+  date: 2016-08-08 06:56:03.000000000 Z
+  title: ! 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
+  url: http://blog.rince.de/archives/759-Virtualbox-auf-dem-Laptop-Automatisch-VMs-runterfahren-bei-Suspend.html
+- user: Rince
   date: 2016-08-03 09:25:57.000000000 Z
   title: ! 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
   url: http://blog.rince.de/archives/758-Streaming-vs.-Besitzen-Der-Verlust-von-Filmen-und-Serien.html
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-10-07 11:17:46.000000000 Z
   title: Debugging Hibernate
   url: http://stefan.ploing.de/2015-10-07-debugging-hibernate/
-- user: Skyr
-  date: 2015-09-16 09:50:56.000000000 Z
-  title: Cryptome PGP-Key kompromittiert?
-  url: http://stefan.ploing.de/2015-09-16-cryptome-pgp-key/
 kind: page
