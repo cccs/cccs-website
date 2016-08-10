@@ -9,11 +9,10 @@ speakers:
 location:
   location: bib
 public: true
- material:
+material:
   -
     file: 201608-it-infrastruktur-selber-betreiben.pdf
     title: Folien
- material:
   -
     file: 201608-it-infrastruktur-selber-betreiben-handout.pdf
     title: Handout
