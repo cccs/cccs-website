@@ -147,7 +147,7 @@ events:
       plz: 70174
       ort: Stuttgart
   -
-    startdate: 2016-09-21
+    startdate: 2016-09-21T20:00:00Z
     duration: 2h
     title: "[Digitale] Albträume "
     url: https://no-spy.org/vorschau/literarischer-realitaetsabgleich/
