@@ -146,6 +146,16 @@ events:
       strasse: Breitscheidstraße 4
       plz: 70174
       ort: Stuttgart
+ -
+    startdate: 2016-09-21
+    duration: 2h
+    title: "(Digitale) Albträume "
+    url: https://no-spy.org/vorschau/literarischer-realitaetsabgleich/
+    location:
+      name: Bibliothek am Mailänder Platz
+      strasse: Mailänder Platz 1
+      plz: 70173
+      ort: Stuttgart
   -
     startdate: 2017-05-19
     duration: 3d
@@ -155,14 +165,4 @@ events:
       name: Literaturhaus Stuttgart
       strasse: Breitscheidstraße 4
       plz: 70174
-      ort: Stuttgart
- -
-    startdate: 2017-09-21
-    duration: 2h
-    title: "[Digitale] Albträume "
-    url: https://no-spy.org/vorschau/literarischer-realitaetsabgleich/
-    location:
-      name: Bibliothek am Mailänder Platz
-      strasse: Mailänder Platz 1
-      plz: 70173
       ort: Stuttgart
