@@ -1,150 +1,6 @@
 ---
 events:
 - title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-01-06 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-01-21 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-02-03 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-02-18 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-03-03 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-03-18 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-04-07 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-04-15 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-05-05 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-05-20 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-06-02 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-06-17 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-07-07 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-07-15 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-08-04 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-08-19 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-09-01 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-09-16 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-10-06 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-10-21 18:00:00.000000000 +02:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-11-03 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-11-18 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
-  startdate: 2015-12-01 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2015-12-16 18:00:00.000000000 +01:00
-  duration: 4h
-  url: https://www.cccs.de/about/stammtisch/
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Zadu-Bar)
   startdate: 2016-01-05 18:00:00.000000000 +01:00
   duration: 4h
   url: https://www.cccs.de/about/stammtisch/
@@ -284,6 +140,150 @@ events:
     location: zadu
 - title: CCCS-Stammtisch (shackspace)
   startdate: 2016-12-21 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-01-03 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-01-18 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-02-07 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-02-15 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-03-07 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-03-15 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-04-04 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-04-19 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-05-02 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-05-17 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-06-06 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-06-21 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-07-04 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-07-19 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-08-01 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-08-16 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-09-05 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-09-20 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-10-03 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-10-18 18:00:00.000000000 +02:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-11-07 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-11-15 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Zadu-Bar)
+  startdate: 2017-12-05 18:00:00.000000000 +01:00
+  duration: 4h
+  url: https://www.cccs.de/about/stammtisch/
+  location:
+    location: zadu
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2017-12-20 18:00:00.000000000 +01:00
   duration: 4h
   url: https://www.cccs.de/about/stammtisch/
   location:

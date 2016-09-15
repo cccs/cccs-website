@@ -1,72 +1,67 @@
 ---
 events:
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2015-11-12 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2015-12-10 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-01-14 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-02-11 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-03-10 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-04-14 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-05-12 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-06-09 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-07-14 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-08-11 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-09-08 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-10-13 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2016-11-10 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
   startdate: 2016-12-08 19:30:00.000000000 +01:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-01-12 19:30:00.000000000 +01:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-02-09 19:30:00.000000000 +01:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-03-09 19:30:00.000000000 +01:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-04-13 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-05-11 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-06-08 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-07-13 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-08-10 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-09-14 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-10-12 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-11-09 19:30:00.000000000 +01:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2017-12-14 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
