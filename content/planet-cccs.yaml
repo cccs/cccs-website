@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Skyr
+  date: 2016-10-05 07:35:02.000000000 Z
+  title: sbt/activator via Proxy
+  url: http://stefan.ploing.de/2016-10-05-sbt-activator-via-proxy/
 - user: Rince
   date: 2016-08-08 06:56:03.000000000 Z
   title: ! 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-10-22 19:03:00.000000000 Z
   title: ! 'Stefan Selke: Schamland'
   url: http://blog.querulantin.de/serendipity/index.php?/archives/440-Stefan-Selke-Schamland.html
-- user: Skyr
-  date: 2015-10-07 11:17:46.000000000 Z
-  title: Debugging Hibernate
-  url: http://stefan.ploing.de/2015-10-07-debugging-hibernate/
 kind: page
