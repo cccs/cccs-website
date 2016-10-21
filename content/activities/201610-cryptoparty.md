@@ -8,8 +8,8 @@ location:
 public: true
 ---
 Cryptoparties sind öffentliche Treffen für Kryptographie-Interessierte.
-Ziel ist es, sich gegenseitig grundlegende Verschlüsselungs- und Verschleierungstechniken beizubringen und sich über Kryptografie im Alltag - wie E-Mail Verschlüsselung und sicheres Surfen - auszutauschen. 
-An mehreren Stationen könnt Ihr gemeinsam mit uns praktische Erfahrungen gesammeln. 
+Ziel ist es, sich gegenseitig grundlegende Verschlüsselungs- und Verschleierungstechniken beizubringen und sich über Kryptografie im Alltag - wie E-Mail-Verschlüsselung und sicheres Surfen - auszutauschen. 
+An mehreren Stationen könnt Ihr gemeinsam mit uns praktische Erfahrungen sammeln. 
 Vorkenntnisse sind nicht erforderlich. Es gibt keinen festen zeitlichen Ablauf, der Einstieg ist jederzeit problemlos möglich. 
 
 Bitte bringt Eure eigenen Laptops, Tablets oder Smartphones mit, nur so lernt Ihr auch wirklich was.
