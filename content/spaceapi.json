@@ -1,0 +1,36 @@
+{
+    "api": "0.13",
+    "space": "CCCS - CCC Stuttgart",
+    "logo": "https://www.cccs.de/img/logo-klein.png",
+    "url": "https://www.cccs.de/",
+    "ext_ccc": "erfa",
+    "location": {
+        "address": "Trefft uns an den Stammtischen (https://www.cccs.de/about/stammtisch/) oder der Vortragsreihe (https://www.cccs.de/events/vortragsreihe/)!",
+        "lon": 9.181,
+        "lat": 48.790
+    },
+    "contact": {
+        "twitter": "@cccs_de",
+        "ml": "public@cccs.de",
+        "issue_mail": "presse@cccs.de"
+    },
+    "issue_report_channels": [
+        "twitter", "issue_mail"
+    ],
+    "state": {
+        "open": false
+    },
+    "feeds": {
+      "blog": {
+        "type": "atom",
+        "url": "https://www.cccs.de/atom.xml"
+      },
+      "calendar": {
+        "type": "ical",
+        "url": "https://www.cccs.de/cccs.ical"
+      }
+    },
+    "cache": {
+      "schedule": "h.04"
+    }
+}
