@@ -43,7 +43,7 @@ feed:
   </div>
 </div>
 <div class="row">
-  <% upcomingEvents = get_events().select { |e| e[:startdate].to_datetime > DateTime.now }
+  <% upcomingEvents = get_events(true).select { |e| e[:startdate].to_datetime > DateTime.now }
   if (upcomingEvents.size>0)
     upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
   %>
@@ -52,9 +52,11 @@ feed:
       <article itemscope itemtype="http://schema.org/EducationEvent">
         <h1><a href="<%= upcomingEvents[0].path() %>">Nächster Vortrag</a></h1>
         <%= render 'event_header', :item => upcomingEvents[0], :heading => false, :link => false %>
+        <% if upcomingEvents[0].path() %>
         <p>
           <a itemprop="url" href="<%= upcomingEvents[0].path() %>">Weitere Informationen</a>
         </p>
+        <% end %>
         <p>
           Während des Vortrags besteht die Möglichkeit, <a href="/events/stream/">per Livestream und Chat</a> mitzudiskutieren.
         </p>
