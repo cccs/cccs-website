@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2016-12-06T19:30:00Z
+startdate: 2016-12-08T19:30:00Z
 duration: 2h
 title: "Film „Traceroute“"
 location:
