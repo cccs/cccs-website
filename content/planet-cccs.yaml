@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Leibi
+  date: 2017-01-03 23:00:00.000000000 Z
+  title: Noch können wir das
+  url: https://stefan.leibfarth.org/posts/2017-01-04-Zitat-heute-de/
 - user: Skyr
   date: 2016-10-05 07:35:02.000000000 Z
   title: sbt/activator via Proxy
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-12-22 18:56:00.000000000 Z
   title: Gedanken zum Jahreswechsel
   url: http://blog.querulantin.de/serendipity/index.php?/archives/447-Gedanken-zum-Jahreswechsel.html
-- user: princess
-  date: 2015-12-22 17:39:00.000000000 Z
-  title: WISO Lohnsteuerprogramm für Linux? Der Versuch einer Anfrage.
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/446-WISO-Lohnsteuerprogramm-fuer-Linux-Der-Versuch-einer-Anfrage..html
 kind: page
