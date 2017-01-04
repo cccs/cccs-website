@@ -33,6 +33,10 @@ blogposts:
   title: Verkehrschaos durch Fliegerbombe - Nahverkehr überfordert, und dann noch
     der Feinstaubalarm
   url: http://blog.querulantin.de/serendipity/index.php?/archives/451-Verkehrschaos-durch-Fliegerbombe-Nahverkehr-ueberfordert,-und-dann-noch-der-Feinstaubalarm.html
+- user: Leibi
+  date: 2016-01-23 23:00:00.000000000 Z
+  title: Drei Dinge
+  url: https://stefan.leibfarth.org/posts/2016-01-24-drei-dinge-die-sich-nicht-vereinbaren-lassen/
 - user: princess
   date: 2016-01-08 16:13:00.000000000 Z
   title: Mindestlohn killt keine Arbeitsplätze
@@ -49,6 +53,26 @@ blogposts:
   date: 2015-12-27 04:09:22.000000000 Z
   title: How Fourier Series Work
   url: https://stefan.leibfarth.org/?p=166
+- user: Leibi
+  date: 2015-12-26 23:00:00.000000000 Z
+  title: How Fourier Series Work
+  url: https://stefan.leibfarth.org/posts/2015-12-27-how-fourier-series-work/
+- user: Leibi
+  date: 2015-12-23 23:00:00.000000000 Z
+  title: What is Open Source explained in LEGO
+  url: https://stefan.leibfarth.org/posts/2015-12-24-what-is-open-source-explained-in-lego-youtube/
+- user: Leibi
+  date: 2015-12-23 23:00:00.000000000 Z
+  title: Klimawandel
+  url: https://stefan.leibfarth.org/posts/2015-12-24-Klimawandel/
+- user: Leibi
+  date: 2015-12-22 23:00:00.000000000 Z
+  title: Deutschland um 1900…
+  url: https://stefan.leibfarth.org/posts/2015-12-23-rare-color-photos-reveal-germany-in-1900-before-it-was-destroyed-by-wars-bored-panda/
+- user: Leibi
+  date: 2015-12-22 23:00:00.000000000 Z
+  title: WhatsApp-Zwang
+  url: https://stefan.leibfarth.org/posts/2015-12-23-cryptomessenger-wie-ich-die-digitalisierung-meiner-familie-verpasste-golem-de/
 - user: princess
   date: 2015-12-22 18:56:00.000000000 Z
   title: Gedanken zum Jahreswechsel
@@ -57,28 +81,4 @@ blogposts:
   date: 2015-12-22 17:39:00.000000000 Z
   title: WISO Lohnsteuerprogramm für Linux? Der Versuch einer Anfrage.
   url: http://blog.querulantin.de/serendipity/index.php?/archives/446-WISO-Lohnsteuerprogramm-fuer-Linux-Der-Versuch-einer-Anfrage..html
-- user: princess
-  date: 2015-12-09 22:04:00.000000000 Z
-  title: Rezeptideen mit Lachskaviar
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/444-Rezeptideen-mit-Lachskaviar.html
-- user: princess
-  date: 2015-12-09 21:59:00.000000000 Z
-  title: ! 'AnnenMayKantereit: Es wird schon irgendwie gehen'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/445-AnnenMayKantereit-Es-wird-schon-irgendwie-gehen.html
-- user: princess
-  date: 2015-11-24 19:55:15.000000000 Z
-  title: 5. Second-Hand-Basar bei Selena
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/443-5.-Second-Hand-Basar-bei-Selena.html
-- user: princess
-  date: 2015-11-19 19:01:00.000000000 Z
-  title: Gefährdung oder doch nur Angstmache?
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/442-Gefaehrdung-oder-doch-nur-Angstmache.html
-- user: princess
-  date: 2015-11-08 18:48:12.000000000 Z
-  title: Nur vordergründig eine Hilfsaktion
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/441-Nur-vordergruendig-eine-Hilfsaktion.html
-- user: princess
-  date: 2015-10-22 19:03:00.000000000 Z
-  title: ! 'Stefan Selke: Schamland'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/440-Stefan-Selke-Schamland.html
 kind: page
