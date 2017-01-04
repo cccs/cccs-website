@@ -172,3 +172,13 @@ events:
     duration: 2h
     location:
       location: shack
+  -
+    startdate: 2017-01-31T20:00:00Z
+    duration: 2h
+    title: "[Digitale] Albträume"
+    url: https://no-spy.org/vorschau/literarischer-realitaetsabgleich/
+    location:
+      name: Bibliothek am Mailänder Platz
+      strasse: Mailänder Platz 1
+      plz: 70173
+      ort: Stuttgart
