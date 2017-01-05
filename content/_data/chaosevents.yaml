@@ -182,3 +182,13 @@ events:
       strasse: Mailänder Platz 1
       plz: 70173
       ort: Stuttgart
+  -
+    startdate: 2016-05-25
+    duration: 4d
+    title: "GPN17"
+    url: https://entropia.de/GPN17
+    location:
+      name: Hochschule für Gestaltung (HfG)
+      strasse: Lorenzstraße 15
+      plz: 76135
+      ort: Karlsruhe
