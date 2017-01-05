@@ -183,12 +183,22 @@ events:
       plz: 70173
       ort: Stuttgart
   -
-    startdate: 2016-05-25
+    startdate: 2017-05-25
     duration: 4d
-    title: "GPN17"
+    title: "GPN17 - Works as intended"
     url: https://entropia.de/GPN17
     location:
       name: Hochschule für Gestaltung (HfG)
       strasse: Lorenzstraße 15
       plz: 76135
       ort: Karlsruhe
+  -
+    startdate: 2017-04-14
+    duration: 4d
+    title: "Easterhegg 17 - Ist das Zufall oder kann das weg?"
+    url: https://eh17.easterhegg.eu/
+    location:
+      name: Willy-Brandt-Halle
+      strasse: Dietesheimer Straße 90
+      plz: 63165
+      ort: Mühlheim am Main
