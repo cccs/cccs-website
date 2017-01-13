@@ -9,10 +9,10 @@ speakers:
 location:
   location: bib
 public: true
-# material:
-#  -
-#    file:
-#    title:
+material:
+  -
+    file: 20170112-glasfaser.pdf
+    title: Folien
 #audio:
 ---
 Glasfaseranschluesse sind die beste Technologie fuer den sehr schnellen Internetzugang.
