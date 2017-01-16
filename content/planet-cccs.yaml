@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Rince
+  date: 2017-01-16 10:05:08.000000000 Z
+  title: Fake-News und der Aufschrei in sozialen Netzen
+  url: http://blog.rince.de/archives/760-Fake-News-und-der-Aufschrei-in-sozialen-Netzen.html
 - user: Leibi
   date: 2017-01-03 23:00:00.000000000 Z
   title: Noch können wir das
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-12-22 23:00:00.000000000 Z
   title: WhatsApp-Zwang
   url: https://stefan.leibfarth.org/posts/2015-12-23-cryptomessenger-wie-ich-die-digitalisierung-meiner-familie-verpasste-golem-de/
-- user: princess
-  date: 2015-12-22 18:56:00.000000000 Z
-  title: Gedanken zum Jahreswechsel
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/447-Gedanken-zum-Jahreswechsel.html
 kind: page
