@@ -1,6 +1,10 @@
 ---
 blogposts:
 - user: Rince
+  date: 2017-02-01 20:40:19.000000000 Z
+  title: ! 'AVM und IoT: Eine interessante Sichtweise?'
+  url: http://blog.rince.de/archives/761-AVM-und-IoT-Eine-interessante-Sichtweise.html
+- user: Rince
   date: 2017-01-16 10:05:08.000000000 Z
   title: Fake-News und der Aufschrei in sozialen Netzen
   url: http://blog.rince.de/archives/760-Fake-News-und-der-Aufschrei-in-sozialen-Netzen.html
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-12-22 23:00:00.000000000 Z
   title: Deutschland um 1900…
   url: https://stefan.leibfarth.org/posts/2015-12-23-rare-color-photos-reveal-germany-in-1900-before-it-was-destroyed-by-wars-bored-panda/
-- user: Leibi
-  date: 2015-12-22 23:00:00.000000000 Z
-  title: WhatsApp-Zwang
-  url: https://stefan.leibfarth.org/posts/2015-12-23-cryptomessenger-wie-ich-die-digitalisierung-meiner-familie-verpasste-golem-de/
 kind: page
