@@ -1,7 +1,7 @@
 ---
 kind: event
-startdate: 2017-02-11T13:00:00Z
-duration: 5h
+startdate: 2017-02-11T15:00:00Z
+duration: 4h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
   location: bib
