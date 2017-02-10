@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    file: SenCons-CCCS-201702_V09.pdf
 #audio:
 ---
 Die Unlust, familieninternen Computersupport zu leisten, ist unter Nerds mehr oder weniger stark ausgeprägt. Aber es gibt Menschen, die uns beigebracht haben, die einfachsten technischen Hilfsmittel zu benutzen (und seien es Messer und Gabel): unsere Eltern. Manchmal ist Zeit, ihnen etwas zurückzugeben.
