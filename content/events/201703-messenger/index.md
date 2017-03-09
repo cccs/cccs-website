@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    link: https://stefan.leibfarth.org/slides/whatsapp17/
 #audio:
 ---
 Messenger auf unseres Smartphones sind auch 2017 ein viel diskutiertes Thema. Immer wieder ist von deren Verschlüsselung, Unsicherheit oder Datenschutzproblemen zu lesen.
