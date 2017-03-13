@@ -10,11 +10,11 @@ speakers:
 location:
   location: bib
 public: true
-# material:
-#  -
-#    file:
-#    title:
-#audio:
+material:
+  -
+    file: WievielUhrIstEs.pdf
+    title: Folien
+audio: 20161011_cccs_pitfalls.mp3
 ---
 Das Jahr hat 365 Tage, der Tag 24 Stunden, jede Minute 60 Sekunden, eine
 Sekunde folgt auf die nächste - und jede der vorigen Aussagen ist
