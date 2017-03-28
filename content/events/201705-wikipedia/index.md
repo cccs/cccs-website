@@ -1,4 +1,5 @@
 duration: 2h
+startdate: 2017-05-11T19:30:00Z
 title: "Wie funktioniert die Wikipedia?"
 speakers:
   -
