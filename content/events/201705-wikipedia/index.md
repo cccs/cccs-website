@@ -1,5 +1,7 @@
-duration: 2h
+---
+kind: event
 startdate: 2017-05-11T19:30:00Z
+duration: 2h
 title: "Wie funktioniert die Wikipedia?"
 speakers:
   -
