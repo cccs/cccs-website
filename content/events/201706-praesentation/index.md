@@ -19,6 +19,7 @@ Aufzählungspunkte waren vorgestern. Heute zeigt man Bilder, erzählt Geschichte
 
 Wie und warum moderne Präsentationen funktionieren erklärt dieser Vortrag.
 
-Über den Vortragenden:
+## Zur Person
+
 Dirk Haun ist Organisator und Speaker Coach bei TEDxStuttgart und Autor von "Präsentieren für Geeks". 
 Er arbeitet als selbstständiger Präsentations-Coach in Stuttgart.
