@@ -1,3 +1,4 @@
+---
 duration: 2h
 startdate: 2017-06-08T19:30:00Z
 title: "Stoppt die Bullet Points! Was eine moderne Präsentation ausmacht"
