@@ -1,5 +1,7 @@
-duration: 2h
+---
+kind: event
 startdate: 2017-06-08T19:30:00Z
+duration: 2h
 title: "Stoppt die Bullet Points! Was eine moderne Präsentation ausmacht"
 speakers:
   -
