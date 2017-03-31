@@ -13,6 +13,7 @@ diversen Leckereien aus der Küche bekochen läßt. Die Location ist
 netztechnisch leider ungeschickt gelegen, weshalb wir dort keinen
 Internet-Zugriff haben. Dafür ist das sonstige Ambiente sehr nett und
 die Küche wirklich lecker.
+**Achtung**: Die Zadu-Bar schließt im Juni dauerhaft, wir suchen gerade eine Alternative.
 
 - jeden 3. Mittwoch im Monat im [shackspace](http://www.shackspace.de/)
 ([Ulmer Straße 255, Stuttgart-Wangen](http://www.openstreetmap.org/way/117462257))
