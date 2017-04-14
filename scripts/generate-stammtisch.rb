@@ -37,7 +37,7 @@ for month in 1..12
                  else
                    date + (10-date.wday)
                  end
-  result['events'] << event(firsttuesday, 0, 'CCCS-Stammtisch (Zadu-Bar)', 'zadu')
+  result['events'] << event(firsttuesday, 0, 'CCCS-Stammtisch (Lichtblick)', 'lichtblick')
   result['events'] << event(firstwednesday, 14, 'CCCS-Stammtisch (shackspace)', 'shack')
 end
 
