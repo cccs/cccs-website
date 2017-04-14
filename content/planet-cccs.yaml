@@ -3,7 +3,15 @@ blogposts:
 - user: Rince
   date: 2017-02-01 20:40:19.000000000 Z
   title: ! 'AVM und IoT: Eine interessante Sichtweise?'
+  url: https://blog.rince.de/archives/761-AVM-und-IoT-Eine-interessante-Sichtweise.html
+- user: Rince
+  date: 2017-02-01 20:40:19.000000000 Z
+  title: ! 'AVM und IoT: Eine interessante Sichtweise?'
   url: http://blog.rince.de/archives/761-AVM-und-IoT-Eine-interessante-Sichtweise.html
+- user: Rince
+  date: 2017-01-16 10:05:08.000000000 Z
+  title: Fake-News und der Aufschrei in sozialen Netzen
+  url: https://blog.rince.de/archives/760-Fake-News-und-der-Aufschrei-in-sozialen-Netzen.html
 - user: Rince
   date: 2017-01-16 10:05:08.000000000 Z
   title: Fake-News und der Aufschrei in sozialen Netzen
@@ -19,11 +27,23 @@ blogposts:
 - user: Rince
   date: 2016-08-08 06:56:03.000000000 Z
   title: ! 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
+  url: https://blog.rince.de/archives/759-Virtualbox-auf-dem-Laptop-Automatisch-VMs-runterfahren-bei-Suspend.html
+- user: Rince
+  date: 2016-08-08 06:56:03.000000000 Z
+  title: ! 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
   url: http://blog.rince.de/archives/759-Virtualbox-auf-dem-Laptop-Automatisch-VMs-runterfahren-bei-Suspend.html
 - user: Rince
   date: 2016-08-03 09:25:57.000000000 Z
   title: ! 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
+  url: https://blog.rince.de/archives/758-Streaming-vs.-Besitzen-Der-Verlust-von-Filmen-und-Serien.html
+- user: Rince
+  date: 2016-08-03 09:25:57.000000000 Z
+  title: ! 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
   url: http://blog.rince.de/archives/758-Streaming-vs.-Besitzen-Der-Verlust-von-Filmen-und-Serien.html
+- user: Rince
+  date: 2016-06-28 06:21:27.000000000 Z
+  title: ! 'Internet of Things: Wie man Dinge nicht erleben möchte'
+  url: https://blog.rince.de/archives/757-Internet-of-Things-Wie-man-Dinge-nicht-erleben-moechte.html
 - user: Rince
   date: 2016-06-28 06:21:27.000000000 Z
   title: ! 'Internet of Things: Wie man Dinge nicht erleben möchte'
@@ -61,24 +81,4 @@ blogposts:
   date: 2015-12-27 04:09:22.000000000 Z
   title: How Fourier Series Work
   url: https://stefan.leibfarth.org/?p=166&pk_campaign=feed&pk_kwd=how-fourier-series-work
-- user: Leibi
-  date: 2015-12-27 04:09:22.000000000 Z
-  title: How Fourier Series Work
-  url: https://stefan.leibfarth.org/?p=166
-- user: Leibi
-  date: 2015-12-26 23:00:00.000000000 Z
-  title: How Fourier Series Work
-  url: https://stefan.leibfarth.org/posts/2015-12-27-how-fourier-series-work/
-- user: Leibi
-  date: 2015-12-23 23:00:00.000000000 Z
-  title: What is Open Source explained in LEGO
-  url: https://stefan.leibfarth.org/posts/2015-12-24-what-is-open-source-explained-in-lego-youtube/
-- user: Leibi
-  date: 2015-12-23 23:00:00.000000000 Z
-  title: Klimawandel
-  url: https://stefan.leibfarth.org/posts/2015-12-24-Klimawandel/
-- user: Leibi
-  date: 2015-12-22 23:00:00.000000000 Z
-  title: Deutschland um 1900…
-  url: https://stefan.leibfarth.org/posts/2015-12-23-rare-color-photos-reveal-germany-in-1900-before-it-was-destroyed-by-wars-bored-panda/
 kind: page
