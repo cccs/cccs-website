@@ -5,15 +5,14 @@ kind: page
 
 Wir haben jeden Monat zwei fixe Stammtisch-Termine:
 
-- jeden 1. Dienstag im Monat in der [Zadu-Bar](http://www.zadu.de/)
-([Reuchlinstraße 4b, Stuttgart](http://www.openstreetmap.org/way/28098272))
+- jeden 1. Dienstag im Monat im [**Lichtblick**](http://www.lichtblickstuttgart.de/)
+([Reinsburgstraße 13, 70178 Stuttgart](http://www.openstreetmap.org/way/40306315))
 
     Hier kann man dem gediegenen Nerd-Talk frönen, während man sich mit
-diversen Leckereien aus der Küche bekochen läßt. Die Location ist
-netztechnisch leider ungeschickt gelegen, weshalb wir dort keinen
-Internet-Zugriff haben. Dafür ist das sonstige Ambiente sehr nett und
-die Küche wirklich lecker.
-**Achtung**: Die Zadu-Bar schließt im Juni dauerhaft, wir suchen gerade eine Alternative.
+diversen Leckereien aus der Küche bekochen läßt.
+
+    Die bisherige Stammtisch-Location [Zadu](http://www.zadu.de/)
+    schließt leider ab Juni 2017, so dass wir umziehen mussten.
 
 - jeden 3. Mittwoch im Monat im [shackspace](http://www.shackspace.de/)
 ([Ulmer Straße 255, Stuttgart-Wangen](http://www.openstreetmap.org/way/117462257))
