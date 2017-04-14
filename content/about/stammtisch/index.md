@@ -14,8 +14,8 @@ diversen Leckereien aus der Küche bekochen läßt.
     Die bisherige Stammtisch-Location [Zadu](http://www.zadu.de/)
     schließt leider ab Juni 2017, so dass wir umziehen mussten.
 
-- jeden 3. Mittwoch im Monat im [shackspace](http://www.shackspace.de/)
-([Ulmer Straße 255, Stuttgart-Wangen](http://www.openstreetmap.org/way/117462257))
+- jeden 3. Mittwoch im Monat im [**shackspace**](http://www.shackspace.de/)
+([Ulmer Straße 255, Stuttgart-Wangen](http://www.openstreetmap.org/node/4783121021))
 
     Beim gemütlichen Lümmeln auf den Sofas der Lounge (oder, falls es ein
 Thema erfordert, am Besprechungstisch des shacks) kann hier über alles
