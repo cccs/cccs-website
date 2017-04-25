@@ -204,12 +204,12 @@ events:
   url: https://www.cccs.de/about/stammtisch/
   location:
     location: shack
-- title: CCCS-Stammtisch (Lichtblick)
+- title: CCCS-Stammtisch (letztes Mal Zadu-Bar!)
   startdate: 2017-06-06 18:00:00.000000000 +02:00
   duration: 4h
   url: https://www.cccs.de/about/stammtisch/
   location:
-    location: lichtblick
+    location: zadu
 - title: CCCS-Stammtisch (shackspace)
   startdate: 2017-06-21 18:00:00.000000000 +02:00
   duration: 4h
