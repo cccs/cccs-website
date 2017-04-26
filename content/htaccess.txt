@@ -30,3 +30,4 @@ Redirect 301 /wiki/bin/view/Main/WebRss /atom.xml
 Redirect 301 /wiki/bin/view/Main/vdsdemo /archives/oldsite/VdsDemo/
 Redirect 301 /wiki/bin/view/Main/ /archives/oldsite/
 
+Redirect 301 /archives/oldsite/VerAnstaltungen.html /archives/oldsite/VeranStaltungen2004.html
