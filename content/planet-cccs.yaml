@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Leibi
+  date: 2017-05-22 22:00:00.000000000 Z
+  title: Simple Gallery für Android
+  url: https://stefan.leibfarth.org/posts/2017-05-23-simple-gallery/
 - user: Rince
   date: 2017-02-01 20:40:19.000000000 Z
   title: ! 'AVM und IoT: Eine interessante Sichtweise?'
@@ -77,8 +81,4 @@ blogposts:
   date: 2016-01-08 15:25:00.000000000 Z
   title: 32C3 - von wegen alles schwarz
   url: http://blog.querulantin.de/serendipity/index.php?/archives/448-32C3-von-wegen-alles-schwarz.html
-- user: Leibi
-  date: 2015-12-27 04:09:22.000000000 Z
-  title: How Fourier Series Work
-  url: https://stefan.leibfarth.org/?p=166&pk_campaign=feed&pk_kwd=how-fourier-series-work
 kind: page
