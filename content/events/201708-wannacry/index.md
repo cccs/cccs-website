@@ -2,7 +2,7 @@
 kind: event
 startdate: 2017-08-10T19:30:00Z
 duration: 2h
-title: "Zum Heulen: Die Ransomware "WannaCry", ungepatchte Systeme und die Geheimdienste"
+title: "Zum Heulen: Die Ransomware „WannaCry“, ungepatchte Systeme und die Geheimdienste"
 speakers:
   -
     name: Skyr
