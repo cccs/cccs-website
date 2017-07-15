@@ -14,7 +14,7 @@ material:
   -
     title: Präsentation
     link: https://stefan.leibfarth.org/slides/vds.cccs/ 
-#audio: 
+audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2016-04-21_2016_03_10_vorratsdatenspeicherung_fuer_dummys.mp3' 
 ---
 Im Oktober 2015 wurde im Bundestag die Wiedereinführung der zuvor
 vom Verfassungsgericht gestoppten Vorratsdatenspeicherung beschlossen.

@@ -16,7 +16,7 @@ material:
   -
     file: 201608-it-infrastruktur-selber-betreiben-handout.pdf
     title: Handout
-#audio:
+audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2016-08-23_cccs_it_infrastruktur.mp3'
 ---
 Aufgabenstellung: Wenn personenbezogene Daten in einer selbstständigen
 Tätigkeit verarbeitet werden müssen, steht man schnell vor dem Problem,
