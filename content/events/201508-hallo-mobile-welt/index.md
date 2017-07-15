@@ -13,6 +13,7 @@ material:
   -
     file: hallo-mobile-welt.pdf
     title: Folien (PDF)
+audio: 'http://www.stadtbuecherei-stuttgart-audio.de/CCCS/13082015_CCCS_Hannah.mp3'
 ---
 Suchst Du vergeblich nach einer bestimmten App in den verschiedenen
 App-Shops? Statt darauf zu warten, bis sie jemand für dich entwickelt,
