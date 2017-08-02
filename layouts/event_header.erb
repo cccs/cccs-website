@@ -70,7 +70,7 @@
                     </li>
                     <% end %>
                     <% if @item[:audio] %>
-                    <li class="icon-music" title="Audiomitschnitt"> <%= datalink(@item[:audio], 'Audiomitschnitt') %></li>
+                    <li class="icon-music" title="Audiomitschnitt"><% if @item[:audio][/^https?:/] %><a href="<%= @item[:audio] %>">Audiomitschnitt</a><% else %><%= datalink(@item[:audio], 'Audiomitschnitt') %><% end %></li>
                     <% end %>
                     <% if @item[:material] %>
                     <li class="icon-pencil commaseparated" title="Begleitmaterial und Folien">

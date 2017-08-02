@@ -13,7 +13,7 @@ public: true
 #  -
 #    file:
 #    title:
-#audio:
+audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2017-06-09_08_06_17_stoppt_die_bulletpoints.mp3'
 ---
 Aufzählungspunkte waren vorgestern. Heute zeigt man Bilder, erzählt Geschichten und richtet sich nach dem Publikum. 
 
