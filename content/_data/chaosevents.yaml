@@ -202,3 +202,10 @@ events:
       strasse: Dietesheimer Straße 90
       plz: 63165
       ort: Mühlheim am Main
+  -
+    startdate: 2017-10-13
+    duration: 3d
+    title: "Hack to the Future"
+    url: https://www.hacktothefuture.de/
+    location:
+      location: shack
