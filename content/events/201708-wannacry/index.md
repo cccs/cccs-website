@@ -10,10 +10,10 @@ speakers:
 location:
   location: bib
 public: true
-#material:
-#  -
-#    file: ?.pdf
-#    title: Folien
+material:
+  -
+    file: wannacry.pdf
+    title: Folien
 #audio: ?.mp3
 ---
 Ransomware, also bösartige Software, welche die Daten eines Rechners
