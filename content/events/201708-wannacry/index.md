@@ -14,7 +14,7 @@ material:
   -
     file: wannacry.pdf
     title: Folien
-#audio: ?.mp3
+audio: 201708-wannacry.mp3
 ---
 Ransomware, also bösartige Software, welche die Daten eines Rechners
 durch Verschlüsselung quasi als „Geisel“ nimmt und sie gegen Bezahlung
