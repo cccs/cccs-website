@@ -9,14 +9,12 @@ speakers:
 location:
   location: bib
 public: true
-material:
-  -
 ---
 Smart Home ist das Stichwort unter dem Firmen Geräte und Sensoren verkaufen und vorgeben, dass es den Menschen damit besser geht. Hanno Wagner zeigt die Vor- und Nachteile solcher Geräte. 
 
 Der Vortrag findet im Rahmen der Reihe [„Meine Daten“ (Digitale Lesekometenz / Digitale
 Kultur)](http://www1.stuttgart.de/stadtbuecherei/digitale_lesekompetenz/)
 statt; die Stadtbibliothek erhebt hierfür eine Eintrittsgebühr von 4 €
-(bzw. 2,50 € ermäßigt) und <strike>bittet um Voranmeldung per Telefon
+(bzw. 2,50 € ermäßigt) und bittet um Voranmeldung per Telefon
 (0711) 216-911 00 oder -965 27 oder per E-Mail an
-karten.stadtbibliothek@stuttgart.de</strike>
+karten.stadtbibliothek@stuttgart.de
