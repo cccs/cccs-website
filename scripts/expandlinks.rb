@@ -57,7 +57,11 @@ CSV.open(ARGV[1], 'wb') do |out|
       newlink = follow_url(link)
       if (newlink!=link)
         # puts "#{link} --> #{newlink}"
-        tweet.gsub!(link, newlink)
+        begin
+          tweet.gsub!(link, newlink)
+        rescue
+          puts "Encoding fsckup in #{newlink}"
+        end
       end
     }
     row[3] = tweet
