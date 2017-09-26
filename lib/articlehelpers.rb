@@ -33,14 +33,17 @@ def sanitize_path(path)
   result
 end
 
-def latest_articles(max=nil)
-  threshold = Date.today - 90  # Show articles for 90 days
+def latest_articles(max=nil, threshold_days=90)
   @cache_latest_art ||= @site.items.select do |p|
-    p.attributes[:kind] == 'article' and p.attributes[:created_at] > threshold
+    p.attributes[:kind] == 'article' and ((threshold_days <= 0)
   end.sort do |a, b|
     a.attributes[:created_at] <=> b.attributes[:created_at]
   end.reverse
-  @cache_latest_art[0..(max ? max-1 : @cache_latest_art.length-1)]
+
+  threshold = Date.today - threshold_days
+  @cache_latest_art[0..(max ? max-1 : @cache_latest_art.length-1)].select do |p|
+    (threshold_days <= 0) or (p.attributes[:created_at] > threshold)
+  end
 end
 
 def latest_articles_referred_to(refers_to, max=nil)

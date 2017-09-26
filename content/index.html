@@ -94,7 +94,7 @@ feed:
       </div>
       <% end %>
     </section>
-    <p><a href="/archives/articles/<%= latest_articles(1)[0][:created_at].year %>/"><strong>Weitere Artikel</strong></a></p>
+    <p><a href="/archives/articles/<%= latest_articles(1,0)[0][:created_at].year %>/"><strong>Weitere Artikel</strong></a></p>
   </div>
   <div class="span4">
     <h1>Letzte Tweets</h1>
