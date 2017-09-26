@@ -12,10 +12,12 @@ Der aktuelle Vorstand (vorstand@cccs.de) besteht aus
 
 * Erster Vorsitzender: Hanno Wagner
 * Zweiter Vorsitzender: Christian Lott
-* Schatzmeister: Adrien Beaucreux
+* Schatzmeister: (kommissarisch) Adrien Beaucreux
 
 Hier gibt es die [Satzung des Vereins](CCCS-Satzung-20080417.pdf) als
 PDF zum Download.
+
+Hier ist das [Protokoll der Mitgliederversammlung 2017](mv2017.md).
 
 ## Mitglied werden
 
