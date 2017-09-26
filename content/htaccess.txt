@@ -2,7 +2,7 @@ ErrorDocument 404 /404/index.html
 
 RedirectMatch 303 ^/events/$ /events/<%= Time.now.year %>/
 RedirectMatch 303 ^/activities/$ /activities/<%= Time.now.year %>/
-RedirectMatch 303 ^/archives/articles/$ /archives/articles/<%= latest_articles(1)[0][:created_at].year %>/
+RedirectMatch 303 ^/archives/articles/$ /archives/articles/<%= Time.now.year %>/
 RedirectMatch 303 ^/archives/twitter/$ /archives/twitter/<%= twitter_grouped_by_month.keys.sort.last %>/
 
 RedirectMatch 301 ^/wiki$ /

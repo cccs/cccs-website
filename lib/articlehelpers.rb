@@ -1,3 +1,6 @@
+require 'date'
+
+
 def article_base_item(item)
   idparts = item.identifier.split('/')
   articleid = "/#{idparts[1]}/#{idparts[2]}/"
@@ -31,8 +34,9 @@ def sanitize_path(path)
 end
 
 def latest_articles(max=nil)
+  threshold = Date.today - 90  # Show articles for 90 days
   @cache_latest_art ||= @site.items.select do |p|
-    p.attributes[:kind] == 'article'
+    p.attributes[:kind] == 'article' and p.attributes[:created_at] > threshold
   end.sort do |a, b|
     a.attributes[:created_at] <=> b.attributes[:created_at]
   end.reverse
