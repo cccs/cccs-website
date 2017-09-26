@@ -35,7 +35,7 @@ end
 
 def latest_articles(max=nil, threshold_days=90)
   @cache_latest_art ||= @site.items.select do |p|
-    p.attributes[:kind] == 'article' and ((threshold_days <= 0)
+    p.attributes[:kind] == 'article'
   end.sort do |a, b|
     a.attributes[:created_at] <=> b.attributes[:created_at]
   end.reverse
