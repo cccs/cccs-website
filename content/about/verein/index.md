@@ -17,7 +17,7 @@ Der aktuelle Vorstand (vorstand@cccs.de) besteht aus
 Hier gibt es die [Satzung des Vereins](CCCS-Satzung-20080417.pdf) als
 PDF zum Download.
 
-Hier ist das [Protokoll der Mitgliederversammlung 2017](https://www.cccs.de/verein/mv2017/).
+Hier ist das [Protokoll der Mitgliederversammlung 2017](https://www.cccs.de/about/verein/mv2017/).
 
 ## Mitglied werden
 
