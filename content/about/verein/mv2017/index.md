@@ -37,7 +37,7 @@ Die Beschlussfähigkeit ist gegeben, da keine Mindestanzahl in Satzung festgesch
 
 **Mitgliederstand** Aktuell 41 gemeldete Mitglieder, davon (unserem Kenntnisstand nach) 16 Leute mit Doppelmitgliedschaft im CCC.
 
-Kassenbericht: Unsere Ausgaben sind derzeit so gering, dass wir mehr Einnahmen als Ausgaben (ca. 2000 € Überschuss) haben. Aktueller Kontostand: Ca. 14.300 €. Unsere Bank hat die Kontoführungsgebühren von 5 € auf 7,50 € monatlich erhöht.
+**Kassenbericht:** Unsere Ausgaben sind derzeit so gering, dass wir mehr Einnahmen als Ausgaben (ca. 2000 € Überschuss) haben. Aktueller Kontostand: Ca. 14.300 €. Unsere Bank hat die Kontoführungsgebühren von 5 € auf 7,50 € monatlich erhöht.
 
 ## Bericht der Kassenprüfer
 
