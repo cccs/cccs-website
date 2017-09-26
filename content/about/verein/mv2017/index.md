@@ -79,15 +79,15 @@ Ergebnis: Alle drei vorgeschlagenen Kassenprüfer wurden gewählt und nehmen die
 
 ## Sonstiges
 
-**Aufkleber drucken** Resonanz in der Runde positiv. Hinweis für den Druck: Mehr grüne als rote Exemplare. Hanno bittet für den Druck um ein Budget von 200 €. Anderer Text. “Hier befindet sich…”. Eventuell auch als Slider für die Webcam am Laptop. Abstimmung ergibt: (7/0/0). Es wird gebeten vor Druck die endgültige Variante noch einmal vorzustellen auf der ML
+**Aufkleber drucken:** Resonanz in der Runde positiv. Hinweis für den Druck: Mehr grüne als rote Exemplare. Hanno bittet für den Druck um ein Budget von 200 €. Anderer Text. “Hier befindet sich…”. Eventuell auch als Slider für die Webcam am Laptop. Abstimmung ergibt: (7/0/0). Es wird gebeten vor Druck die endgültige Variante noch einmal vorzustellen auf der ML
 
-**Tor Exit Node** Stand der Dinge: Es wurde Hardware angeschafft und in ein RZ nach Rumänien geschickt. Der Anbieter (Floki.net) würde uns 12 Monate CoLo inkl. 10 TB Traffic pro Monat sponsorn. Stefan L. beantragt ein Budget von 600€ für 12 Monate Betrieb für zusätzlichen Traffic in diesem Zeitraum. Abstimmung ergibt: (6/0/1)
+**Tor Exit Node:** Stand der Dinge: Es wurde Hardware angeschafft und in ein RZ nach Rumänien geschickt. Der Anbieter (Floki.net) würde uns 12 Monate CoLo inkl. 10 TB Traffic pro Monat sponsorn. Stefan L. beantragt ein Budget von 600€ für 12 Monate Betrieb für zusätzlichen Traffic in diesem Zeitraum. Abstimmung ergibt: (6/0/1)
 
-**Namens-Schilder Stammtisch** Idee: Vordruck auf Textiletikett “Hi, my nym is …”. Stefan L bestellt einen Schwung.
+**Namens-Schilder Stammtisch:** Idee: Vordruck auf Textiletikett “Hi, my nym is …”. Stefan L bestellt einen Schwung.
 
-**Mailman selbst hosten** Eine Mailman-Instanz läuft bereits auf wau. Hanno legt eine ML für public an, Stefan L. exportiert die alte ML. Stefan S. und Stefan L. kümmern sich um Abklemmen Web-Admin-Interface (Verbergen hinter intern.cccs.de), Anpassung Webseite (Infos Subscription per Mail), Umbiegen der Mail-Aliase.
+**Mailman selbst hosten:** Eine Mailman-Instanz läuft bereits auf wau. Hanno legt eine ML für public an, Stefan L. exportiert die alte ML. Stefan S. und Stefan L. kümmern sich um Abklemmen Web-Admin-Interface (Verbergen hinter intern.cccs.de), Anpassung Webseite (Infos Subscription per Mail), Umbiegen der Mail-Aliase.
 
-**Domain cccs.de** Die MV bittet den Vorstand, an ixs heranzutreten und ihn zu bitten, als Domaininhaber den Verein (Anschrift: 1. Vorsitzender) einzutragen.
+**Domain cccs.de:** Die MV bittet den Vorstand, an ixs heranzutreten und ihn zu bitten, als Domaininhaber den Verein (Anschrift: 1. Vorsitzender) einzutragen.
 
 Vertagt, Anregungen bzw. off-topic für die MV:
 
