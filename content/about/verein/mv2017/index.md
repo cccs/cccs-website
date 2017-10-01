@@ -5,8 +5,8 @@ kind: page
 
 am 11.09.2017 in den Räumen des shackspace e.V., Ulmer Straße 255, 70327 Stuttgart 
 
-Anwesend sind 7 stimmberechtigte Mitglieder, kein weiterer Zuschauer 
-Versammlungsleiter: Hanno Wagner 
+Anwesend sind 7 stimmberechtigte Mitglieder, kein weiterer Zuschauer  
+Versammlungsleiter: Hanno Wagner  
 Protokollant: Stefan Schlott
 
 Alle Abstimmungen werden wie folgt aufgeschrieben: (Dafür / Dagegen / Enthaltung) 
