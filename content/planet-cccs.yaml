@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Rince
+  date: 2017-10-10 18:43:16.000000000 Z
+  title: ! 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
+  url: https://blog.rince.de/archives/763-Verschluesselte-Filesysteme-unter-Linux-Anlegen-und-vergroessern.html
 - user: Leibi
   date: 2017-05-22 22:00:00.000000000 Z
   title: Simple Gallery für Android
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-12-21 23:00:00.000000000 Z
   title: Project Apollo Archive’s albums
   url: https://stefan.leibfarth.org/posts/2015-12-22-project-apollo-archives-albums-flickr-photo-sharing/
-- user: Leibi
-  date: 2015-12-21 23:00:00.000000000 Z
-  title: FAQ für Besorgte Bürger
-  url: https://stefan.leibfarth.org/posts/2015-12-22-faq-fuer-besorgte-buerger/
 kind: page
