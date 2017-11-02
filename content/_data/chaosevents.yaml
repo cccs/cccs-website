@@ -209,3 +209,11 @@ events:
     url: https://www.hacktothefuture.de/
     location:
       location: shack
+  -
+    startdate: 2017-12-27
+    duration: 4d
+    title: "34C3"
+    url: https://events.ccc.de/tag/34c3/
+    location:
+      name: Congress Center
+      ort: Leipzig
