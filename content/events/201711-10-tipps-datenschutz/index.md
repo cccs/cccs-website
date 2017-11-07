@@ -2,7 +2,7 @@
 kind: event
 startdate: 2017-11-08T19:30:00Z
 duration: 2h
-title: "10 einfach Tipps für mehr Datenschutz"
+title: "10 einfache Tipps für mehr Datenschutz"
 speakers:
   -
     name: "Stefan 'Leibi' Leibfarth"
