@@ -10,6 +10,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    link: https://stefan.leibfarth.org/slides/10tipps.stadtbib/
 ---
 Wie die eigene Privatshäre im digitalen Zeitalter schützen? Vielen Menschen scheint dies mittlerweile eine scheinbar unlösbare Aufgabe.
 Dass es jedoch in vielen Fällen einfacher ist als gedacht und schon kleine Schritte viel bewirken können zeigt Leibi in diesem Vortrag.
