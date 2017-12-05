@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2018-04-12T19:30:00Z
+startdate: 2018-05-03T19:30:00Z
 duration: 2h
 title: "Persönliche digitale Archive - Wie organisiere ich mein digitales Vermächtnis?"
 speakers:
