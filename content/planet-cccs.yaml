@@ -2,6 +2,10 @@
 blogposts:
 - user: Leibi
   date: 2018-01-26 23:00:00.000000000 Z
+  title: Welt im Gurkenglas
+  url: https://stefan.leibfarth.org/posts/2018-01-27-glaswelt/
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
   title: Etar für Android
   url: https://stefan.leibfarth.org/posts/2018-01-27-etar/
 - user: Leibi
@@ -77,8 +81,4 @@ blogposts:
   date: 2016-01-08 15:25:00.000000000 Z
   title: 32C3 - von wegen alles schwarz
   url: http://blog.querulantin.de/serendipity/index.php?/archives/448-32C3-von-wegen-alles-schwarz.html
-- user: Leibi
-  date: 2015-12-23 23:00:00.000000000 Z
-  title: Klimawandel
-  url: https://stefan.leibfarth.org/posts/2015-12-24-Klimawandel/
 kind: page
