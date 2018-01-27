@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Leibi
+  date: 2018-01-21 23:00:00.000000000 Z
+  title: Leibis Blog jetzt auch als Onion Service
+  url: https://stefan.leibfarth.org/posts/2018-01-22-blog-onion-adresse/
 - user: Rince
   date: 2017-10-10 18:43:16.000000000 Z
   title: ! 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
@@ -77,8 +81,4 @@ blogposts:
   date: 2015-12-22 23:00:00.000000000 Z
   title: WhatsApp-Zwang
   url: https://stefan.leibfarth.org/posts/2015-12-23-cryptomessenger-wie-ich-die-digitalisierung-meiner-familie-verpasste-golem-de/
-- user: Leibi
-  date: 2015-12-21 23:00:00.000000000 Z
-  title: Project Apollo Archive’s albums
-  url: https://stefan.leibfarth.org/posts/2015-12-22-project-apollo-archives-albums-flickr-photo-sharing/
 kind: page
