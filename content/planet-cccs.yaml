@@ -1,6 +1,14 @@
 ---
 blogposts:
 - user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Etar für Android
+  url: https://stefan.leibfarth.org/posts/2018-01-27-etar/
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Leibis Blog jetzt auch als Onion Service
+  url: https://stefan.leibfarth.org/posts/2018-01-27-blog-onion-adresse/
+- user: Leibi
   date: 2018-01-21 23:00:00.000000000 Z
   title: Leibis Blog jetzt auch als Onion Service
   url: https://stefan.leibfarth.org/posts/2018-01-22-blog-onion-adresse/
@@ -73,12 +81,4 @@ blogposts:
   date: 2015-12-23 23:00:00.000000000 Z
   title: Klimawandel
   url: https://stefan.leibfarth.org/posts/2015-12-24-Klimawandel/
-- user: Leibi
-  date: 2015-12-22 23:00:00.000000000 Z
-  title: Deutschland um 1900…
-  url: https://stefan.leibfarth.org/posts/2015-12-23-rare-color-photos-reveal-germany-in-1900-before-it-was-destroyed-by-wars-bored-panda/
-- user: Leibi
-  date: 2015-12-22 23:00:00.000000000 Z
-  title: WhatsApp-Zwang
-  url: https://stefan.leibfarth.org/posts/2015-12-23-cryptomessenger-wie-ich-die-digitalisierung-meiner-familie-verpasste-golem-de/
 kind: page
