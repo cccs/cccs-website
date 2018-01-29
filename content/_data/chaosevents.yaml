@@ -217,3 +217,13 @@ events:
     location:
       name: Congress Center
       ort: Leipzig
+  -
+    startdate: 2018-05-10
+    duration: 4d
+    title: "GulaschProgrammierNacht 18"
+    url: https://entropia.de/GPN18
+    location:
+      name: Hochschule für Gestaltung (HfG)
+      ort: Karlsruhe
+      lon: 49.002196
+      lat: 8.38411
