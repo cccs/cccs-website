@@ -58,3 +58,9 @@ bund:
   ort: Stuttgart
   lat: 48.7715
   lon: 9.16
+stadtarchiv:
+  name: Stadtarchiv der Stadt Stuttgart
+  strasse: Bellingweg 21
+  plz: 70372
+  ort: Stuttgart
+  url: http://www.stuttgart.de/stadtarchiv/

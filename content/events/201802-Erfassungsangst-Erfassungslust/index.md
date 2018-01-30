@@ -8,7 +8,7 @@ speakers:
     name: "Prof. Dr. Andreas Bernard"
     affiliation: "Leuphana Universität Lüneburg"
 location:
-  location: Stadtarchiv der Stadt Stuttgart, Bellingweg 21, Bad Cannstatt
+  location: stadtarchiv
 public: true
 ---
 In den vergangenen 30 Jahren hat sich der Umgang mit der Erfassung
