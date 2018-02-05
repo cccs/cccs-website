@@ -34,7 +34,7 @@ Software-Voraussetzungen:
 
 Sämtliche benötigten Abhängigkeiten werden durch den Aufruf von
 
-    bundle install
+    bundle install --path vendor/bundle
 
 installiert. Anschließend kann die Seite mittels
 
