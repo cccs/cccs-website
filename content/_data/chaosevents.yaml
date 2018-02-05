@@ -218,6 +218,16 @@ events:
       name: Congress Center
       ort: Leipzig
   -
+    startdate: 2018-03-30
+    duration: 4d
+    title: "Easterhegg 18 - Rabbits & Byterflies"
+    url: https://eh18.easterhegg.eu/
+    location:
+      name: Vogel Convention Center Würzburg
+      strasse: Max-Planck-Str. 7/9
+      plz: 97082
+      ort: Würzburg
+  -
     startdate: 2018-05-10
     duration: 4d
     title: "GulaschProgrammierNacht 18"
