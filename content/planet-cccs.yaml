@@ -18,7 +18,7 @@ blogposts:
   url: https://stefan.leibfarth.org/posts/2018-01-22-blog-onion-adresse/
 - user: Rince
   date: 2017-10-10 18:43:16.000000000 Z
-  title: ! 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
+  title: 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
   url: https://blog.rince.de/archives/763-Verschluesselte-Filesysteme-unter-Linux-Anlegen-und-vergroessern.html
 - user: Leibi
   date: 2017-05-22 22:00:00.000000000 Z
@@ -26,7 +26,7 @@ blogposts:
   url: https://stefan.leibfarth.org/posts/2017-05-23-simple-gallery/
 - user: Rince
   date: 2017-02-01 20:40:19.000000000 Z
-  title: ! 'AVM und IoT: Eine interessante Sichtweise?'
+  title: 'AVM und IoT: Eine interessante Sichtweise?'
   url: https://blog.rince.de/archives/761-AVM-und-IoT-Eine-interessante-Sichtweise.html
 - user: Rince
   date: 2017-01-16 10:05:08.000000000 Z
@@ -42,15 +42,15 @@ blogposts:
   url: http://stefan.ploing.de/2016-10-05-sbt-activator-via-proxy/
 - user: Rince
   date: 2016-08-08 06:56:03.000000000 Z
-  title: ! 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
+  title: 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
   url: https://blog.rince.de/archives/759-Virtualbox-auf-dem-Laptop-Automatisch-VMs-runterfahren-bei-Suspend.html
 - user: Rince
   date: 2016-08-03 09:25:57.000000000 Z
-  title: ! 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
+  title: 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
   url: https://blog.rince.de/archives/758-Streaming-vs.-Besitzen-Der-Verlust-von-Filmen-und-Serien.html
 - user: Rince
   date: 2016-06-28 06:21:27.000000000 Z
-  title: ! 'Internet of Things: Wie man Dinge nicht erleben möchte'
+  title: 'Internet of Things: Wie man Dinge nicht erleben möchte'
   url: https://blog.rince.de/archives/757-Internet-of-Things-Wie-man-Dinge-nicht-erleben-moechte.html
 - user: Skyr
   date: 2016-04-05 17:58:20.000000000 Z
