@@ -9,6 +9,10 @@ speakers:
     affiliation: "Transparency International"
 location:
   location: bib
+material:
+  -
+    file: TI_Stuttgart_180208.pdf
+    title: Folien
 public: true
 ---
 Dr. Berta van Schoor referiert über die Entstehung und Bedeutung des Korruptionswahrnehmungsindexes CPI. Der CPI wurde 1996 durch Transparency International entwickelt und wird seitdem jährlich von der Organisation herausgegeben. Der Index liefert damit wichtige Erkenntnisse über die wahrgenommene öffentliche Korruption in über 150 Ländern weltweit. Darüber hinaus ist er ein medienwirksames Instrument, mit dem Transparency International auf die schwerwiegenden negativen Folgen von Korruption aufmerksam macht. Frau van Schoor leitet die Regionalgruppe Baden-Württemberg von Transparency International.
