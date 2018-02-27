@@ -14,7 +14,7 @@ sieht man in der Grafik (wird regelmäßig aktualisiert) auch deutlich,
 dass die Platzierung abfällt, wenn nicht eine gewisse Menge Stimmen
 hinzukommt:
 <br>
-<center><img src="//www.cccs.de/data/shack-votes.png" /></center>
+<center><img src="/data/shack-votes.png" /></center>
 
 <!--break-->
 
