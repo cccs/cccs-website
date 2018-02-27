@@ -14,7 +14,7 @@ def event(day, dayoffset, title, location)
     'title' => title,
     'startdate' => startDate,
     'duration' => '4h',
-    'url' => 'https://www.cccs.de/about/stammtisch/',
+    'url' => '/about/stammtisch/',
     'location' => {
       'location' => location
     }

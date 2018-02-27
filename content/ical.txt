@@ -25,7 +25,11 @@ cal = RiCal.Calendar do |cal|
       end
       event.uid = Digest::SHA1.hexdigest("#{e[:startdate]}#{e[:title]}")
       if e[:url]
-        event.url = e[:url]
+        if e[:url].start_with?('/')
+          event.url = "#{@config[:base_url]}#{e[:url]}"
+        else
+          event.url = e[:url]
+        end
       elsif e.identifier.start_with?('/events') or e.identifier.start_with?('/activities')
         event.url = "#{@config[:base_url]}#{e.path}"
         event.uid = Digest::SHA1.hexdigest("#{@config[:base_url]}#{e.path}")

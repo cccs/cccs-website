@@ -53,8 +53,8 @@ src="/img/cc-by-nc-sa.png" /></a><br
 Soweit nicht anders angegeben, stehen die <span xmlns:dct="http://purl.org/dc/terms/"
 href="http://purl.org/dc/dcmitype/Text" rel="dct:type">
 Inhalte</span> von <a xmlns:cc="http://creativecommons.org/ns#"
-href="http://www.cccs.de/" property="cc:attributionName"
-rel="cc:attributionURL">http://www.cccs.de/</a> unter einer <a
+href="https://www.cccs.de/" property="cc:attributionName"
+rel="cc:attributionURL">https://www.cccs.de/</a> unter einer <a
 rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de">Creative
 Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen
