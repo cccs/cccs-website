@@ -32,6 +32,22 @@ feed:
     </div>
   </div>
   <div class="span4">
+    <div style="display:none" id="notor-info">
+      <h1>Zugang über Tor</h1>
+      <p>Diese Seite ist über Tor unter <code>http://cccsdeqpjd6h46n4.onion/</code> erreichbar!
+    </div>
+    <div style="display:none" id="tor-info">
+      <h1>Hinweis für Tor-Nutzer</h1>
+      <p>Die Links in den Atom- und ical-Feeds beinhalten keine Tor-Links.
+      Selbiges gilt auch für das Archiv der alten Webseite.
+    </div>
+    <script>
+      if (window.location.hostname.endsWith(".onion")) {
+        document.getElementById('tor-info').removeAttribute('style');
+      } else {
+        document.getElementById('notor-info').removeAttribute('style');
+      }
+    </script>
     <h1>Kalender</h1>
     <p>
     <% allUpcomingEvents = get_public_events().select { |e| (e[:enddate]||e[:startdate]).to_datetime > DateTime.now }
