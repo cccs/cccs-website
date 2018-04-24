@@ -22,3 +22,6 @@ Was wird vom aktuellen Hype bleiben, was ist der aktuelle Stand der Dinge,
 und was dürfen wir noch erwarten?
 Ein technischer Vortrag mit Tiefgang über die neuesten Entwicklungen der KI und Machine Learning.
 
+## Zur Person
+
+Johannes Theodoridis hat 2017 einen Master der Medieninformatik an der Hochschule der Medien Stuttgart (HdM) abgeschlossen. Zuvor studierte er, ebenfalls an der HdM, Audiovisuelle Medien im Bachelor. Derzeit arbeitet er an der Hochschule als wissenschaftlicher Mitarbeiter im Bereich Künstliche Intelligenz (KI) und Machine Learning (ML). Schwerpunkte sind dabei die Fragen wie KI und ML Systeme im kreativen Gestaltungsprozess und in der Medienproduktion unterstützend eingesetzt werden können.
