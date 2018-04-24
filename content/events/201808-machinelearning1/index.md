@@ -2,7 +2,7 @@
 kind: event
 startdate: 2018-08-09T19:30:00Z
 duration: 2h
-title: "Machine learning: Die Welt durch Modellbildung verstehen"
+title: "Machine Learning: Die Welt durch Modellbildung verstehen"
 speakers:
   -
     name: "Johannes Theodoridis, M.Sc."
