@@ -12,10 +12,10 @@ location:
 public: true
 ---
 Der CCCS veranstaltet in Kooperation mit der [Java Usergroup Stuttgart (JUGS)](https://www.jugs.org/)
-Machinelearning-Doublefeature! Dies ist der zweite (und untechnischere) der beiden Vorträge.
+ein Machinelearning-Doublefeature! Dies ist der zweite (und untechnischere) der beiden Vorträge.
 Der [erste Vortrag fand im August](/events/201808-machinelearning1/) statt.
 
-Technologien rund im Machine Learning ermöglichen eine Menge neuer Anwendungen.
+Technologien rund um Machine Learning ermöglichen eine Menge neuer Anwendungen.
 Viele davon sind bereits in unserem Alltag angekommen und liegen dort gefühlt zwischen Normalität, Staunen über
 die Technik und möglicherweise Gruseln über die Zukunft.
 
