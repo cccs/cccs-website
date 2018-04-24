@@ -12,7 +12,8 @@ location:
 public: true
 ---
 Der CCCS veranstaltet in Kooperation mit der [Java Usergroup Stuttgart (JUGS)](https://www.jugs.org/)
-Machinelearning-Doublefeature! Dies ist der erste der beiden Vorträge.
+Machinelearning-Doublefeature! Dies ist der erste der beiden Vorträge
+mit Schwerpunkt auf der eigentlichen Technik.
 Der [zweite Vortrag findet im Oktober](/events/201810-machinelearning2/) statt.
 
 „Künstliche Intelligenz“ ist in aller Munde.
