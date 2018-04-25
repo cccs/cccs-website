@@ -6,7 +6,7 @@ title: "Menschenrechte im digitalen Zeitalter"
 speakers:
   -
     name: "Ingrid Bausch-Gall"
-    affiliation: "Amnesty International "
+    affiliation: "Amnesty International"
 location:
   location: bib
 public: true
