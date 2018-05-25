@@ -1,0 +1,124 @@
+-----
+title: CCC Stuttgart - Startseite
+kind: empty
+feed:
+-
+  url: '/atom.xml'
+  title: 'CCCS - Neueste Artikel'
+-----
+<div class="row">
+  <div class="span8">
+    <div class="row">
+      <div class="span8">
+        <img src="/img/logo-klein.png" alt="CCCS-Logo" class="pull-right" />
+        <h1>Herzlich willkommen beim CCC Stuttgart</h1>
+        <p>
+        <strong>Neu hier?</strong> Schau' doch bei <a href="/about/">unserer Beschreibung über uns</a>
+        vorbei, dort erzählen wir ein wenig, wer wir sind, was wir machen und
+        wo Du uns treffen kannst.
+        <p>
+        <strong>Auf der Suche nach Terminen?</strong> Hier auf der Startseite haben wir
+        die wichtigsten kommenden Termine stehen. Wenn Du einen weiteren Ausblick
+        brauchst, schau' Dir unsere <a href="/events/">Veranstaltungs-Seite</a> an, dort
+        stehen die Termine von uns veranstalteter Aktionen. Zusätzlich sind wir
+        mitunter bei fremden Veranstaltungen eingeladen, die findest Du unter
+        <a href="/activities/">Aktivitäten</a> (möglicherweise sind nicht alle öffentlich).
+        Du kannst all diese Termine auch <a href="/cccs.ical">per ical abonnieren</a>.
+        <p>
+        <strong>Aktuelle Informationen?</strong> Unten auf der Seite stehen blog-artig
+        Artikel und Notizen. Wenn Du diese automatisch beziehen möchtest, kannst
+        Du sie <a href="/atom.xml">per Atom-Feed</a> abonnieren.
+      </div>
+    </div>
+  </div>
+  <div class="span4">
+    <div style="display:none" id="notor-info">
+      <h1>Zugang über Tor</h1>
+      <p>Diese Seite ist über Tor unter <code>http://cccsdeqpjd6h46n4.onion/</code> erreichbar!
+    </div>
+    <div style="display:none" id="tor-info">
+      <h1>Hinweis für Tor-Nutzer</h1>
+      <p>Die Links in den Atom- und ical-Feeds beinhalten keine Tor-Links.
+      Selbiges gilt auch für das Archiv der alten Webseite.
+    </div>
+    <script>
+      if (window.location.hostname.endsWith(".onion")) {
+        document.getElementById('tor-info').removeAttribute('style');
+      } else {
+        document.getElementById('notor-info').removeAttribute('style');
+      }
+    </script>
+    <h1>Kalender</h1>
+    <p>
+    <% allUpcomingEvents = get_public_events().select { |e| (e[:enddate]||e[:startdate]).to_datetime > DateTime.now }
+    if (allUpcomingEvents.size>0)
+      allUpcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+    %>
+    <%= render 'calendar_list', :events => allUpcomingEvents.first(10) %>
+    <% end %>
+  </div>
+</div>
+<div class="row">
+  <% upcomingEvents = get_events(true).select { |e| e[:startdate].to_datetime > DateTime.now }
+  if (upcomingEvents.size>0)
+    upcomingEvents.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+  %>
+  <div class="span6">
+    <div class="well well-large">
+      <article itemscope itemtype="http://schema.org/EducationEvent">
+        <h1><a href="<%= upcomingEvents[0].path() %>">Nächster Vortrag</a></h1>
+        <%= render 'event_header', :item => upcomingEvents[0], :heading => false, :link => false %>
+        <% if upcomingEvents[0].path() %>
+        <p>
+          <a itemprop="url" href="<%= upcomingEvents[0].path() %>">Weitere Informationen</a>
+        </p>
+        <% end %>
+        <p>
+          Während des Vortrags besteht die Möglichkeit, <a href="/events/stream/">per Livestream und Chat</a> mitzudiskutieren.
+        </p>
+      </article>
+    </div>
+  </div>
+  <% end %>
+  <% upcomingRegularsTable = get_regulars_tables().select { |e| e[:startdate].to_datetime > DateTime.now }
+  if (upcomingRegularsTable.size>0)
+    upcomingRegularsTable.sort! { |a,b| a[:startdate].to_datetime <=> b[:startdate].to_datetime }
+  %>
+  <div class="span6">
+    <div class="well well-large">
+      <article itemscope itemtype="http://schema.org/SocialEvent">
+        <h1><a href="#">Nächster <span itemprop="name">CCCS Stammtisch</span></a></h1>
+        <%= render 'event_header', :item => upcomingRegularsTable[0], :heading => false, :link => false %>
+        <p>
+          <a itemprop="url" href="/about/stammtisch/">Unsere Stammtische</a>
+        </p>
+      </article>
+    </div>
+  </div>
+  <% end %>
+</div>
+<div class="row">
+  <div class="span8">
+    <section itemscope itemtype="http://schema.org/Blog">
+      <% latest_articles(5).each do |item| %>
+      <div class="row">
+        <div class="span8">
+        <%= render 'item_intro', :item => item, :extended => true %>
+          <p>
+          <a itemprop="blogPost" href="<%= item.path() %>">Zum Artikel</a>
+        </div>
+      </div>
+      <% end %>
+    </section>
+    <p><a href="/archives/articles/<%= latest_articles(1,0)[0][:created_at].year %>/"><strong>Weitere Artikel</strong></a></p>
+  </div>
+  <div class="span4">
+    <h1>Letzte Tweets</h1>
+    <p>
+    <%= render 'twitter_list', :items => twitter_by_date().first(5) %>
+    <p>
+    <a href="/archives/twitter/<%= twitter_grouped_by_month.keys.sort.last %>">Lokales Twitter-Archiv</a> -
+    <a href="https://twitter.com/cccs_de/">@cccs_de bei Twitter</a>
+  </div>
+</div>
+
