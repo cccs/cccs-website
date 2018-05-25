@@ -1,0 +1,50 @@
+Datenschutzerklärung:
+
+    § 1 Verantwortliche Stelle
+
+    Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist:
+
+    CCCS e. V.
+    c/o Hanno Wagner
+    Mittelfeldstraße 23
+    70806 Kornwestheim
+    Mail: vorstand@fitug.de
+
+    § 2 Ihre Rechte
+
+    (1) Sie haben gegenüber der Verantwortlichen aus § 1 gesetzliche Rechte auf
+
+        Auskunft nach Art. 15 DSGVO,
+        Berichtigung oder Löschung nach Art. 15 und 16 DSGVO,
+        Einschränkung der Verarbeitung nach Art. 18 DSGVO,
+        Recht auf Unterrichtung nach Art. 19 DSGVO,
+        Widerspruch gegen die Verarbeitung nach Art. 21 DSGVO,
+        Datenübertragbarkeit im Rahmen von Art. 20 DSGVO. 
+
+    (2) Daneben können Sie eine Beschwerde bei der zuständigen Datenschutz-Aufsichtsbehörde einlegen, über die Verarbeitung Ihrer personenbezogenen Daten durch uns, deren Kontaktdaten lauten wie folgt:
+
+    Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit
+    Königstrasse 10 a
+    70173 Stuttgart
+    Telefon: +49(0)711/615541-0
+    Telefax: +49(0)711/615541-15
+    E-Mail: poststelle@lfdi.bwl.de
+    Internet: https://www.baden-wuerttemberg.datenschutz.de/
+
+    § 3 Erhebung personenbezogener Daten bei Besuch der Website
+
+    (1) Wenn Sie die Website nur aufrufen, ohne sonstige Informationsübermittlung, werden aufgrund von Art. 6 Abs. 1 S. 1 lit. f) DSGVO nur solche Daten erhoben, die Ihr Browser im Rahmen dieses Vorgangs an unseren Server übermittelt. Diese Daten sind sämtlich aus technischen Gründen erforderlich und für uns im Regelfall nicht personenbezogen.
+
+    Erhoben werden IP-Adresse, Zeitpunkt der Anfrage, Zeitzonendifferenz zur GMT, aufgerufene Adresse (2nd-level-domain.1st-level-domain/aufgerufene_seite), Herkunftseite (HTTP-referer), Aufrufstatus (HTTP-Statuscode), übertragene Datenmenge, Browser [Typ und Version, beispielsweise "Mozilla Firefox Build 52.7.3 (64-bit)"] einschließlich dessen eingestellter Sprache, Betriebssystem und Oberfläche.
+
+    (2) Insbesondere die IP-Adresse wird auch aufgrund von Art. 6 Abs. 1 S. 1 lit. f) auch zur Bekämpfung von Missbrauch und zur Gewährleistung der Funktionsfähigkeit unseres Angebots eingesetzt und hierfür maximal bis zu 2 Tage gespeichert. Danach wird die IP-Adresse gekürzt und somit nur anonymisiert weiter vorgehalten.
+
+    (3) Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website keine Cookies auf Ihrem Rechner gespeichert.
+
+    (4) Diese Daten und ihre Vorhaltung im vorliegenden Umfang ist zwingend erforderlich für die Bereitstellung der Webseite, womit dem Nutzer hiergegen kein Widerspruchsrecht zusteht.
+
+    §4 Erhebung personenbezogener Daten bei der Benutzung von Mailinglisten
+
+    §4 Diese Webseite bindet Dienste Dritter ein.
+
+    Zur Realisierung der Suche setzen wir die Suchfunktion der netEstate GmbH ein. Hierbei werden alle unter § 3 (1) aufgelisteten Daten auch an netEstate übermittelt. Die Datenschutzerklärung des Anbieters ist unter https://sitesearch.netestate.de/Impressum abrufbar. 
