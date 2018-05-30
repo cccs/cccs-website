@@ -1,6 +1,3 @@
------
-style: none
------
 Datenschutzerklärung:
 
     § 1 Verantwortliche Stelle
