@@ -11,8 +11,8 @@ Wir haben jeden Monat zwei fixe Stammtisch-Termine:
     Hier kann man dem gediegenen Nerd-Talk frönen, während man sich mit
 diversen Leckereien aus der Küche bekochen läßt.
 
-    Die bisherige Stammtisch-Location [Zadu](http://www.zadu.de/)
-    schließt leider ab Juni 2017, so dass wir umziehen mussten.
+    Die frühere Stammtisch-Location [Zadu](http://www.zadu.de/)
+    hat leider seit Juni 2017 geschlossen, so dass wir umziehen mussten.
 
 - jeden 3. Mittwoch im Monat im [**shackspace**](http://www.shackspace.de/)
 ([Ulmer Straße 255, Stuttgart-Wangen](http://www.openstreetmap.org/node/4783121021))
