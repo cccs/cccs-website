@@ -9,6 +9,10 @@ speakers:
     affiliation: "HdM"
 location:
   location: bib
+material:
+  -
+    file: Deeplearning.pdf
+    title: Folien
 public: true
 ---
 Der CCCS veranstaltet in Kooperation mit der [Java Usergroup Stuttgart (JUGS)](https://www.jugs.org/)
