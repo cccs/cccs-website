@@ -14,7 +14,7 @@ material:
   -
     file: 201805-digitale-archive.pdf
     title: Folien
-audio: http://www1.stuttgart.de/stadtbibliothek/podcast/?name=2018-05-08_cccs_digitale_archive.mp3
+audio: http://rss.stadtbuecherei-stuttgart-audio.de/pg/download.php?filename=2018-05-08_cccs_digitale_archive.mp3
 
 ---
 Digitale Langzeitarchivierung wird – wenn überhaupt – primär als
