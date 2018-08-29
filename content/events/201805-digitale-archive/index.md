@@ -10,6 +10,11 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    file: 201805-digitale-archive.pdf
+    title: Folien
+
 ---
 Digitale Langzeitarchivierung wird – wenn überhaupt – primär als
 Problem und Aufgabe für Bibliotheken, Archive, Museen, Firmen und
