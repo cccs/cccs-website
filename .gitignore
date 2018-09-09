@@ -6,3 +6,4 @@ crash.log
 /.bundle
 .rvmrc
 /vendor/*
+/mastodon-data.toml
