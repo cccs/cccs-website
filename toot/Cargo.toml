@@ -1,0 +1,10 @@
+[package]
+name = "toot"
+version = "0.1.0"
+authors = ["Stefan Schlott <stefan@ploing.de>"]
+
+[dependencies]
+
+[dependencies.elefren]
+version = "0.14"
+features = ["toml"]
