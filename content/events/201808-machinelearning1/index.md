@@ -14,6 +14,7 @@ material:
     file: Deeplearning.pdf
     title: Folien
 public: true
+audio: 201808-machinelearning1.mp3
 ---
 Der CCCS veranstaltet in Kooperation mit der [Java Usergroup Stuttgart (JUGS)](https://www.jugs.org/)
 ein Machinelearning-Doublefeature! Dies ist der erste der beiden Vorträge

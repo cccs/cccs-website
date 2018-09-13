@@ -13,7 +13,7 @@ material:
   -
     file: 20170112-glasfaser.pdf
     title: Folien
-audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2017-01-24_12012017_cccs_pi_glasfaser.mp3'
+audio: 201701-wo-bleibt-mein-glasfaseranschluss.mp3
 ---
 Glasfaseranschluesse sind die beste Technologie fuer den sehr schnellen Internetzugang.
 Doch auch 2017 ist ein Glasfaseranschluss fuer die meisten BuergerInnen und Unternehmen nicht verfuegbar.

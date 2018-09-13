@@ -14,7 +14,7 @@ material:
   -
     file: speicherpflichten-auskunft-verkehrsdaten.pdf
     title: Folien
-audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2017-07-28_cccs_vorratsdatenspeicherung2.mp3'
+audio: 201707-speicherpflichten-auskunft-verkehrsdaten.mp3
 ---
 Mit dem Ende des Monats Juni 2017 läuft die Übergangsfrist des
 § 150 Abs. 13 Telekommunikationsgesetz (TKG) für die Umsetzung der

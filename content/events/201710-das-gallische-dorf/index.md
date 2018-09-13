@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201710-das-gallische-dorf.mp3
 ---
 Wenn man wirklich vorhat, den Datenkraken zu entkommen, wie stellt man
 das an und wie weit kommt man? Der Vortrag zeigt Fakten auf, die eine

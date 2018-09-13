@@ -13,7 +13,7 @@ public: true
 #  -
 #    file:
 #    title:
-audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2016-09-19_08092016_cccs_welchering_schereimkopf.mp3'
+audio: 201609-ueberwachung-journalisten.mp3
 ---
 Die Große Koalition hat die Vorratsdatenspeicherung durchgepeitscht. Mit der dort vorgesehenen zehnwöchigen Speicherpflicht für Verkehrsdaten und der vierwöchigen Speicherpflicht für Handy-Standortdaten wird es Journalisten wesentlich erschwert, die Identität ihrer Informanten zu schützen.
 

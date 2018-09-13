@@ -14,7 +14,7 @@ public: true
 #  -
 #    file:
 #    title:
-#audio:
+audio: 201709-nsaua.mp3
 ---
 Der NSA-Untersuchungsausschuss im Bundestag sollte die Aktivitäten der NSA in Deutschland aufklären und zeigen, wie deutsche Geheimdienste in diese Aktivitäten verwickelt waren. Fast wie in einer Gerichtsverhandlung – doch es gibt eine Besonderheit: Der Zeuge ist der BND. Die Inszenierung enthält Original-Szenen und Zitate aus dem Ausschuss, die von netzpolitik.org zusammengestellt wurden. 
 

@@ -14,7 +14,7 @@ material:
   -
     file: 201606-safe-harbour-20-dsgv.pdf
     title: Folien (PDF)
-audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2016-06-14_09062016_cccs_drchristianborchers.mp3'
+audio: 201606-safe-harbour-2.0-dsgv.mp3
 ---
 Der EU US Privacy Shield und die EU Datenschutz-Grundverordnung
 

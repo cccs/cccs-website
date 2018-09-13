@@ -14,6 +14,7 @@ material:
     file: Datenkraken.pdf
     title: Folien
 public: true
+audio: 201712-drei-arten-datenkraken.mp3
 ---
 In der digitalen Gesellschaft sind nicht nur die altbekannten US-amerikanischen "Datenkraken" unterwegs, auch der Staat erschließt sich mehr und mehr "nützliche Informationen" über seine Bürgerinnen und Bürger. Aber diese sind nicht nur Betroffene oder gar Opfer der Verdatung unserer Lebenswelt, sie mischen selbst immer kräftiger mit.
 

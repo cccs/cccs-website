@@ -14,8 +14,7 @@ material:
   -
     file: 201805-digitale-archive.pdf
     title: Folien
-audio: http://rss.stadtbuecherei-stuttgart-audio.de/pg/download.php?filename=2018-05-08_cccs_digitale_archive.mp3
-
+audio: 201805-digitale-archive.mp3
 ---
 Digitale Langzeitarchivierung wird – wenn überhaupt – primär als
 Problem und Aufgabe für Bibliotheken, Archive, Museen, Firmen und

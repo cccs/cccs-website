@@ -14,7 +14,7 @@ public: true
 #  -
 #    file:
 #    title:
-audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2016-05-25_cccs_lesung_nsa_ausschuss.mp3'
+audio: 201605-nsaua.mp3
 ---
 In den mehrere hundert A4-Seiten füllenden Protokollen des
 NSA-BND-Untersuchungsausschusses, die bei netzpolitik.org nachzulesen

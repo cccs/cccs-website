@@ -12,8 +12,7 @@ public: true
 # material:
 #  -
 #    file:
-#    title:
-audio: 'http://rss.stadtbuecherei-stuttgart-audio.de/pg/media/2017-05-16_cccs_wikipedia.mp3'
+audio: 201705-wikipedia.mp3
 ---
 Das Wissen der Welt wird u.a. über die Wikipedia von tausenden von Freiwilligen bereitgestellt. 
 Wie funktioniert das - und warum? 

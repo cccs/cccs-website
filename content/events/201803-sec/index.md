@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201803-sec.mp3
 ---
 Warum ist es so schwer, das Internet sicher zu machen?
 Welche Angriffe und Angriffsarten gibt es und wie funktionieren diese?

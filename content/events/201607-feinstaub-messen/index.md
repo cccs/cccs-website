@@ -13,7 +13,7 @@ public: true
 #  -
 #    file:
 #    title:
-#audio:
+audio: 201607-feinstaub-messen.mp3
 ---
 Um weniger oder besser keinen Feinstaub in den Städten zu erreichen,
 muss der vorhandene Feinstaub zuerst einmal gemessen werden. Aktuell

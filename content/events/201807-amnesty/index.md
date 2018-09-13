@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+audio: 201807-amnesty.mp3
 ---
 Artikel 12 der Allgemeinen Erklärung der Menschenrechte garantiert das Recht auf Privatsphäre. Dies ist in zunehmenden Maße gefährdet. 
 
