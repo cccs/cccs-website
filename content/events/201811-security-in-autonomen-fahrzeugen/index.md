@@ -2,7 +2,7 @@
 kind: event
 startdate: 2018-11-08T19:30:00Z
 duration: 2h
-title: "Sven Köhler"
+title: "Security in autonomen Fahrzeugen"
 speakers:
   -
     name: "Sven Köhler"
