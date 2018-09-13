@@ -10,6 +10,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    file: 201809-Podcasts-ein-Ueberblick.pdf
+    title: Folien
 ---
 Podcasts sind Internet-Radiosendungen, die man auf sein Handy abonnieren kann, um sie dort zeitsouverän zu hören. Über die letzten Jahre haben sich Podcasts zu einer vielfältigen und weit verbreiteten Ergänzung des klassischen Rundfunks entwickelt. Im Gegensatz zu Radiosendungen sind Podcasts oft länger, enthalten weniger Musik und widmen sich eher Nischenthemen, die in den Mainstream-Medien keine große Rolle spielen.
 
