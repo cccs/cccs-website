@@ -432,3 +432,141 @@ events:
   url: /about/stammtisch/
   location:
     location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-01-16 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-02-05 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-02-20 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-03-05 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-03-20 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-04-02 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-04-17 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-05-07 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-05-15 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-06-04 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-06-19 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-07-02 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-07-17 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-08-06 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-08-21 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-09-03 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-09-18 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-10-01 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-10-16 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-11-05 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-11-20 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Lichtblick)
+  startdate: 2019-12-03 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: lichtblick
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2019-12-18 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
