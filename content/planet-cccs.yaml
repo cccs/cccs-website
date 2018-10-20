@@ -1,6 +1,10 @@
 ---
 blogposts:
 - user: Leibi
+  date: 2018-10-19 22:00:00.000000000 Z
+  title: Das ‘Darknet’ und die Medienethik
+  url: https://stefan.leibfarth.org/posts/2018-10-20-CuU/
+- user: Leibi
   date: 2018-01-26 23:00:00.000000000 Z
   title: Welt im Gurkenglas
   url: https://stefan.leibfarth.org/posts/2018-01-27-glaswelt/
@@ -76,8 +80,4 @@ blogposts:
   date: 2016-04-05 17:58:20.000000000 Z
   title: iX-Artikel über Session-Security
   url: http://stefan.ploing.de/2016-04-05-ix-artikel-ueber-session-security/
-- user: princess
-  date: 2016-02-07 22:27:00.000000000 Z
-  title: Der Zustand, in dem Flüchtlinge hier ankommen
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/453-Der-Zustand,-in-dem-Fluechtlinge-hier-ankommen.html
 kind: page
