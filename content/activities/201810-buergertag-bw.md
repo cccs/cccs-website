@@ -4,7 +4,8 @@ startdate: 2018-10-22T10:00:00Z
 duration: 6h
 title: "Bürgertag Baden-Württemberg im K in Kornwestheim"
 location:
-  location: K, Kornwestheim
+  name: Das K in Kornwestheim
+  url: https://www.das-k.info/
 public: true
 ---
 Der Verbrauchertag BW (so, wie immer beim Verbrauchertag, leider an

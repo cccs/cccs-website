@@ -4,7 +4,9 @@ startdate: 2018-10-24T18:00:00Z
 duration: 2h
 title: "Wie gehe ich mit dem Internet und den neuen Medien um?"
 location:
-  location: Aula der Hochschule Esslingen, Standort Göppingen
+  name: Aula der Hochschule Esslingen, Standort Göppingen
+  url: http://www.technikforum-gp.de/
+
 public: true
 file: folien.pdf
 ---
