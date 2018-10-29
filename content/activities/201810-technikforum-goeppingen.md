@@ -8,7 +8,10 @@ location:
   url: http://www.technikforum-gp.de/
 
 public: true
-file: folien.pdf
+material:
+  -
+    title: Folien
+    file: folien.pdf
 ---
 Das Göppinger Technikforum hatte mich (Rince) nach einem
 Basis-Vortrag Internet angefragt und ich durfte daraufhin
@@ -19,5 +22,3 @@ Aula war voll, also würde ich mal von ca. 100 Besuchern rechnen. Es
 kamen auch gute Rückfragen, was zeigt dass Interesse geweckt worden
 war. Ich habe dabei dann auch auf unsere Cryptoparty am 17.11.
 hingewiesen ;)
-
-Die Folien werde ich hier verlinken.
