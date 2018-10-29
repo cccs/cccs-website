@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2018-10-22T10:00:00Z
-duration: 4h
+duration: 6h
 title: "Bürgertag Baden-Württemberg im K in Kornwestheim"
 location:
   location: K, Kornwestheim
