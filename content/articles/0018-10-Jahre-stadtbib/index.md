@@ -12,7 +12,7 @@ Neben der monatlichen Vortragsreihe veranstalten wir in und mit der 'Bib' vier m
 
 Wir möchten uns auch an dieser Stelle ganz herzlich für die gute Zusammenarbeit bedanken! Nie waren dem Team dort unsere Themen zu kritisch, technisch, politisch oder speziell.
 
-<!-- more -->
+<!-- break -->
 
 Danke auch für das Bereitstellen eines [tollen Raumes](https://cdn1.stuttgarter-zeitung.de/media.media.7f6b191e-3c7a-4650-b94c-92046d1a80a8.original1024.jpg), zuverlässiger Technik samt TechnikerIn, Unterstützung bei der Werbung und höfliche Erinnerungen an Deadlines. 
 
