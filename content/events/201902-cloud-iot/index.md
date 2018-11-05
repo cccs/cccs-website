@@ -21,7 +21,7 @@ Kulissen der Bosch IoT Cloud (BIC) blicken:
 * Welche Anforderungen ergeben sich im IoT-Umfeld
 * Iaas - CaaS - PaaS - SaaS - waaas?
 * Was erwarten DevOps Teams von einer modernen Cloud Infrastruktur?
-* Wie die BIC mit dem Thema (Daten-)Sicherheit um und was bedeutet dies für die Architektur der BIC?
+* Wie geht die BIC mit dem Thema (Daten-)Sicherheit um und was bedeutet dies für die Architektur der BIC?
 
 Der Vortrag richtet sich an alle Interessierten Entwickler_innen und
 Administrator_innen, die etwas über die Anforderungen, den Aufbau und den
