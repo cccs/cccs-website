@@ -1,6 +1,6 @@
 require 'nokogiri'
 
-def article_summary(item, separator=/<!-- *more *-->/)
+def article_summary(item, separator=/<!-- *break *-->/)
   # Has intro attribute? Use this
   if (item[:intro] && item[:intro].length>0)
     return parse_markdown(item[:intro])
