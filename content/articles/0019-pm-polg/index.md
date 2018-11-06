@@ -6,7 +6,7 @@ author: Leibi
 ---
 Seit einigen Tagen kursiert der Entwurf des Innenministeriums für eine erneute Änderung des erst
 Ende 2017 beschlossenen Polizeigesetzes (PolG) in Baden-Württemberg. Bei dem bereits
-verabschiedeten PolG handelt es um eines der schärfsten in Deutschland.
+verabschiedeten PolG handelt es sich um eines der schärfsten in Deutschland.
 
 Besonders möchten wir der Einführung einer Online-Durchsuchung widersprechen, also der heimlichen Durchsuchung der Inhalte eines Gerätes aus der Ferne. In unserer Pressemitteilung haben wir einige prinzipielle Argumente gegen eine solche Möglichkeit dargelegt, fordern aber auch Verbesserungen an dem Entwurf, so sich das Parlament für diese Maßnahme entscheiden sollte.
 
