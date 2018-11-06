@@ -237,7 +237,7 @@ events:
       ort: Karlsruhe
       lon: 49.002196
       lat: 8.38411
-  -    
+  -
     startdate: 2018-06-15
     duration: 3d
     title: "7. No-Spy Konferenz"
@@ -247,3 +247,24 @@ events:
       strasse: Breitscheidstraße 4
       plz: 70174
       ort: Stuttgart
+  -
+    startdate: 2018-12-27
+    duration: 4d
+    title: "35C3"
+    url: https://events.ccc.de/congress/2018/
+    location:
+      name: Congress Center
+      ort: Leipzig
+  -
+    startdate: 2019-04-19
+    duration: 4d
+    title: "easterhegg 2019"
+    url: https://eh19.easterhegg.eu/
+    location:
+      name: Campus Gußhaus, „Das neue EI“
+      strasse: Gußhausstraße 25-29
+      plz: A-1040
+      ort: Wien
+      lon: 48.19605
+      lat: 16.36989
+
