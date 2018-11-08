@@ -8,6 +8,10 @@ speakers:
     name: "Sven Köhler"
 location:
   location: bib
+material:
+  -
+    file: 201811-security-in-autonomen-fahrzeugen.pdf
+    title: Folien
 public: true
 ---
 Autonomes Fahren ist ein Thema, über das man in der Presse in erster Linie enthusiastische Nachrichten lesen kann: Prototypen fahren selbständig, orientieren sich mit Kameras, Radar und Lasersensoren im Straßenverkehr, und tauschen ständig Informationen über Gefahrenstellen untereinander aus.
