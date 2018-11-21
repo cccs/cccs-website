@@ -11,7 +11,7 @@ public: true
 material:
   -
     title: Folien
-    file: Verschluesselung-fuer-alle.pdf
+    file: Verschluesselung-fuer-Alle.pdf
 ---
 Vor einigen Monaten hatten wir (als CCCS) im Rahmen unserer
 Vortragsreihe ja Transparency International zu Besuch, die sich
