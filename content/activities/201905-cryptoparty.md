@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2019-05-25T14:00:00Z
+startdate: 2019-06-29T14:00:00Z
 duration: 3h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
