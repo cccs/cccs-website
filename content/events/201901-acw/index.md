@@ -5,7 +5,7 @@ duration: 2h
 title: "All Creatures Welcome (Film)"
 speakers:
   -
-    name: "Sandra Dostel (Filmemacherin)"
+    name: "Sandra Trostel (Filmemacherin)"
 location:
   location: bib
 public: true
@@ -16,7 +16,7 @@ material:
 ---
 In Kooperation mit dem Stuttgarter Filmwinter-Festival for
 Expanded Media zeigen wir den Dokumentar-Film 'All Creatures Welcome'
-von Sandra Dostel. 
+von Sandra Trostel. 
 
 Diese Film bringt die Welt der Hacker, Nerds und
 speziell des CCC, selbst technikfernen Zuschauern nahe. Und er will
