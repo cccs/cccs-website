@@ -11,7 +11,7 @@ public: true
 material:
   -
     title: Folien
-    file: Meine_Daten_-_Informationssicherheit.pdf.pdf
+    file: Meine_Daten_-_Informationssicherheit.pdf
 ---
 Zum diesjährigen Safer Internet Day wollte Rince ein neues Kapitel aufschlagen: 
 Informationssicherheit. In der Industrie, aber auch in vielen Behörden gibt
