@@ -2,7 +2,7 @@
 kind: event
 startdate: 2019-02-05T19:30:00Z
 duration: 2h
-title: "Sicher im Internet Day 2019 - KRITIS und was dahintersteckt"
+title: "Safer Internet Day 2019 - KRITIS und was dahintersteckt"
 location:
   name: Showroom der Stadtbibliothek Stuttgart am Mailänder Platz
   url: http://www1.stuttgart.de/stadtbibliothek/digitale_lesekompetenz/index.php
