@@ -46,5 +46,43 @@ Interessenten sollten vielmehr Gebote in Höhe der Fläche in Prozent, die
 sie verbindlich mit dem entsprechenden Netz abdecken werden, abgeben
 müssen. Das Startgebot sollte hierbei bei 95% Abdeckung liegen müssen
 und innerhalb von 2 Jahren zu realisieren sein. Sollten die jeweiligen
-Netzbetreiber dies nicht erreichen, sind ihnen die ersteigerten
-"content/articles/0021-national-roaming-cdu/index.md" 90L, 4843C                               
+Netzbetreiber dies nicht erreichen, sind ihnen die ersteigerten Frequenzen wieder zu entziehen.
+Finanzielle Interessen des Staates, welche über den Umweg der
+Netzbetreiber letztlich für die BürgernInnen ohnehin ein
+Nullsummen-Spiel sind, haben hierbei hinten an zu stehen.
+
+**National Roaming**
+
+Hier plädiert der Chaos Computer Club Stuttgart für sogenanntes 'Network
+Sharing‘. Dies bedeutet, dass die Netzbetreiber, wie bisher, ihre Netze
+unabhängig betreiben, die NutzerInnen aber das Mobilfunk-Netz eines
+anderen Anbieters nutzen dürfen, sollte der eigene Provider nicht
+verfügbar sein. Dies ist 'International Roaming‘ somit sehr ähnlich,
+leider auch mit seinen Nachteilen, z.B. Verbindungsabbrüchen beim
+Übergang in ein anderes Netz.
+
+Unter einer Bedingung halten wie dies jedoch trotzdem für die beste Lösung:
+
+**Netznutzungsgebühren unter den Providern**
+
+Provider dürfen sich untereinander die Netznutzung durch KundInnen ihrer
+Konkurrenten (Telefonie und Datenübertragung) per 'National Roaming‘ in
+Rechnung stellen. Die Höhe dieser Gebühren ist (z.B. von der BNetzA) so
+hoch anzusetzen, dass sie oberhalb der Kosten für den Betrieb eines
+eigenen Standorts liegen. Somit werden Anbieter mit schlechter Abdeckung
+motiviert, möglichst großflächig ein eigenes Netz auf zu bauen. Für den
+Marktführer ist es zugleich lukrativ, das eigene Netz weiter auszubauen,
+da dies, neben dem Bedienen der eigenen Kunden, mit der Möglichkeit zu
+Abrechnung von Netznutzungsgebühren gegenüber den anderen Anbietern
+verbunden ist.
+Die Pflicht zu 'National Roaming' sollte sich auch nicht auf das
+kommende 5G-Netz beschränken, sondern alle aktuell betriebenen Netze
+beinhalten. Die Bürger sollten zusätzlich nicht nur dann 'National
+Roaming‘ nutzen können, wenn ihr Anbieter im jeweiligen Gebiet gar kein
+Netz zu Verfügung stellt, sondern auch dann, wenn ein anderer Anbieter
+ein Netz einer neueren Mobilfunk-Generation anbietet.
+Um die Markteintrittshürden für neue Anbieter nicht unüberwindbar hoch
+zu machen, sollte die Netznutzungsgebühr für eine Übergangszeit jedoch
+auch ausgesetzt werden dürfen.
+
+Natürlich muss 'National Roaming‘ kostenlos für die NutzerInnen sein.
