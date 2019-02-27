@@ -1,8 +1,8 @@
 <div class="pager">
 <% if @linkprev %>
-  <a href="<%= @linkprev.link %>" class="pull-left fas fa-circle-arrow-left">&nbsp;<%= @linkprev.title %></a>
+  <a href="<%= @linkprev.link %>" class="pull-left"><i class="fas fa-arrow-circle-left"></i>&nbsp;<%= @linkprev.title %></a>
 <% end %>
 <% if @linknext %>
-  <a href="<%= @linknext.link %>" class="pull-right fas fa-circle-arrow-right">&nbsp;<%= @linknext.title %></a>
+  <a href="<%= @linknext.link %>" class="pull-right"><%= @linknext.title %>&nbsp;<i class="fas fa-arrow-circle-right"></i></a>
 <% end %>
 </div>
