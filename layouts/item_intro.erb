@@ -7,10 +7,10 @@
     <%if @item[:kind]=='article' %>
     <p>
     <ul class="unstyled inline">
-      <li><i class="icon-calendar"></i> <time itemprop="dateCreated" datetime="<%= @item[:created_at].strftime("%Y-%m-%d") %>"><%= @item[:created_at].strftime("%d.%m.%Y") %></time></li>
-      <% if @item[:author] %><li><i class="icon-pencil"></i> <%= @item[:author] %></li><% end %>
-      <% if @item[:refers_to] %><li><i class="icon-cogs"></i> <a href="<%= @items[sanitize_path(@item[:refers_to])].path() %>"><%= @items[sanitize_path(@item[:refers_to])][:title] %></a></li><% end %>
-      <li><i class="icon-bookmark"></i> <a itemprop="url" href="<%= item.path() %>">Permalink</a></li>
+        <li><i class="fas fa-calendar-alt"></i> <time itemprop="dateCreated" datetime="<%= @item[:created_at].strftime("%Y-%m-%d") %>"><%= @item[:created_at].strftime("%d.%m.%Y") %></time></li>
+        <% if @item[:author] %><li><i class="fas fa-pencil-alt"></i> <%= @item[:author] %></li><% end %>
+      <% if @item[:refers_to] %><li><i class="fas fa-cogs"></i> <a href="<%= @items[sanitize_path(@item[:refers_to])].path() %>"><%= @items[sanitize_path(@item[:refers_to])][:title] %></a></li><% end %>
+      <li><i class="fas fa-bookmark"></i> <a itemprop="url" href="<%= item.path() %>">Permalink</a></li>
     </ul>
     <% end %>
 	</header>

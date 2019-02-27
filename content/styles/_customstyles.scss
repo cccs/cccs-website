@@ -147,12 +147,13 @@ ul.iconlist {
     display: block;
     padding-left: 20px;
     font-family: $baseFontFamily;
+    font-weight: 400;
   }
   > li:before {
     width: 17px;
     display: inline-block;
     margin-left: -20px;
-    font-family: FontAwesome;
+    font-family: 'Font Awesome 5 Free';
   }
 }
 

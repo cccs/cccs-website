@@ -7,17 +7,17 @@
                   <% end %>
                   <% end %>
                   <ul class="iconlist">
-                    <li class="icon-calendar" title="Datum">
+                    <li class="fas fa-calendar-alt" title="Datum">
                     <span itemprop="startDate" content="<%= @item[:startdate].strftime("%Y-%m-%dT%H:%M") %>"><%= @item[:startdate].strftime("%d.%m.%Y, %H:%M") %> Uhr</span>
                     <% if !@item[:public] %>(nicht öffentlich)<% end %>
                     </li>
                     <% if !heading %>
-                    <li class="icon-comment" title="Thema">
+                    <li class="fas fa-comment" title="Thema">
                       <span itemprop="name"><%= item[:title] %></span>
                     </li>
                     <% end %>
                     <% if @item[:speakers] %>
-                    <li class="icon-male commaseparated" title="Referent">
+                    <li class="fas fa-male commaseparated" title="Referent">
                       <ul>
                         <% @item[:speakers].each do |speaker|  %>
                         <li itemprop="performer" itemscope itemtype="http://schema.org/Person">
@@ -28,7 +28,7 @@
                     </li>
                     <% end %>
                     <% if @item[:superevent] %>
-                    <li class="icon-comments-alt" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" title="Veranstaltung">
+                    <li class="fas fa-comments-alt" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" title="Veranstaltung">
                     <% if @item[:superevent][:url] %>
                       <a itemprop="url" href="<%= @item[:superevent][:url] %>"><span itemprop="name"><%= @item[:superevent][:title] %></span></a>
                     <% else %>
@@ -37,7 +37,7 @@
                     </li>
                     <% end %>
                     <% if @item[:location] %>
-                    <li class="icon-compass commaseparated" title="Ort">
+                    <li class="fas fa-compass commaseparated" title="Ort">
                       <ul itemprop="location" itemscope itemtype="http://schema.org/Location">
                         <li itemprop="name"><% if item[:location][:url] %><a itemprop="url" href="<%= item[:location][:url] %>"><%= item[:location][:name] %></a><% else %><%= item[:location][:name] %><% end %></li>
                         <% if item[:location][:details] %><li><%= item[:location][:details] %></li><% end %>
@@ -62,7 +62,7 @@
                     </li>
                     <% end %>
                     <% if @items["#{@item.identifier}aushang/"] || @items["#{@item.identifier}flyer/"] %>
-                    <li class="icon-bullhorn commaseparated" title="Aushang, Flyer, etc.">
+                    <li class="fas fa-bullhorn commaseparated" title="Aushang, Flyer, etc.">
                       <ul>
                         <% if @items["#{@item.identifier}aushang/"] %><li><a href="<%= @items["#{@item.identifier}aushang/"].path %>">Aushang (PDF)</a></li><%end%>
                         <% if @items["#{@item.identifier}flyer/"] %><li><a href="<%= @items["#{@item.identifier}flyer/"].path %>">Flyer (PDF)</a></li><%end%>
@@ -70,10 +70,10 @@
                     </li>
                     <% end %>
                     <% if @item[:audio] %>
-                    <li class="icon-music" title="Audiomitschnitt"><% if @item[:audio][/^https?:/] %><a href="<%= @item[:audio] %>">Audiomitschnitt</a><% else %><%= datalink(@item[:audio], 'Audiomitschnitt') %><% end %></li>
+                    <li class="fas fa-music" title="Audiomitschnitt"><% if @item[:audio][/^https?:/] %><a href="<%= @item[:audio] %>">Audiomitschnitt</a><% else %><%= datalink(@item[:audio], 'Audiomitschnitt') %><% end %></li>
                     <% end %>
                     <% if @item[:material] %>
-                    <li class="icon-pencil commaseparated" title="Begleitmaterial und Folien">
+                    <li class="fas fa-pencil commaseparated" title="Begleitmaterial und Folien">
                       <ul>
                         <% @item[:material].each do |m| %>
                         <li><% if m[:file] %><%= datalink(m[:file], m[:title]) %><%else%><a href="<%= m[:link] %>"><%= m[:title] %></a><%end%></li>
