@@ -15,4 +15,5 @@ In einem [Artikel des Schwäbischen Tagblatts](https://www.tagblatt.de/Nachricht
 Wenig überraschend ändert der Brief aus dem Rathaus nichts an unserer ablehnenden Grundhaltung, auch wenn wir uns über den ehrlichen, offenen und freundlichen Stil gefreut haben. Egal wie gut die technische Umsetzung auch sein mag, unsere prinzipiellen Bedenken kann sie nicht ausräumen. Im Gegenteil, je sicherer ein solches System wird, desto komplexer und somit für die Allgemeinheit unverständlicher wird es. Das Beispiel Schweiz zeigt dies recht eindrücklich.
 
 Wir werden uns nun ein paar Tage Zeit nehmen um den Prüfbericht und den Brief der Stadt zu analysieren. Sicher werden wir dabei auch noch einige Fragen an die Stadt haben auf deren Beantwortung wir uns freuen.
+
 Unsere Erkenntnisse veröffentlichen wir dann gerne an dieser Stelle.
