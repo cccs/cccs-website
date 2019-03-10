@@ -6,8 +6,9 @@ title: "Cybervoting in Tübingen"
 speakers:
   -
     name: "Stefan Leibfarth"
+    affiliation: CCC Stuttgart
 location:
   location: bib
 public: true
 ---
-Seit Anfang März können die Tüberinger Bürger*innen per App über kommunale Themen abstimmen. Gedacht als Mittel um Bürgerbeteiligung zu erhöhen, bringt die Idee aber einige Gefahren mit sich. Wir werfen einen kritischen Blick auf dieses System und auch auf Wahlcomputer allgemein.
+Seit Anfang März können die Tübinger Bürger*innen per App über kommunale Themen abstimmen. Gedacht als Mittel um Bürgerbeteiligung zu erhöhen, bringt die Idee aber einige Gefahren mit sich. Wir werfen einen kritischen Blick auf dieses System und auch auf Wahlcomputer allgemein.
