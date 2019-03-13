@@ -73,7 +73,7 @@
                     <li class="fas fa-music" title="Audiomitschnitt"><% if @item[:audio][/^https?:/] %><a href="<%= @item[:audio] %>">Audiomitschnitt</a><% else %><%= datalink(@item[:audio], 'Audiomitschnitt') %><% end %></li>
                     <% end %>
                     <% if @item[:material] %>
-                    <li class="fas fa-pencil commaseparated" title="Begleitmaterial und Folien">
+                    <li class="fas fa-pencil-alt commaseparated" title="Begleitmaterial und Folien">
                       <ul>
                         <% @item[:material].each do |m| %>
                         <li><% if m[:file] %><%= datalink(m[:file], m[:title]) %><%else%><a href="<%= m[:link] %>"><%= m[:title] %></a><%end%></li>
