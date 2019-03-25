@@ -22,7 +22,9 @@ Das Prinzip "[Public Money, Public Code](https://publiccode.eu/de/)" sollte aus 
 
 **Prüfbericht nicht öffentlich**
 
-Wir finden es grundsätzlich gut, dass Sie die entwickelte Software einem [externen Sicherheits-Test](https://www.tuebingen.de/buergerapp#/24203) unterziehen lassen haben. Aber ohne den Testbericht hat das Siegel, mit dem Sie sich schmücken, keine Aussagekraft. Denn nur im Testbericht ist ersichtlich, was geprüft worden ist. Einzig die App? Unter Vorlage des Quellcodes? Auch der Server beim Anbieter? Wurden Angriffs- (und somit Manipulations-) Möglichkeiten vorab vom Test ausgeschlossen? Welche Schwachstellen wurden gefunden? Wie schwerwiegend waren diese? Und wie stellen Sie sicher, dass die getestete Version auch die ist, die später im Einsatz ist?
+~~Wir finden es grundsätzlich gut, dass Sie die entwickelte Software einem [externen Sicherheits-Test](https://www.tuebingen.de/buergerapp#/24203) unterziehen lassen haben. Aber ohne den Testbericht hat das Siegel, mit dem Sie sich schmücken, keine Aussagekraft. Denn nur im Testbericht ist ersichtlich, was geprüft worden ist. Einzig die App? Unter Vorlage des Quellcodes? Auch der Server beim Anbieter? Wurden Angriffs- (und somit Manipulations-) Möglichkeiten vorab vom Test ausgeschlossen? Welche Schwachstellen wurden gefunden? Wie schwerwiegend waren diese? Und wie stellen Sie sicher, dass die getestete Version auch die ist, die später im Einsatz ist?~~
+
+Mittlerweile hat die Stadt Tübingen den [Prüfbericht veröffentlicht](/2019-03-06-cybervoting-tuebingen-update/).
 
 **Endgeräte nicht vertrauenswürdig**
 
@@ -30,9 +32,11 @@ Wie der Name schon sagt, soll die 'BürgerApp' vorwiegend auf Smartphones zum Ei
 
 **Dem Anbieter muss vertraut werden**
 
-Wie Sie selbst nicht bestreiten: ["Die Stadtverwaltung erhält lediglich die Ergebnisse."](https://www.tuebingen.de/buergerapp#/24202) ...des Betreibers '[neongelb](https://www.neongelb.eu/blog/abstimmungsapp/2018/4/23/modellprojekttuebingen/buergerbefragungsapp)'. Sie sind somit darauf angewiesen, dass Ihnen der Betreiber das korrekte Ergebnis übermittelt. Woher nehmen Sie dieses Vertrauen? Allein ein Blick auf die technische Umsetzung der Webseite von 'neongelb' lässt nichts Gutes vermuten. Das Unternehmen lässt diese von einem großen Betreiber in den USA betreiben. Auch ist die Seite nicht nach Stand der Technik abgesichert und gibt ungefragt Nutzer:innen Daten an Facebook weiter, ohne dies auch nur in den Datenschutzbestimmungen offen zu legen. (Stand 24.02.2019; [Analyse-Ergebnis bei dataskydd.net](https://webbkoll.dataskydd.net/en/results?url=http%3A%2F%2Fwww.neongelb.eu%2Fblog%2Fabstimmungsapp%2F2018%2F4%2F23%2Fmodellprojekttuebingen%2Fbuergerbefragungsapp); [PDF-Backup](neongelb_website.pdf)).
+Wie Sie selbst nicht bestreiten: ["Die Stadtverwaltung erhält lediglich die Ergebnisse."](https://www.tuebingen.de/buergerapp#/24202) ...des Betreibers ~~'[neongelb](https://www.neongelb.eu/blog/abstimmungsapp/2018/4/23/modellprojekttuebingen/buergerbefragungsapp)'~~ '[aaronprojects](https://www.abstimmungs.app/)'. Sie sind somit darauf angewiesen, dass Ihnen der Betreiber das korrekte Ergebnis übermittelt. Woher nehmen Sie dieses Vertrauen?
 
-Mindestens genau so gut möglich ist allerdings eine, nicht durch den Betreiber, beabsichtigte Manipulation. Das dies nicht aus zu schließen ist, bekennt 'neongelb' ehrlicherweise selbst: ["Eine hundertprozentige Sicherheit gegen Hackernetzwerke kann es trotz aller Anstrengungen nicht geben."](https://www.neongelb.eu/blog/abstimmungsapp/2018/4/23/modellprojekttuebingen/buergerbefragungsapp). Hinzu kommt die Manipulationsmöglichkeit durch eine(n) Innentäter(in), sei es aus Frust oder beispielsweise auf Grund einer Erpressung. Bei den Themen der Befragung wird es auch um Projekte in Millionenhöhe gehen, somit gibt es klare wirtschaftliche Anreize für einen Angriff auf die Abstimmungsergebnisse.
+Mindestens genau so gut möglich ist allerdings eine, nicht durch den Betreiber, beabsichtigte Manipulation. Das dies nicht aus zu schließen ist, bekennt die Stadt Tübingen ehrlicherweise selbst. Hinzu kommt die Manipulationsmöglichkeit durch eine(n) Innentäter(in), sei es aus Frust oder beispielsweise auf Grund einer Erpressung. Bei den Themen der Befragung wird es auch um Projekte in Millionenhöhe gehen, somit gibt es klare wirtschaftliche Anreize für einen Angriff auf die Abstimmungsergebnisse.
+
+**Update**: In einer früheren Version dieses Briefes haben wir uns an 2 Stellen auf die Firma 'neongelb' bezogen. Diese Firma ist aber nur für die PR der BürgerApp zuständig. Entwickelt und betrieben wird sie jedoch von '[aaronprojects](https://www.abstimmungs.app/)'. Wir haben die entsprechenden Passagen entfernt bzw. geändert.
 
 #### Grundsätzliches K.O.-Kriterium
 
