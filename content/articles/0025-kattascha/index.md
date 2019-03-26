@@ -13,5 +13,6 @@ Für die Recherche zu ihrem Buch Die Daten, die ich rief forderte Katharina Nocu
 Im Anschluss an die Lesung wird es Zeit geben um Fragen zu stellen und das Thema zu diskutieren.
 
 Beginn ist um 19.30 Uhr in der Café LesBar (8. OG)
+<!-- break -->
 
 Eintritt: EUR 4 | Ermäßigt EUR 2,50
