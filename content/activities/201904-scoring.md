@@ -7,7 +7,11 @@ speakers:
   -
     name: Skyr
 location:
-  location: bib
+location: bib
+material:
+  -
+    title: Folien
+    file: scoring.pdf
 public: true
 ---
 Scoring ist der Versuch, bestimmte Sachverhalte ueber Menschen auf eine
