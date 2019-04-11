@@ -288,7 +288,7 @@ events:
       lon: 49.002196
       lat: 8.38411
   -
-    startdate: 2019-06-28
+    startdate: 2019-06-21
     duration: 3d
     title: "CPU 2019"
     url: https://chaos-party-ulm.de/
