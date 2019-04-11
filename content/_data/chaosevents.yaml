@@ -267,4 +267,35 @@ events:
       ort: Wien
       lon: 48.19605
       lat: 16.36989
+  -
+    startdate: 2019-05-17
+    duration: 3d
+    title: "8. No-Spy Konferenz"
+    url: https://no-spy.org/
+    location:
+      name: Literaturhaus Stuttgart
+      strasse: Breitscheidstraße 4
+      plz: 70174
+      ort: Stuttgart
+  -
+    startdate: 2019-05-30
+    duration: 4d
+    title: "GulaschProgrammierNacht 19"
+    url: https://entropia.de/GPN19
+    location:
+      name: Hochschule für Gestaltung (HfG)
+      ort: Karlsruhe
+      lon: 49.002196
+      lat: 8.38411
+  -
+    startdate: 2019-06-28
+    duration: 3d
+    title: "CPU 2019"
+    url: https://chaos-party-ulm.de/
+    location:
+      name: Mensa der Universität Ulm
+      ort: Ulm
+      lon: 48.421757915394
+      lat: 9.9551797103201
+
 
