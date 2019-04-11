@@ -7,7 +7,7 @@ speakers:
   -
     name: Skyr
 location:
-location: bib
+  location: bib
 material:
   -
     title: Folien
