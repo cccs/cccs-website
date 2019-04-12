@@ -8,6 +8,10 @@ speakers:
     name: "Markus Völter"
 location:
   location: bib
+material:
+  -
+    title: Github-Repo
+    link: https://github.com/markusvoelter/mpsintrocourse
 public: true
 ---
 Sprachen sind seit jeher das Rückgrat des Software Engineering:
