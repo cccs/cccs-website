@@ -17,10 +17,10 @@ public: true
 ---
 Die Entwicklung von selbstlernenden Computersystemen ermöglicht eine
 Vielzahl neuer Anwendungen. Doch was passiert, wenn solche Programme
-etwas Falsches lernen und Fehler machen? In wiefern können emotionslose
+etwas Falsches lernen und Fehler machen? Inwiefern können emotionslose
 Algorithmen trotzdem diskriminieren? Und wie kann man diese neue
 Technologie manipulieren?
 
 In einem anekdotischen Querschnitt präsentiert Dr. Stefan Schlott vom
-Chaos Computer Club Stuttgart einige der neuen KI-Anwendungenund
+Chaos Computer Club Stuttgart einige der neuen KI-Anwendungen und
 erläutert Security-Aspekte und Angriffs-Szenarien.
