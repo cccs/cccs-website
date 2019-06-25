@@ -3,7 +3,6 @@ kind: event
 startdate: 2019-06-25T12:00:00Z
 duration: 120m
 title: "Interministerieller Kurzworkshop: Digitalisierung und Verbraucherschutz"
-url: https://fueak.bw21.de/_iBms/Seminarbereich/Seminar.aspx?catid=2121&sId=18895
 speakers:
   -
     name: Rince
@@ -11,9 +10,9 @@ location:
   location: Landesamt für Geoinformation und Landentwicklung (LGL)
   url: https://www.lgl-bw.de/
 material:
-#  -
-#    title: Folien
-#    file: tracker.pdf
+  -
+    title: Folien
+    file: tracker.pdf
 public: true
 ---
 Der CCCS war angefragt worden, ob er bei einer neuen Workshopreihe 
