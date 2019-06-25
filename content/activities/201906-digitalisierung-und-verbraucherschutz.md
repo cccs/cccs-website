@@ -7,7 +7,7 @@ speakers:
   -
     name: Rince
 location:
-  location: Landesamt für Geoinformation und Landentwicklung (LGL)
+  name: Landesamt für Geoinformation und Landentwicklung (LGL)
   url: https://www.lgl-bw.de/
 material:
   -
