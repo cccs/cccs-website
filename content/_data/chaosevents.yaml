@@ -297,5 +297,11 @@ events:
       ort: Ulm
       lon: 48.421757915394
       lat: 9.9551797103201
-
-
+  -
+    startdate: 2019-07-13
+    duration: 1d
+    title: "Demonstration gegen das neue Polizeigesetz"
+    url: https://nopolgbw.org/
+    location:
+      name: Lautenschlagerstr. (HBF)
+      ort: Stuttgart
