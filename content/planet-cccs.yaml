@@ -20,22 +20,6 @@ blogposts:
   date: 2018-01-26 23:00:00.000000000 Z
   title: Leibis Blog jetzt auch als Onion Service
   url: https://stefan.leibfarth.org/posts/2018-01-27-blog-onion-adresse/
-- user: Leibi
-  date: 2018-01-26 23:00:00.000000000 Z
-  title: Welt im Gurkenglas
-  url: http://localhost:4000/posts/2018-01-27-glaswelt/
-- user: Leibi
-  date: 2018-01-26 23:00:00.000000000 Z
-  title: Etar für Android
-  url: http://localhost:4000/posts/2018-01-27-etar/
-- user: Leibi
-  date: 2018-01-26 23:00:00.000000000 Z
-  title: Leibis Blog jetzt auch als Onion Service
-  url: http://localhost:4000/posts/2018-01-27-blog-onion-adresse/
-- user: Leibi
-  date: 2018-01-21 23:00:00.000000000 Z
-  title: Leibis Blog jetzt auch als Onion Service
-  url: https://stefan.leibfarth.org/posts/2018-01-22-blog-onion-adresse/
 - user: Rince
   date: 2017-10-10 18:43:16.000000000 Z
   title: 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
@@ -44,10 +28,6 @@ blogposts:
   date: 2017-05-22 22:00:00.000000000 Z
   title: Simple Gallery für Android
   url: https://stefan.leibfarth.org/posts/2017-05-23-simple-gallery/
-- user: Leibi
-  date: 2017-05-22 22:00:00.000000000 Z
-  title: Simple Gallery für Android
-  url: http://localhost:4000/posts/2017-05-23-simple-gallery/
 - user: Rince
   date: 2017-02-01 20:40:19.000000000 Z
   title: 'AVM und IoT: Eine interessante Sichtweise?'
@@ -60,10 +40,6 @@ blogposts:
   date: 2017-01-03 23:00:00.000000000 Z
   title: Noch können wir das
   url: https://stefan.leibfarth.org/posts/2017-01-04-Zitat-heute-de/
-- user: Leibi
-  date: 2017-01-03 23:00:00.000000000 Z
-  title: Noch können wir das
-  url: http://localhost:4000/posts/2017-01-04-Zitat-heute-de/
 - user: Skyr
   date: 2016-10-05 07:35:02.000000000 Z
   title: sbt/activator via Proxy
