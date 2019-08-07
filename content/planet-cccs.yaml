@@ -34,6 +34,10 @@ blogposts:
   url: https://stefan.leibfarth.org/posts/2018-01-27-blog-onion-adresse/
 - user: Leibi
   date: 2018-01-26 23:00:00.000000000 Z
+  title: Welt im Gurkenglas
+  url: "/posts/2018-01-27-glaswelt/"
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
   title: Etar für Android
   url: "/posts/2018-01-27-etar/"
 - user: Leibi
@@ -76,8 +80,4 @@ blogposts:
   date: 2016-08-08 06:56:03.000000000 Z
   title: 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
   url: https://blog.rince.de/archives/759-Virtualbox-auf-dem-Laptop-Automatisch-VMs-runterfahren-bei-Suspend.html
-- user: Rince
-  date: 2016-08-03 09:25:57.000000000 Z
-  title: 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
-  url: https://blog.rince.de/archives/758-Streaming-vs.-Besitzen-Der-Verlust-von-Filmen-und-Serien.html
 kind: page
