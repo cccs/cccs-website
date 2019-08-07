@@ -4,10 +4,18 @@ blogposts:
   date: 2019-08-04 00:00:00.000000000 Z
   title: Simple Keyboard - Vertrauenswürdige Android-Tastatur
   url: https://stefan.leibfarth.org/posts/2019-08-04-vertrauenswuerdige-android-tastatur/
+- user: Leibi
+  date: 2019-08-03 22:00:00.000000000 Z
+  title: Simple Keyboard - Vertrauenswürdige Android-Tastatur
+  url: "/posts/2019-08-04-vertrauenswuerdige-android-tastatur/"
 - user: Rince
   date: 2018-11-21 10:58:00.000000000 Z
   title: Die Bahn und das Chaos mit Ersatzkarten
   url: https://blog.rince.de/archives/764-Die-Bahn-und-das-Chaos-mit-Ersatzkarten.html
+- user: Leibi
+  date: 2018-10-20 12:00:00.000000000 Z
+  title: Das ‘Darknet’ und die Medienethik
+  url: "/posts/2018-10-20-CuU/"
 - user: Leibi
   date: 2018-10-19 22:00:00.000000000 Z
   title: Das ‘Darknet’ und die Medienethik
@@ -24,6 +32,14 @@ blogposts:
   date: 2018-01-26 23:00:00.000000000 Z
   title: Leibis Blog jetzt auch als Onion Service
   url: https://stefan.leibfarth.org/posts/2018-01-27-blog-onion-adresse/
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Etar für Android
+  url: "/posts/2018-01-27-etar/"
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Leibis Blog jetzt auch als Onion Service
+  url: "/posts/2018-01-27-blog-onion-adresse/"
 - user: Rince
   date: 2017-10-10 18:43:16.000000000 Z
   title: 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
@@ -32,6 +48,10 @@ blogposts:
   date: 2017-05-22 22:00:00.000000000 Z
   title: Simple Gallery für Android
   url: https://stefan.leibfarth.org/posts/2017-05-23-simple-gallery/
+- user: Leibi
+  date: 2017-05-22 22:00:00.000000000 Z
+  title: Simple Gallery für Android
+  url: "/posts/2017-05-23-simple-gallery/"
 - user: Rince
   date: 2017-02-01 20:40:19.000000000 Z
   title: 'AVM und IoT: Eine interessante Sichtweise?'
@@ -44,6 +64,10 @@ blogposts:
   date: 2017-01-03 23:00:00.000000000 Z
   title: Noch können wir das
   url: https://stefan.leibfarth.org/posts/2017-01-04-Zitat-heute-de/
+- user: Leibi
+  date: 2017-01-03 23:00:00.000000000 Z
+  title: Noch können wir das
+  url: "/posts/2017-01-04-Zitat-heute-de/"
 - user: Skyr
   date: 2016-10-05 07:35:02.000000000 Z
   title: sbt/activator via Proxy
@@ -56,8 +80,4 @@ blogposts:
   date: 2016-08-03 09:25:57.000000000 Z
   title: 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
   url: https://blog.rince.de/archives/758-Streaming-vs.-Besitzen-Der-Verlust-von-Filmen-und-Serien.html
-- user: Rince
-  date: 2016-06-28 06:21:27.000000000 Z
-  title: 'Internet of Things: Wie man Dinge nicht erleben möchte'
-  url: https://blog.rince.de/archives/757-Internet-of-Things-Wie-man-Dinge-nicht-erleben-moechte.html
 kind: page
