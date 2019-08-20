@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Rince
+  date: 2019-08-20 21:14:00.000000000 Z
+  title: Die AG Kritis hat sich gegründet
+  url: https://blog.rince.de/archives/765-Die-AG-Kritis-hat-sich-gegruendet.html
 - user: Leibi
   date: 2019-08-04 00:00:00.000000000 Z
   title: Simple Keyboard - Vertrauenswürdige Android-Tastatur
@@ -76,8 +80,4 @@ blogposts:
   date: 2016-10-05 07:35:02.000000000 Z
   title: sbt/activator via Proxy
   url: http://stefan.ploing.de/2016-10-05-sbt-activator-via-proxy/
-- user: Rince
-  date: 2016-08-08 06:56:03.000000000 Z
-  title: 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
-  url: https://blog.rince.de/archives/759-Virtualbox-auf-dem-Laptop-Automatisch-VMs-runterfahren-bei-Suspend.html
 kind: page
