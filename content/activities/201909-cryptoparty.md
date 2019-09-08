@@ -1,13 +1,13 @@
 ---
 kind: event
-startdate: 2019-09-14T11:00:00Z
+startdate: 2019-09-14T12:00:00Z
 duration: 4h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
   location: bib
 public: true
 ---
-ACHTUNG: Beginn schon um 11 Uhr und parallel zum RepairCafe.
+ACHTUNG: Beginn schon um 12 Uhr und parallel zum RepairCafe.
 
 Ziel einer Cryptoparty ist es, praktisch zu lernen, wie man sicher(er) und möglichst unter Wahrung der Privatsphäre Computer und das Internet nutzt.
 
