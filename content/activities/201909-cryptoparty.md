@@ -1,7 +1,7 @@
 ---
 kind: event
 startdate: 2019-09-14T12:00:00Z
-duration: 4h
+duration: 3h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
   location: bib
