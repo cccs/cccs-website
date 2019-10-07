@@ -21,8 +21,8 @@ Wo steht eSports derzeit? Wie gestaltet sich die Branche? Dazu wird Dr. Tobias S
 
 Jonas Stratmann, Leiter der eSports-Abteilung vom TSV 1895 Oftersheim e.V, spricht für die organisatorische Perspektive eines Vereins und zeigt auf, wie sich die operative Arbeit gestaltet und wie z.B. ein eSport-Team betreut wird.
 
-Schließlich steht ein eSport-Athlet zur Verfügung und berichtet aus erster Hand aus dem Alltag eines eSportlers.
+Schließlich steht ein eSport-Athlet des VfB Stuttgart zur Verfügung und berichtet aus erster Hand aus dem Alltag eines eSportlers.
 
 Im Anschluß der Vorträge stehen die Referenten dem Publikum gerne Rede und Antwort.
 
-Durch den Abend führt Claudia Feiner von CCC Stuttgart.
+Durch den Abend führt Claudia Feiner vom CCC Stuttgart.
