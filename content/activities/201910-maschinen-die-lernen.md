@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2019-10-22T18:00:00Z
+startdate: 2019-10-22T18:30:00Z
 duration: 90m
 title: "Maschinen, die lernen, beißen nicht?"
 speakers:
@@ -24,3 +24,8 @@ Technologie manipulieren?
 In einem anekdotischen Querschnitt präsentiert Dr. Stefan Schlott vom
 Chaos Computer Club Stuttgart einige der neuen KI-Anwendungen und
 erläutert Security-Aspekte und Angriffs-Szenarien.
+
+Die Veranstaltung findet im [Haus der katholischen Kirche](https://www.hdkk-stuttgart.de/https-www-kbw-stuttgart-de-veranstaltungen-221019-maschinen-die-bellen-beissen-nicht/)
+statt. Die Einrichtung erhebt einen Eintrittspreis von 6 €, eine Anmeldung ist
+[über ihre Webseite](https://www.kbw-stuttgart.de/veranstaltungen/anmelden/?vid=3073) möglich.
+
