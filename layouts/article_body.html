@@ -9,7 +9,7 @@
               <p>
               <ul class="unstyled inline">
                 <li><i class="fas fa-calendar-alt" title="Datum"></i> <time itemprop="dateCreated" datetime="<%= @item[:created_at].strftime("%Y-%m-%d") %>"><%= @item[:created_at].strftime("%d.%m.%Y") %></time></li>
-                <% if @item[:author] %><li><i class="fas fa-pencil-alt" title="Autor"></i> <%= @item[:author] %></li><% end %>
+                <% if @item[:author] %><li><i class="fas fa-pencil-alt" title="Autor"></i> <%= member_link(@item[:author], false) %></li><% end %>
                 <% if @item[:refers_to] %><li><i class="fas fa-cogs" title="Zugehöriges Projekt"></i> <a href="<%= @items[sanitize_path(@item[:refers_to])].path() %>"><%= @items[sanitize_path(@item[:refers_to])][:title] %></a></li><% end %>
                 <li><i class="fas fa-bookmark" title="Permalink"></i> <a itemprop="url" href="<%= item.path() %>">Permalink</a></li>
               </ul>
