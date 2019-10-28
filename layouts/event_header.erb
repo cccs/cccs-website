@@ -21,7 +21,7 @@
                       <ul>
                         <% @item[:speakers].each do |speaker|  %>
                         <li itemprop="performer" itemscope itemtype="http://schema.org/Person">
-                          <span itemprop="name"><%= speaker[:name] %></span><% if speaker[:affiliation]%> (<%= speaker[:affiliation] %>)<% end %>
+                          <span itemprop="name"><%= member_link(speaker[:name], false) %></span><% if speaker[:affiliation]%> (<%= speaker[:affiliation] %>)<% end %>
                         </li>
                         <% end %>
                       </ul>
