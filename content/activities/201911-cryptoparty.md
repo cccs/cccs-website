@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2019-11-16T11:00:00Z
+startdate: 2019-11-16T14:00:00Z
 duration: 4h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
