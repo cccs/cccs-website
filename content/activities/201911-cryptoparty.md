@@ -7,8 +7,6 @@ location:
   location: bib
 public: true
 ---
-ACHTUNG: Beginn schon um 11 Uhr und parallel zum RepairCafe.
-
 Ziel einer Cryptoparty ist es, praktisch zu lernen, wie man sicher(er) und möglichst unter Wahrung der Privatsphäre Computer und das Internet nutzt.
 
 Zum Beispiel:
