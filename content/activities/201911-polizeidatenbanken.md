@@ -9,6 +9,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien
+    link: https://stefan.leibfarth.org/slides/polizeidatenbanken.stadtbib/
 ---
 Regelmäßig spreichert die Polizei Daten von uns Bürgern; immer wieder landen Menschen dabei auch in speziellen, themenbezogenen Datenbanken. Nicht selten passieren hierbei Fehler die große Auswirkungen haben können.
 
