@@ -6,6 +6,15 @@ bib:
   ort: Stuttgart
   lat: 48.790324
   lon: 9.183079
+bib-cafelesbar:
+  name: Bibliothek am Mailänder Platz
+  details: 7. Stock, Café LesBar
+  url: http://www1.stuttgart.de/stadtbibliothek/bvs/actions/profile/view.php?id=23
+  strasse: Mailänder Platz 1
+  plz: 70173
+  ort: Stuttgart
+  lat: 48.790324
+  lon: 9.183079
 lichtblick:
   name: Lichtblick
   url: http://www.lichtblickstuttgart.de/

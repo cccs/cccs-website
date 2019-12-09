@@ -8,7 +8,7 @@ speakers:
     name: "Dr. Tobias Scholz, Jonas Stratmann und weitere"
     affiliation: 
 location:
-  location: bib
+  location: bib-cafelesbar
 public: true
 ---
 
