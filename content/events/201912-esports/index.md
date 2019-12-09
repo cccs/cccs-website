@@ -15,7 +15,7 @@ public: true
 eSports boomt. Im Juli diesen Jahres gewann der 16-jährige eSportler Kyle 
 "Bugha" Geirsdorf 3 Millionen Dollar Preisgeld bei der ersten Fortnite-Weltmeisterschaft. Das Preisgeld übersteigt damit selbst die Summe, die ein Tiger Woods bei einem Golfturnier erspielt.
 
-Wie sieht sie aus, diese Welt des professionellen digitalen Sports? Der Chaos Computer Club Stuttgart lädt am 12. Dezember um 19:30 Uhr zu einem Vortrag im Max-Bense-Forum der Stadtbibliothek Stuttgart ein, der Einblicke auf verschiedene Aspekte des eSport geben soll.
+Wie sieht sie aus, diese Welt des professionellen digitalen Sports? Der Chaos Computer Club Stuttgart lädt am 12. Dezember um 19:30 Uhr zu einem Vortrag in der Stadtbibliothek Stuttgart (Café LesBar, 7. Stock) ein, der Einblicke auf verschiedene Aspekte des eSport geben soll.
 
 Wo steht eSports derzeit? Wie gestaltet sich die Branche? Dazu wird Dr. Tobias Scholz, Assistenz-Professor an der Universität Siegen und Autor des Buchs "eSports in Business" berichten.
 
