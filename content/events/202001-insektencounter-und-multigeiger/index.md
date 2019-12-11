@@ -28,4 +28,4 @@ Unsere Vorträge und Exkursionen bieten Dir neue Einsichten und Perspektiven.
 Als Open Source-Projekt veröffentlichen wir unsere Ergebnisse in unserem Blog.
 Wir gestalten unsere Zukunft - digital, nachhaltig und neugierig.
 
-Unsere Homepage: https://ecocurious.de
+Unsere Homepage: [https://ecocurious.de](https://ecocurious.de)
