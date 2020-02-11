@@ -5,7 +5,8 @@ duration: 2h
 title: "LIFG BW – Rechtlicher Rahmen und Praxistipps"
 speakers:
   -
-    name: "Sabine Grullini (LfDI)"
+    name: "Sabine Grullini"
+    affiliation: "LfDI BW"
 location:
   location: bib
 public: true
@@ -14,4 +15,4 @@ Seit Anfang 2016 können Bürgerinnen und Bürger auf Basis des Landesinformatio
 Diese müssen den Zugang gewähren oder begründen, warum sie dies ablehnen. Klingt einfach, ist es aber nicht: das Gesetz sieht eine Reihe von Ausnahmen und Schutzbereiche vor.
 Und Kosten können auch anfallen, da muss man wissen.
 
-Hilfestellung in Sachen Informationsfreiheit geben der LfDI BW Dr. Stefan Brink und sein Team vom Referat Informationsfreiheit.
+Hilfestellung in Sachen Informationsfreiheit gibt Sabine Grullini vom Referat Informationsfreiheit des Landesbeauftragten für den Datenschutz und die Informationsfreiheit BW. 
