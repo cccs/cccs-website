@@ -305,3 +305,10 @@ events:
     location:
       name: Lautenschlagerstr. (HBF)
       ort: Stuttgart
+  -
+    startdate: 2020-03-14
+    duration: 1d
+    title: "Birthday party 10 Jahre shackspace"
+    url: https://shackspace.de/birthday/
+    location:
+      location: shack
