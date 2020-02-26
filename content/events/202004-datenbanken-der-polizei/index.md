@@ -12,6 +12,13 @@ public: true
 ---
 INPOL, Polas, LIMO, PHW und nun noch PIAV.
 Kaum jemand weiß, was sich hinter den Kürzeln verbirgt.
-Die Veranstaltung gibt einen ersten Einblick in die Welt der
-Polizeidatenbanken. Neben einer Bestandsaufnahme wollen wir auch
-vermitteln, dass weder Schockstarre noch Resignation angebracht sind.
+
+Die Verunsicherung ist groß
+• wer und was wird wo gespeichert?
+• Weshalb und wie lange?
+• Gibt es ein Recht auf Löschung?
+
+Die Veranstaltung gibt einen ersten Einblick in die Welt der Polizeidatenbanken.
+Neben einer Bestandsaufnahme wollen wir auch vermitteln, dass weder Schockstarre noch Resignation angebracht sind.
+
+In Zusammenarbeit mit der Roten Hilfe Stuttgart.
