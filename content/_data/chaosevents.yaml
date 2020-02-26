@@ -317,5 +317,5 @@ events:
     duration: 3d
     title: "9. No-Spy Konferenz"
     url: https://no-spy.org/
-    location: 
-      location: tba
+    #location: 
+      #location: tba
