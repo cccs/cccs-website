@@ -1,13 +1,6 @@
 ---
 events:
   -
-    startdate: 2020-03-14
-    duration: 1d
-    title: "Birthday party 10 Jahre shackspace"
-    url: https://shackspace.de/birthday/
-    location:
-      location: shack
-  -
     startdate: 2020-05-15
     duration: 3d
     title: "9. No-Spy Konferenz"
