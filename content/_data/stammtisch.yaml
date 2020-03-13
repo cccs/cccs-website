@@ -30,24 +30,12 @@ events:
   url: /about/stammtisch/
   location:
     location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2016-03-16 18:00:00.000000000 +01:00
-  duration: 4h
-  url: /about/stammtisch/
-  location:
-    location: shack
 - title: CCCS-Stammtisch (Zadu-Bar)
   startdate: 2016-04-05 18:00:00.000000000 +02:00
   duration: 4h
   url: /about/stammtisch/
   location:
     location: zadu
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2016-04-20 18:00:00.000000000 +02:00
-  duration: 4h
-  url: /about/stammtisch/
-  location:
-    location: shack
 - title: CCCS-Stammtisch (Zadu-Bar)
   startdate: 2016-05-03 18:00:00.000000000 +02:00
   duration: 4h
