@@ -1,7 +1,7 @@
 ---
 kind: article
 created_at: 2020-03-12
-title: Vortragsreihe bis 19.4. unterbrochen
+title: Vortragsreihe und Stammtische bis 19.4. unterbrochen
 author: Skyr
 ---
 Die Corona-Pandemie macht auch vor uns nicht halt: Eben erfahren wir, dass
@@ -10,6 +10,11 @@ Das betrifft auch zwei unserer Vorträge: „Bahninfrastruktur: Stellwerke und D
 und „Die Datenbanken der Polizei“. 
 
 Für den März-Vortrag über Bahninfrastruktur konnten wir den
-[/events/202005-bahninfrastruktur](Mai-Termin) vereinbaren - hoffen wir,
+[Mai-Termin](/events/202005-bahninfrastruktur) vereinbaren - hoffen wir,
 dass bis dahin das zivile Leben wieder in ruhigeren Bahnen verläuft.
 
+Auch unsere Stammtisch-Termine haben wir aus dem Kalender entfernt.
+Der shack e.V. hat ebenfalls entschieden, dass er seinen Teil zur
+Eindämmung beitragen kann und deshalb öffentliche Veranstaltungen
+wie unserem Stammtisch abzusagen. Dem können wir nur voll und ganz
+zustimmen und sagen daher auch den Zweittermin im Lichtblick ab.
