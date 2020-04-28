@@ -15,6 +15,9 @@ bib-cafelesbar:
   ort: Stuttgart
   lat: 48.790324
   lon: 9.183079
+online-stammtisch:
+  name: Videochat
+  url: https://vc.cccs.de/stammtisch
 lichtblick:
   name: Lichtblick
   url: http://www.lichtblickstuttgart.de/
