@@ -1,5 +1,5 @@
 def expand_event_list(itemId, defaultTitle = nil, skipIfDatePresent = false)
-  if @items[itemId][:events].instance_of? Nanoc::ItemArray
+  if @items[itemId][:events]
     @items[itemId][:events].each_with_index do |event,n|
       if (!skipIfDatePresent || !@items.any?{ |i| conv_tz(i[:startdate])==conv_tz(event[:startdate]) })
         metadata = {
