@@ -1,9 +1,2 @@
 ---
 events:
-  -
-    startdate: 2020-05-15
-    duration: 3d
-    title: "9. No-Spy Konferenz"
-    url: https://no-spy.org/
-    #location: 
-      #location: tba
