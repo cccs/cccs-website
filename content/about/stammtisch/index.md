@@ -3,6 +3,18 @@ title: Die Stammtische
 kind: page
 -----
 
+**Coronavirus SARS-CoV-2 bedingte Änderung**
+
+Als Reaktion auf die Pandemie finden aktuell alle Stammtische virtuell statt.
+
+Es bleibt aber wie bisher bei jedem 1. Dienstag und jedem 3. Mittwoch eines jeden Monats.
+
+Wir treffen uns jeweils ab 20 Uhr auf [https://vc.cccs.de/stammtisch](https://vc.cccs.de/stammtisch).
+
+Aus [technischen Gründen](https://github.com/jitsi/jitsi-meet/issues/4758) empfehlen wir aktuell die Verwendung des [Chrome](https://www.google.com/intl/de_de/chrome/) bzw. [Chromium](https://www.chromium.org/getting-involved/download-chromium)-Browsers.
+
+---
+
 Wir haben jeden Monat zwei fixe Stammtisch-Termine:
 
 - jeden 1. Dienstag im Monat im [**Lichtblick**](http://www.lichtblickstuttgart.de/)
