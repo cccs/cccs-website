@@ -15,7 +15,8 @@ die Möglichkeit zur Diskussion im Anschluss an den Vortrag.
 
 Der **Eintritt** ist kostenlos; um **Spenden** wird gebeten.
 
-Eine Voranmeldung ist nicht erforderlich.
+Bitte beachtet die derzeit geltenden [Corona-Regelungen](/2020-06-10-vortragsreihe-coronaregelungen/).
+Dazu gehört insbesondere auch eine **Anmeldepflicht**!
 
 ## Danksagung
 
