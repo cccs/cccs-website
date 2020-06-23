@@ -54,19 +54,19 @@ events:
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
-- title: CCCS-Stammtisch (Lichtblick)
+- title: CCCS-Stammtisch (online)
   startdate: 2020-07-07 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: lichtblick
-- title: CCCS-Stammtisch (shackspace)
+- title: CCCS-Stammtisch (online)
   startdate: 2020-07-15 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
-- title: CCCS-Stammtisch (Lichtblick)
+- title: CCCS-Stammtisch (online)
   startdate: 2020-08-04 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
