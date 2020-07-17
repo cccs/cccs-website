@@ -20,3 +20,5 @@ Bürger_innen) Was macht der Stadtrat in Stuttgart? (Fraktionen,
 Sitzungen und Anderes) Was tut ein_e Stadträt_in? Was kann er_sie* nicht
 tun? Wie stehts um Demokratie, Transparenz und Digitalisierung? (Beispiele 
 aus dem echten Leben)
+
+**Bitte beachtet die [geltenden Regeln der Bibliothek und die Reservierungspflicht!](/2020-06-10-vortragsreihe-coronaregelungen)**

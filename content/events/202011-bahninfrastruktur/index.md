@@ -21,3 +21,5 @@ Anschließend gehen wir auf die neue Bauform 'Digitales Stellwerk (DSTW) ein und
 Dazu werfen wir einen Blick auf das im gleichen Zusammenhang häufig angesprochene ETCS (European Train Control System).
 
 Abschließend fragen wir uns, was die DB sich vom DSTW verspricht.
+
+**Bitte beachtet die [geltenden Regeln der Bibliothek und die Reservierungspflicht!](/2020-06-10-vortragsreihe-coronaregelungen)**
