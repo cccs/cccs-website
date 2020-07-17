@@ -8,6 +8,11 @@ speakers:
     name: "David Mändlen"
 location:
   location: bib
+material:
+  -
+    file: 202007-SafetyFirst.pdf
+    title: Folien
+audio: 202007-SafetyFirst.mp3
 public: true
 ---
 Waren Sie schon einmal Opfer von Verschlüsselungstrojanern, Viren oder
