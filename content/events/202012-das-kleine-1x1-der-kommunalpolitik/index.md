@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2020-09-10T19:30:00Z
+startdate: 2020-12-10T19:30:00Z
 duration: 2h
 title: "Das kleine 1x1 der Kommunalpolitik - Einblicke einer Stadträtin"
 speakers:
