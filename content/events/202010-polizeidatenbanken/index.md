@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2020-10-15T19:30:00Z
+startdate: 2020-10-08T19:30:00Z
 duration: 2h
 title: ""Die Datenbanken der Polizei
 speakers:
