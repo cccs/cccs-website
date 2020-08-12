@@ -21,11 +21,6 @@ events:
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-08-13 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
   startdate: 2020-09-10 19:30:00.000000000 +02:00
   duration: 2h
   location:
