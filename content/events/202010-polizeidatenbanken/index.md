@@ -15,3 +15,5 @@ Kaum jemand weiß, was sich hinter den Kürzeln verbirgt.
 Die Veranstaltung gibt einen ersten Einblick in die Welt der
 Polizeidatenbanken. Neben einer Bestandsaufnahme wollen wir auch
 vermitteln, dass weder Schockstarre noch Resignation angebracht sind.
+
+**Bitte beachtet die [geltenden Regeln der Bibliothek und die Reservierungspflicht!](/2020-06-10-vortragsreihe-coronaregelungen)**
