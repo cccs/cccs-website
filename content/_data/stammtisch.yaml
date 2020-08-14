@@ -59,70 +59,70 @@ events:
   duration: 4h
   url: "/about/stammtisch/"
   location:
-    location: lichtblick
+    location: online-stammtisch
 - title: CCCS-Stammtisch (online)
   startdate: 2020-07-15 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
-    location: shack
+    location: online-stammtisch
 - title: CCCS-Stammtisch (online)
   startdate: 2020-08-04 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
-    location: lichtblick
-- title: CCCS-Stammtisch (shackspace)
+    location: online-stammtisch
+- title: CCCS-Stammtisch (online)
   startdate: 2020-08-19 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
-    location: shack
+    location: online-stammtisch
 - title: CCCS-Stammtisch (Lichtblick)
   startdate: 2020-09-01 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: lichtblick
-- title: CCCS-Stammtisch (shackspace)
+- title: CCCS-Stammtisch (online)
   startdate: 2020-09-16 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
-    location: shack
+    location: online-stammtisch
 - title: CCCS-Stammtisch (Lichtblick)
   startdate: 2020-10-06 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: lichtblick
-- title: CCCS-Stammtisch (shackspace)
+- title: CCCS-Stammtisch (online)
   startdate: 2020-10-21 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
-    location: shack
+    location: online-stammtisch
 - title: CCCS-Stammtisch (Lichtblick)
   startdate: 2020-11-03 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: lichtblick
-- title: CCCS-Stammtisch (shackspace)
+- title: CCCS-Stammtisch (online)
   startdate: 2020-11-18 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
-    location: shack
+    location: online-stammtisch
 - title: CCCS-Stammtisch (Lichtblick)
   startdate: 2020-12-01 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: lichtblick
-- title: CCCS-Stammtisch (shackspace)
+- title: CCCS-Stammtisch (online)
   startdate: 2020-12-16 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
-    location: shack
+    location: online-stammtisch
