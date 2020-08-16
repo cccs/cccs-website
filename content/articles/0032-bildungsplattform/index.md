@@ -26,7 +26,7 @@ Wie bitten Sie daher um die Veröffentlichung folgender Informationen / Dokument
 
  5. Ist Ihnen die 'Digitale Souveränität'<sup><a href="#fn4">4</a></sup> Baden-Württembergs wichtig und ist diese für Sie ein Argument pro 'Freie Software'? 
 
- 6. Wie beurteilt Ihr Haus die Software 'Nextcloud'<sup><a href="#fn5">5</a></sup>, auch im Vergleich mit MS Office 365?
+ 6. Wie beurteilt Ihr Haus die aus Stuttgart stammende Software 'Nextcloud'<sup><a href="#fn5">5</a></sup>, auch im Vergleich mit MS Office 365?
 
  7. Wie beurteilen Sie eine mögliche Entscheidung für Microsoft-Produkte im Lichte der Tatsache, dass der Europäische Gerichtshof kürzlich das 'EU-US Privacy Shield' als ungültig erklärt<sup><a href="#fn6">6</a></sup> hat?
 
