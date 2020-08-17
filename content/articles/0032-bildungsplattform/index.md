@@ -1,7 +1,7 @@
 ---
 kind: article
 created_at: 2020-08-17
-title: Neue Bildungsplattform - Offener Brief an Ministerin Eisenmann g
+title: Neue Bildungsplattform - Offener Brief an Ministerin Eisenmann
 subtitle: Transparenz schaffen, fatale Fehlentscheidung verhindern
 author: Leibi
 ---
