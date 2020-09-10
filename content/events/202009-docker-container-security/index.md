@@ -9,6 +9,10 @@ speakers:
     affiliation: "CCCS e.V."
 location:
   location: bib
+material:
+  -
+    file: 202009-docker-container-security.pdf
+    title: Folien
 public: true
 ---
 Diesmal ein technischer Vortrag - nämlich über die Containertechnologie Docker.
