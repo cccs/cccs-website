@@ -8,11 +8,14 @@ Mailinglisten sind nicht besonders EinsteigerInnen-freundlich, damit die Kommuni
 
 Lokaler Bezug (z.B. Projektideen, Veranstaltungshinweise) oder (inter)nationale Themen mit lokalen Auswirkungen (z.B. Vorratsdatenspeicherung).
 
-__Unverwünscht:__ Spezielle techische Fragen (z.B. 'Software XX läuft auf meinem Rechner nicht'), diese Fragen bekommst Du in einem Fachforum schneller und besser beantwortet.
+__Unverwünscht:__ 
+
+  * Spezielle techische Fragen (z.B. 'Software XX läuft auf meinem Rechner nicht'), diese Fragen bekommst Du in einem Fachforum schneller und besser beantwortet.
+  * Posten von Links ohne bezugnahmende Frage / sinnvollen Kommentar 
 
 ## [Umgangsformen](#Umgangsformen) <a id="Umgangsformen"></a>
 
-Respektvoll, konstruktiv und sachlich; frei von Beleidigungen oder Hetze gegen Einzelpersonen oder Gruppen.
+Respektvoll, konstruktiv und sachlich; frei von Beleidigungen oder Hetze gegen Personen oder Gruppen.
 
 ## [Wie man Fragen richtig stellt](#Fragen) <a id="Fragen"></a>
 
