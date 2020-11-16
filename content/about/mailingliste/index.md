@@ -11,7 +11,7 @@ Lokaler Bezug (z.B. Projektideen, Veranstaltungshinweise) oder (inter)nationale 
 __Unverwünscht:__ 
 
   * Spezielle techische Fragen (z.B. 'Software XX läuft auf meinem Rechner nicht'), diese Fragen bekommst Du in einem Fachforum schneller und besser beantwortet.
-  * Posten von Links ohne bezugnahmende Frage / sinnvollen Kommentar 
+  * Posten von Links ohne bezugnehmende Frage / sinnvollen Kommentar 
 
 ## [Umgangsformen](#Umgangsformen) <a id="Umgangsformen"></a>
 
