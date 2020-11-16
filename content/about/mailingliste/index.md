@@ -2,7 +2,7 @@
 title: Mailingliste
 kind: page
 -----
-Mailinglisten sind nicht besonders EinsteigerInnen-freundlich, damit die Kommunikation für alle möglichst reibungslos läuft, gibt es auf unserer Liste Regeln:
+Mailinglisten sind nicht besonders EinsteigerInnen-freundlich, damit die Kommunikation für alle möglichst reibungslos läuft, hier ein paar Tipps und Regeln:
 
 ## [Welche Inhalte gehören auf unsere Mailingliste?](#Inhalte) <a id="Inhalte"></a>
 
@@ -16,6 +16,8 @@ __Unverwünscht:__
 ## [Umgangsformen](#Umgangsformen) <a id="Umgangsformen"></a>
 
 Respektvoll, konstruktiv und sachlich; frei von Beleidigungen oder Hetze gegen Personen oder Gruppen.
+
+Als gute Richtlinie hat sich ein Satz aus der [Netiquette](https://de.wikipedia.org/wiki/Netiquette) erwiesen: "Schreibe nichts, was Du nicht auch jemandem ins Gesicht sagen würdest" sowie "Vielleicht mal eine Nacht über der Antwort schlafen."
 
 ## [Wie man Fragen richtig stellt](#Fragen) <a id="Fragen"></a>
 
@@ -135,3 +137,4 @@ Ausnahmen können sehr kleine Dateianhänge (Faustregel: <100kb) sein.
   * Lösche bzw. kürze für deine Antwort irrelevante Textpassagen. Optional kann die Auslassung markiert werden (z.B. '[...]')
   * Grußfloskeln müssen nicht mitzitiert werden
   * Lasse MLs direkt von Deinem Anbieter in einen Ordner sortieren, dann behältst Du die Übersicht und hast Ordnung in Deinem Postfach
+  * Wenn Du in Deinem Mailreader '[Threading](https://support.mozilla.org/de/kb/nachrichtenthreading-thunderbird-nachrichten-gruppieren)* einschaltest, gewinnst Du mehr Übersicht und erhälst die Mails zu einem Thema zusammenhängend angezeigt.
