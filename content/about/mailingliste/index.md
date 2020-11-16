@@ -2,6 +2,8 @@
 title: Mailingliste
 kind: page
 -----
+Mailinglisten sind nicht besonders EinsteigerInnen-freundlich, damit die Kommunikation für alle möglichst reibungslos läuft, gibt es auf unserer Liste Regeln:
+
 ## [Welche Inhalte gehören auf unsere Mailingliste](#Inhalte) <a id="Inhalte"></a>
 
 Lokaler Bezug (z.B. Projektideen, Veranstaltungshinweise) oder (inter)nationale Themen mit lokalen Auswirkungen (z.B. Vorratsdatenspeicherung).
@@ -129,3 +131,4 @@ Ausnahmen können sehr kleine Dateianhänge (Faustregel: <100kb) sein.
   * Sollte es zu [Kammzitaten](http://einklich.net/usenet/zitier.htm#kamm) kommen (aufgrund des Zeilenumbruchs beginnt nur jede 2. Zweile mit '>') formatiere die Textpassage bitte um, kürze die Zeilen und ergänze fehlene '>'
   * Lösche bzw. kürze für deine Antwort irrelevante Textpassagen. Optional kann die Auslassung markiert werden (z.B. '[...]')
   * Grußfloskeln müssen nicht mitzitiert werden
+  * Lasse MLs direkt von Deinem Anbieter in einen Ordner sortieren, dann behältst Du die Übersicht und hast Ordnung in Deinem Postfach
