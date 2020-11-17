@@ -135,4 +135,4 @@ Ausnahmen können sehr kleine Dateianhänge (Faustregel: <100kb) sein.
   * Lösche bzw. kürze für deine Antwort irrelevante Textpassagen. Optional kann die Auslassung markiert werden (z.B. '[...]')
   * Grußfloskeln müssen nicht mitzitiert werden
   * Lasse Mailingslisten direkt von Deinem Anbieter in einen Ordner sortieren ([Beispiel](https://hilfe.web.de/email/filterregeln/index.html#.pc_page.tipps.emails-automatisch-verschieben.textlink.hilfe)), dann behältst Du die Übersicht und hast Ordnung in Deinem Postfach
-  * Wenn Du in Deinem Mailreader '[Threading](https://support.mozilla.org/de/kb/nachrichtenthreading-thunderbird-nachrichten-gruppieren)* einschaltest, gewinnst Du mehr Übersicht und erhälst die Mails zu einem Thema zusammenhängend angezeigt.
+  * Wenn Du in Deinem Mailreader '[Threading](https://support.mozilla.org/de/kb/nachrichtenthreading-thunderbird-nachrichten-gruppieren)' einschaltest, gewinnst Du mehr Übersicht und erhälst die Mails zu einem Thema zusammenhängend angezeigt.
