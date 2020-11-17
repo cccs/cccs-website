@@ -33,12 +33,3 @@ Presse- oder Vortragsanfragen bitte an unsere Presseliste
 (presse@cccs.de) schicken.
 
 Der Vorstand des Vereins ist unter vorstand@cccs.de zu erreichen.
-
-## Der IRC-Channel
-
-Im IRC-Channel `!cccs:*.de` des [IRCnets](http://www.ircnet.org/) finden sich einige unserer
-Mitglieder und Freunde. Komm vorbei (hier eine [Liste von IRCnet-Servern](http://irc.fu-berlin.de/ircops.html)), sag hallo, allerdings kann es sein,
-dass es einige Zeit dauert, bis Du eine Reaktion bekommst - nicht jeder,
-der im Channel gelistet ist, sitzt auch gerade am Rechner. Viele von uns
-lassen den IRC-Client die ganze Zeit laufen und sehen eine Nachricht
-erst dementsprechend später.
