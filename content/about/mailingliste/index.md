@@ -29,8 +29,6 @@ Nutze einen Betreff, der etwas über den Inhalt Deiner Mail aussagt (z.B. 'Treff
 
 ## [TOFU](#TOFU)  <a id="TOFU"></a>
 
-[TOFU](http://de.wikipedia.org/wiki/TOFU) hat nichts mit [dem Nahrungsmittel](http://de.wikipedia.org/wiki/Tofu) zu tun, hinterlässt allerdings bei vielen Mailinglistenbenutzern einen mit der ungewürzten Variante vergleichbaren faden Nachgeschmack.  Sicherlich war Deine Benutzung von TOFU nicht absichtlich, aber wir (als Verein mit Bildungsauftrag) versuchen hiermit unseren kleinen Beitrag zum Weltfrieden zu bringen.
-
 Wenn es einen Leitsatz zur Mailinglisten- oder generellen Mailbenutzung gibt, ist dies: **benutze bitte kein TOFU, genauer gesagt keine Vollzitate (Fullquotes)!**
 
 ### Warum denn?
@@ -136,5 +134,5 @@ Ausnahmen können sehr kleine Dateianhänge (Faustregel: <100kb) sein.
   * Sollte es zu [Kammzitaten](http://einklich.net/usenet/zitier.htm#kamm) kommen (aufgrund des Zeilenumbruchs beginnt nur jede 2. Zweile mit '>') formatiere die Textpassage bitte um, kürze die Zeilen und ergänze fehlene '>'
   * Lösche bzw. kürze für deine Antwort irrelevante Textpassagen. Optional kann die Auslassung markiert werden (z.B. '[...]')
   * Grußfloskeln müssen nicht mitzitiert werden
-  * Lasse MLs direkt von Deinem Anbieter in einen Ordner sortieren, dann behältst Du die Übersicht und hast Ordnung in Deinem Postfach
+  * Lasse Mailingslisten direkt von Deinem Anbieter in einen Ordner sortieren ([Beispiel](https://hilfe.web.de/email/filterregeln/index.html#.pc_page.tipps.emails-automatisch-verschieben.textlink.hilfe)), dann behältst Du die Übersicht und hast Ordnung in Deinem Postfach
   * Wenn Du in Deinem Mailreader '[Threading](https://support.mozilla.org/de/kb/nachrichtenthreading-thunderbird-nachrichten-gruppieren)* einschaltest, gewinnst Du mehr Übersicht und erhälst die Mails zu einem Thema zusammenhängend angezeigt.
