@@ -29,7 +29,7 @@ Nutze einen Betreff, der etwas über den Inhalt Deiner Mail aussagt (z.B. 'Treff
 
 ## [TOFU](#TOFU)  <a id="TOFU"></a>
 
-Wenn es einen Leitsatz zur Mailinglisten- oder generellen Mailbenutzung gibt, ist dies: **benutze bitte kein TOFU, genauer gesagt keine Vollzitate (Fullquotes)!**
+[TOFU](https://de.wikipedia.org/wiki/TOFU) steht für Text oben, Fullquote unten. Wenn es einen Leitsatz zur Mailinglisten- oder generellen Mailbenutzung gibt, ist dies: **benutze bitte kein TOFU, genauer gesagt keine Vollzitate (Fullquotes)!**
 
 ### Warum denn?
 
