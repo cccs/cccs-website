@@ -6,12 +6,7 @@ Mailinglisten sind nicht besonders EinsteigerInnen-freundlich, damit die Kommuni
 
 ## [Welche Inhalte gehören auf unsere Mailingliste?](#Inhalte) <a id="Inhalte"></a>
 
-Lokaler Bezug (z.B. Projektideen, Veranstaltungshinweise) oder (inter)nationale Themen mit lokalen Auswirkungen (z.B. Vorratsdatenspeicherung).
-
-__Unverwünscht:__ 
-
-  * Spezielle techische Fragen (z.B. 'Software XY läuft auf meinem Rechner nicht'), diese Fragen bekommst Du in einem Fachforum schneller und besser beantwortet.
-  * Posten von Links ohne bezugnehmende Frage / sinnvollen Kommentar 
+Lokaler Bezug (z.B. Projektideen, Veranstaltungshinweise, Hilfestellung bei Problemen) oder (inter)nationale Themen mit lokalen Auswirkungen (z.B. Vorratsdatenspeicherung). Auf spezielle technische Fragen (z.B. 'Bei Software X funktioniert Y nicht') wirst Du in einem überregionelen Rahmen jedoch oft bessere und schellere Antworten erhalten.
 
 ## [Umgangsformen](#Umgangsformen) <a id="Umgangsformen"></a>
 
