@@ -6,7 +6,7 @@ Mailinglisten sind nicht besonders EinsteigerInnen-freundlich, damit die Kommuni
 
 ## [Welche Inhalte gehören auf unsere Mailingliste?](#Inhalte) <a id="Inhalte"></a>
 
-Lokaler Bezug (z.B. Projektideen, Veranstaltungshinweise, Hilfestellung bei Problemen) oder (inter)nationale Themen mit lokalen Auswirkungen (z.B. Vorratsdatenspeicherung). Auf spezielle technische Fragen (z.B. 'Bei Software X funktioniert Y nicht') wirst Du in einem überregionelen Rahmen jedoch oft bessere und schellere Antworten erhalten.
+Lokaler Bezug (z.B. Projektideen, Veranstaltungshinweise, Hilfestellung bei Problemen) oder (inter)nationale Themen mit lokalen Auswirkungen (z.B. Vorratsdatenspeicherung). Auf spezielle technische Fragen wirst Du in einem darauf spezialisierten Rahmen (z.B. Forum oder User Group) jedoch oft bessere und schnellere Antworten erhalten.
 
 ## [Umgangsformen](#Umgangsformen) <a id="Umgangsformen"></a>
 
