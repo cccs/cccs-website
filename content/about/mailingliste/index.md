@@ -1,5 +1,5 @@
 -----
-title: Mailingliste
+title: Öffentliche Mailingliste
 kind: page
 -----
 Mailinglisten sind nicht besonders EinsteigerInnen-freundlich, damit die Kommunikation für alle möglichst reibungslos läuft, hier ein paar Regeln und Tipps:
