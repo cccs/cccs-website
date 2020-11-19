@@ -5,7 +5,7 @@ duration: 2h
 title: "Das kleine 1x1 der Kommunalpolitik - Einblicke einer Stadträtin"
 speakers:
   -
-    name: "Ina Schuhmann"
+    name: "Ina Schumann"
     affiliation: "DiePARTEI"
 location:
   location: bib
