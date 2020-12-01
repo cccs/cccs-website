@@ -21,7 +21,7 @@ Mit Julian Assanges drohender Auslieferung ist auch die Pressefreiheit in den we
 
 Wir laden alle ein, mit uns zusammen den schützenden Kreis um Julian Assange auf der Königstraße zu erweitern und der Forderung nach weltweiter Pressefreiheit offline und online Nachdruck zu verleihen.
 
-Von Stuttgart aus forden folgende Oranisation die Freilassung von Julian Assange:
+Von Stuttgart aus fordern folgende Organisationen die Freilassung von Julian Assange:
 
  - [Die AnStifter](https://www.die-anstifter.de/)
  - [Die bundesweite Mahnwachen für Julian Assange](https://freeassange.eu/)
