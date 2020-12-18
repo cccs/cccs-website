@@ -1,42 +1,62 @@
 ---
 events:
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-01-09 19:30:00.000000000 +01:00
+  startdate: 2021-01-14 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-02-13 19:30:00.000000000 +01:00
+  startdate: 2021-02-18 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-06-18 19:30:00.000000000 +02:00
+  startdate: 2021-03-18 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-07-09 19:30:00.000000000 +02:00
+  startdate: 2021-04-15 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-09-10 19:30:00.000000000 +02:00
+  startdate: 2021-05-20 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-10-08 19:30:00.000000000 +02:00
+  startdate: 2021-06-17 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-11-12 19:30:00.000000000 +01:00
+  startdate: 2021-07-15 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2020-12-10 19:30:00.000000000 +01:00
+  startdate: 2021-08-19 19:30:00.000000000 +01:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2021-09-16 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2021-10-21 19:30:00.000000000 +02:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2021-11-18 19:30:00.000000000 +01:00
+  duration: 2h
+  location:
+    location: bib
+- title: CCCS Vortragsreihe (Thema noch offen)
+  startdate: 2021-12-16 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
