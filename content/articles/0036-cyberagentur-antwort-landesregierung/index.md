@@ -7,7 +7,7 @@ author: Leibi
 ---
 Anfang November 2020 haben [wir](/2020-11-03-stellungnahme-cyberberagentur/) und über 20 weitere Vereine, Universitäten, Firmen und Organisationen zum Gesetzentwurf zur "Verbesserung der Cybersicherheit" eine Stellungnahme abgegeben.
 
-Nun hat die Landesregierung die wesentlichen Ergebnisse der Anhörungen und ihre Haltung zu den Ausführungen [veröffentlicht (ab S. 89)](16_9490.pdf).
+Nun hat die Landesregierung die wesentlichen Ergebnisse der Anhörungen und ihre Haltung zu den Ausführungen [veröffentlicht (ab S. 89)](www.landtag-bw.de/files/live/sites/LTBW/files/dokumente/WP16/Drucksachen/9000/16_9490.pdf).
 
 Für alle, die nur die Haltung der Landesregierung zu unserer Stellungnahme interessiert, hier alle Punkte auf einen Blick:
 <!-- break -->
