@@ -7,7 +7,7 @@ author: Leibi
 ---
 Seit unseres [offenen Briefes](/2020-08-17-bildungsplattform/) an das Kultusministerium gibt es in der Sache einige Neuigkeiten, die wir in diesem Beitrag versuchen zusammen zu fassen.
 
-Wir haben eine **Antwort auf unseren offenen Brief erhalten**, die wir [an dieser Stelle](Antwort-Bildungsplattform-KM.pdf) veröffentlichen. Grundsätzlich freuen wir uns über die Antworten, auch wenn diese an einigen Stellen ausweichend oder schlicht falsch sind. Beispielweise ist in Bezug auf den '[CLOUD Act](https://de.wikipedia.org/wiki/CLOUD_Act)' unerheblich wo die Daten speichert werden, denn Microsoft kann verpflichtet werden diese an US Behörden auszuhändigen. Eben dies ist der Sinn dieses Gesetzes und natürlich ist das dem KM bekannt.
+Wir haben eine **Antwort auf unseren offenen Brief erhalten**, die wir [an dieser Stelle](/2020-12-21-bildungsplattform-neues-1/Antwort-Bildungsplattform-KM.pdf) veröffentlichen. Grundsätzlich freuen wir uns über die Antworten, auch wenn diese an einigen Stellen ausweichend oder schlicht falsch sind. Beispielweise ist in Bezug auf den '[CLOUD Act](https://de.wikipedia.org/wiki/CLOUD_Act)' unerheblich wo die Daten speichert werden, denn Microsoft kann verpflichtet werden diese an US Behörden auszuhändigen. Eben dies ist der Sinn dieses Gesetzes und natürlich ist das dem KM bekannt.
 
 <!-- break -->
 
