@@ -3,6 +3,10 @@ blogposts:
 - user: Leibi
   date: 2020-12-24 23:00:00.000000000 Z
   title: Messengerdienste dürfen nicht interoperabel werden - der Preis wäre zu hoch
+  url: https://stefan.leibfarth.org/posts/2020-12-25-messenger-contra-interoperabilitaet/
+- user: Leibi
+  date: 2020-12-24 23:00:00.000000000 Z
+  title: Messengerdienste dürfen nicht interoperabel werden - der Preis wäre zu hoch
   url: "/posts/2020-12-25-messenger-contra-interoperabilitaet/"
 - user: Rince
   date: 2019-08-20 21:14:00.000000000 Z
@@ -52,6 +56,10 @@ blogposts:
   date: 2018-01-26 23:00:00.000000000 Z
   title: Leibis Blog jetzt auch als Onion Service
   url: "/posts/2018-01-27-blog-onion-adresse/"
+- user: Leibi
+  date: 2018-01-25 23:00:00.000000000 Z
+  title: Leibis Blog jetzt auch als Onion Service
+  url: https://stefan.leibfarth.org/posts/2018-01-26-blog-onion-adresse/
 - user: Rince
   date: 2017-10-10 18:43:16.000000000 Z
   title: 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
@@ -72,12 +80,4 @@ blogposts:
   date: 2017-01-16 10:05:08.000000000 Z
   title: Fake-News und der Aufschrei in sozialen Netzen
   url: https://blog.rince.de/archives/760-Fake-News-und-der-Aufschrei-in-sozialen-Netzen.html
-- user: Leibi
-  date: 2017-01-03 23:00:00.000000000 Z
-  title: Noch können wir das
-  url: https://stefan.leibfarth.org/posts/2017-01-04-Zitat-heute-de/
-- user: Leibi
-  date: 2017-01-03 23:00:00.000000000 Z
-  title: Noch können wir das
-  url: "/posts/2017-01-04-Zitat-heute-de/"
 kind: page
