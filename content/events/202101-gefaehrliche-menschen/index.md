@@ -2,7 +2,7 @@
 kind: event
 startdate: 2021-01-14T20:00:00Z
 duration: 2h
-title: "Gefährliche Menschen  Erkundung möglicher Zukünfte durch Science Fiction"
+title: "Gefährliche Menschen - Erkundung möglicher Zukünfte durch Science Fiction"
 speakers:
   -
     name: "Christiane Hütter und Frank Rieger"
