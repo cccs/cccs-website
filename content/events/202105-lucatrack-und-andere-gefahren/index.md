@@ -16,3 +16,5 @@ Das Luca System stellt dazu eine zentrale Architektur für Check-in-Daten zur Ve
 Bianca Kastl ([@bkastl](https://mastodon.social/@bkastl)) wird etwa näher auf die technischen Details des Systems eingehen, auf die Entdeckung der Sicherheitslücke LucaTrack und weitere mögliche Probleme, die sich mit einem so zentralen System abzeichnen.
 
 Im Anschluß an den etwa 45 minütigen Vortrag gibt es auch die Gelegenheit zu Fragen.
+
+Link zum Online-Vortrag: [https://lecture.senfcall.de/ste-i8d-yau-pmb](https://lecture.senfcall.de/ste-i8d-yau-pmb)
