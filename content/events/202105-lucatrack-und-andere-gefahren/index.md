@@ -7,7 +7,7 @@ speakers:
   -
     name: "Bianca Kastl"
 location:
-  name: Online
+  location: senfcall-bbb
 public: true
 ---
 Die Luca App soll auch in Baden-Württemberg die Gesundheitsämter bei der digitalen Nachverfolgung unterstützen.
