@@ -9,6 +9,7 @@ speakers:
 location:
   location: senfcall-bbb
 public: true
+video: https://media.ccc.de/v/cccs-202105-lucatrack-und-andere-gefahren
 ---
 Die Luca App soll auch in Baden-Württemberg die Gesundheitsämter bei der digitalen Nachverfolgung unterstützen.
 Das Luca System stellt dazu eine zentrale Architektur für Check-in-Daten zur Verfügung.

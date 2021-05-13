@@ -14,6 +14,7 @@ material:
     file: 202009-docker-container-security.pdf
     title: Folien
 public: true
+video: https://media.ccc.de/v/cccs
 ---
 Diesmal ein technischer Vortrag - nämlich über die Containertechnologie Docker.
 
