@@ -69,6 +69,9 @@
                       </ul>
                     </li>
                     <% end %>
+                    <% if @item[:video] %>
+                    <li class="fas fa-video" title="Videoaufzeichnung"><% if @item[:video][/^https?:/] %><a href="<%= @item[:video] %>">Videoaufzeichnung</a><% else %><%= datalink(@item[:video], 'Videoaufzeichnung') %><% end %></li>
+                    <% end %>
                     <% if @item[:audio] %>
                     <li class="fas fa-music" title="Audiomitschnitt"><% if @item[:audio][/^https?:/] %><a href="<%= @item[:audio] %>">Audiomitschnitt</a><% else %><%= datalink(@item[:audio], 'Audiomitschnitt') %><% end %></li>
                     <% end %>
