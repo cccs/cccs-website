@@ -4,12 +4,12 @@ events:
   startdate: 2021-08-12 19:30:00.000000000 +01:00
   duration: 2h
   location:
-    location: online
+    location: senfcall-bbb
 - title: CCCS Vortragsreihe (Thema noch offen)
   startdate: 2021-09-16 19:30:00.000000000 +02:00
   duration: 2h
   location:
-    location: online
+    location: senfcall-bbb
 - title: CCCS Vortragsreihe (Thema noch offen)
   startdate: 2021-10-14 19:30:00.000000000 +02:00
   duration: 2h
