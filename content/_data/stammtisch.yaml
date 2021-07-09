@@ -73,25 +73,25 @@ events:
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (online)
-  startdate: 2021-07-06 18:00:00.000000000 +02:00
+  startdate: 2021-07-06 20:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (online)
-  startdate: 2021-07-21 18:00:00.000000000 +02:00
+  startdate: 2021-07-21 20:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (online)
-  startdate: 2021-08-03 18:00:00.000000000 +02:00
+  startdate: 2021-08-03 20:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (online)
-  startdate: 2021-08-18 18:00:00.000000000 +02:00
+  startdate: 2021-08-18 20:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
