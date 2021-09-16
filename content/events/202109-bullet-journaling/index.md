@@ -10,6 +10,11 @@ speakers:
 location:
   location: senfcall-bbb
 public: true
+material:
+  -
+    file: 202109-bullet-journaling.pdf
+    title: Folien
+xvideo: https://media.ccc.de/v/cccs
 ---
 Das "Bullet Journal" ist eine Mischung aus Todo-Liste, Gedankensammlung und Tagebuch in Stichwortform. Sucht man im Netz nach dem Schlagwort, findet man sehr viele Beispiele, die grafisch sehr ansprechend, aber auch sehr zeitaufwändig gestaltet sind. "Ich kann aber gar nicht malen" ist dann bei vielen die Reaktion.
 
