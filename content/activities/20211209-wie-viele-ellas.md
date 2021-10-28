@@ -5,8 +5,7 @@ duration: 90m
 title: "Wie viele Ellas braucht es für eine funktionierende Bildungsplattform"
 speakers: 
   -
-    name: "Lennard 'lennard0711' Indlekofer"
-    name: "Kevin Erath"
+    name: "Lennard 'lennard0711' Indlekofer, Kevin Erath"
 location:
   location: bib
 public: true
