@@ -2,7 +2,7 @@
 kind: event
 startdate: 2021-12-09T19:30:00Z
 duration: 90m
-title: "Wie viele Ellas braucht es für eine funktionierende Bildungsplattform"
+title: "Wie viele Ellas braucht es für eine funktionierende Bildungsplattform?"
 speakers: 
   -
     name: "Lennard 'lennard0711' Indlekofer, Kevin Erath"
