@@ -1,5 +1,9 @@
 ---
 blogposts:
+- user: Leibi
+  date: 2020-12-24 23:00:00.000000000 Z
+  title: Messengerdienste dürfen nicht interoperabel werden - der Preis wäre zu hoch
+  url: https://stefan.leibfarth.org/posts/2020-12-25-messenger-contra-interoperabilitaet/
 - user: Rince
   date: 2019-08-20 21:14:00.000000000 Z
   title: Die AG Kritis hat sich gegründet
@@ -25,9 +29,9 @@ blogposts:
   title: Etar für Android
   url: https://stefan.leibfarth.org/posts/2018-01-27-etar/
 - user: Leibi
-  date: 2018-01-26 23:00:00.000000000 Z
+  date: 2018-01-25 23:00:00.000000000 Z
   title: Leibis Blog jetzt auch als Onion Service
-  url: https://stefan.leibfarth.org/posts/2018-01-27-blog-onion-adresse/
+  url: https://stefan.leibfarth.org/posts/2018-01-26-blog-onion-adresse/
 - user: Rince
   date: 2017-10-10 18:43:16.000000000 Z
   title: 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
@@ -76,8 +80,4 @@ blogposts:
   date: 2015-12-23 23:00:00.000000000 Z
   title: Klimawandel
   url: https://stefan.leibfarth.org/posts/2015-12-24-Klimawandel/
-- user: Leibi
-  date: 2015-12-22 23:00:00.000000000 Z
-  title: WhatsApp-Zwang
-  url: https://stefan.leibfarth.org/posts/2015-12-23-cryptomessenger-wie-ich-die-digitalisierung-meiner-familie-verpasste-golem-de/
 kind: page
