@@ -7,7 +7,7 @@ speakers:
   -
     name: "Lennard 'lennard0711' Indlekofer, Kevin Erath"
 location:
-  location: bib
+  location: senfcall-bbb
 public: true
 ---
 Ganz nach dem Motto "Wie viele Ingenieure braucht es um eine Glühbirne zu tauschen?", geht es in diesem Talk darum wie oft man eine Bildungsplattform aufbauen kann, bis es mal klappt, oder eben auch nicht.
