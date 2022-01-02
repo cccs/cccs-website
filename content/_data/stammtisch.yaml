@@ -145,7 +145,7 @@ events:
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (online)
-  startdate: 2022-01-04 18:00:00.000000000 +01:00
+  startdate: 2022-01-04 20:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
