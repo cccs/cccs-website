@@ -8,7 +8,7 @@ speakers:
     name: 'Juliane Hochstein'
     affiliation: Bibliothekarin
 location:
-  location: bib
+  location: senfcall-bbb
 public: true
 ---
 Durch Tests versucht man, Fehler in Programmen möglichst früh
