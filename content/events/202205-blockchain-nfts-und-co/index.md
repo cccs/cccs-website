@@ -10,6 +10,10 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    file: 202205-blockchain-nfts-und-co.pdf
+    title: Folien
 ---
 "Das Web3 startet mit NFTs auf der Blockchain durch" - solche und ähnliche Aussagen liest man immer häufiger. Kryptowährungen und NFTs werden uns als renditeträchtige Investments angeboten. Kurz: Selbst Erika Musterfrau entgeht dem aktuellen Technologietrend nicht mehr.
 
