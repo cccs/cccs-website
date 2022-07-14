@@ -24,7 +24,7 @@ Wir haben jeden Monat zwei fixe Stammtisch-Termine:
 diversen Leckereien aus der Küche bekochen läßt.
 
 - jeden 3. Mittwoch im Monat im [**shackspace**](http://www.shackspace.de/)
-([Ulmer Straße 255, Stuttgart-Wangen](http://www.openstreetmap.org/node/4783121021))
+([Ulmer Straße 300, Stuttgart-Wangen](http://www.openstreetmap.org/node/4783121021))
 
     Beim gemütlichen Lümmeln auf den Sofas der Lounge (oder, falls es ein
 Thema erfordert, am Besprechungstisch des shacks) kann hier über alles
