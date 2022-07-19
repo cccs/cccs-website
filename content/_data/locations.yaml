@@ -40,11 +40,11 @@ zadu:
 shack:
   name: shackspace
   url: http://www.shackspace.de/
-  strasse: Ulmer Str. 255
+  strasse: Ulmer Str. 300
   plz: 70327
   ort: Stuttgart
-  lat: 48.777219
-  lon: 9.235507
+  lat: 48.774526
+  lon: 9.2389921
 wand5:
   name: Filmhaus
   strasse: Friedrichstr. 23a
