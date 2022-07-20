@@ -7,7 +7,7 @@ use std::error::Error;
 use elefren::prelude::*;
 use elefren::helpers::toml; // requires `features = ["toml"]`
 
-fn main() -> Result<(), Box<Error>> {
+fn main() -> Result<(), Box<dyn Error>> {
     let mastodon = if let Ok(data) = toml::from_file("mastodon-data.toml") {
         Mastodon::from(data)
     } else {
@@ -18,8 +18,10 @@ fn main() -> Result<(), Box<Error>> {
     let status_text = args.get(1);
     match status_text {
         Some(text) => {
-            let mut status = StatusBuilder::new(text);
-            status.sensitive = Some(false);
+            let status = StatusBuilder::new()
+                .status(text)
+                .sensitive(false)
+                .build()?;
             mastodon.new_status(status)?;
         },
         None => println!("No text to toot"),
@@ -28,10 +30,10 @@ fn main() -> Result<(), Box<Error>> {
     Ok(())
 }
 
-fn register() -> Result<Mastodon, Box<Error>> {
+fn register() -> Result<Mastodon, Box<dyn Error>> {
     let registration = Registration::new("https://chaos.social")
         .client_name("toot-cli")
-        .scopes(Scopes::ReadWrite) // write:statuses would be sufficient. Scopes::Write didn't work
+        .scopes(Scopes::read_all() | Scopes::write_all()) // write:statuses would be sufficient. Scopes::Write didn't work
         .build()?;
     let url = registration.authorize_url()?;
 
