@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2022-09-20224T14:00:00Z
+startdate: 2022-09-24T14:00:00Z
 duration: 3h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
