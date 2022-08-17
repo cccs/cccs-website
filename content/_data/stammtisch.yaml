@@ -235,7 +235,7 @@ events:
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch im shack
-  startdate: 2022-08-17 20:00:00.000000000 +02:00
+  startdate: 2022-08-17 18:00:00.000000000 +03:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
