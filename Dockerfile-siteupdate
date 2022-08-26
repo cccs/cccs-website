@@ -7,7 +7,7 @@ COPY scripts/update-site.sh /usr/local/bin/
 # Home directory of user, containing ssh keys, etc.
 VOLUME /data
 # Website source
-ENV WEBSITE_SOURCE=/website-source
+ENV WEBSITE_SOURCE=/website-source/git
 VOLUME /website-source
 # Compiled website
 VOLUME /website

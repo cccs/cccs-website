@@ -6,11 +6,12 @@ if [[ "$WEBSITE_SOURCE" == "" ]] ; then
 fi
 
 # Update site
-cd $WEBSITE_SOURCE
-if [[ -d .git ]] ; then
+if [[ -d "$WEBSITE_SOURCE/.git" ]] ; then
+  cd $WEBSITE_SOURCE
   git pull || exit 1
 else
-  git clone git@github.com:cccs/cccs-website.git . || exit 1
+  git clone git@github.com:cccs/cccs-website.git "$WEBSITE_SOURCE" || exit 1
+  cd $WEBSITE_SOURCE
 fi
 
 # Update Twitter
