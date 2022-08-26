@@ -1,0 +1,19 @@
+FROM ruby:2-bullseye
+COPY Gemfile* /tmp/
+RUN cd /tmp && bundle install && rm Gemfile*
+RUN apt-get update && apt-get install -y rsync git && rm -rf /var/lib/apt/lists/*
+COPY scripts/update-site.sh /usr/local/bin/
+
+# Home directory of user, containing ssh keys, etc.
+VOLUME /data
+# Website source
+ENV WEBSITE_SOURCE=/website-source
+VOLUME /website-source
+# Compiled website
+VOLUME /website
+
+RUN useradd -M -d /data siteupdate && chown siteupdate:siteupdate /data /website-source /website
+USER siteupdate:siteupdate
+WORKDIR /data
+CMD /usr/local/bin/update-site.sh
+
