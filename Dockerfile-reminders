@@ -1,0 +1,17 @@
+FROM rust:1-bullseye AS toot
+
+COPY toot /toot
+RUN cd /toot && cargo build
+
+
+FROM ruby:3-bullseye
+COPY --from=toot /toot/target/debug/toot /usr/local/bin/
+RUN gem install t
+COPY scripts/send-reminder-tweets.sh /usr/local/bin/
+VOLUME /data
+ENV WEBSITE_DIR=/website
+RUN useradd -M -d /data reminders && chown reminders:reminders /data
+USER reminders:reminders
+WORKDIR /data
+CMD /usr/local/bin/send-reminder-tweets.sh
+

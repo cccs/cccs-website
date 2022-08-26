@@ -1,0 +1,8 @@
+content
+.bundle
+.git
+output
+tmp
+*/target
+*/bundle
+
