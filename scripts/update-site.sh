@@ -9,8 +9,9 @@ fi
 if [[ -d "$WEBSITE_SOURCE/.git" ]] ; then
   cd $WEBSITE_SOURCE
   git pull || exit 1
+  git submodule update --init --recursive
 else
-  git clone git@github.com:cccs/cccs-website.git "$WEBSITE_SOURCE" || exit 1
+  git clone --recursive git@github.com:cccs/cccs-website.git "$WEBSITE_SOURCE" || exit 1
   cd $WEBSITE_SOURCE
 fi
 
