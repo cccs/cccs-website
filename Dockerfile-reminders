@@ -6,8 +6,9 @@ RUN cd /toot && cargo build
 
 FROM ruby:3-bullseye
 COPY --from=toot /toot/target/debug/toot /usr/local/bin/
-RUN gem install t
+RUN gem install t && gem install ri_cal
 COPY scripts/send-reminder-tweets.sh /usr/local/bin/
+COPY scripts/tweet-reminders.rb /usr/local/bin/
 VOLUME /data
 ENV WEBSITE_DIR=/website
 RUN useradd -M -d /data reminders && chown reminders:reminders /data
