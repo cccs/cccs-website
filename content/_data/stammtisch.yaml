@@ -246,12 +246,12 @@ events:
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-09-21 20:00:00.000000000 +02:00
+- title: CCCS-Stammtisch im shack
+  startdate: 2022-09-21 18:00:00.000000000 +02:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
-    location: online-stammtisch
+    location: shack
 - title: CCCS-Stammtisch (online)
   startdate: 2022-10-04 20:00:00.000000000 +02:00
   duration: 2h
