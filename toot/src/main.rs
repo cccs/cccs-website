@@ -9,10 +9,12 @@ use elefren::prelude::*;
 use elefren::helpers::toml; // requires `features = ["toml"]`
 
 fn main() -> Result<(), Box<dyn Error>> {
+    let home = env::var("HOME").unwrap();
+    let home_config_filename = format!("{}/.mastodon-data.toml", home);
     let config_filename = if Path::new("mastodon-data.toml").exists() {
         "mastodon-data.toml"
     } else {
-        "~/.mastodon-data.toml"
+        home_config_filename.as_str()
     };
     let mastodon = if let Ok(data) = toml::from_file(config_filename) {
         Mastodon::from(data)
