@@ -2,13 +2,19 @@ extern crate elefren;
 
 use std::env;
 use std::io;
+use std::path::Path;
 use std::error::Error;
 
 use elefren::prelude::*;
 use elefren::helpers::toml; // requires `features = ["toml"]`
 
 fn main() -> Result<(), Box<dyn Error>> {
-    let mastodon = if let Ok(data) = toml::from_file("mastodon-data.toml") {
+    let config_filename = if Path::new("mastodon-data.toml").exists() {
+        "mastodon-data.toml"
+    } else {
+        "~/.mastodon-data.toml"
+    };
+    let mastodon = if let Ok(data) = toml::from_file(config_filename) {
         Mastodon::from(data)
     } else {
         register()?
