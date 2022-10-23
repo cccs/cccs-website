@@ -5,7 +5,7 @@ duration: 2h
 title: "antistalking.haecksen.org - eine Seite mit Hilfen gegen Cyberstalking"
 speakers:
   -
-    name: "Andrea 'Princess' Wardzichowski"
+    name: Princess
     affiliation: "CCCS e.V."
 location:
   location: bib
