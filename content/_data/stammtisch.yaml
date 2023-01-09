@@ -1,433 +1,145 @@
 ---
 events:
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-01-05 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-01-20 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-02-02 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-02-17 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-03-02 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-03-17 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-04-06 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-04-21 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-05-04 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-05-19 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-06-01 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-06-16 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-07-06 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-07-21 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-08-03 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-08-18 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-09-07 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-09-22 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-10-05 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-10-20 20:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-11-02 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-11-17 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-12-07 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2021-12-15 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-01-04 20:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-01-19 20:00:00.000000000 +01:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-02-01 20:00:00.000000000 +01:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-02-16 20:00:00.000000000 +01:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-03-01 20:00:00.000000000 +01:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-03-16 20:00:00.000000000 +01:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-04-05 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-04-20 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-05-03 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-05-18 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-06-07 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-06-15 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-07-05 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch im shack
-  startdate: 2022-07-20 18:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-08-02 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch im shack
-  startdate: 2022-08-17 18:00:00.000000000 +02:00
-  duration: 3h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-09-06 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch im shack
-  startdate: 2022-09-21 18:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-10-04 20:00:00.000000000 +02:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch im shack
-  startdate: 2022-10-19 18:00:00.000000000 +02:00
-  duration: 3h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-11-01 20:00:00.000000000 +01:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch im shack
-  startdate: 2022-11-16 18:00:00.000000000 +01:00
-  duration: 3h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (online)
-  startdate: 2022-12-06 20:00:00.000000000 +01:00
-  duration: 2h
-  url: "/about/stammtisch/"
-  location:
-    location: online-stammtisch
-- title: CCCS-Stammtisch im shack
-  startdate: 2022-12-21 18:00:00.000000000 +01:00
-  duration: 3h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-01-06 20:00:00.000000000 +00:53
+  startdate: 2023-01-03 18:00:00.000000000 +01:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-01-21 18:00:00.000000000 +00:53
+  startdate: 2023-01-18 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-02-03 20:00:00.000000000 +00:53
+  startdate: 2023-02-07 18:00:00.000000000 +01:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-02-18 18:00:00.000000000 +00:53
+  startdate: 2023-02-15 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-03-02 20:00:00.000000000 +00:53
+  startdate: 2023-03-07 18:00:00.000000000 +01:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-03-17 18:00:00.000000000 +00:53
+  startdate: 2023-03-15 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-04-06 20:00:00.000000000 +00:53
+  startdate: 2023-04-04 18:00:00.000000000 +02:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-04-21 18:00:00.000000000 +00:53
+  startdate: 2023-04-19 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-05-04 20:00:00.000000000 +00:53
+  startdate: 2023-05-02 18:00:00.000000000 +02:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-05-19 18:00:00.000000000 +00:53
+  startdate: 2023-05-17 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-06-01 20:00:00.000000000 +00:53
+  startdate: 2023-06-06 18:00:00.000000000 +02:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-06-16 18:00:00.000000000 +00:53
+  startdate: 2023-06-21 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-07-06 20:00:00.000000000 +00:53
+  startdate: 2023-07-04 18:00:00.000000000 +02:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-07-21 18:00:00.000000000 +00:53
+  startdate: 2023-07-19 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-08-03 20:00:00.000000000 +00:53
+  startdate: 2023-08-01 18:00:00.000000000 +02:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-08-18 18:00:00.000000000 +00:53
+  startdate: 2023-08-16 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-09-07 20:00:00.000000000 +00:53
+  startdate: 2023-09-05 18:00:00.000000000 +02:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-09-15 18:00:00.000000000 +00:53
+  startdate: 2023-09-20 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-10-05 20:00:00.000000000 +00:53
+  startdate: 2023-10-03 18:00:00.000000000 +02:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-10-20 18:00:00.000000000 +00:53
+  startdate: 2023-10-18 18:00:00.000000000 +02:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-11-02 20:00:00.000000000 +00:53
+  startdate: 2023-11-07 18:00:00.000000000 +01:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-11-17 18:00:00.000000000 +00:53
+  startdate: 2023-11-15 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
     location: shack
 - title: CCCS-Stammtisch (Online)
-  startdate: 0000-12-07 20:00:00.000000000 +00:53
+  startdate: 2023-12-05 18:00:00.000000000 +01:00
   duration: 2h
   url: "/about/stammtisch/"
   location:
     location: online-stammtisch
 - title: CCCS-Stammtisch (shackspace)
-  startdate: 0000-12-15 18:00:00.000000000 +00:53
+  startdate: 2023-12-20 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
