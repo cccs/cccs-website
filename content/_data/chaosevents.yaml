@@ -1,21 +1,6 @@
 ---
 events:
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2023-02-09 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2023-03-09 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2023-04-13 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
   startdate: 2023-05-11 19:30:00.000000000 +02:00
   duration: 2h
   location:
