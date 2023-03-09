@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2023-04-14T19:30:00Z
+startdate: 2023-04-13T19:30:00Z
 duration: 2h
 title: "Befreundete Organisationen stellen sich vor Teil 3: Java User Group (JUGS) und no-spy.org"
 speakers:
