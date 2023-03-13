@@ -5,7 +5,7 @@ duration: 2h
 title: "Wenn's zuhause cybert: Digitale Gewalt im Smart Home"
 speakers:
   -
-    name: "Anne Roth, Netzaktivistin und Referentin für Netzpolitik der Linksfraktion im Bundestag""
+    name: "Anne Roth, Netzaktivistin und Referentin für Netzpolitik der Linksfraktion im Bundestag"
     affiliation: "Eva Wolfangel und CCCS e.V."
 location:
   location: Coworking 0711, Gutenbergstraße 7a, 70197 Stuttgart (Eingang im Hinterhof links)
