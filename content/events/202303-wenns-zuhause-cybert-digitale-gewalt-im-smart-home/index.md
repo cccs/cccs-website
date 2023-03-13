@@ -8,7 +8,11 @@ speakers:
     name: "Anne Roth, Netzaktivistin und Referentin für Netzpolitik der Linksfraktion im Bundestag"
     affiliation: "Eva Wolfangel und CCCS e.V."
 location:
-  location: Coworking 0711, Gutenbergstraße 7a, 70197 Stuttgart (Eingang im Hinterhof links)
+  name: Coworking 0711
+  details: Eingang im Hinterhof links
+  strasse: Gutenbergstraße 7a
+  plz: 70197
+  ort: Stuttgart
 public: true
 ---
 Digitale Gewalt ist ein Sammelbegriff. Manche denken an Hatespeech, an Bedrohung oder Doxing, andere an Stalking, aber worüber immer noch wenig gesprochen wird: Wie digitale Werkzeuge Gewalt in Beziehungen verstärken.
