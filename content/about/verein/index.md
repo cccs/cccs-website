@@ -23,13 +23,7 @@ Hier ist das [Protokoll der Mitgliederversammlung 2017](/about/verein/mv2017/).
 
 Mitglied werden kannst Du durch Ausfüllen des [Mitgliedsantrag-PDFs](Mitgliedsantrag.pdf).
 Momentan erheben wir keinen eigenen Mitgliedsbeitrag, wir finanzieren
-uns durch Spenden und die sogenannte „Erfa-Rückerstattung“: Die lokalen
-CCC-Gruppen erhalten Unterstützung vom Bundes-CCC, sofern die Mitglieder
-sich dort einer Ortsgruppe zugehörig gemeldet haben. Aus diesem Grund
-unsere Bitte: Unterstützt uns durch eine [Zweitmitgliedschaft beim
-Bundes-CCC](http://www.ccc.de/membership), gebt dort im Mitgliedsantrag
-den „Erfa Stuttgart“ an und tragt beim Mitgliedsantrag bei uns eure
-Chaosnummer (die Mitgliedsnummer des Bundes-CCC) ein.
+uns durch Spenden und die sogenannte „Erfa-Rückerstattung“.
 
 ## Adresse
 
