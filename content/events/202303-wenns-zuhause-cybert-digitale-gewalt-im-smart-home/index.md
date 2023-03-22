@@ -10,7 +10,7 @@ speakers:
 location:
   name: Coworking 0711
   details: Eingang im Hinterhof links
-  strasse: Gutenbergstraße 7a
+  strasse: Gutenbergstraße 77a
   plz: 70197
   ort: Stuttgart
 public: true
