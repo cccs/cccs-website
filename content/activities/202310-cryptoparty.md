@@ -7,6 +7,8 @@ location:
   location: bib
 public: true
 ---
+Zu Gast sind zudem der Verein No Spy und die Wikipedia:Stuttgart sowie die wiki:wo:men.
+
 Ziel einer Cryptoparty ist es, praktisch zu lernen, wie man sicher(er) und möglichst unter Wahrung der Privatsphäre Computer und das Internet nutzt.
 
 Zum Beispiel:
@@ -15,8 +17,6 @@ Zum Beispiel:
 - sichere E-Mail, E-Mails verschlüsseln und signieren
 - Computer, Betriebssystem, Anwendungen, Updates, Datenträger verschlüsseln
 - Smartphones / Tablets / Apps und Chat
-
-Zu Gast sind zudem der Verein No Spy und die Wikipedia:Stuttgart sowie die wiki:wo:men.
 
 An mehreren Stationen könnt Ihr gemeinsam mit uns praktische Erfahrungen sammeln.
 
