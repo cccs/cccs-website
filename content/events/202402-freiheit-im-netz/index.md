@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2023-12-14T19:30:00Z
+startdate: 2024-02-08T19:30:00Z
 duration: 2h
 title: "Freiheit im Netz?"
 speakers:
