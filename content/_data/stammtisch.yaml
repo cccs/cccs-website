@@ -114,3 +114,75 @@ events:
   url: "/about/stammtisch/"
   location:
     location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-01-17 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-02-21 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-03-20 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-04-17 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-05-15 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-06-19 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-07-17 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-08-21 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-09-18 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-10-16 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-11-20 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2024-12-18 18:00:00.000000000 +00:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
