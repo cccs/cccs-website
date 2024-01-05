@@ -1,7 +1,7 @@
 ---
 title: Project Latitude
 kind: project
-status: active
+status: stalled
 ---
 Welche Datenspuren ergeben sich, wenn man die Positionsinformationen
 einer Person über längere Zeit hinweg sammelt? Welcher Aufwand muss
