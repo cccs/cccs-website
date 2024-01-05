@@ -4,7 +4,7 @@ kind: project
 status: active
 ---
 Seit Anfang 2022 betreibt der CCCS e.V. einen eigenen Server um das [Tor-Netzwerk](https://www.torproject.org/de/) zu unterstützen.   
-Tor bietet millionen Menschen weltweit die Möglichkeit das Internet anonym und zensurfrei zu nutzen.
+Tor bietet Millionen Menschen weltweit die Möglichkeit das Internet anonym und zensurfrei zu nutzen.
 
 ## Hardware
 CPU: 2 x Intel Xeon E5-2680 v2 @ 2.80GHz   
