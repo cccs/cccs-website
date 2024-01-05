@@ -22,7 +22,7 @@ Die aktuelle Übersicht über diese Instanzen gibt es [hier](https://metrics.tor
 ![Years](https://exit-inberlin-static.leibfarth.org/years.png)
 
 ### Behördenanfragen
-(Stand 05.01.2024)
-Regelmäßig erreichen uns Behördenanfragen bzw. Auskunftsanordnungen. Immer sollen wir zu einer unserer Server persönliche Daten von Nutzenden heraus geben.
-Den einzelnen Tor-Knoten liegen diese Daten jedoch nicht vor, so dass wir die Auskunft nicht erteilen können.
+(Stand 05.01.2024)   
+Regelmäßig erreichen uns Behördenanfragen bzw. Auskunftsanordnungen. Immer sollen wir zu einer unserer Server persönliche Daten von Nutzenden heraus geben.   
+Den einzelnen Tor-Knoten liegen diese Daten jedoch nicht vor, so dass wir die Auskunft nicht erteilen können.   
 Kurz: Bis dato haben wir keine Daten an Behörden weitergegeben.
