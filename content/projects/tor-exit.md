@@ -1,12 +1,12 @@
 ---
-title: Tor-Exit Knoten
+title: Tor-Exit Server
 kind: project
 status: active
 ---
 Seit Anfang 2022 betreibt der CCCS e.V. einen eigenen Server um das [Tor-Netzwerk](https://www.torproject.org/de/) zu unterstützen.   
 Tor bietet Millionen Menschen weltweit die Möglichkeit das Internet anonym und unzensiert zu nutzen.   
 Je mehr Knoten Teil des Netzwerks sind, desto besser funktioniert das Gesamtsystem.   
-Den Exit Knoten kommt dabei eine besondere Rolle zu, denn deren IP-Adresse ist für die anderen Teilnehmenden am Internet (z.B. Webseiten) als Quelle des Datenverkehrs durch das Tor-Netzwerk sichtbar. Die Furcht vor juristischen Streitigkeiten schreckt viele von deren Betrieb ab.   
+Den Exits kommt dabei eine besondere Rolle zu, denn deren IP-Adresse ist für die anderen Teilnehmenden am Internet (z.B. Webseiten) als Quelle des Datenverkehrs durch das Tor-Netzwerk sichtbar. Die Furcht vor juristischen Streitigkeiten schreckt viele von deren Betrieb ab.   
 Die Folge: Exit Knoten sind der Flaschenhals des Netzwerks, sie zu betreiben ist besonders wichtig.
 
 ## Hardware
