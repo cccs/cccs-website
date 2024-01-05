@@ -12,9 +12,9 @@ RAM: 128 GiB
 Anbindung: 10 GiB/s   
 Standort: [Individual Network Berlin e.V.](https://in-berlin.de/provider/colo.html) in Berlin Tempelhof
 
-### Tor Prozesse
-Um die Hardware und Netzanbindung optimal auszulasten auf der Hardware mehrere Tor-Prozesse.   
-Die aktuelle Übersicht gibt es [hier](https://metrics.torproject.org/rs.html#search/CCCStuttgartBer).
+### Tor Instanzen
+Um die Hardware und Netzanbindung optimal auszulasten laufen auf dem Server mehrere Tor-Instanzen.   
+Die aktuelle Übersicht über diese Instanzen gibt es [hier](https://metrics.torproject.org/rs.html#search/CCCStuttgartBer).
 
 ### Statistiken
 ![Summary](https://exit-inberlin-static.leibfarth.org/summary.png)   
@@ -23,5 +23,6 @@ Die aktuelle Übersicht gibt es [hier](https://metrics.torproject.org/rs.html#se
 
 ### Behördenanfragen
 (Stand 05.01.2024)
-Regelmäßig erreichen uns Behördenanfragen. Immer sollen wir zu einer unserer Server persönliche Daten von Nutzenden heraus geben.
+Regelmäßig erreichen uns Behördenanfragen bzw. Auskunftsanordnungen. Immer sollen wir zu einer unserer Server persönliche Daten von Nutzenden heraus geben.
 Den einzelnen Tor-Knoten liegen diese Daten jedoch nicht vor, so dass wir die Auskunft nicht erteilen können.
+Kurz: Bis dato haben wir keine Daten an Behörden weitergegeben.
