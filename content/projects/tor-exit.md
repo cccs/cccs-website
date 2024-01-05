@@ -17,9 +17,9 @@ Um die Hardware und Netzanbindung optimal auszulasten auf der Hardware mehrere T
 Die aktuelle Übersicht gibt es [hier](https://metrics.torproject.org/rs.html#search/CCCStuttgartBer).
 
 ### Statistiken
-![Summary](http://exit-inberlin-static.leibfarth.org/summary.png)   
-![Months](http://exit-inberlin-static.leibfarth.org/months.png)   
-![Years](http://exit-inberlin-static.leibfarth.org/years.png)
+![Summary](https://exit-inberlin-static.leibfarth.org/summary.png)   
+![Months](https://exit-inberlin-static.leibfarth.org/months.png)   
+![Years](https://exit-inberlin-static.leibfarth.org/years.png)
 
 ### Behördenanfragen
 (Stand 05.01.2024)
