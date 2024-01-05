@@ -8,7 +8,7 @@ Tor bietet millionen Menschen weltweit die Möglichkeit das Internet anonym und 
 
 ### Fakten
 CPU: 2 x Intel Xeon E5-2680 v2 @ 2.80GHz   
-RAM: 128 GiB
+RAM: 128GiB   
 Anbindung: 10 GiB/s   
 Standort: [Individual Network Berlin e.V.](https://in-berlin.de/provider/colo.html) in Berlin Tempelhof
 
