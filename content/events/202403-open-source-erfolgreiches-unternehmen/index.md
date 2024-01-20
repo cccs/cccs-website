@@ -6,6 +6,7 @@ title: "Open Source, Digitale Souveränität und ein erfolgreiches Unternehmen..
 speakers:
   -
     name: "Björn Schießle"
+    affiliation: "Nextcloud"
 location:
   location: bib
 public: true
