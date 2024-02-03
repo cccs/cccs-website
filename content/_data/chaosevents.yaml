@@ -1,14 +1,13 @@
 ---
 events:
-   -
-    title:"EasterHegg 2024"
-    startdate: 2024-03-2ö
+  -
+    title: "EasterHegg 2024"
+    startdate: 2024-03-29
     duration: 4d
     url: http://www.easterhegg.eu/category/easterhegg-2024/
     location:
       name: OTH (Ostbayerische Technische Hochschule)
       ort: Regensburg
-
   -
     title: "GulaschProgrammierNacht 22"
     startdate: 2024-05-30
@@ -19,7 +18,6 @@ events:
       ort: Karlsruhe
       lon: 49.002196
       lat: 8.38411
-
   -
     title: "MRMCD"
     startdate: 2024-10-03
@@ -27,7 +25,6 @@ events:
     url: https://2024.mrmcd.net
     location:
       name: TU Darmstadt
-
   -
     title: "38C3"
     startdate: 2024-12-27
