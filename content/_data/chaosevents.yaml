@@ -22,9 +22,17 @@ events:
 
   -
     title: "MRMCD"
-    startdate: 2023-09-01
+    startdate: 2024-10-03
     duration: 3d
-    url: https://2023.mrmcd.net
+    url: https://2024.mrmcd.net
     location:
       name: TU Darmstadt
 
+  -
+    title: "38C3"
+    startdate: 2024-12-27
+    duration: 4d
+    url:
+    location:
+      name: CCH
+      ort: Hamburg
