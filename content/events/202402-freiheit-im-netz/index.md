@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+videostream: https://youtube.com/live/lTl_zVkLqbM
 ---
 Wie frei sind wir eigentlich noch in einem Zeitalter, in dem unser Verhalten
 von Maschinen ausgelesen und von Menschen vermarktet wird? Wie frei sind wir,
