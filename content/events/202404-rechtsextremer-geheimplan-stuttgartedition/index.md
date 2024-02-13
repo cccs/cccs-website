@@ -14,4 +14,4 @@ Die investigative Redaktion von CORRECTIV veröffentlichte am 10. Januar 2024 ei
 
 Mitglieder diverser Stuttgarter Gruppen aus der Zivilgesellschaft bringen die Recherche als Koproduktion in Form einer szenischen Lesung ins Max-Bense-Forum der Stadtbibliothek Stuttgart.
 
-Im Anschluss findet eine Diskussion um die politische Entwicklung der am aufgeführten Treffen beteiligten Gruppen statt. Wir legen dabei unseren Fokus auf Stuttgart und die Region.
+Im Anschluss findet eine Diskussion über die politische Entwicklung der rechter Kräfte und Netzwerke statt. Der Fokus liegt dabei auf Stuttgart und der Region.
