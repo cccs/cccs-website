@@ -5,7 +5,7 @@ duration: 2h
 title: "Rechtsextremer Geheimplan gegen Deutschland - Stuttgart Edition"
 speakers:
   -
-    name: "Zivilgesellschaftliche Gruppen aus Stutgart"
+    name: "Zivilgesellschaftliche Gruppen aus Stuttgart"
 location:
   location: bib
 public: true
