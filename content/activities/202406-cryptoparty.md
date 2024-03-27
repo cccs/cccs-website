@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2024-08-07T14:00:00Z
+startdate: 2024-06-08T14:00:00Z
 duration: 3h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
