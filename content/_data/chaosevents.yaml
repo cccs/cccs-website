@@ -9,6 +9,22 @@ events:
       name: OTH (Ostbayerische Technische Hochschule)
       ort: Regensburg
   -
+    title: "UnFUCK 2024"
+    startdate: 2024-04-26
+    duration: 3d
+    url: https://unfuck.eu/
+    location:
+      name: Hochschule Furtwangen
+      ort: Furtwangen
+  -
+    title: "fsck 2024"
+    startdate: 2024-05-03
+    duration: 3d
+    url: https://events.ctbk.de/fsck-2024/
+    location:
+      name: Kino Universum Backnang
+      ort: Backnang
+  -
     title: "GulaschProgrammierNacht 22"
     startdate: 2024-05-30
     duration: 4d
@@ -18,6 +34,24 @@ events:
       ort: Karlsruhe
       lon: 49.002196
       lat: 8.38411
+  -
+    title: "IGERla"
+    startdate: 2024-06-07
+    duration: 3d
+    url: https://fairydust.reisen/
+    location:
+      name: Ehemaliges Industriegelände von Metalluk
+      ort: Bamberg
+      lon: 49.89601
+      lat: 10.91980
+  -
+    title: "FAT24"
+    startdate: 2024-07-26
+    duration: 3d
+    url: https://hackwerk.fun/
+    location:
+      name: Aaccelerator
+      ort: Aalen
   -
     title: "MRMCD"
     startdate: 2024-10-03
