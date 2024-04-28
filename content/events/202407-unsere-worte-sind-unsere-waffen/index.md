@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2024-05-02T19:30:00Z
+startdate: 2024-07-11T19:30:00Z
 duration: 2h
 title: "Unsere Worte sind unsere Waffen"
 speakers:
