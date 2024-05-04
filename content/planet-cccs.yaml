@@ -1,6 +1,10 @@
 ---
 blogposts:
 - user: Rince
+  date: 2024-05-04 07:51:00.000000000 Z
+  title: Qubes-OS für Microsoft Surface
+  url: https://blog.rince.de/archives/767-Qubes-OS-fuer-Microsoft-Surface.html
+- user: Rince
   date: 2023-12-16 13:29:00.000000000 Z
   title: end of line
   url: https://blog.rince.de/archives/766-end-of-line.html
@@ -77,8 +81,4 @@ blogposts:
   date: 2017-10-10 18:43:16.000000000 Z
   title: 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
   url: https://blog.rince.de/archives/763-Verschluesselte-Filesysteme-unter-Linux-Anlegen-und-vergroessern.html
-- user: Leibi
-  date: 2017-05-22 22:00:00.000000000 Z
-  title: Simple Gallery für Android
-  url: https://stefan.leibfarth.org/posts/2017-05-23-simple-gallery/
 kind: page
