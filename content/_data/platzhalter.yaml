@@ -1,67 +1,52 @@
 ---
 events:
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2021-12-09 19:30:00.000000000 +01:00
+  startdate: 2024-02-08 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-01-13 19:30:00.000000000 +01:00
+  startdate: 2024-03-14 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-02-10 19:30:00.000000000 +01:00
+  startdate: 2024-04-11 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-03-10 19:30:00.000000000 +01:00
+  startdate: 2024-06-13 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-04-14 19:30:00.000000000 +02:00
+  startdate: 2024-07-11 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-05-12 19:30:00.000000000 +02:00
+  startdate: 2024-08-08 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-06-09 19:30:00.000000000 +02:00
+  startdate: 2024-09-12 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-07-14 19:30:00.000000000 +02:00
+  startdate: 2024-10-10 19:30:00.000000000 +02:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-08-11 19:30:00.000000000 +02:00
+  startdate: 2024-11-14 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib
 - title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-09-08 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-10-13 19:30:00.000000000 +02:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-11-10 19:30:00.000000000 +01:00
-  duration: 2h
-  location:
-    location: bib
-- title: CCCS Vortragsreihe (Thema noch offen)
-  startdate: 2022-12-08 19:30:00.000000000 +01:00
+  startdate: 2024-12-12 19:30:00.000000000 +01:00
   duration: 2h
   location:
     location: bib

@@ -109,4 +109,8 @@ deploy:
     kind: rsync
     dst: "/var/www/www.cccs.de/htdocs"
     options: [ '-rlPq', '--delete-after' ]
+  incontainer:
+    kind: rsync
+    dst: "/website"
+    options: [ '-rlPq', '--delete-after' ]
 

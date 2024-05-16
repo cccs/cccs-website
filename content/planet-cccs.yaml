@@ -1,5 +1,50 @@
 ---
 blogposts:
+- user: Rince
+  date: 2024-05-04 07:51:00.000000000 Z
+  title: Qubes-OS für Microsoft Surface
+  url: https://blog.rince.de/archives/767-Qubes-OS-fuer-Microsoft-Surface.html
+- user: Rince
+  date: 2023-12-16 13:29:00.000000000 Z
+  title: end of line
+  url: https://blog.rince.de/archives/766-end-of-line.html
+- user: Rince
+  date: 2022-04-30 12:06:00.000000000 Z
+  title: '20. Internationale Acappella-Woche Hannover: Trio Mediæval'
+  url: https://blog.rince.de/archives/773-20.-Internationale-Acappella-Woche-Hannover-Trio-Medival.html
+- user: Rince
+  date: 2022-04-29 12:05:00.000000000 Z
+  title: '20. Internationale Acappella-Woche Hannover: Viva Voce'
+  url: https://blog.rince.de/archives/772-20.-Internationale-Acappella-Woche-Hannover-Viva-Voce.html
+- user: Rince
+  date: 2022-04-28 10:58:00.000000000 Z
+  title: '20. Internationale Acappella-Woche Hannover: A-Cappella-Nacht (Anders, Voxid,
+    basta) im Aegi'
+  url: https://blog.rince.de/archives/771-20.-Internationale-Acappella-Woche-Hannover-A-Cappella-Nacht-Anders,-Voxid,-basta-im-Aegi.html
+- user: Rince
+  date: 2022-04-27 10:14:00.000000000 Z
+  title: '20. Internationale Acappella-Woche Hannover: Ringmasters'
+  url: https://blog.rince.de/archives/770-20.-Internationale-Acappella-Woche-Hannover-Ringmasters.html
+- user: Rince
+  date: 2022-04-26 09:47:00.000000000 Z
+  title: '20. Internationale Acappella-Woche Hannover: Gallicantus'
+  url: https://blog.rince.de/archives/769-20.-Internationale-Acappella-Woche-Hannover-Gallicantus.html
+- user: Rince
+  date: 2022-04-25 09:13:00.000000000 Z
+  title: '20. Internationale Acappella-Woche Hannover: Jazzation'
+  url: https://blog.rince.de/archives/768-20.-Internationale-Acappella-Woche-Hannover-Jazzation.html
+- user: Rince
+  date: 2022-04-24 09:29:00.000000000 Z
+  title: '20. Internationale Acappela-Woche Hannover: Voces 8'
+  url: https://blog.rince.de/archives/767-20.-Internationale-Acappela-Woche-Hannover-Voces-8.html
+- user: Rince
+  date: 2021-12-12 17:31:00.000000000 Z
+  title: Das Blog lebt wieder ;)
+  url: https://blog.rince.de/archives/766-Das-Blog-lebt-wieder-;.html
+- user: Leibi
+  date: 2021-09-30 22:00:00.000000000 Z
+  title: Geänderte Onion-Adresse
+  url: https://stefan.leibfarth.org/posts/2021-10-01-neue-onion-adresse/
 - user: Leibi
   date: 2020-12-24 23:00:00.000000000 Z
   title: Messengerdienste dürfen nicht interoperabel werden - der Preis wäre zu hoch
@@ -36,48 +81,4 @@ blogposts:
   date: 2017-10-10 18:43:16.000000000 Z
   title: 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
   url: https://blog.rince.de/archives/763-Verschluesselte-Filesysteme-unter-Linux-Anlegen-und-vergroessern.html
-- user: Leibi
-  date: 2017-05-22 22:00:00.000000000 Z
-  title: Simple Gallery für Android
-  url: https://stefan.leibfarth.org/posts/2017-05-23-simple-gallery/
-- user: Rince
-  date: 2017-02-01 20:40:19.000000000 Z
-  title: 'AVM und IoT: Eine interessante Sichtweise?'
-  url: https://blog.rince.de/archives/761-AVM-und-IoT-Eine-interessante-Sichtweise.html
-- user: Rince
-  date: 2017-01-16 10:05:08.000000000 Z
-  title: Fake-News und der Aufschrei in sozialen Netzen
-  url: https://blog.rince.de/archives/760-Fake-News-und-der-Aufschrei-in-sozialen-Netzen.html
-- user: Leibi
-  date: 2017-01-03 23:00:00.000000000 Z
-  title: Noch können wir das
-  url: https://stefan.leibfarth.org/posts/2017-01-04-Zitat-heute-de/
-- user: Skyr
-  date: 2016-10-05 07:35:02.000000000 Z
-  title: sbt/activator via Proxy
-  url: http://stefan.ploing.de/2016-10-05-sbt-activator-via-proxy/
-- user: Rince
-  date: 2016-08-08 06:56:03.000000000 Z
-  title: 'Virtualbox auf dem Laptop: Automatisch VMs runterfahren bei Suspend'
-  url: https://blog.rince.de/archives/759-Virtualbox-auf-dem-Laptop-Automatisch-VMs-runterfahren-bei-Suspend.html
-- user: Rince
-  date: 2016-08-03 09:25:57.000000000 Z
-  title: 'Streaming vs. Besitzen: Der "Verlust" von Filmen und Serien'
-  url: https://blog.rince.de/archives/758-Streaming-vs.-Besitzen-Der-Verlust-von-Filmen-und-Serien.html
-- user: Rince
-  date: 2016-06-28 06:21:27.000000000 Z
-  title: 'Internet of Things: Wie man Dinge nicht erleben möchte'
-  url: https://blog.rince.de/archives/757-Internet-of-Things-Wie-man-Dinge-nicht-erleben-moechte.html
-- user: Skyr
-  date: 2016-04-05 17:58:20.000000000 Z
-  title: iX-Artikel über Session-Security
-  url: http://stefan.ploing.de/2016-04-05-ix-artikel-ueber-session-security/
-- user: Leibi
-  date: 2016-01-23 23:00:00.000000000 Z
-  title: Drei Dinge
-  url: https://stefan.leibfarth.org/posts/2016-01-24-drei-dinge-die-sich-nicht-vereinbaren-lassen/
-- user: Leibi
-  date: 2015-12-23 23:00:00.000000000 Z
-  title: Klimawandel
-  url: https://stefan.leibfarth.org/posts/2015-12-24-Klimawandel/
 kind: page

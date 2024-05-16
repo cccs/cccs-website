@@ -204,7 +204,7 @@ Optional sind folgende Angaben:
               name: jemanddrittes
 
 * `location` -- nochmal ein schwieriges Feld ;-) Eine Location kann eine
-  ganze Reihe von Angaben beinhalten: `name`, `url`, `strasse`, `plz`,
+  ganze Reihe von Angaben beinhalten: `name`, `details` (Ergänzungen zum Name), `url`, `strasse`, `plz`, `ort`
   `lon` und `lat` -- oder die erneute Angabe `location`. In letzterem
   Fall werden die Angaben aus der Template-Datei in
   `content/_data/locations.yaml` übernommen.

@@ -9,6 +9,10 @@ speakers:
     affiliation: Bibliothekarin
 location:
   location: senfcall-bbb
+material:
+  -
+    title: Folien
+    file: 202201-testframework-spock.pdf
 public: true
 ---
 Durch Tests versucht man, Fehler in Programmen möglichst früh
