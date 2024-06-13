@@ -2,7 +2,7 @@
 kind: event
 startdate: 2024-06-13T19:30:00Z
 duration: 2h
-title: "Anonym im Internet - Wie der CCCS einen Betrag leistet"
+title: "Anonym im Internet - Wie der CCCS einen Beitrag leistet"
 speakers:
   -
     name: "Stefan 'Leibi' Leibfarth"
