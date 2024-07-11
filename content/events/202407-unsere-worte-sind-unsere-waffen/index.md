@@ -21,5 +21,4 @@ Eva Wolfangel hat diesen Vortrag bereits am "37C3", dem Chaos
 Communication Congress des CCC im Dezember 2023 in kürzerer Form
 gehalten.
 
-Der Vortrag wird [via YouTube live gestreamt](https:/
-/youtube.com/live/Pstu4ZLHJ1k).
+Der Vortrag wird [via YouTube live gestreamt](https://youtube.com/live/Pstu4ZLHJ1k).
