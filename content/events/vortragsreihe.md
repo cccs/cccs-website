@@ -15,9 +15,6 @@ die Möglichkeit zur Diskussion im Anschluss an den Vortrag.
 
 Der **Eintritt** ist kostenlos; um **Spenden** wird gebeten.
 
-Bitte beachtet die derzeit geltenden [Corona-Regelungen](/2020-06-10-vortragsreihe-coronaregelungen/).
-Dazu gehört insbesondere auch eine **Anmeldepflicht**!
-
 ## Danksagung
 
 Die Vortragsreihe des CCCS findet seit September 2008 in den Räumen
