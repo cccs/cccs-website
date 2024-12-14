@@ -2,7 +2,7 @@
 kind: event
 startdate: 2024-12-12T19:30:00Z
 duration: 2h
-title: "Break the System - Hacken als Beruf"
+title: "SBOM in Firmen - warum man über seine Abhängigkeiten bescheid wissen sollte"
 speakers:
   -
     name: "David Schumm"
