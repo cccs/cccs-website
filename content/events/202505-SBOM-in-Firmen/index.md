@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2024-12-12T19:30:00Z
+startdate: 2025-05-08T19:30:00Z
 duration: 2h
 title: "SBOM in Firmen - warum man über seine Abhängigkeiten bescheid wissen sollte"
 speakers:
