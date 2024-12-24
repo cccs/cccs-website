@@ -23,7 +23,7 @@ Die aktuelle Übersicht über diese Instanzen gibt es [hier](https://metrics.tor
 
 ### Beitrag zum Tor-Netzwerk
 ![](/img/tor-exit-graph.png)   
-Quelle: [OrNetStats](https://nusenu.github.io/OrNetStats/www.cccs.de.html) / Stand: 29.12.2023
+Quelle: [OrNetStats](https://nusenu.github.io/OrNetStats/www.cccs.de.html) / Stand: 23.12.2024
 
 ### Menge an durchgeleiteten Daten
 ![Summary](https://exit-inberlin-static.leibfarth.org/summary.png)   
