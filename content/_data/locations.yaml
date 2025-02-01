@@ -79,3 +79,11 @@ stadtarchiv:
   plz: 70372
   ort: Stuttgart
   url: http://www.stuttgart.de/stadtarchiv/
+rote-kapelle:
+  name: Rote Kapelle
+  url: https://www.rotekapelle.de/
+  strasse: Feuerseeplatz 14
+  plz: 70178
+  ort: Stuttgart
+  lat: 48.772270
+  lon: 9.163888
