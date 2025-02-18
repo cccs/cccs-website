@@ -67,3 +67,21 @@ events:
     location:
       name: CCH
       ort: Hamburg
+  -
+    title: "FSCK 2025"
+    startdate: 2025-05-09
+    duration: 3d
+    url: https://wiki.ctbk.de/FSCK2025
+    location:
+      name: Kino Universum Backnang
+      ort: Backnang
+  -
+    title: "GulaschProgrammierNacht 23"
+    startdate: 2025-06-19
+    duration: 4d
+    url: https://entropia.de/GPN23
+    location:
+      name: Hochschule für Gestaltung (HfG)
+      ort: Karlsruhe
+      lon: 49.002196
+      lat: 8.38411
