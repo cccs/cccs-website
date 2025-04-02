@@ -2,7 +2,7 @@
 kind: event
 startdate: 2025-05-08T19:30:00Z
 duration: 2h
-title: "SBOM in Firmen - warum man über seine Abhängigkeiten bescheid wissen sollte"
+title: "Software-Stücklisten in der Praxis: Transparenz und Effizienz auf Knopfdruck"
 speakers:
   -
     name: "David Schumm"
@@ -12,25 +12,21 @@ location:
   location: bib
 public: true
 ---
-In Firmen ist SBOM das neue Schreckenswort, das Entwicklern allerdings
-seit Ewigkeiten bekannt ist, wenn auch nicht unter dieser Beschreibung.
-Der "Software Bill of Material" beschreibt die Abhängigkeit einer Anwendung
-von Bibliotheken oder anderen Programmen und deren Abhängigkeiten von Bibliotheken
-oder Anwendungen. Das Ziel dabei ist als Betreiber einer Anwendung zu wissen, welche 
-Schwachstellen die Anwendung haben kann. Um dieses einschätzen zu können muss man aber
-die Abhängigkeiten einer Software kennen - und heutige Software hat oft Dutzende, wenn
-nicht hunderte von Abhängigkeiten. Das beginnt bei den eingebundenen Libraries zur Text-
-oder Grafikausgabe, geht über Bibliotheken für mathematische Operationen bis hin
-zu Software zum Erstellen von PDF-Dateien.
+Eine Software-Stückliste (Software Bill of Materials - SBOM) listet alle 
+Komponenten und Abhängigkeiten einer Software-Anwendung vollständig auf. 
+Sie fördert die Transparenz und Nachvollziehbarkeit in der Software-Entwicklung, 
+indem sie Herkunft und Versionen von Software-Komponenten aufzeigt. Diese vollständige 
+Auflistung aller Komponenten ermöglicht eine Übersicht der FOSS-Komponenten (Free 
+and Open Source Software) und erleichtert dadurch unter anderem die Einhaltung der 
+Bedingungen der verwendeten FOSS-Lizenzen.
 
-Firmen ist diese Abhängigkeit Im Dezember 2021 sehr klar geworden, als eine Lücke
-in einer zentralen Log-Bibliothek gefunden wurde ("log4j") und viele Hersteller
-dann prüfen mussten ob sie von dieser Schwachstelle betroffen sind. Und viele Firmen
-mussten auch intern klären ob sie von dieser Schwachstelle betroffen sein könnten.
+Für uns als Hersteller war es in der Praxis mit großem Aufwand verbunden, über die 
+Vielzahl an gelieferten Software-Stücklisten immer den Überblick zu behalten. Daher 
+haben wir das FOSS Disclosure Portal entwickelt.
 
-Eine Softwarestückliste listet alle Komponenten und Abhängigkeiten 
-einer Softwareanwendung vollständig auf. Sie fördert die 
-Transparenz und Nachvollziehbarkeit in der Softwareentwicklung, 
-indem sie Herkunft und Versionen von Softwarekomponenten aufzeigt. 
-Diese vollständige Auflistung aller FOSS-Komponenten 
-ermöglicht die Einhaltung der Bedingungen aller verbauten FOSS-Lizenzen.
+Mit dem Portal können unsere internen und externen Software-Lieferanten uns 
+Informationen über die verwendeten FOSS-Komponenten über eine technische 
+Schnittstelle (API) in einem standardisierten Format, als Software Bill of 
+Materials (SBOM/SPDX), zur Verfügung stellen. Das System unterstützt die 
+Projektverantwortlichen durch automatisierte Prüfungen auf Einhaltung von Vorschriften und
+Qualität. Dadurch wird die Überprüfung der Lizenzkonformität einfacher und schneller.
