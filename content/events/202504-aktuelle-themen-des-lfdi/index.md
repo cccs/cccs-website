@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+video: https://www.youtube.com/live/3PMMlspWFjw
 ---
 Datenschutz und Künstliche Intelligenz (KI): passt das zusammen - und wenn
 ja, wie? Und wie kann KI dabei helfen, dass Bürgerinnen und Bürger mehr und
@@ -17,5 +18,3 @@ und weitere Fragen, mit denen seine Behörde derzeit befasst ist, spricht
 der Landesbeauftragte für den Datenschutz und die Informationsfreiheit
 Baden-Württemberg Prof. Dr. Tobias Keber in seinem Vortrag beim CCC
 Stuttgart.
-
-Die Aufzeichnung des Streams kann unter https://www.youtube.com/live/3PMMlspWFjw  angesehen werden.
