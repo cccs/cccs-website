@@ -17,3 +17,5 @@ und weitere Fragen, mit denen seine Behörde derzeit befasst ist, spricht
 der Landesbeauftragte für den Datenschutz und die Informationsfreiheit
 Baden-Württemberg Prof. Dr. Tobias Keber in seinem Vortrag beim CCC
 Stuttgart.
+
+Die Aufzeichnung des Streams kann unter https://www.youtube.com/live/3PMMlspWFjw  angesehen werden.
