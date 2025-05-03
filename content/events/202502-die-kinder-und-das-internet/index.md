@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+video: https://www.youtube.com/watch?v=87zomMy6as8
 ---
 Viele Eltern fühlen sich offenbar von der Politik alleinegelassen, wenn es um
 die Angebote im Internet geht. Sie möchten ihre Kinder besser geschützt wissen.
