@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+video: https://www.youtube.com/watch?v=PZW8qI3P1pA
 ---
 Seit einigen Jahren ist LED-Fahrradbeleuchtung Stand der Technik.
 Sie hat die mehr als 100 Jahre alte Gluehlampentechnik abgeloest und ist

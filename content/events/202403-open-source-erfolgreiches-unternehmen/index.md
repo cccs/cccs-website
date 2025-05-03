@@ -10,6 +10,7 @@ speakers:
 location:
   location: bib
 public: true
+video: https://www.youtube.com/watch?v=LHoJ5J4sdlk
 ---
 Ein Einblick in die Welt von Nextcloud.
 
