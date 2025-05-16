@@ -11,8 +11,8 @@ location:
 public: true
 ---
 Leit- und Sicherungstechnik ist im Schienenverkehr lebenswichtig, da diese dafür sorgt,
-das Züge unfallfrei fahren können. Sie sorgt dafür das sich Züge nicht auf denselben
-Schienen begegnen, das Züge nicht in bereits von einem Zug belegte Blöcke einfahren können.
+dass Züge unfallfrei fahren können. Sie sorgt dafür, dass sich Züge nicht auf denselben
+Schienen begegnen, dass Züge nicht in bereits von einem Zug belegte Blöcke einfahren können.
 
 Während Marc 'Zugschlus' Haber im März über die bisher verwendetet Leit- und Sicherungstechnik
 referiert hat, wird Jörg vom Akademischen Arbeitskreis Schienenverkehr e.V. die nächste Generation
