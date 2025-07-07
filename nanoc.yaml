@@ -64,6 +64,7 @@ data_sources:
 
     # Include otherwise ignored files
     extra_files:
+      - "/.well-known/ama.txt"
       - "/.well-known/tor-relay/rsa-fingerprint.txt"
 
   -

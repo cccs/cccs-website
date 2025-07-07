@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+video: https://www.youtube.com/live/3PMMlspWFjw
 ---
 Datenschutz und Künstliche Intelligenz (KI): passt das zusammen - und wenn
 ja, wie? Und wie kann KI dabei helfen, dass Bürgerinnen und Bürger mehr und

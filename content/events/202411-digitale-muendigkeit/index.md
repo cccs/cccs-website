@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+video: https://www.youtube.com/watch?v=ZL9-jG8Pz-g
 ---
 Täglich treffen wir viele Entscheidungen im digitalen Raum: 
 Den Cookie-Banner akzeptieren? 

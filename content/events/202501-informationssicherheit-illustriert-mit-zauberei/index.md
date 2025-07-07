@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+video: https://www.youtube.com/watch?v=6rBZVOe5pH0
 ---
 Unsere Abhängigkeit von einer funktionierenden Cyber-Infrastruktur nimmt sowohl im
 beruflichen als auch im privaten Umfeld immer weiter zu. Das wird uns schmerzlich
