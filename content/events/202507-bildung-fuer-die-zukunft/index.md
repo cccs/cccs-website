@@ -9,6 +9,7 @@ speakers:
     affiliation: "Haecksen Stuttgart"
 location:
   location: bib
+video: https://youtube.com/live/SVYn7xIWKdw
 public: true
 ---
 Was wäre, wenn Hochschulen mehr wären als Orte des Lernens?

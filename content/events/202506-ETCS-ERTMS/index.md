@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+file: ETCS-CCCS-250612-oeff.pdf
 ---
 Leit- und Sicherungstechnik ist im Schienenverkehr lebenswichtig, da diese dafür sorgt,
 dass Züge unfallfrei fahren können. Sie sorgt dafür, dass sich Züge nicht auf denselben
