@@ -1,6 +1,12 @@
 ---
 events:
   -
+    title: "Fest der digitalen Freiheit"
+    startdate: 2025-10-18
+    duration: 1d
+    url: https://veranstaltungen-stadtbibliothek-stuttgart.de/index.php?zielgruppe=1&zweigstelle=ZB&id=19491
+    location: bib
+  -
     title: "EasterHegg 2024"
     startdate: 2024-03-29
     duration: 4d
