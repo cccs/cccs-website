@@ -1,12 +1,14 @@
 ---
 kind: event
-startdate: 2025-10-13T14:00:00Z
+startdate: 2025-09-13T14:00:00Z
 duration: 3h
 title: "Cryptoparty in der Stadtbibliothek"
 location:
   location: bib
 public: true
 ---
+Zu Gast ist zudem die LUGS (Linux User Group Stuttgart, www.lug-s.org)
+
 Ziel einer Cryptoparty ist es, praktisch zu lernen, wie man sicher(er) und möglichst unter Wahrung der Privatsphäre Computer und das Internet nutzt.
 
 Zum Beispiel:
