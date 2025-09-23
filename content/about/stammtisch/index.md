@@ -5,8 +5,8 @@ kind: page
 
 Wir haben jeden Monat einen fixen Stammtisch-Termin:
 
-- jeden 3. Mittwoch im Monat im [**shackspace**](http://www.shackspace.de/)
-([Ulmer Straße 300, Stuttgart-Wangen](http://www.openstreetmap.org/node/4783121021))
+- jeden 3. Mittwoch im Monat im [**shackspace**](https://www.shackspace.de/)
+([Ulmer Straße 300, Stuttgart-Wangen](https://www.openstreetmap.org/node/4783121021))
 
     Beim gemütlichen Lümmeln auf den Sofas der Lounge (oder, falls es ein
 Thema erfordert, am Besprechungstisch des shacks) kann hier über alles
