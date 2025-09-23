@@ -3,7 +3,13 @@ title: Die Stammtische
 kind: page
 -----
 
-Wir haben jeden Monat einen fixen Stammtisch-Termin:
+Wir haben jeden Monat zwei fixe Stammtisch-Termine:
+
+- jeden 1. Dienstag im Monat in der [**Roten Kapelle**](https://www.rotekapelle.de/)
+([Feuerseeplatz 14, 70176 Stuttgart](https://www.openstreetmap.org/way/28058761))
+
+    Hier kann man dem gediegenen Nerd-Talk frönen, während man sich mit
+diversen Leckereien aus der Küche bekochen läßt.
 
 - jeden 3. Mittwoch im Monat im [**shackspace**](https://www.shackspace.de/)
 ([Ulmer Straße 300, Stuttgart-Wangen](https://www.openstreetmap.org/node/4783121021))
