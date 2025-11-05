@@ -9,6 +9,7 @@ speakers:
 location:
   location: bib
 public: true
+video: https://youtube.com/live/W7maLeZud0w
 ---
 Vor 10 Jahren wurde auch in Marbach ein Repaircafe gegründet und öffnet
 seitdem etwa alle sechs Wochen seine Pforten für hilfesuchende Gäste und
