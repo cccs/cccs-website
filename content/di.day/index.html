@@ -2,3 +2,27 @@
 title: Digital Independence Day
 kind: page
 -----
+<%
+  prj = projects_by_state
+  %>
+  <p>
+  Hier eine Liste der Themen vom Digital Independence Day; Jeden Monat ein neues!
+  </p>
+  <% if prj.has_key?('active') %>
+  <h1>Aktive Themen</h1>
+  <div class="row">
+      <%= render 'project_list', :projects => prj['active'], :extended => true %>
+  </div>
+  <% end %>
+  <% if prj.has_key?('completed') %>
+  <h1>Abgeschlossene Projekte</h1>
+  <div class="row">
+      <%= render 'project_list', :projects => prj['completed'], :extended => true %>
+  </div>
+  <% end %>
+  <% if prj.has_key?('stalled') %>
+  <h1>Ruhende Projekte</h1>
+  <div class="row">
+      <%= render 'project_list', :projects => prj['stalled'], :extended => true %>
+  </div>
+  <% end %>
