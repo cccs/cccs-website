@@ -8,7 +8,6 @@ speakers:
     name: "Bianca Kastl"
 location:
   location: bib
-video: https://youtube.com/live/SVYn7xIWKdw
 public: true
 ---
 Seit Mitte 2025 steht die elektronische Patientenakte für alle zur Verfügung
