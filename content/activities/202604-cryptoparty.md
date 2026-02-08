@@ -7,6 +7,11 @@ location:
   location: bib
 public: true
 ---
+**Zu Gast:**
+
+- **Linux-Café Stuttgart**
+- **Linux-Café Ebersbach**
+
 Ziel einer Cryptoparty ist es, praktisch zu lernen, wie man sicher(er) und möglichst unter Wahrung der Privatsphäre Computer und das Internet nutzt.
 
 Zum Beispiel:
