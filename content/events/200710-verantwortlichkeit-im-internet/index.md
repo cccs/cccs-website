@@ -12,7 +12,7 @@ location:
 material:
   -
     title: Die Folien (PDF)
-    file: thh-verantwortlichkeit-internet-2007-10-11.pdf
+    link: https://thomas-hochstein.de/download/old/2007-11-10-providerhaftung.pdf
 public: true
 # <li> <strong>11.10.2007: Thomas Hochstein: "Verantwortlichkeit im Internet: Haftung und Auskunftspflichten von Anbietern"</strong> <br>
 #     <a href="http://www.cccs.de/wiki/pub/Main/VorTraege/200710" target="_top">Pressetext 10/2007</a> <br>
