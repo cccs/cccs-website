@@ -16,18 +16,18 @@ häufig sagen „ach das wissen wir doch schon alles“.
 Eine Sache machte mir im Vorfeld etwas Sorge: Der Vortrag sollte für die
 8. Klassen stattfinden. Nun weiß ich aber von einer anderen
 Veranstaltung bei Projekttagen, bei denen ich vor 8.-10. Klasse stand,
-daß ich die 8.-Klässler nicht so recht „erreiche“ mit meiner Art. Ich
+dass ich die 8.-Klässler nicht so recht „erreiche“ mit meiner Art. Ich
 mache ja idR. nur Erwachsenenbildung und die Leut kommen freiwillig in
 meine Vorträge. Ich bin auch manchmal in der Wortwahl und in der Wahl
 der Beispiele zuweilen etwas zu „deftig“. Jedenfalls hatte ich die
-Erfahrung gemacht, daß die Jüngeren anfangen Blödsinn zu machen, weil
+Erfahrung gemacht, dass die Jüngeren anfangen Blödsinn zu machen, weil
 sie nach kurzer Zeit nicht mehr zuhören können. Allerdings war bei
 diesen Projekttagen auch kein Lehrer anwesend, das hatte ich so nicht
 erwartet damals und das sollte am St. Agnes eben auch anders sein.
 
 Ich sagte also zu für die 8. Klassen. Besagter anfragender Lehrer war im
 Vorfeld auch bei unserem Stammtisch und wir konnten uns unterhalten. Er
-sagte für die 9. Klasse sei eigentlich schon alles zu spät und daß er
+sagte für die 9. Klasse sei eigentlich schon alles zu spät und dass er
 zuweilen auch mehr Sozialarbeiter als Lehrer sei. Glaubte ich sofort,
 selbst an einem so behüteten Ort wie einem katholischem
 Mädchengymnasium.
@@ -39,7 +39,7 @@ viele Zwischenfragen einzustreuen, ich wollte auf keinen Fall nur
 
 Insgesamt ist das gut gelungen, denke ich! Ich habe zunächst erklärt,
 was denn der CCC(S) ist, denn den kannte in der Tat keine. Beim Thema
-„Hacken“ kam heraus, daß dieser Begriff doch immer noch mit recht
+„Hacken“ kam heraus, dass dieser Begriff doch immer noch mit recht
 negativem Beigeschmack belegt ist. Ich hoffe ich konnte das aufklären,
 was wir unter kreativem Umgang mit Technik verstehen.
 
@@ -52,18 +52,18 @@ dargestellt (Zugang zu Wissen, Menschen kennenlernen), um dann zu den
 Gefahren zu kommen (Gefahr für die Privatsphäre, Mobbing, Stalking).
 
 Auch habe ich die meiner Meinung nach wichtigen Grundätze der NETiquette
-präsentiert, denn ich denke immer noch, daß man damit gut fährt (Vergiß
-nie, daß am anderen Ende der Leitung ein Mensch sitzt, sage nichts, was
+präsentiert, denn ich denke immer noch, dass man damit gut fährt (Vergiss
+nie, dass am anderen Ende der Leitung ein Mensch sitzt, sage nichts, was
 Du nicht auch anderen ins Gesicht sagen würdest).
 
 Ebenso sind die Erkenntnisse des Vortrags über Urheberrecht mit
 eingeflossen und zu dem Thema kamen tatsächlich auch die meisten
 Zwischenfragen!
 
-Zum Schluß habe ich auf dem Flipchart eine Abschlußfrage gestellt „Wie
+Zum Schluss habe ich auf dem Flipchart eine Abschlussfrage gestellt „Wie
 gut hat es mir heute gefallen“ und die Mädchen sollten Klebepunkte auf
 eine Zielscheibe kleben. Ich glaube ich habe eine 2-3 bekommen und denke
 das war schon ganz gut. Man weiß natürlich nie, was wirklich
 hängengeblieben ist, aber vielleicht höre ich ja in der nächsten Woche
-noch ein bißchen an Feedback. Spaß hat es mir auf jeden Fall gemacht!
+noch ein bisschen an Feedback. Spaß hat es mir auf jeden Fall gemacht!
 

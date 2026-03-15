@@ -19,5 +19,5 @@ Bundesfreiwilligendienst.
 Anwesend waren ca. 25 junge Erwachsene, die gerade den
 Bundesfreiwilligendienst (früher freiwilliges soziales Jahr)
 absolvieren. Keiner kannte bisher den CCC(S), ich hoffe ich konnte ihnen
-aber für ihren Start ins Erwachsenenleben ein bißchen was mitgeben, denn
-man muß auch Verantwortung für seine Daten übernehmen.
+aber für ihren Start ins Erwachsenenleben ein bisschen was mitgeben, denn
+man muss auch Verantwortung für seine Daten übernehmen.

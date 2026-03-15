@@ -16,7 +16,7 @@ Internet. Auf der einen Seite steht die unerschöpfliche Wissensquelle,
 die nutzbar gemacht werden muss, auf der anderen aber die scheinbar
 anonyme Kommunikationsplattform.
 Es ist vergleichsweise einfach, Kindern beizubringen, nicht zu fremden
-Menschen ins Auto einzusteigen. Ihnen aber zu erklären, daß Menschen,
+Menschen ins Auto einzusteigen. Ihnen aber zu erklären, dass Menschen,
 mit denen sie seit Wochen chatten, immer noch *Fremde* sind, ist
 schwierig! Ebenso die Sensibilisierung dafür, Namen, Wohnort und
 Telefonnummern geheimzuhalten.

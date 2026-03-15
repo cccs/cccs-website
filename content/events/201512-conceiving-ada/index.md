@@ -27,7 +27,7 @@ digitale Revolution, die sich 144 Jahre nach ihrem Tod ereignen würde.
 Als Emmy an ihrem heimischen Computer-Bildschirm Zeugin von Adas
 Passionen, Kämpfen und ihrem skandalösen Verhalten wird, entwickelt sie
 den unbezähmbaren Wunsch nach unmittelbarem Kontakt mit ihr. In einem
-Experiment läßt Emmy einen DNS-Code zur Wiedererlangung des
+Experiment lässt Emmy einen DNS-Code zur Wiedererlangung des
 Erinnerungsvermögens auf ihren Körper einwirken, obwohl seine möglichen
 Nebenwirkungen noch nicht untersucht worden sind…
 

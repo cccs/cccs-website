@@ -8,7 +8,7 @@ speakers:
     name: Hanno 'Rince' Wagner
 location:
   location: oldbib
-  details: Max-Bense-Saal, Erdgeschoß
+  details: Max-Bense-Saal, Erdgeschoss
 material:
   -
     title: Die Folien (PDF)

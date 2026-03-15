@@ -13,7 +13,7 @@ public: true
 material:
   -
     file: beschlagnahme-beschluss.pdf
-    title: "Beschlagnahme-Beschluß (PDF)"
+    title: "Beschlagnahme-Beschluss (PDF)"
   -
     file: strafprozess-social-networks-2.0.pdf
     title: '"Soziale Netzwerke" im Strafprozess - Erfahrungen und Gedanken eines Strafrichters (PDF)'

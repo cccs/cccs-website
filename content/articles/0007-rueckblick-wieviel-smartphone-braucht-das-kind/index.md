@@ -27,11 +27,11 @@ vorgestellt habe), pädagogische Implikationen (wieviel Medienkonsum
 sollte denn erlaubt sein), sowie demokratische Aspekte.
 
 Ein ambitioniertes Programm für 90 Minuten. Im Vorfeld hatte ich mit der
-Dame vom Elternbeirat telefoniert und sie bestätigte mir, daß es
+Dame vom Elternbeirat telefoniert und sie bestätigte mir, dass es
 konservative Eltern gäbe, aber auch „fortschrittliche“, die einfach die
 neuen/aktuellen Technologien sehen. Die von mir gefürchteten
 „Helikoptereltern“ waren nicht dabei, aber vielleicht habe ich denen mit
-einigen meiner Aussagen auch bißchen den Wind aus den Segeln genommen.
+einigen meiner Aussagen auch bisschen den Wind aus den Segeln genommen.
 
 Bei den „technischen Tücken“ bin ich zuerst auf die Abofallen
 eingegangen, dazu habe ich keine Mühen gescheut und eine Werbepause bei
@@ -42,24 +42,24 @@ Musikfernsehen...;-))
 Bei den weiteren Tücken habe ich dann einige Apps genannt, die mehr
 Daten übertragen als für ihre eigentliche Funktion notwendig.
 
-Auf Interesse stießen auch die rechtlichen Fragen. Ich denke, daß
+Auf Interesse stießen auch die rechtlichen Fragen. Ich denke, dass
 Schüler hier aufgeklärt werden müssen, nicht nur beim Thema
 Urheberrecht, auch beim Thema Persönlichkeitsrecht (ungefragt Fotos
 machen und online stellen). Wir kamen dann auch
 auf Abmahnungen zu sprechen und gerade als ich sagte in meinem
-Bekanntenkreis wäre das auch etlichen passiert, daß ihnen ein
+Bekanntenkreis wäre das auch etlichen passiert, dass ihnen ein
 Abmahnschreiben ins Haus geflattert wäre, outete sich eine Mutter. Bei
 der stand sogar die Polizei morgens vor der Tür. Es ging glimpflich ab,
 denn sie konnte glaubhaft versichern, nicht zu wissen was da passiert
 sein konnte.
 
-Ein bißchen schade war, daß die Leut erst gegen Ende des Vortrags damit
-rausrückten, daß sie sich unter dem Begriff „peer2peer“ nichts
-vorstellen können. Ich hatte ausdrücklich darauf hingewiesen, daß ich
+Ein bisschen schade war, dass die Leute erst gegen Ende des Vortrags damit
+rausrückten, dass sie sich unter dem Begriff „peer2peer“ nichts
+vorstellen können. Ich hatte ausdrücklich darauf hingewiesen, dass ich
 alles erklären würde, was mir möglich ist und dass sie ruhig fragen
 sollen!
 
-Bei den „pädagogischen Implikationen“ habe ich elegant umschifft, daß
+Bei den „pädagogischen Implikationen“ habe ich elegant umschifft, dass
 ich selber ja nun keine Mutter bin. Aber ich habe genug Beispiele aus
 meinerm Umfeld für alles Mögliche. Weiterhin bin ich auch darauf
 eingegangen, wie wir eigentlich aufgewachsen sind (die Eltern sind ja in
@@ -70,7 +70,7 @@ Suchtfaktor und die Vorbildfunktion eingegangen. Wenn die Eltern beim
 Essen Nachrichten lesen, wenn das Phone piepst, kann ich es den Kindern
 schlecht verbieten.
 
-Ich denke, ich konnte 'rüberbringen, daß die Welt der Smartphones einges
+Ich denke, ich konnte 'rüberbringen, dass die Welt der Smartphones einges
 an Arbeit bedeutet. Das fängt mit dem passenden Tarif an.
 
 Nachdem das Grundgerüst für meinen Vortrag stand, stieß ich auf [die
@@ -82,8 +82,8 @@ lernen, sind sie erstmal gewappnet…
 
 Wir haben auch noch kurz Jugendschutzfilter diskutiert. Ich sehe diese
 kritisch, weil sie oft zuviel oder zuwenig wegfiltern und ich eigentlich
-nicht möchte, daß in einer Demokratie Jugendliche mit Zensur großwerden.
-Da muß es andere Möglichkeiten geben.
+nicht möchte, dass in einer Demokratie Jugendliche mit Zensur großwerden.
+Da muss es andere Möglichkeiten geben.
 
 Aus der Reihe „einem CCCler wird umfassendes Wissen zugetraut“: Ich habe
 auch auf den nächsten Vortrag hingewiesen, Alternativen zu WhatsApp. Die
@@ -91,7 +91,7 @@ wollten die Alternativen dann gleich *von mir* wissen, ebenso wie die
 gängigsten p2p Clients heißen. Da endet dann aber auch mal mein Wissen.
 
 Insgesamt bin ich zufrieden mit der Veranstaltung.
-Ich habe ausdrücklich keine Schlußempfehlung für die Schule/die Eltern
-gegeben. Ich habe lediglich versucht, daß Thema von allen Seiten zu
+Ich habe ausdrücklich keine Schlussempfehlung für die Schule/die Eltern
+gegeben. Ich habe lediglich versucht, dass Thema von allen Seiten zu
 beleuchten.
 

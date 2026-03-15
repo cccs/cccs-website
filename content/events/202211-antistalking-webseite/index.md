@@ -25,7 +25,7 @@ andere Qualifikationen als IT-Expert\*innen.
 
 Seit Mai 2021 hat dies eine Gruppe der Haecksen
 (https://www.haecksen.org/wer-sind-die-haecksen/)
-zum Anlaß genommen, eine Webseite zu erstellen, die technische
+zum Anlass genommen, eine Webseite zu erstellen, die technische
 Anleitungen gegen Cyberstalking bündelt und Einfallstore aufzeigt, wie
 Menschen auch gegen ihren Willen durch technische Hilfsmittel
 aufgefunden werden können.

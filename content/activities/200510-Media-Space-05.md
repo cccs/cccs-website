@@ -23,8 +23,8 @@ Eine ganz fantastische Veranstaltung - leider lausig besucht. Hätte ich das
 geahnt, hätte ich über die mir bekannten Kanäle noch mehr Werbung gemacht. Die
 Hüttengespräche waren so als Idee des Zweiergesprächs auch ganz interessant,
 denn anders als in Vorträgen oder Diskussionsrunden kann man wirklich genauer
-auf den Gesprächspartner eingehen. Habe bißchen von meiner Paranoia abgegeben.
+auf den Gesprächspartner eingehen. Habe bisschen von meiner Paranoia abgegeben.
 
-Ich hoffe, daß wir nächstes Mal aktiver mitwirken können, je nachdem was es für
+Ich hoffe, dass wir nächstes Mal aktiver mitwirken können, je nachdem was es für
 Themen gibt. Unterstützenswert ist die Veranstaltung auf jeden Fall!
 

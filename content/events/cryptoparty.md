@@ -4,10 +4,10 @@ kind: page
 -----
 Der CCCS veranstaltet ca. einmal pro Quartal in Zusammenarbeit mit der
 Stadtbibliothek eine Cryptoparty. Eine Cryptoparty ist die Gelegenheit,
-sich in Einzelgesprächen oder spontanen kleinnen Gruppen über folgende
+sich in Einzelgesprächen oder spontanen kleinen Gruppen über folgende
 Themen zu informieren:
 
-- wie stelle ich meinen Browser sicherer ein, so daß ich weniger Spuren im Netz hinterlasse?
+- wie stelle ich meinen Browser sicherer ein, so dass ich weniger Spuren im Netz hinterlasse?
 - wie surfe ich anonym mit Tor und Tails?
 - wie verschlüssele ich meine E-Mails?
 - wie stelle ich mein (Android-)Smartphone sicherer ein?

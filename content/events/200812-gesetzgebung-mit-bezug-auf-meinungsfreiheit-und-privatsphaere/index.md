@@ -53,7 +53,7 @@ public: true
 # gibt es auch in anderen Bereichen Gesetzesänderungen und -vorschläge mit
 # Auswirkung auf die Persönlichkeitsrechte. Der Vortrag versucht, einen
 # Überblick zu geben: Was ist im Jahr 2008 passiert? Was ist für 2009 zu
-# erwarten? Und welche Möglichkeiten habe ich als Einzelner, Einfluß zu
+# erwarten? Und welche Möglichkeiten habe ich als Einzelner, Einfluss zu
 # nehmen?
 # "
 ---
@@ -61,5 +61,5 @@ Neben den heftig umstrittenen Plänen zur Vorratsdatenspeicherung gab und
 gibt es auch in anderen Bereichen Gesetzesänderungen und -vorschläge mit
 Auswirkung auf die Persönlichkeitsrechte. Der Vortrag versucht, einen
 Überblick zu geben: Was ist im Jahr 2008 passiert? Was ist für 2009 zu
-erwarten? Und welche Möglichkeiten habe ich als Einzelner, Einfluß zu
+erwarten? Und welche Möglichkeiten habe ich als Einzelner, Einfluss zu
 nehmen?

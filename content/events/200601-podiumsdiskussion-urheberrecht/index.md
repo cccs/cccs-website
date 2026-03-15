@@ -50,14 +50,14 @@ public: true
 # Das System der Musikindustrie droht indes zu kippen: besteht auf seiten der
 # Musikindustrie eine Mitschuld an der Misere? Warum wurden CDs nie billiger, wie
 # bei ihrer Einführung versprochen wurde? Warum erhält ein Künstler vom
-# Verkaufspreis einer CD nur ca. einen Euro, so daß selbst mancher hartgesottene
+# Verkaufspreis einer CD nur ca. einen Euro, so dass selbst mancher hartgesottene
 # Fan kaum noch motiviert ist, den Tonträger zu erwerben und lieber Konzerte
 # besucht und T-Shirts kauft, um seine Band zu unterstützen?
 #
 # Bei Kinobesuchen werden inzwischen die Kinogänger, also diejenigen, die noch
 # Geld für Eintrittskarten bezahlen, pauschal kriminalisiert und müssen z.T. schon
 # Taschenkontrollen über sich ergehen lassen. Was tut die Filmindustrie dagegen,
-# daß die Filme schon ab Werk gestohlen werden?
+# dass die Filme schon ab Werk gestohlen werden?
 #
 # Und was sagen die Gesetze? Hilft es überhaupt, etwas zu verbieten, was technisch
 # kaum zu unterbinden ist? Wie sieht ein heute gängiger Kopierschutz aus und was
@@ -78,14 +78,14 @@ Internetzugang als in käufliche Medien und Kinobesuche.
 Das System der Musikindustrie droht indes zu kippen: besteht auf seiten der
 Musikindustrie eine Mitschuld an der Misere? Warum wurden CDs nie billiger, wie
 bei ihrer Einführung versprochen wurde? Warum erhält ein Künstler vom
-Verkaufspreis einer CD nur ca. einen Euro, so daß selbst mancher hartgesottene
+Verkaufspreis einer CD nur ca. einen Euro, so dass selbst mancher hartgesottene
 Fan kaum noch motiviert ist, den Tonträger zu erwerben und lieber Konzerte
 besucht und T-Shirts kauft, um seine Band zu unterstützen?
 
 Bei Kinobesuchen werden inzwischen die Kinogänger, also diejenigen, die noch
 Geld für Eintrittskarten bezahlen, pauschal kriminalisiert und müssen z.T. schon
 Taschenkontrollen über sich ergehen lassen. Was tut die Filmindustrie dagegen,
-daß die Filme schon ab Werk gestohlen werden?
+dass die Filme schon ab Werk gestohlen werden?
 
 Und was sagen die Gesetze? Hilft es überhaupt, etwas zu verbieten, was technisch
 kaum zu unterbinden ist? Wie sieht ein heute gängiger Kopierschutz aus und was

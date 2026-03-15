@@ -17,7 +17,7 @@ Wir waren um 8:10 die zweiten im weißen Saal, alle hatten wie geplant alles dab
 
 Wir trafen auf wirklich interessierte Menschen von den umliegenden Ständen und ich denke durch diese Kontakte werden neue Vortragsanfragen hereinkommen.
 
-Leider mangelte es der Veranstaltung aber wirklich an Publikum, was sicher auch daran lag, daß es ein Montag war, also ein Werktag, an dem die meisten Verbraucher eben auch arbeiten müssen. Es wurden wohl auch Schulen und Lehrer informiert, aber die Informationsflüsse sind in Schulen halt auch... zäh und unübersichtlich.
+Leider mangelte es der Veranstaltung aber wirklich an Publikum, was sicher auch daran lag, dass es ein Montag war, also ein Werktag, an dem die meisten Verbraucher eben auch arbeiten müssen. Es wurden wohl auch Schulen und Lehrer informiert, aber die Informationsflüsse sind in Schulen halt auch... zäh und unübersichtlich.
 
 Markus Brock vom SWR führte sehr gekonnt durch Programm und Podiumsdiskussion.
 

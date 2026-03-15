@@ -23,6 +23,6 @@ Jonas Stratmann, Leiter der eSports-Abteilung vom TSV 1895 Oftersheim e.V, spric
 
 Schließlich steht mit Fabian Strecker ein eSport-Athlet des SportKultur Stuttgart e.V. zur Verfügung und berichtet aus erster Hand aus dem Alltag eines eSportlers.
 
-Im Anschluß der Vorträge stehen die Referenten dem Publikum gerne Rede und Antwort.
+Im Anschluss der Vorträge stehen die Referenten dem Publikum gerne Rede und Antwort.
 
 Durch den Abend führt Claudia Feiner vom CCC Stuttgart.

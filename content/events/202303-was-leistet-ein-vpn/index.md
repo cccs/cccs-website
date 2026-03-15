@@ -12,5 +12,5 @@ location:
 public: true
 ---
 Was ist überhaupt dieses VPN (Virtual Private Network), was leistet es und was kann es nicht?
-Derzeit kursieren irreführende Werbungen für VPN Produkte.
+Derzeit kursieren irreführende Werbungen für VPN-Produkte.
 Wir wollen aufklären, was dahintersteckt und gegen welche Angriffsszenarien es hilft.

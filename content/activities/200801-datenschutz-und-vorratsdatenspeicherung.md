@@ -12,4 +12,4 @@ public: true
 ---
 **Wie es war:**
 
-Der Raum war ziemlich klein und mit ca. 15 Teilnehmern auch recht voll, aber aus dem Andrang schließe ich mal, daß das Thema schon auf Interesse gestoßen ist. Was ich sehr schön fand: es war kein reiner Vortrag, sondern sehr interaktiv und es kamen durchaus auch kritische Fragen. Ich wünsche mir mehr von solchen Jugendlichen und jungen Erwachsenen! 
+Der Raum war ziemlich klein und mit ca. 15 Teilnehmern auch recht voll, aber aus dem Andrang schließe ich mal, dass das Thema schon auf Interesse gestoßen ist. Was ich sehr schön fand: es war kein reiner Vortrag, sondern sehr interaktiv und es kamen durchaus auch kritische Fragen. Ich wünsche mir mehr von solchen Jugendlichen und jungen Erwachsenen! 
