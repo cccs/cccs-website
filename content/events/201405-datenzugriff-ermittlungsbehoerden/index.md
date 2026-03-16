@@ -12,7 +12,7 @@ location:
 public: true
 material:
   -
-    file: 201405-datenzugriff-ermittlungsbehoerden.pdf
+    link: https://thomas-hochstein.de/download/datenzugriff-ermittlungsbehoerden.pdf
     title: Folien (PDF)
 audio: 201405-datenzugriff-ermittlungsbehoerden.mp3
 ---

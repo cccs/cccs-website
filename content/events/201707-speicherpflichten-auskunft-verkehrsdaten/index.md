@@ -12,7 +12,7 @@ location:
 public: true
 material:
   -
-    file: speicherpflichten-auskunft-verkehrsdaten.pdf
+    link: https://thomas-hochstein.de/download/speicherpflichten-auskunft-verkehrsdaten.pdf
     title: Folien
 audio: 201707-speicherpflichten-auskunft-verkehrsdaten.mp3
 ---
