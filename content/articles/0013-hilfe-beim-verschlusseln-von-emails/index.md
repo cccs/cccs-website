@@ -18,7 +18,7 @@ E-Mail-Verschlüsselung handelt es sich um die [Anleitung zur
 Free Software Foundation. Hier wird für verschiedene Betriebssysteme
 beschrieben, wie man das Mailprogramm
 [Thunderbird](https://www.mozilla.org/de/thunderbird/) so einrichtet,
-daß man damit PGP-verschlüsselte Mails senden und empfangen kann.
+dass man damit PGP-verschlüsselte Mails senden und empfangen kann.
 
 WhatsApp soll zwar [mit der Verschlüsselung, die auch hinter TextSecure
 steckt](http://www.heise.de/security/meldung/WhatsApp-bekommt-Ende-zu-Ende-Verschluesselung-2459903.html)

@@ -32,15 +32,15 @@ public: true
 # Eintritt:	frei − um einen freiwilligen Unkostenbeitrag wird gebeten.
 #
 # " Bereits im vergangenen Jahr hatte Thomas Maus anhand eines Blackbox−Tests
-# dargelegt, daß die geplante Gesundheitskarte / Gesundheitstelematik nicht
+# dargelegt, dass die geplante Gesundheitskarte / Gesundheitstelematik nicht
 # einmal geringe Anforderungen an Datenschutz und Datensicherheit standhält
 # (Schutz vor Ausspähung und vor Veränderung der Daten).
 # Seitdem ist er auch mit Ärzten und Notfallhelfern im Gespräch, die belegen,
-# daß die vielfach versprochenen Vorzüge des neuen Systems in der Praxis nicht
+# dass die vielfach versprochenen Vorzüge des neuen Systems in der Praxis nicht
 # relevant sind.
 # Neben vielen ungelösten Problemen, z.B. der riesigen Datenmengen bei der
 # Übertragung von hochauflösenden Röntgenbildern per ISDN, wird auch immer
-# deutlicher, daß die neue Gesundheitstelematik genau eines nicht leisten
+# deutlicher, dass die neue Gesundheitstelematik genau eines nicht leisten
 # wird: die Kosten im Gesundheitssystem zu senken.
 # Für Ärzte und Apotheker kommen bisher nicht absehbare Kosten für neue
 # Hardware und Wartung (!) auf sie zu, ebenso für die Krankenkassen. Auch der
@@ -48,7 +48,7 @@ public: true
 # vergütet werden. Wie bereits in der Vergangenheit, werden auch Kosten auf
 # alle abgewälzt werden, nämlich die Versicherten.
 # Es droht ein Desaster bei diesem staatlichen Softwareprojekt, ähnlich wie
-# bei der Maut, nur daß diesmal die sensibelsten Daten jedes Bürgers betroffen
+# bei der Maut, nur dass diesmal die sensibelsten Daten jedes Bürgers betroffen
 # sind!
 # Details aus diesem Kapitel "1984 reloaded?" wird Thomas Maus am 18.5.2006,
 # 19 Uhr im Filmhaus (Kommunales Kino) darlegen."
@@ -57,15 +57,15 @@ Eine unendliche Geschichte. Kapitel: Die Sümpfe der Traurigkeit
 =====
 
 Bereits im vergangenen Jahr hatte Thomas Maus anhand eines Blackbox−Tests
-dargelegt, daß die geplante Gesundheitskarte / Gesundheitstelematik nicht
+dargelegt, dass die geplante Gesundheitskarte / Gesundheitstelematik nicht
 einmal geringe Anforderungen an Datenschutz und Datensicherheit standhält
 (Schutz vor Ausspähung und vor Veränderung der Daten).
 Seitdem ist er auch mit Ärzten und Notfallhelfern im Gespräch, die belegen,
-daß die vielfach versprochenen Vorzüge des neuen Systems in der Praxis nicht
+dass die vielfach versprochenen Vorzüge des neuen Systems in der Praxis nicht
 relevant sind.
 Neben vielen ungelösten Problemen, z.B. der riesigen Datenmengen bei der
 Übertragung von hochauflösenden Röntgenbildern per ISDN, wird auch immer
-deutlicher, daß die neue Gesundheitstelematik genau eines nicht leisten
+deutlicher, dass die neue Gesundheitstelematik genau eines nicht leisten
 wird: die Kosten im Gesundheitssystem zu senken.
 Für Ärzte und Apotheker kommen bisher nicht absehbare Kosten für neue
 Hardware und Wartung (!) auf sie zu, ebenso für die Krankenkassen. Auch der
@@ -73,7 +73,7 @@ neue Verwaltungsaufwand wird den Ärzten und seinen Angestellten nicht
 vergütet werden. Wie bereits in der Vergangenheit, werden auch Kosten auf
 alle abgewälzt werden, nämlich die Versicherten.
 Es droht ein Desaster bei diesem staatlichen Softwareprojekt, ähnlich wie
-bei der Maut, nur daß diesmal die sensibelsten Daten jedes Bürgers betroffen
+bei der Maut, nur dass diesmal die sensibelsten Daten jedes Bürgers betroffen
 sind!
 Details aus diesem Kapitel "1984 reloaded?" wird Thomas Maus am 18.5.2006,
 19 Uhr im Filmhaus (Kommunales Kino) darlegen.

@@ -12,7 +12,7 @@ location:
   details: Kinosaal 2 (Kommunales Kino)
 public: true
 
-# <li> *ABGESAGT, Vortrag muß leider entfallen! * <br>
+# <li> *ABGESAGT, Vortrag muss leider entfallen! * <br>
 #    ACHTUNG NICHT 2. DONNERSTAG: 15. Mai 2008: Duckula: "Sicherheitslücken in handelsüblichen Videokameras" <br>
 #    <a href="http://www.cccs.de/wiki/pub/Main/VorTraege/200805" target="_top">Pressetext 5/2008</a>
 # </li>

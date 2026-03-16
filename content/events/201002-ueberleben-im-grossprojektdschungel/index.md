@@ -38,7 +38,7 @@ public: true
 #
 #  "Überleben im Grossprojektdschungel"
 #
-#  Die zentrale These des Vortrages ist, daß jedes Grossprojekt ein Ökosystem
+#  Die zentrale These des Vortrages ist, dass jedes Grossprojekt ein Ökosystem
 #  mit individuellen lokalen Spielregeln darstellt. Für die erfolgreiche
 #  Steuerung dieses Ökosystems sind sowohl handfeste Kennntnisse in der
 #  Fachlichkeit inkl. Grossprojektmanagement erforderlich als auch Kenntnisse
@@ -54,7 +54,7 @@ public: true
 #  Bahnbrechende neue Erkenntnisse werden hier nicht aufgezeigt; eher Oma
 #  Weisheiten, die einem von der Grossmutter auf den Lebensweg mitgegeben
 #  wurden, die unter einem veränderten Blickwinkel beleuchtet werden. Im
-#  Alltag ist dennoch wiederholt festzustellen, daß Grossprojekte zu einem
+#  Alltag ist dennoch wiederholt festzustellen, dass Grossprojekte zu einem
 #  hohen Prozentsatz scheitern und Kardinalfehler sich unverändert konsequent
 #  und "erfolgreich" durchsetzen.
 #
@@ -76,7 +76,7 @@ public: true
 #      <a href="http://www.cccs.de/wiki/pub/Main/VorTraege/flyer201002.pdf" target="_top">Flyer 02/2010</a> <br>
 # </li>
 ---
-Die zentrale These des Vortrages ist, daß jedes Grossprojekt ein Ökosystem
+Die zentrale These des Vortrages ist, dass jedes Grossprojekt ein Ökosystem
 mit individuellen lokalen Spielregeln darstellt. Für die erfolgreiche
 Steuerung dieses Ökosystems sind sowohl handfeste Kennntnisse in der
 Fachlichkeit inkl. Grossprojektmanagement erforderlich als auch Kenntnisse
@@ -92,7 +92,7 @@ vermittelt werden.
 Bahnbrechende neue Erkenntnisse werden hier nicht aufgezeigt; eher Oma
 Weisheiten, die einem von der Grossmutter auf den Lebensweg mitgegeben
 wurden, die unter einem veränderten Blickwinkel beleuchtet werden. Im
-Alltag ist dennoch wiederholt festzustellen, daß Grossprojekte zu einem
+Alltag ist dennoch wiederholt festzustellen, dass Grossprojekte zu einem
 hohen Prozentsatz scheitern und Kardinalfehler sich unverändert konsequent
 und "erfolgreich" durchsetzen.
 

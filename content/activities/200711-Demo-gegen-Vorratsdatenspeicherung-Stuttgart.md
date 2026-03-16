@@ -20,7 +20,7 @@ und kommt zahlreich! Es geht um
 
 * Freiheit statt Angst
 * "Wer die Freiheit aufgibt, um Sicherheit zu gewinnen, wird am Ende beides verlieren" (Benjamin Franklin)
-* Daten, die erstmal erhoben sind, werden früher oder später nicht mehr bestimmunsgemäß verwendet, sondern auch zu anderen Zwecken. Die Kommunikationsdaten eines Einzelnen geben sehr viel Aufschluß über seine Beziehungen.
+* Daten, die erstmal erhoben sind, werden früher oder später nicht mehr bestimmungsgemäß verwendet, sondern auch zu anderen Zwecken. Die Kommunikationsdaten eines Einzelnen geben sehr viel Aufschluss über seine Beziehungen.
 
-Stammtisch im Anschluß an die Demo, also nicht vor 19:30!
+Stammtisch im Anschluss an die Demo, also nicht vor 19:30!
 

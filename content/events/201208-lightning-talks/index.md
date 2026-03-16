@@ -52,7 +52,7 @@ public: true
 #
 # Ort:            Stadtbibliothek am Mailänder Platz
 #                 Mailänder Platz 1, 70173 Stuttgart
-#                 Max Bense Forum, erstes Untergeschoß
+#                 Max Bense Forum, erstes Untergeschoss
 #                 N48° 47' 25.249" E9° 10' 56.96"
 #
 # Veranstalter:   Chaos Computer Club Stuttgart (http://www.cccs.de/)

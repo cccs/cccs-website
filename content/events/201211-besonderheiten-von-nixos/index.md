@@ -33,7 +33,7 @@ public: true
 #
 # Ort:            Stadtbibliothek am Mailänder Platz
 #                 Mailänder Platz 1, 70173 Stuttgart
-#                 Max Bense Forum, erstes Untergeschoß
+#                 Max Bense Forum, erstes Untergeschoss
 #                 N48° 47' 25.249" E9° 10' 56.96"
 #
 # Veranstalter:   Chaos Computer Club Stuttgart (http://www.cccs.de/)
@@ -43,7 +43,7 @@ public: true
 #
 # Kurzbeschreibung:
 # Eines der Kernbestandteile einer Linux-Distribution ist der Paketmanager: Er
-# sorgt dafür, daß ein gewünschtes Programm samt aller benötigten Abhängigkeiten
+# sorgt dafür, dass ein gewünschtes Programm samt aller benötigten Abhängigkeiten
 # auf einem System installiert - und auf Wunsch auch wieder entfernt, ohne dabei
 # die Funktion anderer installierter Programme zu beeinträchtigen. Moderne
 # Distributionen haben die damit verbundenen Probleme im Griff - zumindest so

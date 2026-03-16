@@ -140,7 +140,7 @@ Blogartikels geändert werden; Leerzeichen werden durch Bindestriche
 ersetzt.
 
 Der Inhalt des Blogartikels steht in der Datei `index.md` (für mit
-Markdown verfaßte Artikel). Zwingend erforderlich sind die
+Markdown verfasste Artikel). Zwingend erforderlich sind die
 Metadaten-Angaben:
 
 * `kind` (muss `article` sein)

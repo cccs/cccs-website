@@ -14,8 +14,8 @@ material:
 ---
 Wie es war:
 ----------
-Mit 31 Teilnehmern fand auch ATTAC, daß der Spaziergang gut besucht war. Bei
-bestem Wetter haben wir unsere fünf Stationen "begangen" und zum Schluß im
+Mit 31 Teilnehmern fand auch ATTAC, dass der Spaziergang gut besucht war. Bei
+bestem Wetter haben wir unsere fünf Stationen "begangen" und zum Schluss im
 Amadeus im Innenhof zu Mittag gegessen bei guten Gesprächen und interessanten
 Leuten. Das Faltblatt mit Infos zu den Stationen findet Ihr unter o.g. URL.
 
@@ -43,7 +43,7 @@ Eckdaten festgehalten
 Die Spaziergänge finden idR. Samstags statt. Man trifft sich am
 Pavillon am Schloßplatz (oder einem anderen geeigneten Ort) und der
 Spaziergang geht von 10-13 Uhr. Danach: gemütlich essen gehen. Bei der
-Auswahl der Standorte bedenken, daß es evtl. regnet und man sich
+Auswahl der Standorte bedenken, dass es evtl. regnet und man sich
 unterstellen können sollte. Auch: nicht zu laute Orte, sonst wird es
 mit den Kurzreferaten (5 Min) schwierig.
 
@@ -62,7 +62,7 @@ Ergebnisse:
 
 Anfang Juni
 
-   Flyertextentwurf muß demnächst stehen, beim Treff am 3.7. wird näheres
+   Flyertextentwurf muss demnächst stehen, beim Treff am 3.7. wird näheres
    besprochen.
 
 Vorschläge zu den Stationen
@@ -101,7 +101,7 @@ Nachteil dieser RFID-Etiketten aus unserer Sicht ist, dass sie immer und mit ein
 <strong>ToDo:</strong> SSB um aktuelle Stellugnahme bitten. Besichtigung im Vorfeld? Fragen s. BAHN. Weitere FRagen: Aufgewahrungszeit der Daten von Schwarzfahrern<br>
 Die (Fern-)Überwachung von Betriebsanlagen per Video hat bei Verkersbetrieben und der Bahn eine lange Tradition. Erste Kamera-Anlagen zur Kontrolle von betrieblichen Knotenpunkten und Bahnübergängen entstanden bereits in den 1950er Jahren. Dienten diese Anlagen zunächst rein betrieblichen Zwecken, wie der Kontrolle von unbesetzten Bahnübergängen, wird seit einigen Jahren immer stärker der Sicherheitsaspekt betont. Die Überwachung von Anlagen und Bauwerken per Kamera wird ausgebaut - auch um örtliches Personal einsparen zu können. Eine neue Qualität hat diese Form der Kontrolle durch den Einbau von Kameras in den Fahrzeugen bekommen, der bei vielen Verkehrsbetrieben mittlerweile zum Standard gehört.<br>
 Stationäre Anlagen werden im Regelfall von Personal in einer Leitstelle oder Sicherheitszentrale (3-S-Zentrale der Bahn) überwacht. Eine Aufzeichnung ist möglich - eine Auskunft darüber, in wieweit dies tatsächlich genutzt wird, war leider nicht zu erhalten. Die Kameras in den Fahrzeugen (bei den SSB laut eigener Aussage in ca. 50% des Fahrzeugparks vorhanden) zeichnen auf ein Speichermedium auf, das je nach Verkehrsbetrieb nach 36 bis 72 Stunden überschrieben wird. Innerhalb dieser Zeitspanne können die Aufnahmen aus den Speichern ausgelesen und dauerhaft gesichert werden. Sie werden auf Anfrage Polizei und Ermittlungsbehören zur Verfügung gestellt.<br>
-Videoüberwachung bei Verkehrsbetrieben ist ein zweischneidiges Schwert. Einerseits ist sie für die sichere Durchführung des Betriebs unverzichtbar und kann bei der Aufklärung von Straftaten im Bereich der Bahnen helfen. Andererseits geift sie in die Privatsphäre der Fahrgäste ein und kann potentiell die Erstellung von Bewegungsprofilen ermöglichen. Zu wünschen wäre, daß der Umfang dieser Form der Überwachung von den Verkehrsbetrieben offener kommuniziert würde.
+Videoüberwachung bei Verkehrsbetrieben ist ein zweischneidiges Schwert. Einerseits ist sie für die sichere Durchführung des Betriebs unverzichtbar und kann bei der Aufklärung von Straftaten im Bereich der Bahnen helfen. Andererseits geift sie in die Privatsphäre der Fahrgäste ein und kann potentiell die Erstellung von Bewegungsprofilen ermöglichen. Zu wünschen wäre, dass der Umfang dieser Form der Überwachung von den Verkehrsbetrieben offener kommuniziert würde.
 <p />
 <p />
 <li> <strong>Rathaus</strong> <br>

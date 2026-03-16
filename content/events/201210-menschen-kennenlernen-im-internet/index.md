@@ -51,7 +51,7 @@ public: true
 # Adresse verraten." haben sicher auch schon einige gehört.
 #
 # Das Einschätzen von Menschen übers Netz ist eine Kunst für sich.
-# Ebenso ist es eine Kunst, so wenig von sich preiszugeben, daß eine
+# Ebenso ist es eine Kunst, so wenig von sich preiszugeben, dass eine
 # Person nicht doch durch geschickte Suche und Social Hacking auffindbar
 # ist.
 #
@@ -72,7 +72,7 @@ werden vielleicht viele von Ihnen sagen.
 Adresse verraten." haben sicher auch schon einige gehört.
 
 Das Einschätzen von Menschen übers Netz ist eine Kunst für sich.
-Ebenso ist es eine Kunst, so wenig von sich preiszugeben, daß eine
+Ebenso ist es eine Kunst, so wenig von sich preiszugeben, dass eine
 Person nicht doch durch geschickte Suche und Social Hacking auffindbar
 ist.
 

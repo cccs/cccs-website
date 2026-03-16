@@ -26,7 +26,7 @@ schöne Athmosphäre und ist technisch auch sehr gut ausgestattet. Mir hat es
 wirklich Spaß gemacht, einmal den "Status Quo" zum Thema Datenschutz in diesem
 unserem Lande darzulegen. In der Zusammenfassung: wir sind inzwischen wirklich
 von Datensammlern umstellt und die meisten Menschen kümmert es nichtmal mehr!
-Dafür gibt es verschiedene Gründe, einer davon ist sicher, daß der
+Dafür gibt es verschiedene Gründe, einer davon ist sicher, dass der
 Überwachungsstaat von nebenan schon so lange weg ist.
 
 Der SWR hat btw. mitgeschnitten.

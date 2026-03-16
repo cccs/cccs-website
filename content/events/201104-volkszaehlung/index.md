@@ -8,7 +8,7 @@ speakers:
     name: Dr. Michael Bubik, Leiter des Statistisches Landesamtes
 location:
   location: oldbib
-  details: Max-Bense-Saal, Erdgeschoß
+  details: Max-Bense-Saal, Erdgeschoss
 public: true
 ---
 Die europaweite Volkszählung startet am 9. Mai 2011.

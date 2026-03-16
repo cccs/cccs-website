@@ -22,6 +22,6 @@ MINT-Beruf ergreifen wollen oder generell auf der Suche nach der
 passenden Ausbildung/Studium sind, aber auch an interessierte Eltern und
 Lehrer.
 
-Wir möchten zeigen, daß es mit ganz unterschiedlichen Biographien
+Wir möchten zeigen, dass es mit ganz unterschiedlichen Biographien
 möglich ist, einen technischen Beruf erfolgreich auszuüben, ob im ersten
 oder zweiten Bildungsweg."

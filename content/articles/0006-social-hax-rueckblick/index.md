@@ -14,7 +14,7 @@ entführte seine Zuhörerschaft in die Gefilde, die ein Rhetoriktrainer
 normalerweise zwar anschneidet, aber in eine andere Richtung nutzt: Wie
 funktioniert soziale Kommunikation und Zusammenleben, wie kann das für
 eine angenehme Gesprächsführung genutzt werden -- oder aber für
-persönliche Zwecke mißbraucht werden.
+persönliche Zwecke missbraucht werden.
 
 Die Erläuterung der „Tribes“ als Modell für unsere gesellschaftliche
 Kommunikation diente als Basis, um einige typische Verhaltensweisen zu
