@@ -19,9 +19,9 @@ Personalausweis, auf Smartphones realisieren. Das Projekt EUID-Wallet
 entwickelt und betreibt seit zwei Jahren Pilotbetriebe und baut auf teilweise
 schon bestehenden Infrastrukturen und Entwicklungen auf.
 
-Der Vortrage soll das Projekt und die geplanten Walletfunktionen aufzeigen und
-nach einem Rückblick auf den heutigen ePerso auf die neuen Vor- Nachteile
-und Gefährdungen eingehen. Die Planungen der EU sind go Live noch in 2026.
+Der Vortrag soll das Projekt und die geplanten Walletfunktionen aufzeigen und
+nach einem Rückblick auf den heutigen ePerso auf die neuen Vor- und Nachteile
+und Gefährdungen eingehen. Die Planungen der EU sind "go Live" noch in 2026.
 
 Für das Verständnis des Vortrags sind Grundkenntnisse in IT und
 Verschlüsselung von Vorteil, aber nicht Voraussetzung.
