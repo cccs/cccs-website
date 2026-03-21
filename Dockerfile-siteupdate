@@ -12,7 +12,7 @@ VOLUME /website-source
 # Compiled website
 VOLUME /website
 
-RUN useradd -M -d /data siteupdate && chown siteupdate:siteupdate /data /website-source /website
+RUN mkdir /data /website-source /website && useradd -M -d /data siteupdate && chown siteupdate:siteupdate /data /website-source /website
 USER siteupdate:siteupdate
 WORKDIR /data
 CMD /usr/local/bin/update-site.sh
