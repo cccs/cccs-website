@@ -33,8 +33,8 @@ git push
 
 # Update site
 rm -rf tmp output
-#bundle exec nanoc || exit 1
-bundle exec nanoc
+bundle exec nanoc || exit 1
+#bundle exec nanoc
 rm -f crash.log
 umask 0002
 bundle exec nanoc deploy -t "$DEPLOY_TARGET"
