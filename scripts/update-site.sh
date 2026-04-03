@@ -17,9 +17,9 @@ fi
 
 # Update Twitter
 cd $WEBSITE_SOURCE/content/_data
-../../scripts/update-twitter.sh
-git add twitter.csv
-git commit -m "Update Twitter"
+../../scripts/update-mastodon.sh
+git add mastodon.json
+git commit -m "Update Mastodon"
 
 # Update blog roll
 cd $WEBSITE_SOURCE/scripts

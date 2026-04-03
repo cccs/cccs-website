@@ -7,3 +7,6 @@ crash.log
 .rvmrc
 /vendor/*
 /mastodon-data.toml
+.DS_Store
+.ruby-version
+Gemfile.lock

@@ -72,7 +72,7 @@ data_sources:
     items_root: /static/
 
   -
-    type: twitter_file
+    type: mastodon_file
 
 # Configuration for the “watch” command, which watches a site for changes and
 # recompiles if necessary.
@@ -97,7 +97,7 @@ base_url: https://www.cccs.de
 author_name: CCCS
 author_email: webmaster@cccs.de
 author_uri: https://www.cccs.de/
-twitter_file: content/_data/twitter.csv
+mastodon_file: content/_data/mastodon.json
 
 data_dir: /data
 

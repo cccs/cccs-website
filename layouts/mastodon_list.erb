@@ -1,0 +1,13 @@
+-----
+filter: erb
+-----
+<ul class="no-bullets"><% @items.each do |item| %>
+  <li>
+    <a href="<%= item[:url] %>"><%= item[:date].strftime('%d.%m., %H:%M') %></a>: 
+    <% if @truncate %>
+      <%= mastodon_shorten(item.raw_content, @truncate) %>
+    <% else %>
+      <%= mastodon_to_html(item.raw_content) %>
+    <% end %>
+  </li>
+<% end %></ul>
