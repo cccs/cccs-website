@@ -7,3 +7,5 @@ crash.log
 .rvmrc
 /vendor/*
 /mastodon-data.toml
+.ruby-version
+.DS_Store
