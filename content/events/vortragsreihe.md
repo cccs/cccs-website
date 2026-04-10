@@ -18,12 +18,12 @@ Der **Eintritt** ist kostenlos; um **Spenden** wird gebeten.
 ## Danksagung
 
 Die Vortragsreihe des CCCS findet seit September 2008 in den Räumen
-der [Stadtbibliothek Stuttgart](http://www1.stuttgart.de/stadtbibliothek/)
+der [Stadtbibliothek Stuttgart](https://stadtbibliothek-stuttgart.de/)
 statt, seit Oktober 2011 in der neuen
-[Bibliothek am Mailänder Platz](http://www1.stuttgart.de/stadtbibliothek/bvs/actions/profile/view.php?id=23).
+[Bibliothek am Mailänder Platz](https://www.stadtbibliothek-stuttgart.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=SOPAC&sp=SWI07000485).
 
 Die Stadtbibliothek bietet uns freundlicherweise auch die Möglichkeit zur
-[Audioaufzeichnung](http://www1.stuttgart.de/stadtbibliothek/druck/audio/cccs/cccs_audio.php),
+[Audioaufzeichnung](https://veranstaltungen-stadtbibliothek-stuttgart.de/?reihe=63),
 wofür wir uns herzlich bedanken.
 
 ## Geschichte
@@ -32,7 +32,7 @@ Anfangs fanden die Vorträge im eher rustikalen Ambiente der
 Wagenhallen im inneren Nordbahnhof statt; nach einem kurzen Gastspiel
 im Umweltzentrum des BUND in der Rotebühlstraße von September bis
 Dezember 2005 konnten wir ab Januar 2006 freundlicherweise in
-Kooperation mit [Wand 5](http://www.wand5.de/) einen Raum des
+Kooperation mit [Wand 5](https://filmwinter.de/) einen Raum des
 Kommunalen Kinos im Filmhaus in der Friedrichstraße nutzen.
 
 Seit September 2008 besteht die Kooperation mit der Stadtbibliothek,

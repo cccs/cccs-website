@@ -1,6 +1,6 @@
 bib:
   name: Bibliothek am Mailänder Platz
-  url: http://www1.stuttgart.de/stadtbibliothek/bvs/actions/profile/view.php?id=23
+  url: https://www.stadtbibliothek-stuttgart.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=SOPAC&sp=SWI07000485
   strasse: Mailänder Platz 1
   plz: 70173
   ort: Stuttgart
@@ -9,7 +9,7 @@ bib:
 bib-cafelesbar:
   name: Bibliothek am Mailänder Platz
   details: 7. Stock, Café LesBar
-  url: http://www1.stuttgart.de/stadtbibliothek/bvs/actions/profile/view.php?id=23
+  url: https://www.stadtbibliothek-stuttgart.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=SOPAC&sp=SWI07000485
   strasse: Mailänder Platz 1
   plz: 70173
   ort: Stuttgart
@@ -23,7 +23,7 @@ senfcall-bbb:
   url: https://lecture.senfcall.de/ste-i8d-yau-pmb
 lichtblick:
   name: Lichtblick
-  url: http://www.lichtblickstuttgart.de/
+  url: https://www.lichtblickstuttgart.de/
   strasse: Reinsburgstraße 13
   plz: 70178
   ort: Stuttgart
@@ -31,7 +31,7 @@ lichtblick:
   lon: 9.16963
 zadu:
   name: Zadu-Bar
-  url: http://www.zadu.de/
+# url: http://www.zadu.de/
   strasse: Reuchlinstr. 4b
   plz: 70178
   ort: Stuttgart
@@ -39,7 +39,7 @@ zadu:
   lon: 9.161022
 shack:
   name: shackspace
-  url: http://www.shackspace.de/
+  url: https://www.shackspace.de/
   strasse: Ulmer Str. 300
   plz: 70327
   ort: Stuttgart
@@ -78,7 +78,7 @@ stadtarchiv:
   strasse: Bellingweg 21
   plz: 70372
   ort: Stuttgart
-  url: http://www.stuttgart.de/stadtarchiv/
+  url: https://www.stuttgart.de/stadtarchiv/
 rote-kapelle:
   name: Rote Kapelle
   url: https://www.rotekapelle.de/
