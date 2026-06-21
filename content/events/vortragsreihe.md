@@ -9,7 +9,7 @@ Datenschutz an, die sich an alle Interessierten mit und ohne
 Vorkenntnisse wendet.
 
 Üblicherweise **jeden zweiten Donnerstag** im Monat sprechen **ab
-19.30 Uhr** (Einlass ab 19.00 Uhr) interne und externe Referenten zu
+19.00 Uhr** (Einlass ab 18.30 Uhr) interne und externe Referenten zu
 ihren jeweiligen Themen; danach besteht bis gegen 22.00 Uhr noch
 die Möglichkeit zur Diskussion im Anschluss an den Vortrag.
 
