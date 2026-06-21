@@ -1,6 +1,6 @@
 ---
 kind: event
-startdate: 2026-08-13T19:00:00Z
+startdate: 2026-09-10T19:00:00Z
 duration: 2h
 title: "Videoüberwachung und KI - Bürgerrechte unter Druck"
 speakers:
