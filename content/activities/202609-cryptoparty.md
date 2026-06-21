@@ -2,11 +2,19 @@
 kind: event
 startdate: 2026-09-05T14:00:00Z
 duration: 3h
-title: "Cryptoparty in der Stadtbibliothek"
+title: "Cryptoparty in der Stadtbibliothek - Start für mehr Sicherheit und Mündigkeit im Netz"
 location:
   location: bib
 public: true
 ---
+**Zu Gast:**
+
+- **Repaircafes mit Linuxunterstützung** 
+- **LUGS (Linux user group Stuttgart)**
+- **Wikipedia**
+
+Start für mehr Sicherheit und Mündigkeit im Netz
+
 Ziel einer Cryptoparty ist es, praktisch zu lernen, wie man sicher
 (er) und möglichst unter Wahrung der Privatsphäre Computer und das
 Internet nutzt.
