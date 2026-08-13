@@ -10,6 +10,13 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien (online)
+    file: https://stefan.leibfarth.org/slides/palantir.stadtbib/
+  -
+    title: Livestream
+    link: https://youtube.com/live/r4DEnEcolYE
 ---
 Im letzten Jahr hat die aktuelle Landesregierung in Baden-Württemberg
 mit einem verschärften Polizeigesetz den Weg für die Nutzung der
