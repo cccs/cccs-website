@@ -13,7 +13,7 @@ public: true
 material:
   -
     title: Folien (online)
-    file: https://stefan.leibfarth.org/slides/palantir.stadtbib/
+    link: https://stefan.leibfarth.org/slides/palantir.stadtbib/
 video: https://youtube.com/live/r4DEnEcolYE
 ---
 Im letzten Jahr hat die aktuelle Landesregierung in Baden-Württemberg
