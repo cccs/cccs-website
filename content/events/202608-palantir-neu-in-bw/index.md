@@ -14,7 +14,7 @@ material:
   -
     title: Folien (online)
     file: https://stefan.leibfarth.org/slides/palantir.stadtbib/
-video: https://youtube.com/live/W7maLeZud0w https://youtube.com/live/r4DEnEcolYE
+video: https://youtube.com/live/r4DEnEcolYE
 ---
 Im letzten Jahr hat die aktuelle Landesregierung in Baden-Württemberg
 mit einem verschärften Polizeigesetz den Weg für die Nutzung der
