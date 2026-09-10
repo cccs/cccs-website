@@ -10,6 +10,11 @@ speakers:
 location:
   location: bib
 public: true
+material:
+  -
+    title: Folien (online)
+    link: https://stefan.leibfarth.org/slides/polg2026.stadtbib/
+video: https://www.youtube.com/live/C0J5PGILkOI
 ---
 Die Landesregierung in Baden-Württemberg plant für die aktuelle
 Legislaturperiode, die Sicherheitsbehörden mit modernen Technologien
