@@ -13,6 +13,7 @@ gem 'feedjira', '~> 2.1.0'
 gem 'ffi', '>= 1.15.5'
 gem 'ri_cal', '~> 0.8.8'
 gem 'rqrcode_png', '~> 0.1.5'
+gem 'rack', '~> 2.2.8'
 
 group :production do
   gem 't', '~> 2.10.0'
