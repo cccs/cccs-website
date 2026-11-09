@@ -2,7 +2,7 @@
 kind: event
 startdate: 2026-11-12T19:00:00Z
 duration: 2h
-title: "Wenn ich mal nicht da bin: Was kann meine bessere Hälfte machen?"
+title: "ABGESAGT - Wenn ich mal nicht da bin: Was kann meine bessere Hälfte machen?"
 speakers:
   -
     name: "Hanno 'Rince' Wagner"
@@ -11,6 +11,8 @@ location:
   location: bib
 public: true
 ---
+ACHTUNG: Die Veranstaltung muss leider krankheitsbedingt abgesagt werden.
+
 Viele Nerds kennen sich aus und haben ihr Homelab. Sie kennen sich da
 perfekt aus. Als inzwischen älterer Nerd habe ich damit auch kein
 Problem - aber wenn ich mal nicht da sein sollte, weiss mein
