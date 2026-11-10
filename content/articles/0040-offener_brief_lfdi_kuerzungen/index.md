@@ -25,7 +25,7 @@ Das Bundesverfassungsgericht (BVerfG) hat auf die Notwendigkeit einer wirksamen 
 Es ist offensichtlich, dass die geplante Kürzung beim LfDI dazu führen wird, dass diese Behörde nicht mehr ihren Aufgaben angemessen gerecht werden kann. Die geplante Kürzung verstößt sowohl
 gegen Europarecht wie auch gegen nationales Verfassungsrecht.
 
-In Europa war es die frühere ungarische Regierung, die versucht hat, die Unabhängigkeit und Wirksamkeit der Datenschutzaufsicht zu beseitigen, was vom Europäischen Gerichtshof gestopptwurde (EuGH 8.4.2014 – C-288/12). Wir wollen nicht, dass sich Baden-Württemberg in dieseunrühmliche Reihe stellt.
+In Europa war es die frühere ungarische Regierung, die versucht hat, die Unabhängigkeit und Wirksamkeit der Datenschutzaufsicht zu beseitigen, was vom Europäischen Gerichtshof gestoppt wurde (EuGH 8.4.2014 – C-288/12). Wir wollen nicht, dass sich Baden-Württemberg in dieseunrühmliche Reihe stellt.
 
 Schon heute müssen wir feststellen, dass die Datenschutzaufsicht in Stuttgart an die Grenzen ihrer Belastbarkeit stößt. Mit der geplanten Kürzung könnte sie dem steigenden Beschwerdeaufkommen im Bereich des Datenschutzes nicht mehr gerecht werden und würde die Menschen hilflos nicht nurstaatlichen Überwachungsmaßnahmen, sondern auch einer informationellen Entrechtung durch Wirtschaftsunternehmen aussetzen. Dies kann nicht im Interesse der Grünen und der CDU sein.
 
