@@ -19,12 +19,6 @@ PDF zum Download.
 
 Hier ist das [Protokoll der Mitgliederversammlung 2017](/about/verein/mv2017/).
 
-## Mitglied werden
-
-Mitglied werden kannst Du durch Ausfüllen des [Mitgliedsantrag-PDFs](Mitgliedsantrag.pdf).
-Momentan erheben wir keinen eigenen Mitgliedsbeitrag, wir finanzieren
-uns durch Spenden und die sogenannte „Erfa-Rückerstattung“.
-
 ## Adresse
 
     CCCS
