@@ -1,125 +1,5 @@
 ---
 events:
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2024-12-18 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-01-15 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Rote Kapelle)
-  startdate: 2025-02-11 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: rote-kapelle
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-02-19 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-03-19 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-04-16 18:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-05-21 18:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-06-18 18:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Rote Kapelle)
-  startdate: 2025-07-01 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: rote-kapelle
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-07-16 18:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Rote Kapelle)
-  startdate: 2025-08-05 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: rote-kapelle
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-08-20 18:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Rote Kapelle)
-  startdate: 2025-09-02 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: rote-kapelle
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-09-17 18:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Rote Kapelle)
-  startdate: 2025-10-07 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: rote-kapelle
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-10-15 18:00:00.000000000 +02:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Rote Kapelle)
-  startdate: 2025-11-04 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: rote-kapelle
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-11-19 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
-- title: CCCS-Stammtisch (Rote Kapelle)
-  startdate: 2025-12-02 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: rote-kapelle
-- title: CCCS-Stammtisch (shackspace)
-  startdate: 2025-12-17 18:00:00.000000000 +01:00
-  duration: 4h
-  url: "/about/stammtisch/"
-  location:
-    location: shack
 - title: CCCS-Stammtisch (Rote Kapelle)
   startdate: 2026-01-06 16:00:00.000000000 +01:00
   duration: 4h
@@ -260,6 +140,150 @@ events:
     location: rote-kapelle
 - title: CCCS-Stammtisch (shackspace)
   startdate: 2026-12-16 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-01-05 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-01-20 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-02-02 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-02-17 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-03-02 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-03-17 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-04-06 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-04-21 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-05-04 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-05-19 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-06-01 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-06-16 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-07-06 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-07-21 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-08-03 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-08-18 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-09-07 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-09-15 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-10-05 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-10-20 18:00:00.000000000 +02:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-11-02 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-11-17 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: shack
+- title: CCCS-Stammtisch (Rote Kapelle)
+  startdate: 2027-12-07 18:00:00.000000000 +01:00
+  duration: 4h
+  url: "/about/stammtisch/"
+  location:
+    location: rote-kapelle
+- title: CCCS-Stammtisch (shackspace)
+  startdate: 2027-12-15 18:00:00.000000000 +01:00
   duration: 4h
   url: "/about/stammtisch/"
   location:
